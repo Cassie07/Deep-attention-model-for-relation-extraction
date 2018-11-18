@@ -10,9 +10,11 @@ att_bilstm.py: Model
 
 data_helpers.py: Data preprocessing
 
-data_preprocess.py: Functions might be used when we load data(open folder and file/ load data)
+data_preprocess.py: Functions might be used when we load data
+                   (open folder and file/ load data)
 
 dataset_function.py: Functions might be used when we load data
+                     (generate a dataset:[[id1,mention1,relation1],[id2,mention2,relation2]...])
 
 train.py: train
 
