@@ -21,3 +21,5 @@ train.py: train
 train_add_tensorboard.py: train + tensorboard
 
 train_test.py: generate training and testinng dataset
+
+train_test_by_product.py: generate training and testinng dataset by different products . 4|1
