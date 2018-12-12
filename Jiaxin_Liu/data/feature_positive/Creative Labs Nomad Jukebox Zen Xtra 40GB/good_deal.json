@@ -1,0 +1,163 @@
+{
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            56
+        ], 
+        "(10, 56)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                1381
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                805
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                2844, 
+                2479, 
+                1541, 
+                2304, 
+                419, 
+                253, 
+                2844, 
+                436, 
+                1644, 
+                1468, 
+                2844, 
+                352, 
+                1541, 
+                2083, 
+                1136, 
+                304, 
+                1378, 
+                1468, 
+                1853, 
+                2916, 
+                715, 
+                295, 
+                985, 
+                2886, 
+                3018, 
+                200, 
+                1743, 
+                2844, 
+                2484, 
+                502, 
+                1313, 
+                2654, 
+                253, 
+                1551, 
+                1369, 
+                1737, 
+                1842, 
+                2139, 
+                130, 
+                2893, 
+                1951, 
+                869
+            ], 
+            "WBL": [
+                2954
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "366990c55e8589617438949b2756f2f4": {
+        "(3, 4)": {
+            "AM2L": [
+                1853
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                805
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "this is a good deal for music and data storage ."
+    }, 
+    "b6ad3734805d45028aacb33df91f1f38": {
+        "(29, 18)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                419
+            ], 
+            "M1": [
+                805
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1752, 
+                994, 
+                2844, 
+                541, 
+                1541, 
+                2746, 
+                253
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2238
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "people also have complained about the case not having a window , but that 's not really a big deal to me either -- the case is sturdy and offer very good protection ."
+    }
+}

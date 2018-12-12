@@ -1,0 +1,156 @@
+{
+    "c6b55dc63ae357379b1ceebd32e4b39a": {
+        "(9, 7)": {
+            "AM2L": [
+                2886
+            ], 
+            "WBFL": [
+                130
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1151
+            ], 
+            "BM1L": [
+                3020
+            ], 
+            "AM2F": [
+                2878
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "so far , we 've only used this player a few time to watch movie and it has worked fine ."
+    }, 
+    "d460f81b43998cfb748cde2be9836aec": {
+        "(3, 18)": {
+            "WBF": [
+                3110
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1179
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2859, 
+                2139, 
+                3094, 
+                1064, 
+                1429, 
+                1083, 
+                1545, 
+                2886, 
+                381, 
+                251, 
+                197
+            ], 
+            "WBL": [
+                961
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            6, 
+            18
+        ], 
+        "(3, 6)": {
+            "WBF": [
+                3110
+            ], 
+            "AM2L": [
+                1064
+            ], 
+            "BM1F": [
+                1179
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2859
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "for the first few week , this player was everything i expected it to be , an affordable multi-format dvd player with a stylish slim case as advertised ."
+    }, 
+    "01718f91df378fcdfc1e18e529d84f5e": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            8
+        ], 
+        "(6, 8)": {
+            "AM2L": [
+                82
+            ], 
+            "WBFL": [
+                961
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this is probably one of the few dvd player at $ 40 that can play almost everything you throw at it ."
+    }
+}

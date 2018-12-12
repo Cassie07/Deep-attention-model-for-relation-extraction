@@ -1,0 +1,43 @@
+{
+    "381645b8c5e4a5a766692ae2bb576665": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            6
+        ], 
+        "(3, 6)": {
+            "WBF": [
+                765
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                2494
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1594
+            ], 
+            "WBL": [
+                1594
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this is my second creative lab mp3 player , and it is definitely a fine product ."
+    }
+}

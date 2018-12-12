@@ -1,0 +1,52 @@
+{
+    "181a7b7896f3a5bc487caf123b3e4a42": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            19
+        ], 
+        "(2, 19)": {
+            "WBF": [
+                534
+            ], 
+            "BM1F": [
+                2897
+            ], 
+            "M1": [
+                2083
+            ], 
+            "M2": [
+                3091
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                1951, 
+                2859, 
+                2139, 
+                253, 
+                2712, 
+                1545, 
+                867, 
+                1468, 
+                2844, 
+                3110, 
+                200, 
+                2844, 
+                1700
+            ], 
+            "WBL": [
+                801
+            ], 
+            "AM2F": [
+                1017
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i took perfect care of this player and still it died in the week after the lousy 90 day warranty ended ."
+    }
+}

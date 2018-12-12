@@ -1,0 +1,228 @@
+{
+    "c8196ec4c983af49734af374c87665fd": {
+        "(11, 35)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                3006
+            ], 
+            "BM1F": [
+                1912
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                3124, 
+                3203, 
+                3018, 
+                2844, 
+                1366, 
+                2852, 
+                1285, 
+                3203, 
+                1468, 
+                2844, 
+                460, 
+                501, 
+                1533, 
+                63, 
+                920, 
+                1468, 
+                130, 
+                1886, 
+                2051, 
+                253
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "AM2F": [
+                1297
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            35
+        ], 
+        "sentence": "on the subject of headphone , this thing seems like a normal mp3 player when you use the headphone they give you in the box , but invest 30 dollar in a nice pair and the sound quality goes up through the roof !"
+    }, 
+    "6907bb010dae76e44e07aab7d20e448a": {
+        "location1": [
+            24
+        ], 
+        "location2": [
+            14
+        ], 
+        "(24, 14)": {
+            "WBF": [
+                2024
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                3088
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                3135
+            ], 
+            "WBO": [
+                283, 
+                233, 
+                266, 
+                3135, 
+                3088, 
+                130
+            ], 
+            "WBL": [
+                372
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "so far i have no complaint and i recommend this to anyone who wants quality over appearance , also anyone who wants a harddrive based mp3 player and wants to pay next to nothing ."
+    }, 
+    "ca72c2fb4eef254b80c4d2051a89c457": {
+        "(6, 4)": {
+            "WBFL": [
+                1951
+            ], 
+            "BM1F": [
+                877
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                140
+            ], 
+            "AM2F": [
+                1156
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "* eax equalizer accentuates dimished quality of mp3 file ."
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "(8, 18)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                2013
+            ], 
+            "WBO": [
+                295, 
+                3052, 
+                1300, 
+                253, 
+                1355, 
+                2844
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            17
+        ], 
+        "(11, 17)": {
+            "WBF": [
+                1566
+            ], 
+            "AM2L": [
+                2851
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1355, 
+                2844
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }
+}

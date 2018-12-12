@@ -1,0 +1,37 @@
+{
+    "66298b329dd1f88dfb52ab210c3cb820": {
+        "(23, 25)": {
+            "AM2L": [
+                3200
+            ], 
+            "WBFL": [
+                2173
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2530
+            ], 
+            "BM1L": [
+                3026
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "i 'm easily enlarging picture to 8 1/2 x 11 with no visable loss in picture quality and not even using the best possible setting as yet ( super fine ) ."
+    }
+}

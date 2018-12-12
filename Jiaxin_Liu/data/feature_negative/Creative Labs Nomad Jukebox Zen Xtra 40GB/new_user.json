@@ -1,0 +1,85 @@
+{
+    "b9c3cfb01eca2d647b08e3a4c809cc68": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            23
+        ], 
+        "(22, 23)": {
+            "AM2L": [
+                2852
+            ], 
+            "BM1F": [
+                2426
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                3023
+            ], 
+            "BM1L": [
+                1570
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2469
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the scroll wheel is finicky ; it work most of the time but there is a learning curve for pressing it just right ; new user say they have 50 % - 75 % success rate ; some find it so frustrating that they just return the device ."
+    }, 
+    "fe401e4c7ad5871abaee9660a3bbdd76": {
+        "(33, 18)": {
+            "WBF": [
+                522
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3023
+            ], 
+            "M2": [
+                1882
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                2380, 
+                2844, 
+                379, 
+                1397, 
+                1382, 
+                507, 
+                1984, 
+                2844, 
+                1642, 
+                253, 
+                2162
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                379
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            33
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "possibly the biggest advantage this player has ( if price was n't enough ) is the fact that the user can replace the battery him / herself by opening the lid and popping in the new battery ."
+    }
+}

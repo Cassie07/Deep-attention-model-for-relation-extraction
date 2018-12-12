@@ -1,0 +1,94 @@
+{
+    "8d1f6697eefabe40a2bed7c33818a32d": {
+        "(1, 10)": {
+            "WBF": [
+                2725
+            ], 
+            "AM2L": [
+                2644
+            ], 
+            "BM1F": [
+                17
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                858
+            ], 
+            "WBO": [
+                1856, 
+                1036, 
+                553, 
+                633, 
+                1468
+            ], 
+            "WBL": [
+                2615
+            ], 
+            "AM2F": [
+                101
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "12 ) big storage - my entire cd collection in one small device ( 5717 song , 491 album and counting ) !"
+    }, 
+    "a92fef16203e6547baf7dd20d024590d": {
+        "(6, 26)": {
+            "WBF": [
+                2149
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                858
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1545, 
+                165, 
+                2240, 
+                2844, 
+                2987, 
+                3115, 
+                2639, 
+                130, 
+                1698, 
+                1951, 
+                540, 
+                541, 
+                1118, 
+                2886, 
+                912, 
+                3158
+            ], 
+            "WBL": [
+                326
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "the included leather pouch is a big plus : it actually protects the unit well , something a lot of ' carrying case ' fail to do with other audio device ."
+    }
+}

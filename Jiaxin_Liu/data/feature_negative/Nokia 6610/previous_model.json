@@ -1,0 +1,37 @@
+{
+    "1dc3740e06e3a4b6aef93300ba191638": {
+        "(13, 14)": {
+            "AM2L": [
+                2097
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2202
+            ], 
+            "M2": [
+                1815
+            ], 
+            "BM1L": [
+                2038
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1899
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "navigating through the menus is super easy , especially if you have owned a previous model nokia phone ."
+    }
+}

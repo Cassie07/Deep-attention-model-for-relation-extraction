@@ -1,0 +1,45 @@
+{
+    "1a0284a937d6f776c0dd445ba87180e1": {
+        "(5, 12)": {
+            "WBF": [
+                2628
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2988
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                62
+            ], 
+            "WBO": [
+                1135, 
+                606, 
+                2886
+            ], 
+            "WBL": [
+                275
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "we 've purchased 3 universal remote so far-all claiming to work `` apex `` dvd player and none worked ."
+    }
+}

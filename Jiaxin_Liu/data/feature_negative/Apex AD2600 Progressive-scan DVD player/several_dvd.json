@@ -1,0 +1,78 @@
+{
+    "be4b7903a9d098dd895e2eb70527204a": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            6
+        ], 
+        "(4, 6)": {
+            "AM2L": [
+                253
+            ], 
+            "WBFL": [
+                869
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                1339
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this has happened with several different dvd 's and occasionally if we keep trying something , it will work when it did not work one time before ."
+    }, 
+    "cb2481936526033884407b90cc7ee91a": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            8
+        ], 
+        "(4, 8)": {
+            "WBF": [
+                356
+            ], 
+            "AM2L": [
+                3026
+            ], 
+            "BM1F": [
+                1718
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                1951
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                1839
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "for instance , i made several back-ups of my dvd movie using dvd-r ( w ) and + r ( w ) and it play the dvds ."
+    }
+}

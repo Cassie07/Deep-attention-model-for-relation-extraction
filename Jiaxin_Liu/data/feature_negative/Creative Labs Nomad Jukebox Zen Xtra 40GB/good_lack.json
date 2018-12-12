@@ -1,0 +1,133 @@
+{
+    "8448fda5701874e7c112eea37250d87a": {
+        "(3, 1)": {
+            "AM2L": [
+                2859
+            ], 
+            "WBFL": [
+                1951
+            ], 
+            "BM1F": [
+                93
+            ], 
+            "M1": [
+                1595
+            ], 
+            "M2": [
+                1300
+            ], 
+            "AM2F": [
+                150
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "5 ) lack of good accessory - this is more of an oversight of creative 's marketing ."
+    }, 
+    "4609198e9495aeb97d0e1704b1f11136": {
+        "(4, 23)": {
+            "WBF": [
+                1691
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1431
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1595
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                2139, 
+                385, 
+                436, 
+                353, 
+                2479, 
+                1441, 
+                3203, 
+                6, 
+                2296, 
+                134, 
+                2844, 
+                2139, 
+                2637, 
+                1355, 
+                665
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(39, 23)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1595
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBO": [
+                130, 
+                3063, 
+                1407, 
+                1212, 
+                2844, 
+                1110, 
+                3124, 
+                2844, 
+                541, 
+                1541, 
+                1967, 
+                501
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                386
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4, 
+            39
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "much cheaper than i-pod good looking player ( beautiful blue back-lit screen ) if you 've read about the player , some have complained about the lack of a viewing hole for the face when the case is on , but this is good because the face does n't get damaged / scratched fast transfer rate"
+    }
+}

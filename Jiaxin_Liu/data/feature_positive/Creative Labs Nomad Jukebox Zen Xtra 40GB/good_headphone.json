@@ -1,0 +1,66 @@
+{
+    "2f0c579001ddf9a71892e54a7ae11a15": {
+        "(6, 7)": {
+            "AM2L": [
+                3115
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1366
+            ], 
+            "BM1L": [
+                1313
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the zen xtra sound great with good headphone and well recored mp3s ."
+    }, 
+    "8a31ba51febce8f3d665f6e34835eb2d": {
+        "location1": [
+            24
+        ], 
+        "location2": [
+            25
+        ], 
+        "(24, 25)": {
+            "BM1F": [
+                1074
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1366
+            ], 
+            "BM1L": [
+                1874
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the free ( i didnt know they still did that ) carrying case is really protective , and to me its the only accessory you need ( except good headphone ) ."
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "8c911f0be96ba4560218d1f4847f02a8": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            15
+        ], 
+        "(1, 15)": {
+            "WBF": [
+                3167
+            ], 
+            "AM2L": [
+                1874
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                530
+            ], 
+            "WBO": [
+                2844, 
+                3210, 
+                1541, 
+                1915, 
+                130, 
+                718, 
+                798, 
+                2725, 
+                858, 
+                1978
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "in other word , the zen is not a convenient data storage device ; only buy the capacity you need for your music collection ( see point 1. for some sizing information ) ."
+    }
+}

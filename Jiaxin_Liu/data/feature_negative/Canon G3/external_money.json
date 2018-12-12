@@ -1,0 +1,89 @@
+{
+    "4a93d8f10f505f7246805579982dd792": {
+        "(26, 29)": {
+            "WBF": [
+                1188
+            ], 
+            "AM2L": [
+                503
+            ], 
+            "BM1F": [
+                2260
+            ], 
+            "M1": [
+                1099
+            ], 
+            "M2": [
+                1822
+            ], 
+            "BM1L": [
+                1394
+            ], 
+            "WBO": [
+                2842
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                522
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(11, 29)": {
+            "WBF": [
+                1188
+            ], 
+            "AM2L": [
+                503
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1099
+            ], 
+            "M2": [
+                1822
+            ], 
+            "BM1L": [
+                2812
+            ], 
+            "WBO": [
+                253, 
+                1222, 
+                1212, 
+                1752, 
+                1429, 
+                231, 
+                2038, 
+                130, 
+                1973, 
+                1951, 
+                2844, 
+                1394, 
+                2260, 
+                1099
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                522
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11, 
+            26
+        ], 
+        "location2": [
+            29
+        ], 
+        "sentence": "fortunately , the g3 has a hot shoe that can take an external flash , and fortunately for me , i already owned a one of the highest quality external flash that money can buy : the metz 60 ct-4 ."
+    }
+}

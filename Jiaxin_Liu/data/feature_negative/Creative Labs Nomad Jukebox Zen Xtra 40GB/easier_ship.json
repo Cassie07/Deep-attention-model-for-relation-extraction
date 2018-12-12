@@ -1,0 +1,48 @@
+{
+    "241e92f11d46769e40d74aa4b77795f6": {
+        "(15, 5)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                2551
+            ], 
+            "M2": [
+                982
+            ], 
+            "BM1L": [
+                2631
+            ], 
+            "WBO": [
+                2844, 
+                1901, 
+                3210, 
+                3194, 
+                738, 
+                1859
+            ], 
+            "WBL": [
+                381
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "the new organizer software that ship with the nomad zen xtra could n't be easier to use ."
+    }
+}

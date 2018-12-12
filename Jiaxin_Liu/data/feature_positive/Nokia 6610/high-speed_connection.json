@@ -1,0 +1,31 @@
+{
+    "dc8970a7ae3535e224c0efcde6cdc284": {
+        "location1": [
+            35
+        ], 
+        "location2": [
+            37
+        ], 
+        "(35, 37)": {
+            "WBFL": [
+                1527
+            ], 
+            "BM1F": [
+                1304
+            ], 
+            "M1": [
+                1391
+            ], 
+            "M2": [
+                691
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the phone also sport an image gallery ( with option camera attachment ) , a calendar / organizer , alarm clock with snooze , fm radio ( way cool , even if it is just through an ear-peice ) , game , java application and gprs high-speed internet connection ."
+    }
+}

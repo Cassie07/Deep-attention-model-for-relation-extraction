@@ -1,0 +1,37 @@
+{
+    "238d0351c8c8c466d81f67763e3871b1": {
+        "(16, 14)": {
+            "AM2L": [
+                1541
+            ], 
+            "WBFL": [
+                2859
+            ], 
+            "BM1F": [
+                828
+            ], 
+            "M1": [
+                283
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "AM2F": [
+                1326
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "in true nokia style , the phone is simple to use and despite its delicate appearance , this little guy is as durable as other nokias i have owned ."
+    }
+}

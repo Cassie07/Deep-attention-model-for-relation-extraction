@@ -1,0 +1,31 @@
+{
+    "a8ca5ff27bcb6526b194c97f24e7c6f2": {
+        "(17, 19)": {
+            "WBFL": [
+                2139
+            ], 
+            "BM1F": [
+                3023
+            ], 
+            "M1": [
+                1239
+            ], 
+            "M2": [
+                1456
+            ], 
+            "BM1L": [
+                3052
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "took me a few try to get use to the navigation , but it 's a very user friendly player imo ."
+    }
+}

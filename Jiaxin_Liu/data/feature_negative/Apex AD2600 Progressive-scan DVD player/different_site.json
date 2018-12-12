@@ -1,0 +1,31 @@
+{
+    "fe7e064c5f0fe9bf989fab990cc0ea99": {
+        "(27, 28)": {
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                2591
+            ], 
+            "BM1L": [
+                3038
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "i bought this apex 2600 dvd player for myself at christmas because it got good review as a good value for the money on a variety of different site ."
+    }
+}

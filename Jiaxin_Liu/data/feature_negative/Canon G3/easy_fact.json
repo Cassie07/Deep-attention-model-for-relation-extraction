@@ -1,0 +1,43 @@
+{
+    "256c84e002437574427a138e66803e5f": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            8
+        ], 
+        "(4, 8)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1112
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3018
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the camera is very easy to use , in fact on a recent trip this past week i was asked to take a picture of a vacationing elderly group ."
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "4eb5f2954876bf5f8cf65bf5ee5d832b": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            18
+        ], 
+        "(15, 18)": {
+            "WBF": [
+                1770
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1602
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                1842
+            ], 
+            "WBL": [
+                1842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "considering the price and specs , this might be the best buy out there for a large memory mp3 player ."
+    }, 
+    "dd00a38d580f6f271c19d5bf9766fffb": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            2
+        ], 
+        "(16, 2)": {
+            "WBF": [
+                3023
+            ], 
+            "AM2L": [
+                2615
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1602
+            ], 
+            "BM1L": [
+                39
+            ], 
+            "WBO": [
+                1522, 
+                2959, 
+                1541, 
+                1532, 
+                2886, 
+                3018, 
+                253, 
+                226, 
+                985, 
+                1865
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "2 ) the player user interface ( ui ) is intuitive to use , and allows easy navigation of a large or small collection ."
+    }
+}

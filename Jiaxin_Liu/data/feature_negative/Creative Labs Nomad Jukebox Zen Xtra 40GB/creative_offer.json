@@ -1,0 +1,37 @@
+{
+    "af4ff3b60fd17fb4f6c20eea30e59606": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                190
+            ], 
+            "BM1F": [
+                2855
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1955
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2637
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "for those of us that like to tinker , i think creative offer some advantage ."
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "62e789092dd8cdbdc780fb92af24cb33": {
+        "(3, 17)": {
+            "WBF": [
+                2878
+            ], 
+            "AM2L": [
+                2852
+            ], 
+            "BM1F": [
+                2932
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                1655
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                2886, 
+                705, 
+                275, 
+                875, 
+                2867, 
+                2846, 
+                1968, 
+                2775, 
+                2591, 
+                253
+            ], 
+            "WBL": [
+                2829
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            17, 
+            29
+        ], 
+        "(3, 29)": {
+            "WBF": [
+                2878
+            ], 
+            "AM2L": [
+                238
+            ], 
+            "BM1F": [
+                2932
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                1655
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                2886, 
+                705, 
+                275, 
+                875, 
+                2867, 
+                2846, 
+                1968, 
+                2775, 
+                2591, 
+                253, 
+                2846, 
+                2829, 
+                1655, 
+                501, 
+                2852, 
+                3163, 
+                1859, 
+                5, 
+                261, 
+                1856, 
+                1005, 
+                253
+            ], 
+            "WBL": [
+                2829
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i have tried several time to contact apex digital through their on-line support site and their telephone line , but they wo n't answer my email and their telephone line is always busy ."
+    }
+}

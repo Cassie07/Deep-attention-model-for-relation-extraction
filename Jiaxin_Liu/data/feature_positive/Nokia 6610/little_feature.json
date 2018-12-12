@@ -1,0 +1,161 @@
+{
+    "58e7e474b8ea3dcf3293853aae627fc1": {
+        "(5, 10)": {
+            "WBF": [
+                2097
+            ], 
+            "AM2L": [
+                384
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1548
+            ], 
+            "WBL": [
+                1886
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "this really is a great little phone ; its got nice feature , a beatiful screen , great ergonomics , and its tiny !"
+    }, 
+    "c803c17bfceefa2bdbade542c896cde8": {
+        "(6, 10)": {
+            "WBF": [
+                2560
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1967
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                836
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "although the nokia 6610 is a little short on the feature department , it is an outstanding piece of hardware for doing what it was primarily meant to do : to be a wireless telephone ."
+    }, 
+    "25b1cc0cda02ef1722164f8b75bb7712": {
+        "(12, 3)": {
+            "WBF": [
+                1468
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                2844, 
+                3023, 
+                1522, 
+                2842, 
+                1429
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1476
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "there are some feature in the user interface that i find a little inconvenient ."
+    }, 
+    "60918d91db20f0758f77fc85122e79da": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            6
+        ], 
+        "(4, 6)": {
+            "AM2L": [
+                1141
+            ], 
+            "WBFL": [
+                787
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "AM2F": [
+                1856
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it has lot of little cute feature , my favorite being the game and the pim ( personal information manager -- i.e . organizer ) , and the radio !"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "8448fda5701874e7c112eea37250d87a": {
+        "(12, 4)": {
+            "WBF": [
+                2859
+            ], 
+            "AM2L": [
+                1739
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                150
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                1541, 
+                1829, 
+                1951, 
+                251
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "5 ) lack of good accessory - this is more of an oversight of creative 's marketing ."
+    }, 
+    "aeaf53d9981fcdae134d914c14c3bf3a": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            19
+        ], 
+        "(7, 19)": {
+            "WBF": [
+                1594
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1417
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                150
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBO": [
+                1998, 
+                2637, 
+                2011, 
+                3047, 
+                3145, 
+                2647, 
+                643, 
+                2016
+            ], 
+            "WBL": [
+                2637
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "overall it is a great unit & hopefully creative lab or some other vendor will soon come out with some accessory for it ."
+    }
+}

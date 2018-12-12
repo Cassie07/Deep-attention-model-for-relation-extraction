@@ -1,0 +1,75 @@
+{
+    "fe535202f32e00ddf80d23a8b9e925a4": {
+        "(1, 6)": {
+            "WBF": [
+                2578
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2260
+            ], 
+            "WBO": [
+                666
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "my only significant complaint is sound quality ."
+    }, 
+    "f57610696a8c7bcfd48e157cbef09feb": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            9
+        ], 
+        "(1, 9)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2260
+            ], 
+            "WBO": [
+                1429, 
+                2, 
+                678, 
+                134
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1688
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the only thing i 'm concerned about is the quality / longevity of the button on the thing ."
+    }
+}

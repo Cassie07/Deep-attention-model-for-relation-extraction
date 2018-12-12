@@ -1,0 +1,130 @@
+{
+    "da46710dc8d7f047b7d2852a70779dbb": {
+        "(11, 1)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                1682
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1829
+            ], 
+            "WBO": [
+                130, 
+                724, 
+                2714, 
+                2112, 
+                1143, 
+                2886
+            ], 
+            "WBL": [
+                2016
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this camera has a cool stitch picture feature , to find out more just log on to canon 's website ."
+    }, 
+    "34400085cb3b7c1e079b9e19bd044b91": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            5
+        ], 
+        "(13, 5)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                1328
+            ], 
+            "WBO": [
+                2952, 
+                1827, 
+                253, 
+                1429
+            ], 
+            "WBL": [
+                1055
+            ], 
+            "AM2F": [
+                2143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i 've now had the camera for two month and i 'm even more pleased with it ."
+    }, 
+    "20213c2657b8735b886c7d729880f2ad": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            17
+        ], 
+        "(22, 17)": {
+            "WBF": [
+                2149
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                1441
+            ], 
+            "WBL": [
+                3085
+            ], 
+            "AM2F": [
+                2182
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "although canon 's battery are proprietary , they last a really long time , recharge fairly quickly in the camera , plus if you want ' more power ' , you can even find a knockoff charger and spare battery right here on amazon ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "ec45f347a448e896c123cf2716a5bcba": {
+        "(11, 9)": {
+            "AM2L": [
+                3018
+            ], 
+            "WBFL": [
+                253
+            ], 
+            "BM1F": [
+                1159
+            ], 
+            "M1": [
+                2802
+            ], 
+            "M2": [
+                982
+            ], 
+            "BM1L": [
+                415
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "compared to musicmatch , the software has a better filing system and easier to use ."
+    }
+}

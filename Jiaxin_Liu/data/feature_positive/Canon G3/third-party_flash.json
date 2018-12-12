@@ -1,0 +1,74 @@
+{
+    "865f5ce19fc754d56e712de777b1bcae": {
+        "(17, 18)": {
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                2858
+            ], 
+            "M2": [
+                1188
+            ], 
+            "BM1L": [
+                2494
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(17, 26)": {
+            "WBF": [
+                1188
+            ], 
+            "AM2L": [
+                525
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                2858
+            ], 
+            "M2": [
+                1188
+            ], 
+            "BM1L": [
+                2494
+            ], 
+            "WBO": [
+                1570, 
+                304, 
+                1545, 
+                917, 
+                3158
+            ], 
+            "WBL": [
+                813
+            ], 
+            "AM2F": [
+                1241
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            18, 
+            26
+        ], 
+        "sentence": "contrary to what ive read elsewhere , the g3 does sync at 1/250 of a second with third-party flash , just as it does with the dedicated flash from canon ."
+    }
+}

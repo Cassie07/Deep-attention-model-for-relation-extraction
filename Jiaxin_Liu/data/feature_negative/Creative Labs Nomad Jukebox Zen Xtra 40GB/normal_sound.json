@@ -1,0 +1,143 @@
+{
+    "c8196ec4c983af49734af374c87665fd": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            34
+        ], 
+        "(10, 34)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                1297
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1912
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1648
+            ], 
+            "WBO": [
+                2139, 
+                3124, 
+                3203, 
+                3018, 
+                2844, 
+                1366, 
+                2852, 
+                1285, 
+                3203, 
+                1468, 
+                2844, 
+                460, 
+                501, 
+                1533, 
+                63, 
+                920, 
+                1468, 
+                130, 
+                1886, 
+                2051
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "on the subject of headphone , this thing seems like a normal mp3 player when you use the headphone they give you in the box , but invest 30 dollar in a nice pair and the sound quality goes up through the roof !"
+    }, 
+    "9f2d19f4f15b79be42e96d4df6d23921": {
+        "(18, 0)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1912
+            ], 
+            "WBO": [
+                3094, 
+                2844, 
+                2457, 
+                416, 
+                2844, 
+                2952, 
+                501, 
+                2844, 
+                3210, 
+                863, 
+                1355, 
+                1829, 
+                2654, 
+                185
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                988
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            0, 
+            14
+        ], 
+        "(18, 14)": {
+            "WBF": [
+                185
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "BM1F": [
+                1829
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1912
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                988
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "sound quality was the same between the two , but the zen did have more sound adjustment with the normal eax feature ."
+    }
+}

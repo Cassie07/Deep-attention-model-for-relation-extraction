@@ -1,0 +1,53 @@
+{
+    "913332dbee7c09d79b4e2d89d50983e3": {
+        "(22, 7)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                2802
+            ], 
+            "BM1F": [
+                1941
+            ], 
+            "M1": [
+                816
+            ], 
+            "M2": [
+                1490
+            ], 
+            "BM1L": [
+                1998
+            ], 
+            "WBO": [
+                3181, 
+                1355, 
+                143, 
+                130, 
+                2383, 
+                501, 
+                2859, 
+                1541, 
+                614, 
+                1241, 
+                130
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                1987
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "had there been strange noise , or obvious defect , i would have accepted a replacement , but this is clearly from a defective and inferior operating system and i for one do not intend on waiting for patch ."
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "7c980ce6e3db331419916b5538ddd428": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            2, 
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                381
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                502
+            ], 
+            "BM1L": [
+                2257
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3181
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(10, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                2484
+            ], 
+            "M1": [
+                502
+            ], 
+            "M2": [
+                1886
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2651, 
+                1951, 
+                259, 
+                2886
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                502
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the scroll button is sort of annoying to push - a nice button would be nicer but eh , not a big deal ."
+    }, 
+    "0a6d08e7c3843ce6c1cd49c684cfb9e0": {
+        "(7, 1)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2484
+            ], 
+            "M1": [
+                502
+            ], 
+            "M2": [
+                1886
+            ], 
+            "WBO": [
+                2484, 
+                3123
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1436
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(7, 15)": {
+            "WBF": [
+                1436
+            ], 
+            "AM2L": [
+                2641
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                502
+            ], 
+            "BM1L": [
+                3094
+            ], 
+            "WBO": [
+                2886, 
+                1576, 
+                1634, 
+                628
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3181
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            1, 
+            15
+        ], 
+        "sentence": "scroll button - the scroll wheel was a nice idea to keep less clutter , but the button would sometimes get stuck or keep scrolling ."
+    }, 
+    "6bff76f5401264648b027c7bc10b42de": {
+        "(15, 2)": {
+            "WBF": [
+                1870
+            ], 
+            "AM2L": [
+                3124
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                502
+            ], 
+            "M2": [
+                1886
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBO": [
+                1651, 
+                1261, 
+                295, 
+                1967, 
+                2844, 
+                2573, 
+                1951, 
+                2844, 
+                2139
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "all the button & neccessary lil ' gadget are on the side of the player which is nice for when you are holding it in the palm of your hand ."
+    }
+}

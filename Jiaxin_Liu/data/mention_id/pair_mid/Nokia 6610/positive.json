@@ -1,0 +1,747 @@
+{
+    "t-mobile_server": [
+        "bad709d57055304005f6f24f865dccd3.(0, 5).Nokia"
+    ], 
+    "useful_application": [
+        "6678ea63baf21e42ca34ff9c60e47c7c.(27, 24).Nokia", 
+        "bc2579b51229368645d63774f91960e1.(14, 15).Nokia"
+    ], 
+    "additional_game": [
+        "c16c5d2303fcab3823fe913b6b4cef82.(18, 0).Nokia", 
+        "c16c5d2303fcab3823fe913b6b4cef82.(18, 19).Nokia"
+    ], 
+    "first_phone": [
+        "b89efe0de0fd797ce86e413b78bcc046.(1, 6).Nokia", 
+        "6fe554bb692034563c238b99119b81ec.(3, 5).Nokia", 
+        "2444c9bfc1b6cb142560eb1ebb714654.(7, 4).Nokia"
+    ], 
+    "flip_phone": [
+        "311ef14e9030cb4c54bc34ae0487a489.(29, 30).Nokia", 
+        "311ef14e9030cb4c54bc34ae0487a489.(29, 12).Nokia", 
+        "437957753d095bc51aec7470946afeac.(16, 7).Nokia"
+    ], 
+    "great_sound": [
+        "c580e8b16d0f0c69d6f4a6852f64e367.(3, 4).Nokia", 
+        "c580e8b16d0f0c69d6f4a6852f64e367.(0, 4).Nokia", 
+        "6f9adbe48884c146062517217a8d680d.(6, 3).Nokia"
+    ], 
+    "american_phone": [
+        "44319df7de849e736c4e09bf62fef41e.(17, 10).Nokia", 
+        "44319df7de849e736c4e09bf62fef41e.(17, 18).Nokia"
+    ], 
+    "perfect_phone": [
+        "947e4a7f76574c8d9e61e6f0a4bf403d.(3, 4).Nokia", 
+        "13e3ad521538757c809d312f2b720148.(5, 21).Nokia", 
+        "4e3e16c7d6dc2759d671c13215fece25.(33, 4).Nokia", 
+        "437957753d095bc51aec7470946afeac.(6, 7).Nokia"
+    ], 
+    "few_phone": [
+        "c67d6bcd1ecc6effe34a9f8354eddaa0.(23, 31).Nokia", 
+        "c67d6bcd1ecc6effe34a9f8354eddaa0.(4, 1).Nokia", 
+        "c67d6bcd1ecc6effe34a9f8354eddaa0.(4, 31).Nokia", 
+        "c67d6bcd1ecc6effe34a9f8354eddaa0.(23, 1).Nokia", 
+        "8920ebaa803b842f68dc03f411e539ae.(6, 1).Nokia", 
+        "8920ebaa803b842f68dc03f411e539ae.(6, 7).Nokia", 
+        "fdd4d278af1bf0a366d02bf985906571.(31, 6).Nokia", 
+        "fdd4d278af1bf0a366d02bf985906571.(23, 6).Nokia"
+    ], 
+    "previous_nokia": [
+        "1dc3740e06e3a4b6aef93300ba191638.(13, 15).Nokia", 
+        "ef6ad218bc4eef8f153f8382e40b1d89.(9, 10).Nokia"
+    ], 
+    "few_inconvenience": [
+        "c67d6bcd1ecc6effe34a9f8354eddaa0.(23, 6).Nokia", 
+        "c67d6bcd1ecc6effe34a9f8354eddaa0.(4, 6).Nokia"
+    ], 
+    "superb_sound": [
+        "f5cbb3d03ebbfc0942b32ad9a8187168.(4, 5).Nokia"
+    ], 
+    "light_phone": [
+        "b89efe0de0fd797ce86e413b78bcc046.(35, 6).Nokia", 
+        "0774bbf5a1f65c236eec818161d3b56d.(4, 5).Nokia", 
+        "8ee54a07a100d3ae716ff48a9b13ef2a.(4, 1).Nokia", 
+        "068bd7c0f0afc39243b4899bb1fe99a4.(16, 11).Nokia", 
+        "86fbc0120dc9e7b25d672355dc9d3046.(20, 4).Nokia", 
+        "105924e46523168dd9a09a96a05d6a46.(3, 2).Nokia", 
+        "82e64d953b29aae10303bde70a8ad379.(4, 1).Nokia"
+    ], 
+    "minor_inconvenience": [
+        "c67d6bcd1ecc6effe34a9f8354eddaa0.(5, 6).Nokia"
+    ], 
+    "such_package": [
+        "947e4a7f76574c8d9e61e6f0a4bf403d.(6, 11).Nokia"
+    ], 
+    "good_chance": [
+        "44319df7de849e736c4e09bf62fef41e.(6, 7).Nokia"
+    ], 
+    "full_reception": [
+        "a892ae4eda5b2b52e80f56aebc1e502c.(9, 11).Nokia"
+    ], 
+    "downloadable_apps": [
+        "bc412b771cb33944aaf00912480e5a71.(23, 25).Nokia"
+    ], 
+    "overall_phone": [
+        "47e3873452377bfeaeb451bfad9ba553.(0, 8).Nokia", 
+        "28fd6ff95028de4d9ea392d1a09a45ff.(0, 5).Nokia", 
+        "962d0a03e1daebad970b1586234fc351.(0, 3).Nokia", 
+        "17f6d670f0087e4bd79ea3d9763fd40b.(0, 5).Nokia", 
+        "d59318453bccd6b57857e2fa7b73f426.(5, 4).Nokia", 
+        "0a672f3d94178693fef4a061788aba10.(0, 6).Nokia"
+    ], 
+    "good_sound": [
+        "e8e469c6ce127a2b8e862966b0c3685e.(8, 9).Nokia", 
+        "744f525296a4d9c08aa0fe2e19b27dba.(4, 5).Nokia", 
+        "867e0d28796d18caa886b83e1e446570.(9, 10).Nokia"
+    ], 
+    "extra_feature": [
+        "c63b814a0a679b601fcf858056f31723.(7, 8).Nokia"
+    ], 
+    "different_network": [
+        "4c97fb16f6c98310c527b30aa33a2434.(36, 37).Nokia"
+    ], 
+    "special_people": [
+        "3f4a8a9f30c37af03527a36fda76d179.(9, 10).Nokia", 
+        "3f4a8a9f30c37af03527a36fda76d179.(4, 10).Nokia"
+    ], 
+    "other_nokias": [
+        "238d0351c8c8c466d81f67763e3871b1.(22, 23).Nokia"
+    ], 
+    "previous_phone": [
+        "1dc3740e06e3a4b6aef93300ba191638.(13, 16).Nokia", 
+        "ef6ad218bc4eef8f153f8382e40b1d89.(9, 17).Nokia", 
+        "ef6ad218bc4eef8f153f8382e40b1d89.(9, 21).Nokia", 
+        "38ea99941efb67acbdadb452537a05bc.(10, 11).Nokia"
+    ], 
+    "decent_size": [
+        "7aba4051c00fd6801f9538e897377aed.(4, 5).Nokia"
+    ], 
+    "decent_background": [
+        "cb73b87bc53d6be47ba62c64c5eefff1.(7, 8).Nokia"
+    ], 
+    "first_night": [
+        "b89efe0de0fd797ce86e413b78bcc046.(1, 2).Nokia"
+    ], 
+    "high-pitched_sound": [
+        "00f4f2006de708c2e8e1b5f70f053974.(5, 7).Nokia"
+    ], 
+    "sound_feature": [
+        "d36bdc5dfa57c2ffcd3b26042b66d2e6.(0, 20).Nokia", 
+        "f5cbb3d03ebbfc0942b32ad9a8187168.(5, 2).Nokia", 
+        "867e0d28796d18caa886b83e1e446570.(10, 7).Nokia"
+    ], 
+    "polyphonic_tune": [
+        "285382587275bb6699276d5b9ea9c3ab.(8, 10).Nokia"
+    ], 
+    "favorite_feature": [
+        "1e497d003ead8f158733c4abb51c307b.(1, 2).Nokia", 
+        "60918d91db20f0758f77fc85122e79da.(8, 6).Nokia"
+    ], 
+    "good_feature": [
+        "2d9f1d8d7f3c3a79a868f38dccd16782.(3, 9).Nokia", 
+        "867e0d28796d18caa886b83e1e446570.(9, 7).Nokia"
+    ], 
+    "traditional_arrangement": [
+        "42f9a3d24c13151b0c3eee5b5a85dd48.(5, 7).Nokia"
+    ], 
+    "sound_reception": [
+        "c08ffc6c0204ff4421d6802f9f85c134.(3, 1).Nokia"
+    ], 
+    "high_quality": [
+        "9b759b22613ccb3d5a5909c5cd771409.(16, 17).Nokia"
+    ], 
+    "polyphonic_tone": [
+        "d36bdc5dfa57c2ffcd3b26042b66d2e6.(2, 4).Nokia"
+    ], 
+    "nice_color": [
+        "d43fd9028c14d0fc8fcaa77456271140.(3, 4).Nokia", 
+        "eeeacba322957f4c880a66e6ed2a23f0.(11, 12).Nokia"
+    ], 
+    "annoying_phone": [
+        "311ef14e9030cb4c54bc34ae0487a489.(28, 12).Nokia", 
+        "311ef14e9030cb4c54bc34ae0487a489.(28, 30).Nokia"
+    ], 
+    "pitched_ring": [
+        "8b15359b7863064bb6750c1a814f9531.(4, 5).Nokia"
+    ], 
+    "favorite_phone": [
+        "0a672f3d94178693fef4a061788aba10.(5, 6).Nokia", 
+        "b89efe0de0fd797ce86e413b78bcc046.(23, 6).Nokia", 
+        "1e497d003ead8f158733c4abb51c307b.(1, 10).Nokia"
+    ], 
+    "new_nokia": [
+        "c942e7617c5617c46364266d80a29f69.(6, 1).Nokia"
+    ], 
+    "many_feature": [
+        "1e497d003ead8f158733c4abb51c307b.(6, 2).Nokia", 
+        "8b06ee9536157bdc30f89af9097efd4e.(3, 12).Nokia", 
+        "8b06ee9536157bdc30f89af9097efd4e.(3, 5).Nokia"
+    ], 
+    "good_csr": [
+        "464ae5e381f94d45fed8ae02ad5e7495.(16, 11).Nokia", 
+        "1f9933726e41699013c87cc15f21a066.(11, 12).Nokia"
+    ], 
+    "unconventional_shape": [
+        "42f9a3d24c13151b0c3eee5b5a85dd48.(21, 22).Nokia"
+    ], 
+    "free-after-rebates_phone": [
+        "5f86510c019b5a8471a682edff4d3332.(5, 6).Nokia"
+    ], 
+    "more_stuff": [
+        "7d7d4d07552660b8043027100c94a48d.(7, 5).Nokia", 
+        "7d7d4d07552660b8043027100c94a48d.(3, 5).Nokia"
+    ], 
+    "many_phone": [
+        "1e497d003ead8f158733c4abb51c307b.(6, 10).Nokia", 
+        "21250d9726c5df5ab8b704a872ef5d69.(5, 20).Nokia", 
+        "cb424d3ece8282ce9d98ff9e19d23c6c.(12, 7).Nokia", 
+        "8b06ee9536157bdc30f89af9097efd4e.(3, 1).Nokia", 
+        "cb73b87bc53d6be47ba62c64c5eefff1.(31, 1).Nokia", 
+        "cb73b87bc53d6be47ba62c64c5eefff1.(31, 12).Nokia", 
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(18, 19).Nokia"
+    ], 
+    "many_reason": [
+        "21250d9726c5df5ab8b704a872ef5d69.(5, 6).Nokia"
+    ], 
+    "downloadable_megatones": [
+        "e52d5fd102dc709b3e64330ff8edc1b0.(16, 18).Nokia"
+    ], 
+    "excellent_network": [
+        "bda6c10fbfa269bc9c256d0a04ea7069.(5, 6).Nokia"
+    ], 
+    "okay_ringtones": [
+        "cb73b87bc53d6be47ba62c64c5eefff1.(4, 5).Nokia"
+    ], 
+    "slick_phone": [
+        "3cfd003cfecd282858702db176f2d30e.(3, 4).Nokia"
+    ], 
+    "sleek_headset": [
+        "9d0740971a20ab06bf942f4cdc6c18bf.(6, 9).Nokia"
+    ], 
+    "comaptible_phone": [
+        "fcf866589e0cd5066cdb86f7e386fe2e.(26, 6).Nokia", 
+        "fcf866589e0cd5066cdb86f7e386fe2e.(26, 27).Nokia"
+    ], 
+    "typical_phone": [
+        "44319df7de849e736c4e09bf62fef41e.(16, 10).Nokia", 
+        "44319df7de849e736c4e09bf62fef41e.(16, 18).Nokia"
+    ], 
+    "easy_network": [
+        "bda6c10fbfa269bc9c256d0a04ea7069.(2, 6).Nokia"
+    ], 
+    "great_life": [
+        "d0d621d83a44b4ab35ea2f818978ec04.(0, 2).Nokia", 
+        "bc412b771cb33944aaf00912480e5a71.(2, 4).Nokia"
+    ], 
+    "superb_quality": [
+        "f5cbb3d03ebbfc0942b32ad9a8187168.(4, 6).Nokia"
+    ], 
+    "high_ringtones": [
+        "9b759b22613ccb3d5a5909c5cd771409.(16, 14).Nokia"
+    ], 
+    "poly-graphic_megatones": [
+        "e52d5fd102dc709b3e64330ff8edc1b0.(17, 18).Nokia"
+    ], 
+    "nice_picture": [
+        "b7fe89c7512fb83bb17ebeaa6b53d631.(3, 5).Nokia"
+    ], 
+    "excellent_signal": [
+        "bc412b771cb33944aaf00912480e5a71.(7, 8).Nokia"
+    ], 
+    "many_lack": [
+        "cb424d3ece8282ce9d98ff9e19d23c6c.(12, 11).Nokia"
+    ], 
+    "powerful_headset": [
+        "9d0740971a20ab06bf942f4cdc6c18bf.(8, 9).Nokia"
+    ], 
+    "excellent_phone": [
+        "b8c4180a9c3121e6ea19a6b4eeabba04.(0, 1).Nokia", 
+        "b8c4180a9c3121e6ea19a6b4eeabba04.(0, 3).Nokia", 
+        "bda6c10fbfa269bc9c256d0a04ea7069.(5, 1).Nokia", 
+        "7f5b26b2865cc958e9fec839306cd9cf.(10, 1).Nokia", 
+        "64fb66cc374fec3973bcd3984f004f56.(6, 24).Nokia", 
+        "867e0d28796d18caa886b83e1e446570.(14, 4).Nokia", 
+        "867e0d28796d18caa886b83e1e446570.(14, 16).Nokia", 
+        "962d0a03e1daebad970b1586234fc351.(2, 3).Nokia", 
+        "b1faecc5dd56946295f5940b7205af66.(2, 10).Nokia"
+    ], 
+    "special_ring": [
+        "3f4a8a9f30c37af03527a36fda76d179.(4, 5).Nokia", 
+        "3f4a8a9f30c37af03527a36fda76d179.(9, 5).Nokia"
+    ], 
+    "cute_feature": [
+        "60918d91db20f0758f77fc85122e79da.(5, 6).Nokia"
+    ], 
+    "appealing_package": [
+        "947e4a7f76574c8d9e61e6f0a4bf403d.(10, 11).Nokia"
+    ], 
+    "little_memory": [
+        "cb73b87bc53d6be47ba62c64c5eefff1.(15, 16).Nokia"
+    ], 
+    "key_phone": [
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(5, 19).Nokia", 
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(22, 19).Nokia", 
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(9, 19).Nokia"
+    ], 
+    "clear_line": [
+        "0bd4b7ea23395053267cfdb384e926bd.(27, 28).Nokia"
+    ], 
+    "polyphonic_ringtones": [
+        "66c96d417bca7af0fbf9a1d25d7bf577.(9, 10).Nokia", 
+        "8ea22abcafee5d8784ac48d7824ecab7.(11, 1).Nokia"
+    ], 
+    "bright_screen": [
+        "2fcb297b562e0085ac2b38a1e5132982.(3, 1).Nokia", 
+        "5f86510c019b5a8471a682edff4d3332.(8, 2).Nokia", 
+        "eeeacba322957f4c880a66e6ed2a23f0.(3, 1).Nokia", 
+        "d2fa4332430086507ce16ebe69abca1e.(0, 2).Nokia"
+    ], 
+    "caller-id_picture": [
+        "79fdc99cd2e5ba077ab8625e5ec1d969.(3, 4).Nokia"
+    ], 
+    "visible_screen": [
+        "d2fa4332430086507ce16ebe69abca1e.(1, 2).Nokia"
+    ], 
+    "great_nokia": [
+        "c942e7617c5617c46364266d80a29f69.(11, 1).Nokia", 
+        "bab7c888a49b92e4221b1c4a319f20de.(3, 0).Nokia"
+    ], 
+    "small_tad": [
+        "f18154e30404fb3775505cae4d99fcb0.(5, 4).Nokia"
+    ], 
+    "biggest_thing": [
+        "64fb66cc374fec3973bcd3984f004f56.(2, 3).Nokia"
+    ], 
+    "ultimate_phone": [
+        "fcf866589e0cd5066cdb86f7e386fe2e.(5, 6).Nokia", 
+        "fcf866589e0cd5066cdb86f7e386fe2e.(5, 27).Nokia"
+    ], 
+    "favorite_station": [
+        "b89efe0de0fd797ce86e413b78bcc046.(23, 25).Nokia"
+    ], 
+    "superb_nokia": [
+        "64fb66cc374fec3973bcd3984f004f56.(15, 17).Nokia", 
+        "64fb66cc374fec3973bcd3984f004f56.(15, 11).Nokia", 
+        "2788e7b6f62d9a35ddbc41822916180e.(5, 9).Nokia"
+    ], 
+    "nice_radio": [
+        "d36bdc5dfa57c2ffcd3b26042b66d2e6.(7, 15).Nokia", 
+        "d36bdc5dfa57c2ffcd3b26042b66d2e6.(19, 15).Nokia"
+    ], 
+    "subtle_tone": [
+        "147682229af074d2520a07e45499562b.(2, 3).Nokia"
+    ], 
+    "good_t-mobile": [
+        "464ae5e381f94d45fed8ae02ad5e7495.(16, 18).Nokia", 
+        "5f632c925abff8ea973237469d07a2aa.(24, 18).Nokia", 
+        "5f632c925abff8ea973237469d07a2aa.(5, 18).Nokia", 
+        "d1de0c348ee15ec5bcf5d444ff8a78d8.(6, 3).Nokia", 
+        "1f9933726e41699013c87cc15f21a066.(11, 0).Nokia", 
+        "bad709d57055304005f6f24f865dccd3.(4, 0).Nokia"
+    ], 
+    "positive_feature": [
+        "867e0d28796d18caa886b83e1e446570.(6, 7).Nokia"
+    ], 
+    "loud_speakerphone": [
+        "c63b814a0a679b601fcf858056f31723.(1, 0).Nokia"
+    ], 
+    "decent_keypad": [
+        "7aba4051c00fd6801f9538e897377aed.(4, 1).Nokia"
+    ], 
+    "distorted_sound": [
+        "00f4f2006de708c2e8e1b5f70f053974.(6, 7).Nokia"
+    ], 
+    "sweet_tune": [
+        "285382587275bb6699276d5b9ea9c3ab.(9, 10).Nokia"
+    ], 
+    "more_page": [
+        "5741b29bc5d1f08561ddf80eaccd827d.(14, 16).Nokia"
+    ], 
+    "high-speed_connection": [
+        "dc8970a7ae3535e224c0efcde6cdc284.(35, 37).Nokia"
+    ], 
+    "nice_feature": [
+        "58e7e474b8ea3dcf3293853aae627fc1.(9, 10).Nokia", 
+        "d36bdc5dfa57c2ffcd3b26042b66d2e6.(19, 20).Nokia", 
+        "d36bdc5dfa57c2ffcd3b26042b66d2e6.(7, 20).Nokia", 
+        "c63b814a0a679b601fcf858056f31723.(6, 8).Nokia"
+    ], 
+    "good_resolution": [
+        "f1215750c4fec903ffd2520c9d49c960.(4, 1).Nokia", 
+        "29ed127ae5b09fb6a770cea2c209ccf6.(9, 10).Nokia"
+    ], 
+    "good_radio": [
+        "c9d0d998766ff632aa6c28c85f4926f0.(10, 1).Nokia", 
+        "c9d0d998766ff632aa6c28c85f4926f0.(10, 28).Nokia", 
+        "c9d0d998766ff632aa6c28c85f4926f0.(10, 14).Nokia"
+    ], 
+    "individualized_ringtones": [
+        "79fdc99cd2e5ba077ab8625e5ec1d969.(6, 7).Nokia"
+    ], 
+    "other_nicities": [
+        "7c8f3f41daa8a96742203572b5b47386.(8, 9).Nokia"
+    ], 
+    "small_package": [
+        "947e4a7f76574c8d9e61e6f0a4bf403d.(8, 11).Nokia"
+    ], 
+    "excellent_hearing": [
+        "b1faecc5dd56946295f5940b7205af66.(2, 3).Nokia"
+    ], 
+    "small_size": [
+        "7aba4051c00fd6801f9538e897377aed.(12, 5).Nokia", 
+        "fe5fec6558b2e30fcb5d27fdc47570d2.(2, 0).Nokia", 
+        "2ba94a2d6897c0dc29eaf3f1c90562af.(14, 15).Nokia", 
+        "13e3ad521538757c809d312f2b720148.(9, 6).Nokia", 
+        "89e17bc3dd3643eef452c0b526b1397b.(0, 1).Nokia"
+    ], 
+    "great_screen": [
+        "58e7e474b8ea3dcf3293853aae627fc1.(14, 13).Nokia", 
+        "58e7e474b8ea3dcf3293853aae627fc1.(4, 13).Nokia", 
+        "c580e8b16d0f0c69d6f4a6852f64e367.(0, 1).Nokia", 
+        "c580e8b16d0f0c69d6f4a6852f64e367.(3, 1).Nokia"
+    ], 
+    "small_fingertip": [
+        "0fd1a39fbd9bf7572e59b5af4057aeba.(6, 11).Nokia", 
+        "0fd1a39fbd9bf7572e59b5af4057aeba.(10, 11).Nokia"
+    ], 
+    "first_thing": [
+        "2444c9bfc1b6cb142560eb1ebb714654.(7, 8).Nokia"
+    ], 
+    "other_review": [
+        "0640603a2170d71444627f4f433fd0bd.(8, 9).Nokia"
+    ], 
+    "nifty_phone": [
+        "e52d5fd102dc709b3e64330ff8edc1b0.(26, 27).Nokia"
+    ], 
+    "favorite_game": [
+        "60918d91db20f0758f77fc85122e79da.(8, 11).Nokia"
+    ], 
+    "favorite_function": [
+        "bc412b771cb33944aaf00912480e5a71.(20, 21).Nokia"
+    ], 
+    "nice_phone": [
+        "58e7e474b8ea3dcf3293853aae627fc1.(9, 6).Nokia", 
+        "b7fe89c7512fb83bb17ebeaa6b53d631.(3, 9).Nokia", 
+        "105924e46523168dd9a09a96a05d6a46.(0, 2).Nokia", 
+        "907a71d6c58acc8a9c22afee0469cda1.(4, 5).Nokia"
+    ], 
+    "coolest_phone": [
+        "cd886273a55bc57a2201d12617b65f4b.(11, 12).Nokia", 
+        "cd886273a55bc57a2201d12617b65f4b.(11, 4).Nokia"
+    ], 
+    "hands-free_speakerphone": [
+        "cd4327cb2d23f487b5853995261ec659.(1, 2).Nokia"
+    ], 
+    "basic_feature": [
+        "fcf866589e0cd5066cdb86f7e386fe2e.(11, 12).Nokia"
+    ], 
+    "nonflip_nokia": [
+        "6fe554bb692034563c238b99119b81ec.(4, 0).Nokia"
+    ], 
+    "complicated_feature": [
+        "5e74b4c1331cab866091f6646439932c.(3, 4).Nokia", 
+        "5e74b4c1331cab866091f6646439932c.(3, 15).Nokia"
+    ], 
+    "doesnt_weight": [
+        "b89efe0de0fd797ce86e413b78bcc046.(30, 31).Nokia"
+    ], 
+    "excellent_tone": [
+        "d36bdc5dfa57c2ffcd3b26042b66d2e6.(1, 4).Nokia"
+    ], 
+    "great_feature": [
+        "5e74b4c1331cab866091f6646439932c.(17, 4).Nokia", 
+        "5e74b4c1331cab866091f6646439932c.(17, 15).Nokia", 
+        "e34cfc5c5d47ea85592063b8cfa07c03.(0, 1).Nokia", 
+        "58e7e474b8ea3dcf3293853aae627fc1.(14, 10).Nokia", 
+        "58e7e474b8ea3dcf3293853aae627fc1.(4, 10).Nokia", 
+        "0640603a2170d71444627f4f433fd0bd.(19, 12).Nokia", 
+        "bbdd399a8aa07bc878d531a293918676.(3, 16).Nokia", 
+        "9b759b22613ccb3d5a5909c5cd771409.(27, 9).Nokia", 
+        "9b759b22613ccb3d5a5909c5cd771409.(2, 9).Nokia"
+    ], 
+    "optional_headset": [
+        "014aa078aecf0b50593f6613db26ebbc.(4, 5).Nokia"
+    ], 
+    "tiny_button": [
+        "23f161907c6d5ce5f76a95f06dcb4341.(2, 10).Nokia"
+    ], 
+    "sticky_tho": [
+        "ceb0982ee639d31ed4e5f43a46e69336.(5, 6).Nokia"
+    ], 
+    "few_problem": [
+        "c67d6bcd1ecc6effe34a9f8354eddaa0.(4, 24).Nokia", 
+        "c67d6bcd1ecc6effe34a9f8354eddaa0.(23, 24).Nokia"
+    ], 
+    "perfect_size": [
+        "d0d621d83a44b4ab35ea2f818978ec04.(3, 4).Nokia", 
+        "13e3ad521538757c809d312f2b720148.(5, 6).Nokia", 
+        "743eeb5f1185f0007cd790563f3abfc4.(9, 6).Nokia"
+    ], 
+    "favorite_speakerphone": [
+        "bc412b771cb33944aaf00912480e5a71.(20, 11).Nokia"
+    ], 
+    "small_glitch": [
+        "d379b42593ec45fb92354860d5f031da.(7, 8).Nokia"
+    ], 
+    "cool_feature": [
+        "744203c0ba661b81fbf49e058d3b8553.(5, 8).Nokia", 
+        "307c93e8a0e6940c41d5d78c4dba4954.(4, 1).Nokia"
+    ], 
+    "nicest_nokia": [
+        "a05eeda6733206f3896d450dd927f8fe.(5, 7).Nokia"
+    ], 
+    "t-mobile_coverage": [
+        "5f632c925abff8ea973237469d07a2aa.(18, 19).Nokia"
+    ], 
+    "useful_feature": [
+        "744203c0ba661b81fbf49e058d3b8553.(7, 8).Nokia"
+    ], 
+    "international_phone": [
+        "75724e991eee9149c45dd759aeb7f1fd.(11, 12).Nokia", 
+        "75724e991eee9149c45dd759aeb7f1fd.(11, 4).Nokia"
+    ], 
+    "constant_sound": [
+        "00f4f2006de708c2e8e1b5f70f053974.(4, 7).Nokia"
+    ], 
+    "wonderful_feature": [
+        "bbdd399a8aa07bc878d531a293918676.(15, 16).Nokia"
+    ], 
+    "entertaining_game": [
+        "ff02148f541cf5f18c7b9c51fb6d96d1.(5, 6).Nokia"
+    ], 
+    "sound_quality": [
+        "e5530a413b6c717bbc2f6d1ede7c1ead.(1, 2).Nokia", 
+        "c08ffc6c0204ff4421d6802f9f85c134.(3, 4).Nokia", 
+        "37a84a72000588d4bc0ae8bef4295a66.(1, 2).Nokia", 
+        "867e0d28796d18caa886b83e1e446570.(10, 11).Nokia", 
+        "744f525296a4d9c08aa0fe2e19b27dba.(5, 6).Nokia", 
+        "f5cbb3d03ebbfc0942b32ad9a8187168.(5, 6).Nokia", 
+        "66e182597a414b07d8bf1b3a941514eb.(11, 12).Nokia", 
+        "6f9adbe48884c146062517217a8d680d.(3, 4).Nokia"
+    ], 
+    "excellent_thing": [
+        "64fb66cc374fec3973bcd3984f004f56.(6, 3).Nokia"
+    ], 
+    "best_phone": [
+        "d6508cf7de570cf330c9dbd17b8d3f48.(5, 6).Nokia", 
+        "f3bb75d4d6b62c19c453c3d7a0d1fcd5.(3, 5).Nokia", 
+        "793b5dd3a570afa3f48e4ec4ed2e097c.(3, 4).Nokia", 
+        "311ef14e9030cb4c54bc34ae0487a489.(4, 12).Nokia", 
+        "311ef14e9030cb4c54bc34ae0487a489.(4, 30).Nokia", 
+        "28fd6ff95028de4d9ea392d1a09a45ff.(4, 5).Nokia"
+    ], 
+    "mobile_messaging": [
+        "7c8f3f41daa8a96742203572b5b47386.(1, 3).Nokia"
+    ], 
+    "disturbing_phone": [
+        "ff02148f541cf5f18c7b9c51fb6d96d1.(11, 9).Nokia"
+    ], 
+    "t-mobile_system": [
+        "b3f9fc452f442086e1d960c66db4a767.(6, 12).Nokia"
+    ], 
+    "nonflip_phone": [
+        "6fe554bb692034563c238b99119b81ec.(4, 5).Nokia"
+    ], 
+    "average_phone": [
+        "47e3873452377bfeaeb451bfad9ba553.(7, 8).Nokia"
+    ], 
+    "outstanding_reception": [
+        "488636e06974d698e1fdaf82e4a7855d.(0, 2).Nokia"
+    ], 
+    "little_feature": [
+        "58e7e474b8ea3dcf3293853aae627fc1.(5, 10).Nokia", 
+        "c803c17bfceefa2bdbade542c896cde8.(6, 10).Nokia", 
+        "25b1cc0cda02ef1722164f8b75bb7712.(12, 3).Nokia", 
+        "60918d91db20f0758f77fc85122e79da.(4, 6).Nokia"
+    ], 
+    "good_server": [
+        "bad709d57055304005f6f24f865dccd3.(4, 5).Nokia"
+    ], 
+    "little_critter": [
+        "8b4057f457380127479d55edc7268abf.(8, 9).Nokia"
+    ], 
+    "key_arrangement": [
+        "42f9a3d24c13151b0c3eee5b5a85dd48.(6, 7).Nokia"
+    ], 
+    "t-mobile_nokia": [
+        "cb424d3ece8282ce9d98ff9e19d23c6c.(10, 20).Nokia", 
+        "51b1770d89037fd1f2b3010444b9217d.(2, 0).Nokia"
+    ], 
+    "difficult_button": [
+        "23f161907c6d5ce5f76a95f06dcb4341.(4, 10).Nokia"
+    ], 
+    "well-backlit_keypad": [
+        "25dd9f9401731661e5fb9235d8d76fce.(0, 1).Nokia"
+    ], 
+    "other_feature": [
+        "8b06ee9536157bdc30f89af9097efd4e.(4, 5).Nokia", 
+        "8b06ee9536157bdc30f89af9097efd4e.(4, 12).Nokia", 
+        "38ea99941efb67acbdadb452537a05bc.(14, 15).Nokia", 
+        "5951baa50c5670e7c4fcac86438fba32.(1, 8).Nokia", 
+        "0640603a2170d71444627f4f433fd0bd.(8, 12).Nokia"
+    ], 
+    "other_application": [
+        "6678ea63baf21e42ca34ff9c60e47c7c.(22, 24).Nokia"
+    ], 
+    "real_software": [
+        "dc93b572e66d7cee8d1301ab1059f27f.(18, 21).Nokia"
+    ], 
+    "decent_reception": [
+        "c9d0d998766ff632aa6c28c85f4926f0.(4, 5).Nokia"
+    ], 
+    "more_tone": [
+        "147682229af074d2520a07e45499562b.(1, 3).Nokia", 
+        "7d7d4d07552660b8043027100c94a48d.(3, 8).Nokia", 
+        "7d7d4d07552660b8043027100c94a48d.(7, 8).Nokia"
+    ], 
+    "traditional_key": [
+        "42f9a3d24c13151b0c3eee5b5a85dd48.(5, 6).Nokia"
+    ], 
+    "little_tho": [
+        "ceb0982ee639d31ed4e5f43a46e69336.(4, 6).Nokia"
+    ], 
+    "first_nokia": [
+        "6fe554bb692034563c238b99119b81ec.(3, 0).Nokia"
+    ], 
+    "good_reception": [
+        "c9d0d998766ff632aa6c28c85f4926f0.(10, 5).Nokia", 
+        "464ae5e381f94d45fed8ae02ad5e7495.(16, 24).Nokia", 
+        "5f632c925abff8ea973237469d07a2aa.(24, 10).Nokia", 
+        "5f632c925abff8ea973237469d07a2aa.(5, 10).Nokia"
+    ], 
+    "little_phone": [
+        "58e7e474b8ea3dcf3293853aae627fc1.(5, 6).Nokia", 
+        "238d0351c8c8c466d81f67763e3871b1.(16, 5).Nokia", 
+        "cb73b87bc53d6be47ba62c64c5eefff1.(15, 12).Nokia", 
+        "cb73b87bc53d6be47ba62c64c5eefff1.(15, 1).Nokia", 
+        "105924e46523168dd9a09a96a05d6a46.(1, 2).Nokia", 
+        "0774bbf5a1f65c236eec818161d3b56d.(7, 5).Nokia"
+    ], 
+    "key_key": [
+        "aa4cf9874eb6024ec9e908b53f471f6e.(4, 4).Nokia", 
+        "b04114762c3824238acb69a9f7c5cc55.(2, 2).Nokia", 
+        "6e389542d89508957c8af12f28f181a9.(1, 1).Nokia", 
+        "7aba4051c00fd6801f9538e897377aed.(10, 10).Nokia", 
+        "3f9cc3c78af4f8f3dbd173ab2962564f.(4, 4).Nokia", 
+        "42f9a3d24c13151b0c3eee5b5a85dd48.(6, 6).Nokia", 
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(5, 9).Nokia", 
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(9, 22).Nokia", 
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(5, 5).Nokia", 
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(5, 22).Nokia", 
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(9, 9).Nokia", 
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(9, 5).Nokia", 
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(22, 5).Nokia", 
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(22, 9).Nokia", 
+        "88b9aa2d53178b2ce98e7c56d5c5e0d8.(22, 22).Nokia", 
+        "8c8bbd4a1f9a38c0933fcbd3803b117e.(1, 1).Nokia"
+    ], 
+    "light_weight": [
+        "82e64d953b29aae10303bde70a8ad379.(4, 5).Nokia", 
+        "b89efe0de0fd797ce86e413b78bcc046.(35, 31).Nokia", 
+        "f814470075f9eaffe13f9b92b246daab.(3, 4).Nokia"
+    ], 
+    "great_ergonomics": [
+        "58e7e474b8ea3dcf3293853aae627fc1.(4, 15).Nokia", 
+        "58e7e474b8ea3dcf3293853aae627fc1.(14, 15).Nokia"
+    ], 
+    "best_bet": [
+        "311ef14e9030cb4c54bc34ae0487a489.(4, 5).Nokia"
+    ], 
+    "many_t-mobile": [
+        "cb424d3ece8282ce9d98ff9e19d23c6c.(12, 10).Nokia"
+    ], 
+    "good_quality": [
+        "867e0d28796d18caa886b83e1e446570.(9, 11).Nokia", 
+        "744f525296a4d9c08aa0fe2e19b27dba.(4, 6).Nokia", 
+        "74ab0cc3f6e22fc34b2fa57efbcb6936.(16, 17).Nokia", 
+        "5f632c925abff8ea973237469d07a2aa.(5, 2).Nokia", 
+        "5f632c925abff8ea973237469d07a2aa.(24, 2).Nokia"
+    ], 
+    "many_option": [
+        "cb73b87bc53d6be47ba62c64c5eefff1.(31, 32).Nokia"
+    ], 
+    "great_phone": [
+        "c942e7617c5617c46364266d80a29f69.(11, 12).Nokia", 
+        "c942e7617c5617c46364266d80a29f69.(11, 7).Nokia", 
+        "bda6c10fbfa269bc9c256d0a04ea7069.(0, 1).Nokia", 
+        "abd74cd1dba7bfb5fe0802beda2c54f5.(0, 1).Nokia", 
+        "f118bd4e6e431fb2d34e5648c625bd6d.(8, 17).Nokia", 
+        "58e7e474b8ea3dcf3293853aae627fc1.(14, 6).Nokia", 
+        "58e7e474b8ea3dcf3293853aae627fc1.(4, 6).Nokia", 
+        "0640603a2170d71444627f4f433fd0bd.(19, 20).Nokia", 
+        "0640603a2170d71444627f4f433fd0bd.(19, 15).Nokia", 
+        "bab7c888a49b92e4221b1c4a319f20de.(3, 4).Nokia", 
+        "2ba94a2d6897c0dc29eaf3f1c90562af.(18, 10).Nokia", 
+        "f7ad72dd81513ff8fba2a51a2ac0bd2f.(13, 17).Nokia", 
+        "74ab0cc3f6e22fc34b2fa57efbcb6936.(3, 1).Nokia", 
+        "8d147490bc04d64017ad35bd9084f37f.(0, 1).Nokia", 
+        "5e621b8f3d3b01939c7ca7308eec4cd4.(9, 10).Nokia", 
+        "d3039095351362825c0bb445adb849f3.(4, 5).Nokia", 
+        "d3039095351362825c0bb445adb849f3.(4, 13).Nokia", 
+        "bbdd399a8aa07bc878d531a293918676.(3, 4).Nokia", 
+        "6f9adbe48884c146062517217a8d680d.(6, 1).Nokia", 
+        "6f9adbe48884c146062517217a8d680d.(6, 28).Nokia", 
+        "4e3e16c7d6dc2759d671c13215fece25.(13, 4).Nokia"
+    ], 
+    "new_phone": [
+        "c942e7617c5617c46364266d80a29f69.(6, 12).Nokia", 
+        "c942e7617c5617c46364266d80a29f69.(6, 7).Nokia", 
+        "0774bbf5a1f65c236eec818161d3b56d.(21, 5).Nokia"
+    ], 
+    "t-mobile_lack": [
+        "cb424d3ece8282ce9d98ff9e19d23c6c.(10, 11).Nokia"
+    ], 
+    "excellent_speakerphone": [
+        "7f5b26b2865cc958e9fec839306cd9cf.(10, 8).Nokia", 
+        "64fb66cc374fec3973bcd3984f004f56.(6, 8).Nokia", 
+        "bc412b771cb33944aaf00912480e5a71.(7, 11).Nokia"
+    ], 
+    "normal_radio": [
+        "c9d0d998766ff632aa6c28c85f4926f0.(13, 1).Nokia", 
+        "c9d0d998766ff632aa6c28c85f4926f0.(13, 14).Nokia", 
+        "c9d0d998766ff632aa6c28c85f4926f0.(13, 28).Nokia"
+    ], 
+    "other_phone": [
+        "238d0351c8c8c466d81f67763e3871b1.(22, 5).Nokia", 
+        "0640603a2170d71444627f4f433fd0bd.(8, 15).Nokia", 
+        "0640603a2170d71444627f4f433fd0bd.(8, 20).Nokia", 
+        "5951baa50c5670e7c4fcac86438fba32.(1, 3).Nokia", 
+        "8b06ee9536157bdc30f89af9097efd4e.(4, 1).Nokia", 
+        "437957753d095bc51aec7470946afeac.(0, 7).Nokia", 
+        "b7fe89c7512fb83bb17ebeaa6b53d631.(7, 9).Nokia", 
+        "bc5f1642b16101e4228c81997a833126.(13, 14).Nokia", 
+        "38ea99941efb67acbdadb452537a05bc.(14, 11).Nokia"
+    ], 
+    "little_guy": [
+        "238d0351c8c8c466d81f67763e3871b1.(16, 17).Nokia"
+    ], 
+    "good_strength": [
+        "f814470075f9eaffe13f9b92b246daab.(8, 10).Nokia"
+    ], 
+    "available_page": [
+        "5741b29bc5d1f08561ddf80eaccd827d.(17, 16).Nokia"
+    ], 
+    "free_speakerphone": [
+        "bc412b771cb33944aaf00912480e5a71.(10, 11).Nokia"
+    ], 
+    "great_reception": [
+        "5f632c925abff8ea973237469d07a2aa.(9, 10).Nokia", 
+        "8709abbebe927492ab2305fce12bac51.(8, 9).Nokia", 
+        "4e3e16c7d6dc2759d671c13215fece25.(13, 36).Nokia"
+    ], 
+    "great_ton": [
+        "2ba94a2d6897c0dc29eaf3f1c90562af.(18, 3).Nokia"
+    ], 
+    "clear_speakerphone": [
+        "c63b814a0a679b601fcf858056f31723.(3, 0).Nokia"
+    ], 
+    "higher_ring": [
+        "8b15359b7863064bb6750c1a814f9531.(3, 5).Nokia"
+    ], 
+    "good_volume": [
+        "e8e469c6ce127a2b8e862966b0c3685e.(8, 10).Nokia", 
+        "3c8ffb554f238698530ef85279f9b51f.(10, 1).Nokia"
+    ], 
+    "beatiful_screen": [
+        "58e7e474b8ea3dcf3293853aae627fc1.(12, 13).Nokia"
+    ]
+}

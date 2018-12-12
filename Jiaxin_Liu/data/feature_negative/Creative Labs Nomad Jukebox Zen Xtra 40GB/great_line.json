@@ -1,0 +1,34 @@
+{
+    "25d13607a3d0abce285789e09dc8ffa6": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            1
+        ], 
+        "(2, 1)": {
+            "AM2L": [
+                2966
+            ], 
+            "BM1F": [
+                457
+            ], 
+            "M1": [
+                1655
+            ], 
+            "M2": [
+                1313
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "bottom line ... great product , unbeatable price ."
+    }
+}

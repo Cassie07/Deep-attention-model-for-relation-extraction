@@ -1,0 +1,47 @@
+{
+    "f7ad72dd81513ff8fba2a51a2ac0bd2f": {
+        "(13, 1)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                1701
+            ], 
+            "BM1F": [
+                2828
+            ], 
+            "M1": [
+                3156
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                2855, 
+                2859, 
+                1541, 
+                346, 
+                2149, 
+                2844, 
+                2665, 
+                1724
+            ], 
+            "WBL": [
+                1055
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "technology wise , i think this is awesome plus the speaker makes it even great ! ! ! ! i love this phone ! ! !"
+    }
+}

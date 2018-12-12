@@ -1,0 +1,43 @@
+{
+    "ea590102fe54b3305e3c92c7f680c4d9": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            21
+        ], 
+        "(18, 21)": {
+            "WBF": [
+                1146
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2307
+            ], 
+            "M1": [
+                698
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                134
+            ], 
+            "WBL": [
+                134
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "creative zen feedback suffers from construction quality , poor product support , difficulty of using the scroll wheel and reasonably consistent feedback about problem with the headphone jack ."
+    }
+}

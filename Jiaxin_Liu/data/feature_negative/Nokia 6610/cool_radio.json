@@ -1,0 +1,101 @@
+{
+    "dc8970a7ae3535e224c0efcde6cdc284": {
+        "(21, 19)": {
+            "AM2L": [
+                1441
+            ], 
+            "WBFL": [
+                3100
+            ], 
+            "BM1F": [
+                1201
+            ], 
+            "M1": [
+                2275
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                2624
+            ], 
+            "AM2F": [
+                1055
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "the phone also sport an image gallery ( with option camera attachment ) , a calendar / organizer , alarm clock with snooze , fm radio ( way cool , even if it is just through an ear-peice ) , game , java application and gprs high-speed internet connection ."
+    }, 
+    "47adfb9e43ca12f5d6986c4d35f74169": {
+        "(4, 2)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                1201
+            ], 
+            "M1": [
+                2275
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the fm radio is cool ."
+    }, 
+    "307c93e8a0e6940c41d5d78c4dba4954": {
+        "(4, 7)": {
+            "WBF": [
+                1648
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                2275
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the feature are really cool like the radio ."
+    }
+}

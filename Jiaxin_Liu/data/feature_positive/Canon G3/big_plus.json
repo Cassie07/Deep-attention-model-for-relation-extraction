@@ -1,0 +1,37 @@
+{
+    "5deb915c0f8e40d34ff37101c900e021": {
+        "(5, 6)": {
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                2149
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "very intuitive menus are a big plus on this camera ."
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            53
+        ], 
+        "location2": [
+            11
+        ], 
+        "(53, 11)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                2954
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2853
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2479, 
+                1541, 
+                2304, 
+                419, 
+                253, 
+                2844, 
+                436, 
+                1644, 
+                1468, 
+                2844, 
+                352, 
+                1541, 
+                2083, 
+                1136, 
+                304, 
+                1378, 
+                1468, 
+                1853, 
+                2916, 
+                715, 
+                295, 
+                985, 
+                2886, 
+                3018, 
+                200, 
+                1743, 
+                2844, 
+                2484, 
+                502, 
+                1313, 
+                2654, 
+                253, 
+                1551, 
+                1369, 
+                1737, 
+                1842, 
+                2139, 
+                130
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                1044
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "4e222be5574201bad2e38c874688344f": {
+        "(4, 5)": {
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                2853
+            ], 
+            "BM1L": [
+                912
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "you can do other different thing with it such as choose what kind of `` now playing `` interface , you can see the interface as modern or classical ."
+    }
+}

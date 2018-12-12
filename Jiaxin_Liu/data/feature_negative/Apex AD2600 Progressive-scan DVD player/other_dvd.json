@@ -1,0 +1,222 @@
+{
+    "62cf1a8d3b2e903f5a6f46e8d99bb3c2": {
+        "(17, 18)": {
+            "AM2L": [
+                1896
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                897
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1839
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "i have sent my ad2600 back to apex because it wo n't play certain disney and other dvd movie ( no disc message ) ."
+    }, 
+    "521121be8f6569821c970c8fc219b7d7": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            7
+        ], 
+        "(12, 7)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                402
+            ], 
+            "BM1F": [
+                2865
+            ], 
+            "M1": [
+                961
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                3160
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2952
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it played only one out of three dvd 's without problem , the other two being afflicted by a number of glitch ."
+    }, 
+    "8fd7717f6f4b86db0002350fe4354721": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            16, 
+            53
+        ], 
+        "(22, 53)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                1549
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                4
+            ], 
+            "WBO": [
+                3181, 
+                2136, 
+                501, 
+                2886, 
+                1856, 
+                2783, 
+                3094, 
+                133, 
+                2886, 
+                2136, 
+                587, 
+                1761, 
+                2842, 
+                1429, 
+                1328, 
+                495, 
+                2842, 
+                1429, 
+                738, 
+                1859, 
+                5, 
+                1277, 
+                2886, 
+                3168, 
+                394, 
+                1468, 
+                267
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                496
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(22, 16)": {
+            "WBF": [
+                2272
+            ], 
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                1085
+            ], 
+            "M1": [
+                961
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1829
+            ], 
+            "WBO": [
+                1761, 
+                890
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "when i 1st tried it i found that it had no problem playing the more expensive dvd - r medium disc 's that other player would play but to my surprise was able to play cheep medium that i had burned that i could n't get to work before in anything but the dvd burner itself that i had made the disc with ."
+    }, 
+    "9b11689d3b0c95dc2f00e7b8943b4934": {
+        "(4, 11)": {
+            "WBF": [
+                2079
+            ], 
+            "AM2L": [
+                518
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                3135, 
+                2313, 
+                130
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "unlike some of the other people who received a `` lemon `` , my dvd player came in perfect working condition ."
+    }
+}

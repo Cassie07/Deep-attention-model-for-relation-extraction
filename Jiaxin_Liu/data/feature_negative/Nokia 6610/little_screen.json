@@ -1,0 +1,46 @@
+{
+    "58e7e474b8ea3dcf3293853aae627fc1": {
+        "(5, 13)": {
+            "WBF": [
+                2097
+            ], 
+            "AM2L": [
+                1048
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                2479
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1548, 
+                1302, 
+                1886, 
+                1143
+            ], 
+            "WBL": [
+                384
+            ], 
+            "AM2F": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "this really is a great little phone ; its got nice feature , a beatiful screen , great ergonomics , and its tiny !"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "68f771352d0e49722a16c9efbc7c8342": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            0
+        ], 
+        "(5, 0)": {
+            "WBF": [
+                1643
+            ], 
+            "AM2L": [
+                520
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                1832
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2886
+            ], 
+            "AM2F": [
+                875
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "battery life , the drawback to most digital camera , to quote k. reef ."
+    }, 
+    "d52f5e6f17b27cadd223d0665cf39034": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            1
+        ], 
+        "(22, 1)": {
+            "WBF": [
+                1643
+            ], 
+            "BM1F": [
+                39
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                1832
+            ], 
+            "WBO": [
+                1541, 
+                2024, 
+                80, 
+                93, 
+                1422, 
+                658, 
+                2886, 
+                134, 
+                39, 
+                93, 
+                1422, 
+                1212, 
+                2844, 
+                1259, 
+                1998, 
+                2844, 
+                39
+            ], 
+            "WBL": [
+                1212
+            ], 
+            "AM2F": [
+                1894
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "2 . battery life is over 4.5 hour , compared to about 2.5 hour for the g2 or the 2 hour for most nikons ."
+    }
+}

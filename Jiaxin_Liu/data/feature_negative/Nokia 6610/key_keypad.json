@@ -1,0 +1,95 @@
+{
+    "7aba4051c00fd6801f9538e897377aed": {
+        "(11, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2615
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1580
+            ], 
+            "M2": [
+                1579
+            ], 
+            "WBO": [
+                130, 
+                808, 
+                2595, 
+                501, 
+                2844, 
+                2182
+            ], 
+            "WBL": [
+                1952
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the keypad is a decent size , but the power on/off key is small and difficult to press ."
+    }, 
+    "8c8bbd4a1f9a38c0933fcbd3803b117e": {
+        "(1, 18)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1580
+            ], 
+            "WBO": [
+                619, 
+                2889, 
+                253, 
+                2844, 
+                1614, 
+                1541, 
+                130, 
+                423, 
+                1255, 
+                1468, 
+                2353, 
+                2886, 
+                2694
+            ], 
+            "WBL": [
+                1614
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "the key are close together , and the layout is a bit funky in relation to standard rectangular layout keypad , but it 's not too weird ."
+    }
+}

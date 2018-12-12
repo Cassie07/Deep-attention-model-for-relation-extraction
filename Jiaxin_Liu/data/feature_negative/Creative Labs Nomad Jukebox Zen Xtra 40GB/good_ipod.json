@@ -1,0 +1,78 @@
+{
+    "8121831049060e4e814eb90a284743c5": {
+        "(9, 7)": {
+            "AM2L": [
+                253
+            ], 
+            "WBFL": [
+                1064
+            ], 
+            "BM1F": [
+                833
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                294
+            ], 
+            "AM2F": [
+                2204
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }, 
+    "3bf21a4b29d090cbd158c4195701fcd2": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            7
+        ], 
+        "(12, 7)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                2021
+            ], 
+            "BM1F": [
+                383
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2289
+            ], 
+            "WBO": [
+                3002
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2182
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "1 ) great sound ( > 98db signal-to-noise ratio beat ipod 's `` unspecified `` ratio ) and good power output allow the zen xtra to drive large head-phones as well as external speaker ."
+    }
+}

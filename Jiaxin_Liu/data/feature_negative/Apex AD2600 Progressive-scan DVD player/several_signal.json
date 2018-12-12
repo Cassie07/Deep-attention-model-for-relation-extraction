@@ -1,0 +1,94 @@
+{
+    "f7c6a30b651882d1ae5523552ba03649": {
+        "(8, 25)": {
+            "WBF": [
+                869
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                2576
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBO": [
+                2948, 
+                3026, 
+                130, 
+                1852, 
+                1951, 
+                691, 
+                1783, 
+                253, 
+                1429, 
+                2712, 
+                522, 
+                5, 
+                1277
+            ], 
+            "WBL": [
+                3057
+            ], 
+            "AM2F": [
+                1241
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "i 've attempted to connect this unit to several different tv , using a multitude of connection method , and i still can 't get a video signal from the machine ."
+    }, 
+    "4e76cc39ae9044560ecd410fbbf8ce76": {
+        "(9, 18)": {
+            "WBF": [
+                2878
+            ], 
+            "BM1F": [
+                3110
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                2576
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                130, 
+                801, 
+                253, 
+                238, 
+                1302
+            ], 
+            "WBL": [
+                500
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "i tried calling the support number for a week , several time a day , and always got a busy signal ."
+    }
+}

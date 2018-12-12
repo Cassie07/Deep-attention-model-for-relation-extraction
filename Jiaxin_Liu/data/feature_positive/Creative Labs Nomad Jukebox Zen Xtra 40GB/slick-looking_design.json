@@ -1,0 +1,31 @@
+{
+    "1410831d46d56db6a5d5e35d549b0839": {
+        "(0, 1)": {
+            "AM2L": [
+                1465
+            ], 
+            "M1": [
+                2603
+            ], 
+            "M2": [
+                845
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "* slick-looking design and improved interface"
+    }
+}

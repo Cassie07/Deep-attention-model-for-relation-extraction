@@ -1,0 +1,37 @@
+{
+    "2f4b1a4eefb0c421b14cc034af6fd056": {
+        "(8, 9)": {
+            "AM2L": [
+                239
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2305
+            ], 
+            "BM1L": [
+                3210
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "given that i already have the zen the only reason i am happy with it is because of the notmad software ."
+    }
+}

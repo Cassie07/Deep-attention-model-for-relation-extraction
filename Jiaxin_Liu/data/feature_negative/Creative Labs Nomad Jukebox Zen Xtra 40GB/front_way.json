@@ -1,0 +1,45 @@
+{
+    "700f48300fa8def127637b87e04b7e68": {
+        "(7, 14)": {
+            "WBF": [
+                2135
+            ], 
+            "AM2L": [
+                379
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1242
+            ], 
+            "M2": [
+                3100
+            ], 
+            "BM1L": [
+                2369
+            ], 
+            "WBO": [
+                253, 
+                2850, 
+                3094
+            ], 
+            "WBL": [
+                1973
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "it was easy enough to remove the front plate , and there was only one way the battery could be inserted ."
+    }
+}

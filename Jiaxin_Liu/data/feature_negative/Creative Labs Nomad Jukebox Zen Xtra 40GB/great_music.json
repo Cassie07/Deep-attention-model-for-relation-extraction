@@ -1,0 +1,193 @@
+{
+    "370f2f08bb8ba98db88f94c031ba3f60": {
+        "(6, 18)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                1725
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                233, 
+                1351, 
+                1737, 
+                1996, 
+                1648, 
+                2611, 
+                1998, 
+                2675
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(6, 28)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                233, 
+                1351, 
+                1737, 
+                1996, 
+                1648, 
+                2611, 
+                1998, 
+                2675, 
+                3006, 
+                2844, 
+                1853, 
+                1998, 
+                1725, 
+                1545, 
+                2654, 
+                1648, 
+                3203, 
+                3
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            18, 
+            28
+        ], 
+        "sentence": "the player is fast and sound great , it also has many option like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(42, 30)": {
+            "WBF": [
+                2916
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1378
+            ], 
+            "WBO": [
+                715, 
+                295, 
+                985, 
+                2886, 
+                3018, 
+                200, 
+                1743, 
+                2844
+            ], 
+            "WBL": [
+                502
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            42
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "2155dae2420356df58f64bd1e973732d": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            13
+        ], 
+        "(4, 13)": {
+            "WBF": [
+                1803
+            ], 
+            "AM2L": [
+                3006
+            ], 
+            "BM1F": [
+                260
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1343, 
+                2886, 
+                1985, 
+                756, 
+                1236
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                1641
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "d ) software is another great misfortune -- hard to operate , crash frequently , screwed my music library up , doesnt work with mp4s , the list goes on and on"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "bc2579b51229368645d63774f91960e1": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            6
+        ], 
+        "(14, 6)": {
+            "WBF": [
+                487
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                2912
+            ], 
+            "M1": [
+                278
+            ], 
+            "M2": [
+                3021
+            ], 
+            "BM1L": [
+                2716
+            ], 
+            "WBO": [
+                1468, 
+                233, 
+                3022, 
+                253
+            ], 
+            "WBL": [
+                2642
+            ], 
+            "AM2F": [
+                288
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it also has a stock tracking app built in ( also useless ) and a somewhat useful application which convert all type of metric ( currency , length , area , etc ) ."
+    }
+}

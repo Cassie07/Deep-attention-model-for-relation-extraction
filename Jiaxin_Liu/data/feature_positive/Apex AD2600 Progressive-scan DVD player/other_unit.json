@@ -1,0 +1,165 @@
+{
+    "972c9a8ae7cdb01c2d55a7fe93e6ecd2": {
+        "(12, 15)": {
+            "WBF": [
+                581
+            ], 
+            "BM1F": [
+                2840
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2987
+            ], 
+            "BM1L": [
+                3176
+            ], 
+            "WBO": [
+                275
+            ], 
+            "WBL": [
+                275
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1, 
+            12
+        ], 
+        "location2": [
+            15
+        ], 
+        "(1, 15)": {
+            "WBF": [
+                1318
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2987
+            ], 
+            "WBO": [
+                1541, 
+                2844, 
+                1479, 
+                755, 
+                2366, 
+                3129, 
+                1541, 
+                3176, 
+                2840, 
+                2011
+            ], 
+            "WBL": [
+                275
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "my other gripe is the incredibly crappy remote , which is worse than other , cheaper apex unit ."
+    }, 
+    "e4730539ff132950b9f794e6c42e8042": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            18
+        ], 
+        "(15, 18)": {
+            "WBF": [
+                1876
+            ], 
+            "AM2L": [
+                1859
+            ], 
+            "BM1F": [
+                2496
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2987
+            ], 
+            "BM1L": [
+                668
+            ], 
+            "WBO": [
+                2419
+            ], 
+            "WBL": [
+                2419
+            ], 
+            "AM2F": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it worked from 12-26 to 1-9 at which time the picture failed completely ( see other negative reviews-my unit was n't the only one this happened to . )"
+    }, 
+    "554c4ad0dd6259a9c61e4817388e8064": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            1
+        ], 
+        "(22, 1)": {
+            "WBF": [
+                2500
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                2011
+            ], 
+            "WBO": [
+                2886, 
+                2136, 
+                221, 
+                1219, 
+                2842, 
+                1429, 
+                1355, 
+                2259, 
+                1468, 
+                1545, 
+                1563, 
+                1592, 
+                2107, 
+                4, 
+                253, 
+                962, 
+                1429
+            ], 
+            "WBL": [
+                2296
+            ], 
+            "AM2F": [
+                2417
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the unit seems to play all format that i have put in it ( jpeg , kodak pic 's and dvd-r ) i have read other review and some good and soom not so good , but my feeling at this time is `` two thumb up `` !"
+    }
+}

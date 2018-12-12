@@ -1,0 +1,37 @@
+{
+    "805fb64ce9cfd89eb965b553110a9c78": {
+        "(2, 3)": {
+            "AM2L": [
+                553
+            ], 
+            "BM1F": [
+                2136
+            ], 
+            "M1": [
+                2008
+            ], 
+            "M2": [
+                966
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "it play original dvds and cd and play mp3s and jpegs ."
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "0bf10edcdbe26b58e9aa01bf73526b56": {
+        "(0, 1)": {
+            "AM2L": [
+                1426
+            ], 
+            "M1": [
+                346
+            ], 
+            "M2": [
+                520
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "awesome camera with huge print quality in a tiny package ."
+    }, 
+    "c04938f6d553c4e369ea501705c0aff3": {
+        "(4, 5)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                346
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "it really is an awesome camera that is hard to beat for general-to moderate snapping ."
+    }
+}

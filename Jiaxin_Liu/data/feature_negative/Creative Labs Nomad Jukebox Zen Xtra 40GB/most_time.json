@@ -1,0 +1,90 @@
+{
+    "b9c3cfb01eca2d647b08e3a4c809cc68": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            10
+        ], 
+        "(7, 10)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2850
+            ], 
+            "BM1F": [
+                3168
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                2878
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the scroll wheel is finicky ; it work most of the time but there is a learning curve for pressing it just right ; new user say they have 50 % - 75 % success rate ; some find it so frustrating that they just return the device ."
+    }, 
+    "a0fdee29f22fcfa33ef66cdb8b74405c": {
+        "(18, 7)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1249
+            ], 
+            "BM1F": [
+                1685
+            ], 
+            "M1": [
+                2878
+            ], 
+            "M2": [
+                1832
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2814, 
+                1896, 
+                1829, 
+                2840, 
+                39, 
+                1998, 
+                62
+            ], 
+            "WBL": [
+                316
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the battery stay charged for a long time , and takes no more than 2 or 3 hour at most to fully recharge via the included ac adapter ."
+    }
+}

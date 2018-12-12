@@ -1,0 +1,45 @@
+{
+    "dddabe0a6ff5deb6dc9e3641be46c42d": {
+        "(27, 34)": {
+            "WBF": [
+                3145
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                2587
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                801
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1978, 
+                3090, 
+                1545
+            ], 
+            "WBL": [
+                123
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            34
+        ], 
+        "sentence": "i know this unit will have problem in the future and the $ 40 for the 2 year `` no question asked `` replacement warranty will be worth it , since creative will only warrant it for 90 day - which in itself is totally ridiculous !"
+    }
+}

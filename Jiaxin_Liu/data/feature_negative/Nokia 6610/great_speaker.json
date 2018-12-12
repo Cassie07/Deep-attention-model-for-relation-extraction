@@ -1,0 +1,85 @@
+{
+    "f118bd4e6e431fb2d34e5648c625bd6d": {
+        "location1": [
+            8
+        ], 
+        "location2": [
+            2
+        ], 
+        "(8, 2)": {
+            "WBF": [
+                1252
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                1699
+            ], 
+            "M1": [
+                2665
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1967, 
+                2844
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                386
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the loud speaker function on the 6610 is great because you do n't need to put your phone right next to your ear to talk ."
+    }, 
+    "f7ad72dd81513ff8fba2a51a2ac0bd2f": {
+        "(13, 9)": {
+            "WBF": [
+                1724
+            ], 
+            "AM2L": [
+                1701
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2665
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2149
+            ], 
+            "WBO": [
+                1545
+            ], 
+            "WBL": [
+                1055
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "technology wise , i think this is awesome plus the speaker makes it even great ! ! ! ! i love this phone ! ! !"
+    }
+}

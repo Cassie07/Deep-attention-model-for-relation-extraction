@@ -1,0 +1,37 @@
+{
+    "c08ea81dfd0032ff6d47afa0112ba4c1": {
+        "(2, 3)": {
+            "AM2L": [
+                1593
+            ], 
+            "BM1F": [
+                848
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                2418
+            ], 
+            "BM1L": [
+                39
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1288
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "2 . despite most reviewer giving kudos to the zen for music quality , i experienced a flaw using eax ."
+    }
+}

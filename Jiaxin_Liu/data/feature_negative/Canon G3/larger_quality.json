@@ -1,0 +1,43 @@
+{
+    "a7d8e305d570d95f2e66cc869353dc9a": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            9
+        ], 
+        "(1, 9)": {
+            "WBF": [
+                1632
+            ], 
+            "AM2L": [
+                1703
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1604
+            ], 
+            "M2": [
+                2260
+            ], 
+            "WBO": [
+                1951, 
+                2844, 
+                1260, 
+                1287
+            ], 
+            "WBL": [
+                2112
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the larger lens of the g3 gives better picture quality in low light , and the 4-times optical zoom gets you just that much closer ."
+    }
+}

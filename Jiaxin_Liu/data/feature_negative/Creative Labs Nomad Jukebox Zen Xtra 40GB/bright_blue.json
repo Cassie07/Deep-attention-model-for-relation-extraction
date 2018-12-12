@@ -1,0 +1,78 @@
+{
+    "4669d00c8621e9a0281e783c77782dd4": {
+        "(13, 14)": {
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                469
+            ], 
+            "M2": [
+                436
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                358
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the lcd is larger than the previous model , the nx , and has a bright blue backlight which illuminates the screen more successfully than the nx 's green backlight did ."
+    }, 
+    "c8a04e62ab057c0a7bce58982ce6cae8": {
+        "(12, 9)": {
+            "WBF": [
+                1644
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                436
+            ], 
+            "M2": [
+                469
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                1030
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the screen is very easy to read and the blue light is bright enough to read at night , but dim enough so it does n't blind you when you stare too long ."
+    }
+}

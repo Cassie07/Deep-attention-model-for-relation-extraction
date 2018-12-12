@@ -1,0 +1,115 @@
+{
+    "1e497d003ead8f158733c4abb51c307b": {
+        "(6, 2)": {
+            "WBF": [
+                237
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1141
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                2850
+            ], 
+            "WBL": [
+                295
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "my favorite feature , although there are many , are the speaker phone , the radio and the infrared ."
+    }, 
+    "8b06ee9536157bdc30f89af9097efd4e": {
+        "(3, 12)": {
+            "WBF": [
+                2011
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "WBO": [
+                1143, 
+                1538, 
+                1570, 
+                2886, 
+                1860
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                135
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(3, 5)": {
+            "AM2L": [
+                1570
+            ], 
+            "WBFL": [
+                2011
+            ], 
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "AM2F": [
+                1538
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5, 
+            12
+        ], 
+        "sentence": "this phone has many other feature , ir , ; just to name one , the feature above i view as the most beneficial ."
+    }
+}

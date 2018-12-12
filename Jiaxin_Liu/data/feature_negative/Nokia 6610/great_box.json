@@ -1,0 +1,43 @@
+{
+    "0640603a2170d71444627f4f433fd0bd": {
+        "(19, 30)": {
+            "WBF": [
+                2097
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                460
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1793, 
+                3170, 
+                3160, 
+                264, 
+                2215, 
+                2426, 
+                2016
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "there is much which has been said in other review about the feature of this phone , it is a great phone , mine worked without any problem right out of the box ."
+    }
+}

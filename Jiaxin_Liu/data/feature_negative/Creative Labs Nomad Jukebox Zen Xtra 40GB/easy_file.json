@@ -1,0 +1,232 @@
+{
+    "d3d0480db545710bfeb04f0a7e77e30c": {
+        "(5, 3)": {
+            "AM2L": [
+                2114
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2653
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "then sorting the file is easy as pie ."
+    }, 
+    "4654812eec1f697a9f4ce1e9c75d2a2c": {
+        "(6, 2)": {
+            "WBF": [
+                2916
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1961
+            ], 
+            "WBO": [
+                295
+            ], 
+            "WBL": [
+                1136
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "oh ... and file transfer are fast & easy ."
+    }, 
+    "8df2f7ba58c455f15ea3d272c2556f50": {
+        "(19, 8)": {
+            "WBF": [
+                1241
+            ], 
+            "BM1F": [
+                2800
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                2844, 
+                2139, 
+                2886, 
+                2844, 
+                674, 
+                253, 
+                3056
+            ], 
+            "WBL": [
+                3094
+            ], 
+            "AM2F": [
+                2896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(2, 8)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1156
+            ], 
+            "BM1L": [
+                1865
+            ], 
+            "WBO": [
+                1429, 
+                1225
+            ], 
+            "WBL": [
+                2800
+            ], 
+            "AM2F": [
+                1241
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2, 
+            19
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "navigation is easy and i found that syncing file from the player to the computer ( and vice versa ) was easy too ."
+    }, 
+    "8585fdca3941ac39596af3f196c491a8": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            1
+        ], 
+        "(14, 1)": {
+            "WBF": [
+                507
+            ], 
+            "AM2L": [
+                1532
+            ], 
+            "BM1F": [
+                149
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                985
+            ], 
+            "WBO": [
+                303, 
+                253, 
+                216, 
+                1429, 
+                1833, 
+                1689, 
+                2853, 
+                3006, 
+                507
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "accessing file by artist and album ( i mostly look thing up by artist ) is easy and intuitive ."
+    }, 
+    "f83b389776371cf0534e0ea8cee0774f": {
+        "(2, 8)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1156
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2916, 
+                2201
+            ], 
+            "WBL": [
+                2004
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "it 's easy to transfer , preview , and organize file ."
+    }
+}

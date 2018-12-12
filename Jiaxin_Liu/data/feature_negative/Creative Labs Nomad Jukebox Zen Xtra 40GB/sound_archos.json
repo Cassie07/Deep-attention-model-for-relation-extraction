@@ -1,0 +1,90 @@
+{
+    "8121831049060e4e814eb90a284743c5": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            5
+        ], 
+        "(13, 5)": {
+            "WBF": [
+                833
+            ], 
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                294
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBO": [
+                1536, 
+                1064, 
+                1300, 
+                2204
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                1724
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "(16, 24)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2459
+            ], 
+            "BM1F": [
+                413
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                294
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1951, 
+                2851, 
+                60, 
+                1275
+            ], 
+            "WBL": [
+                1536
+            ], 
+            "AM2F": [
+                833
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }
+}

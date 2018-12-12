@@ -1,0 +1,75 @@
+{
+    "6c8553c3c50ea94e8903ac7ad2b1d889": {
+        "(5, 1)": {
+            "WBF": [
+                3213
+            ], 
+            "AM2L": [
+                2112
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                2814
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the digital zoom takes as good of picture , as the optical zoom does !"
+    }, 
+    "4283cf0438864dd7aa4566ca679cc53b": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i highly recommend this camera to anyone looking for a good digital camera that takes great picture yet does n't take week to figure out how to operate ."
+    }
+}

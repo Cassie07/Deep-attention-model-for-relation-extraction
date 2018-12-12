@@ -1,0 +1,79 @@
+{
+    "8569a7dfb307c605d7ba9f01dc118762": {
+        "(1, 10)": {
+            "WBF": [
+                1429
+            ], 
+            "BM1F": [
+                1072
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1566
+            ], 
+            "WBO": [
+                1225, 
+                2844, 
+                1853, 
+                2389, 
+                1124
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "excellent sound - i found the music reproduced faithfully through the jukebox ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            12
+        ], 
+        "(16, 12)": {
+            "WBF": [
+                1355
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                1842
+            ], 
+            "M1": [
+                1566
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                765
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                413
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }
+}

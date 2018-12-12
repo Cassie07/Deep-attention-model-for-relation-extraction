@@ -1,0 +1,43 @@
+{
+    "7507936ccfd024868889a9ca39083bf9": {
+        "(5, 2)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                1068
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                448
+            ], 
+            "WBO": [
+                251
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "bookmark for example , are an excellent feature ... but not on this player .. ."
+    }
+}

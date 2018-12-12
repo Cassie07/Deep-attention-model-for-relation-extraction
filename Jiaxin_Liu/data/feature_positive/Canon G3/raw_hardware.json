@@ -1,0 +1,73 @@
+{
+    "d94ba22ec1c68f129a09d111449a5e89": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            13
+        ], 
+        "(11, 13)": {
+            "WBFL": [
+                1260
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2290
+            ], 
+            "M2": [
+                1348
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "what this plug-in reveals is the truly stunning quality of the raw g3 hardware ."
+    }, 
+    "511a23f3a4fe98af1bf9d231291e4dff": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            9
+        ], 
+        "(3, 9)": {
+            "WBF": [
+                2147
+            ], 
+            "AM2L": [
+                1789
+            ], 
+            "BM1F": [
+                520
+            ], 
+            "M1": [
+                2290
+            ], 
+            "M2": [
+                1348
+            ], 
+            "BM1L": [
+                188
+            ], 
+            "WBO": [
+                2567, 
+                1971
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the adobe camera raw plug-in show once again that hardware is mile ahead of software ."
+    }
+}

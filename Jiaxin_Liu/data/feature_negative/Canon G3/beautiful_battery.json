@@ -1,0 +1,104 @@
+{
+    "28625e5528127fc1474b0e6dad55a8cb": {
+        "(3, 18)": {
+            "WBF": [
+                845
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                385
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                1698, 
+                1951, 
+                1143, 
+                3052, 
+                985, 
+                2886, 
+                3018, 
+                3052, 
+                683, 
+                253, 
+                783
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                958
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "it has a beautiful design , lot of feature , very easy to use , very configurable and customizable , and the battery duration is amazing !"
+    }, 
+    "5e8d37c7fc800e394540cc47e42d3496": {
+        "location1": [
+            26
+        ], 
+        "location2": [
+            11
+        ], 
+        "(26, 11)": {
+            "WBF": [
+                1605
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                385
+            ], 
+            "BM1L": [
+                3018
+            ], 
+            "WBO": [
+                1214, 
+                1967, 
+                1973, 
+                2588, 
+                574, 
+                2844, 
+                2631, 
+                1541, 
+                3052, 
+                3024, 
+                253
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it gives great picture , the control are easy to use , the battery last forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing ."
+    }
+}

@@ -1,0 +1,234 @@
+{
+    "793b5dd3a570afa3f48e4ec4ed2e097c": {
+        "(3, 4)": {
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "this is the best phone i have seen ."
+    }, 
+    "d6508cf7de570cf330c9dbd17b8d3f48": {
+        "(5, 6)": {
+            "AM2L": [
+                738
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1973
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "and really this is the best phone one could have ."
+    }, 
+    "28fd6ff95028de4d9ea392d1a09a45ff": {
+        "(4, 5)": {
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "overall this is the best phone i have ever owned ."
+    }, 
+    "311ef14e9030cb4c54bc34ae0487a489": {
+        "(4, 30)": {
+            "WBF": [
+                414
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                2214
+            ], 
+            "WBO": [
+                1441, 
+                3203, 
+                295, 
+                1691, 
+                1212, 
+                130, 
+                2097, 
+                1468, 
+                2859, 
+                2204, 
+                2280, 
+                1998, 
+                1648, 
+                1752, 
+                912, 
+                1915, 
+                1355, 
+                2844, 
+                2068, 
+                2886, 
+                805, 
+                3158
+            ], 
+            "WBL": [
+                1198
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            12, 
+            30
+        ], 
+        "(4, 12)": {
+            "WBF": [
+                414
+            ], 
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                2214
+            ], 
+            "WBO": [
+                1441, 
+                3203, 
+                295, 
+                1691
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this is probably your best bet if you are looking for a phone in this price range , or like me , do not have the patience to deal with annoying flip phone ."
+    }, 
+    "f3bb75d4d6b62c19c453c3d7a0d1fcd5": {
+        "(3, 5)": {
+            "AM2L": [
+                1355
+            ], 
+            "WBFL": [
+                560
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "one of the best cell phone i have ever used to-date ."
+    }
+}

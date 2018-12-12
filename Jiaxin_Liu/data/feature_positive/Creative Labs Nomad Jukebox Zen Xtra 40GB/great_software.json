@@ -1,0 +1,312 @@
+{
+    "00562a00a0ab2c377658f1ccf279b3bb": {
+        "(0, 8)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                2601
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2631
+            ], 
+            "WBO": [
+                1300, 
+                1522, 
+                2381, 
+                2184
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                3081
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "great sound ; good interface ; replaceable , powerful battery ; good software ; wake-up , sleep timer ; multiple play mode"
+    }, 
+    "3fd077cfdb53680671d6b273e8b56c20": {
+        "(5, 9)": {
+            "WBF": [
+                2204
+            ], 
+            "AM2L": [
+                1724
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                316
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                2835
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be ."
+    }, 
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "(9, 20)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                1859
+            ], 
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                1302
+            ], 
+            "WBO": [
+                985, 
+                2886, 
+                3018, 
+                1055, 
+                2862, 
+                1429, 
+                206
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }, 
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "(5, 19)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                2842, 
+                433, 
+                2844, 
+                1431, 
+                343, 
+                3158, 
+                985, 
+                2886, 
+                3018, 
+                253
+            ], 
+            "WBL": [
+                1143
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(29, 19)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                1143
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2976
+            ], 
+            "WBO": [
+                1541, 
+                2583, 
+                2886, 
+                2976, 
+                253, 
+                3018
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5, 
+            29
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) ."
+    }, 
+    "2155dae2420356df58f64bd1e973732d": {
+        "(4, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1343
+            ], 
+            "BM1F": [
+                790
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                260
+            ], 
+            "WBL": [
+                260
+            ], 
+            "AM2F": [
+                1803
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "d ) software is another great misfortune -- hard to operate , crash frequently , screwed my music library up , doesnt work with mp4s , the list goes on and on"
+    }, 
+    "ec3e6b247f6122e9e8e67e6c3e169ebc": {
+        "(3, 1)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M1_ADJ": [
+                0
+            ], 
+            "M2": [
+                1313
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the software is great ."
+    }, 
+    "d81555f22735886788ea73f1132e3c36": {
+        "(3, 1)": {
+            "AM2L": [
+                1685
+            ], 
+            "WBFL": [
+                3094
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1313
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the software was great , as long as you have an adminstrative user account ( window xp ) ."
+    }
+}

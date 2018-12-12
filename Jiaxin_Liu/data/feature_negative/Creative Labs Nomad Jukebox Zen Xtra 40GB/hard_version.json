@@ -1,0 +1,37 @@
+{
+    "7ab7a3fdf39cb28801ac1dcd470adf13": {
+        "(11, 16)": {
+            "WBF": [
+                728
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                3050
+            ], 
+            "BM1L": [
+                1877
+            ], 
+            "WBO": [
+                1911
+            ], 
+            "WBL": [
+                553
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "but this is * not documented * in the zen manual - neither the hard copy nor the cd version ."
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "c67d6bcd1ecc6effe34a9f8354eddaa0": {
+        "location1": [
+            4, 
+            23
+        ], 
+        "location2": [
+            13
+        ], 
+        "(23, 13)": {
+            "WBF": [
+                438
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                2861
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1151
+            ], 
+            "BM1L": [
+                1595
+            ], 
+            "WBO": [
+                253, 
+                1387, 
+                2676, 
+                1527, 
+                501, 
+                2850
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2215
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(4, 13)": {
+            "WBF": [
+                1797
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                1475, 
+                501, 
+                1978, 
+                386, 
+                1545
+            ], 
+            "WBL": [
+                2861
+            ], 
+            "AM2F": [
+                438
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the phone has a few minor inconvenience , but only because it lack those feature , bluetooth and high spend internet , but there are very few problem with thing that you expected this phone to do ."
+    }, 
+    "fdd4d278af1bf0a366d02bf985906571": {
+        "location1": [
+            23, 
+            31
+        ], 
+        "location2": [
+            3
+        ], 
+        "(31, 3)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                305
+            ], 
+            "BM1F": [
+                410
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1151
+            ], 
+            "BM1L": [
+                1396
+            ], 
+            "WBO": [
+                2859, 
+                2097, 
+                316, 
+                1620, 
+                2886, 
+                1752, 
+                1541, 
+                2842, 
+                1545, 
+                522, 
+                381, 
+                3020, 
+                270, 
+                1468, 
+                2844, 
+                3173, 
+                1074, 
+                130, 
+                1151, 
+                743, 
+                2842, 
+                912, 
+                1915, 
+                3018
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(23, 3)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                410
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1151
+            ], 
+            "BM1L": [
+                1396
+            ], 
+            "WBO": [
+                2859, 
+                2097, 
+                316, 
+                1620, 
+                2886, 
+                1752, 
+                1541, 
+                2842, 
+                1545, 
+                522, 
+                381, 
+                3020, 
+                270, 
+                1468, 
+                2844, 
+                3173
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                743
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "one highly beneficial feature of this phone ( at least to me ) is that it can be used anywhere in the world except a few country that do not use gsm , a few in asia ."
+    }
+}

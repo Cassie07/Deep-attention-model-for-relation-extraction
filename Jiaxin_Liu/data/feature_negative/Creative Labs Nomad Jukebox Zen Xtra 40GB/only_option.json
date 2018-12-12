@@ -1,0 +1,40 @@
+{
+    "bf0a5e500cc50d952088360876e9fd68": {
+        "(1, 6)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                183
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                1996
+            ], 
+            "WBO": [
+                1806
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the only thing missing is an option to adjust the balance ."
+    }
+}

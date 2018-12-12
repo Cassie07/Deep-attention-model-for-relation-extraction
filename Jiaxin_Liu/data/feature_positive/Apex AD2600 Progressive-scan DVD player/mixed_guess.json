@@ -1,0 +1,37 @@
+{
+    "2359d422951fd48bbe8711993ef70ada": {
+        "(0, 3)": {
+            "WBF": [
+                362
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "M1": [
+                1807
+            ], 
+            "M2": [
+                1322
+            ], 
+            "WBO": [
+                1429
+            ], 
+            "WBL": [
+                1429
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "mixed bag i guess but the price was right ."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "4ee8d0b641c875e17446b74fd975c596": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            16
+        ], 
+        "(5, 16)": {
+            "WBF": [
+                2103
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                1759
+            ], 
+            "M2": [
+                2557
+            ], 
+            "BM1L": [
+                1313
+            ], 
+            "WBO": [
+                253, 
+                2844, 
+                329, 
+                1814, 
+                1541, 
+                2837, 
+                1212
+            ], 
+            "WBL": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the macro work great for medical photographs and the auto mode is terrific for point and shoot ."
+    }
+}

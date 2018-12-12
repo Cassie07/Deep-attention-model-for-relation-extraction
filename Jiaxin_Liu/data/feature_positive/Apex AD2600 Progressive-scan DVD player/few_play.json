@@ -1,0 +1,118 @@
+{
+    "ded43ef4232c5c23698e001714547447": {
+        "(8, 9)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                2136
+            ], 
+            "BM1L": [
+                200
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "new cd almost always began skipping after a few play ."
+    }, 
+    "80a2e096524056f7ac5d85b13f7b69fe": {
+        "location1": [
+            36
+        ], 
+        "location2": [
+            25
+        ], 
+        "(36, 25)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                2712
+            ], 
+            "M1": [
+                2136
+            ], 
+            "M2": [
+                1151
+            ], 
+            "BM1L": [
+                961
+            ], 
+            "WBO": [
+                1058, 
+                2844, 
+                2112, 
+                1581, 
+                352, 
+                1468, 
+                200
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1820
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "but about 25 % of dvd 's i 've played on ithave a problem , when watching a movie the picture will freeze , but the dvd still play , and eventualy the picture kick back in after skipping a few moment ."
+    }, 
+    "01718f91df378fcdfc1e18e529d84f5e": {
+        "(6, 13)": {
+            "WBF": [
+                961
+            ], 
+            "AM2L": [
+                1064
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                2136
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                2139, 
+                316, 
+                82
+            ], 
+            "WBL": [
+                522
+            ], 
+            "AM2F": [
+                227
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "this is probably one of the few dvd player at $ 40 that can play almost everything you throw at it ."
+    }
+}

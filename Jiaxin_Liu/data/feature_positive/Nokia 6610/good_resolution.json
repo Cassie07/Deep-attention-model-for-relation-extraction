@@ -1,0 +1,69 @@
+{
+    "f1215750c4fec903ffd2520c9d49c960": {
+        "(4, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2399
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                3052
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the resolution is very good and the color are bright and even changeable !"
+    }, 
+    "29ed127ae5b09fb6a770cea2c209ccf6": {
+        "(9, 10)": {
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2399
+            ], 
+            "BM1L": [
+                2479
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the design is sleek and the color screen has good resolution ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "4a44a69cb955602ceffa932a795dd6aa": {
+        "location1": [
+            19
+        ], 
+        "location2": [
+            24
+        ], 
+        "(19, 24)": {
+            "WBF": [
+                1188
+            ], 
+            "BM1F": [
+                3018
+            ], 
+            "M1": [
+                1099
+            ], 
+            "M2": [
+                595
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                1163
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "bottom line , well made camera , easy to use , very flexible and powerful feature to include the ability to use external flash and lense / filter choice ."
+    }
+}

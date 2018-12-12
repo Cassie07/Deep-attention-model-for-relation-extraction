@@ -1,0 +1,43 @@
+{
+    "bc8cb26f2e111e60b22ac940195a192f": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            14
+        ], 
+        "(11, 14)": {
+            "WBF": [
+                503
+            ], 
+            "AM2L": [
+                984
+            ], 
+            "BM1F": [
+                316
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                1233
+            ], 
+            "BM1L": [
+                3091
+            ], 
+            "WBO": [
+                1945
+            ], 
+            "WBL": [
+                1945
+            ], 
+            "AM2F": [
+                3006
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "short warranty ( 3 month , so i got the extended warranty at best buy ) , occasional freeze up ( easily fixed by popping out battery ) , somewhat flimsy navigation wheel ."
+    }
+}

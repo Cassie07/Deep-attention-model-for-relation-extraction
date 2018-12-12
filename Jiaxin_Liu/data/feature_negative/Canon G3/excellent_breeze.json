@@ -1,0 +1,45 @@
+{
+    "1e4f51a49d87c73315e133f37c3a3ce3": {
+        "(3, 10)": {
+            "WBF": [
+                932
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                465
+            ], 
+            "BM1L": [
+                1254
+            ], 
+            "WBO": [
+                2112, 
+                1541, 
+                2262
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "manual functionality is excellent , downloading picture is quick and a breeze , and the quality is astounding ."
+    }
+}

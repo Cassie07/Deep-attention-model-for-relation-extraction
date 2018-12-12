@@ -1,0 +1,43 @@
+{
+    "858a58b51860cbf88e1296d8838558d1": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            6
+        ], 
+        "(3, 6)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2834
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1468
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it is a good camera in term of the function and quality , but take your chance with it because nikon absolutely suck when it comes to customer service ."
+    }
+}

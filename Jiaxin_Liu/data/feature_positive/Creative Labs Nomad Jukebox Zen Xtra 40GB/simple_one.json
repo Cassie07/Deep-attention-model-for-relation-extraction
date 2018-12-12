@@ -1,0 +1,31 @@
+{
+    "a38439d7c15e4548fd748f4b11dd2e65": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            9
+        ], 
+        "(7, 9)": {
+            "WBFL": [
+                1536
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2583
+            ], 
+            "M2": [
+                1973
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "- the control are much inferior to the simple ipod one ."
+    }
+}

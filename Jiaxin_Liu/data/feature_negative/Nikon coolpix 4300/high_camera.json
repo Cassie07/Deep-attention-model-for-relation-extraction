@@ -1,0 +1,122 @@
+{
+    "e71bfa23d0bac20249b5f7a3754b3ca7": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            13
+        ], 
+        "(9, 13)": {
+            "WBF": [
+                2085
+            ], 
+            "AM2L": [
+                1496
+            ], 
+            "BM1F": [
+                1144
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2923
+            ], 
+            "WBL": [
+                2595
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "after a lengthy and extensive journey for a feature-loaded , high performance , travel size camera , i initially gravitated to this little gem because of the superior picture quality 4 mega pixel ."
+    }, 
+    "d70accb3661a2674ab2766a0dd695dae": {
+        "(15, 5)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2151
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1387
+            ], 
+            "BM1L": [
+                1701
+            ], 
+            "WBO": [
+                3181, 
+                3137, 
+                2332, 
+                2859, 
+                2886, 
+                266
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            5, 
+            20
+        ], 
+        "(15, 20)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                3087
+            ], 
+            "WBO": [
+                2151
+            ], 
+            "WBL": [
+                2557
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "in summary , i love this camera and would whole-heartedly recommend this to anyone wanting a high quality point and shoot camera in the medium price range ."
+    }
+}

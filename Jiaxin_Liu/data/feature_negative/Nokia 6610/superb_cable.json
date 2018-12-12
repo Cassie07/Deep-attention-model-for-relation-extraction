@@ -1,0 +1,48 @@
+{
+    "2788e7b6f62d9a35ddbc41822916180e": {
+        "(5, 15)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                1494
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                2769
+            ], 
+            "M2": [
+                509
+            ], 
+            "BM1L": [
+                1143
+            ], 
+            "WBO": [
+                644, 
+                3158, 
+                1899, 
+                2073, 
+                2764, 
+                2631
+            ], 
+            "WBL": [
+                798
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "the pc sync feature is superb that comes with nokia pc suite software ( with data cable or infrared port or bluetooth ) ."
+    }
+}

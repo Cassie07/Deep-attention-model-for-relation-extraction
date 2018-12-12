@@ -1,0 +1,43 @@
+{
+    "5d8a1adbeeaf90d9f03da0b3810f9ee5": {
+        "(9, 14)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                738
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                942
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                3168
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the software could n't be better and the mp3 player work like a dream , i could n't give this anything but a 5 , i wish there was a 6 ."
+    }
+}

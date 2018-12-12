@@ -1,0 +1,31 @@
+{
+    "bad709d57055304005f6f24f865dccd3": {
+        "(0, 5)": {
+            "WBF": [
+                3094
+            ], 
+            "M1": [
+                2804
+            ], 
+            "M2": [
+                2526
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "t-mobile was a pretty good server ."
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "381645b8c5e4a5a766692ae2bb576665": {
+        "(4, 5)": {
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                2494
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1594
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this is my second creative lab mp3 player , and it is definitely a fine product ."
+    }, 
+    "93b83dad8de467af70db727ec3d5cebc": {
+        "(1, 2)": {
+            "AM2L": [
+                3194
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1594
+            ], 
+            "AM2F": [
+                3210
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the creative lab zen xtra has all the feature the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player ."
+    }, 
+    "b53d62b6c1ff43f2a9f455b5b47ac453": {
+        "(0, 1)": {
+            "AM2L": [
+                2775
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1594
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                781
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "creative lab customer support website is useless ."
+    }, 
+    "aeaf53d9981fcdae134d914c14c3bf3a": {
+        "(7, 8)": {
+            "AM2L": [
+                2637
+            ], 
+            "BM1F": [
+                1417
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1594
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "overall it is a great unit & hopefully creative lab or some other vendor will soon come out with some accessory for it ."
+    }, 
+    "c7f5cceaff97a5d0b302626a5fbb9eca": {
+        "(9, 10)": {
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1594
+            ], 
+            "BM1L": [
+                1295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                201
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "i love this player and would probably go with creative lab again ."
+    }, 
+    "20ba4c4b32823c2ce57fa535aeed926f": {
+        "(27, 28)": {
+            "BM1F": [
+                1241
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1594
+            ], 
+            "BM1L": [
+                1083
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "i have n't had time to really push this player to the limit , but audio aspect on the nomad are satisfactory , as should be expected from creative lab ."
+    }
+}

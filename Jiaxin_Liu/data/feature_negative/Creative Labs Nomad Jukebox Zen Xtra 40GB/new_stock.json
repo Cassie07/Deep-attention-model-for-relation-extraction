@@ -1,0 +1,43 @@
+{
+    "d0b9db1d064aee4b746b67671efad50e": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            10
+        ], 
+        "(7, 10)": {
+            "WBF": [
+                1366
+            ], 
+            "AM2L": [
+                2761
+            ], 
+            "BM1F": [
+                503
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                2716
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1973
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "you 're going to need to buy new headphone , the stock one suck"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "6513c98716058aac2f83fc6564af3fd0": {
+        "location1": [
+            6, 
+            18
+        ], 
+        "location2": [
+            30
+        ], 
+        "(6, 30)": {
+            "WBF": [
+                1827
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                2491
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "WBO": [
+                253, 
+                1545, 
+                2296, 
+                1832, 
+                894, 
+                501, 
+                1545, 
+                3181, 
+                1915, 
+                2327, 
+                2533, 
+                894, 
+                2842, 
+                3120, 
+                611, 
+                253, 
+                2296, 
+                1967, 
+                2011, 
+                2139
+            ], 
+            "WBL": [
+                1238
+            ], 
+            "AM2F": [
+                39
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(18, 30)": {
+            "WBF": [
+                894
+            ], 
+            "BM1F": [
+                2327
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                2491
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "WBO": [
+                2842, 
+                3120, 
+                611, 
+                253, 
+                2296, 
+                1967, 
+                2011, 
+                2139
+            ], 
+            "WBL": [
+                1238
+            ], 
+            "AM2F": [
+                39
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i 've had this player for several month and it read most discs , but it would not recognize several discs that were clean and read on other player ( from friend season 2 ) ."
+    }
+}

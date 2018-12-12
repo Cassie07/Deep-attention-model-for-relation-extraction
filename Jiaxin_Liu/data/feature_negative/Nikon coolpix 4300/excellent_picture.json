@@ -1,0 +1,124 @@
+{
+    "164dda298348d815567dec7d16e56e32": {
+        "(23, 21)": {
+            "AM2L": [
+                76
+            ], 
+            "WBFL": [
+                295
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(23, 53)": {
+            "WBF": [
+                3158
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                2112
+            ], 
+            "WBO": [
+                76, 
+                2125, 
+                1168, 
+                642, 
+                253, 
+                1737, 
+                1951, 
+                2844, 
+                3024, 
+                1252, 
+                295, 
+                3052, 
+                2582, 
+                2886, 
+                2613, 
+                1815, 
+                253, 
+                3158, 
+                174, 
+                717, 
+                1951, 
+                130, 
+                875, 
+                520, 
+                2842, 
+                3203
+            ], 
+            "WBL": [
+                2496
+            ], 
+            "AM2F": [
+                1454
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            21, 
+            53
+        ], 
+        "sentence": "recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that quality of the picture are excellent with 3m-4m pixel / fine combo and many of the user-friendly function are very similar to slr model , and with added convenience of a digital camera that you can see picture immediately ."
+    }, 
+    "a245cc8c0d049db1f832f29a7c5409f3": {
+        "(4, 1)": {
+            "WBF": [
+                2260
+            ], 
+            "BM1F": [
+                110
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1072
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "7 picture quality is excellent ."
+    }
+}

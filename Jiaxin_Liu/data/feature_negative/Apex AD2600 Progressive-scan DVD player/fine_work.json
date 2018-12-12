@@ -1,0 +1,136 @@
+{
+    "01bd9627b997fb43d6e384241050849a": {
+        "(12, 11)": {
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                1168
+            ], 
+            "BM1L": [
+                845
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "as a whole , the dvd player has a sleek design and work fine ."
+    }, 
+    "328564a122898c77ba7fd6bd1d5f8da8": {
+        "(5, 4)": {
+            "AM2L": [
+                1064
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                1168
+            ], 
+            "BM1L": [
+                2500
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "this player seems to work fine with everything else ."
+    }, 
+    "cc11c712dec9b78a5e6186104998785b": {
+        "(3, 2)": {
+            "AM2L": [
+                2011
+            ], 
+            "BM1F": [
+                2712
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                1168
+            ], 
+            "BM1L": [
+                1973
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "one still work fine , the other quit after one day ."
+    }, 
+    "98987f7c3d051f108c91a160e1342d6f": {
+        "(15, 14)": {
+            "AM2L": [
+                2016
+            ], 
+            "BM1F": [
+                3170
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                1168
+            ], 
+            "BM1L": [
+                1793
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2426
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "i checked out the amazon review and i 'm pleased to say mine worked , work , fine right out of the box ."
+    }
+}

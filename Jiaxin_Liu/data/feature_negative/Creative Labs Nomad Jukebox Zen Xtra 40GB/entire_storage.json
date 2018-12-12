@@ -1,0 +1,75 @@
+{
+    "8d1f6697eefabe40a2bed7c33818a32d": {
+        "(4, 2)": {
+            "AM2L": [
+                633
+            ], 
+            "WBFL": [
+                1856
+            ], 
+            "BM1F": [
+                419
+            ], 
+            "M1": [
+                2725
+            ], 
+            "M2": [
+                1036
+            ], 
+            "BM1L": [
+                17
+            ], 
+            "AM2F": [
+                553
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "12 ) big storage - my entire cd collection in one small device ( 5717 song , 491 album and counting ) !"
+    }, 
+    "39e04a3877da6e2dd43afd9b1587c5f3": {
+        "(6, 1)": {
+            "WBF": [
+                2660
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                1426
+            ], 
+            "M1": [
+                2725
+            ], 
+            "M2": [
+                1036
+            ], 
+            "WBO": [
+                1429
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                633
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "huge storage space , i loaded my entire collection of music , which isnt that much , 400 song , and still have 26 gb , out of the 28 provided to you ."
+    }
+}

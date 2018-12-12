@@ -1,0 +1,102 @@
+{
+    "f8e21ab1b8a57bce5633ca8027b19bb4": {
+        "(4, 18)": {
+            "WBF": [
+                3100
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                2022
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2886, 
+                2572, 
+                1853, 
+                416, 
+                2658, 
+                3203, 
+                522, 
+                5, 
+                912, 
+                2859
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1074
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            18, 
+            26
+        ], 
+        "(4, 26)": {
+            "WBF": [
+                3100
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                2022
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2886, 
+                2572, 
+                1853, 
+                416, 
+                2658, 
+                3203, 
+                522, 
+                5, 
+                912, 
+                2859, 
+                1967, 
+                2844, 
+                1536, 
+                1074, 
+                1212, 
+                130, 
+                774, 
+                3169
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the zen is an outstanding way to shuttle music between source , you can 't do this on the ipod ( except for a cumbersome work-around using the ipod as a hard drive instead of a player ) ."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "0a6d08e7c3843ce6c1cd49c684cfb9e0": {
+        "(7, 12)": {
+            "WBF": [
+                1436
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                628
+            ], 
+            "BM1L": [
+                3094
+            ], 
+            "WBO": [
+                2886
+            ], 
+            "WBL": [
+                1634
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "scroll button - the scroll wheel was a nice idea to keep less clutter , but the button would sometimes get stuck or keep scrolling ."
+    }
+}

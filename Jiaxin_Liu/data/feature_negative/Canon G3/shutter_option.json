@@ -1,0 +1,119 @@
+{
+    "dfd88ca0008f555cb2ee50c9bc7364bd": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            4
+        ], 
+        "(10, 4)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1996
+            ], 
+            "M2": [
+                2570
+            ], 
+            "BM1L": [
+                1357
+            ], 
+            "WBO": [
+                1732, 
+                715
+            ], 
+            "WBL": [
+                1107
+            ], 
+            "AM2F": [
+                2674
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i love having the option to manually control the f-stop , shutter speed and even focus ."
+    }, 
+    "075cbfa6d23b531fc7100bc9ad7dcd00": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            24
+        ], 
+        "(14, 24)": {
+            "WBF": [
+                2674
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2570
+            ], 
+            "M2": [
+                1996
+            ], 
+            "BM1L": [
+                2505
+            ], 
+            "WBO": [
+                253, 
+                274, 
+                3160, 
+                1357, 
+                2886, 
+                1250
+            ], 
+            "WBL": [
+                1773
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the manual mode is easy to use with fast access for the selection of shutter speed and aperture without having to fumble through menu option ."
+    }, 
+    "41d67c7360f1eaff9b82be88ea00f3d7": {
+        "(11, 10)": {
+            "AM2L": [
+                273
+            ], 
+            "BM1F": [
+                185
+            ], 
+            "M1": [
+                1996
+            ], 
+            "M2": [
+                2570
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "i have yet to try using all of the adjustment option : shutter priority , aperature priority , light metering adjustment , etc . , but all control are well thought out and and the manual is relatively clear ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "20213c2657b8735b886c7d729880f2ad": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            23
+        ], 
+        "(22, 23)": {
+            "AM2L": [
+                522
+            ], 
+            "BM1F": [
+                3085
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                2182
+            ], 
+            "BM1L": [
+                3203
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "although canon 's battery are proprietary , they last a really long time , recharge fairly quickly in the camera , plus if you want ' more power ' , you can even find a knockoff charger and spare battery right here on amazon ."
+    }
+}

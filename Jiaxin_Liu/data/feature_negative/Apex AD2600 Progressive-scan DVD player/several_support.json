@@ -1,0 +1,88 @@
+{
+    "62e789092dd8cdbdc780fb92af24cb33": {
+        "(3, 12)": {
+            "WBF": [
+                2878
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2932
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                2775
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                2886, 
+                705, 
+                275, 
+                875, 
+                2867
+            ], 
+            "WBL": [
+                1968
+            ], 
+            "AM2F": [
+                2591
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "i have tried several time to contact apex digital through their on-line support site and their telephone line , but they wo n't answer my email and their telephone line is always busy ."
+    }, 
+    "4e76cc39ae9044560ecd410fbbf8ce76": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            4
+        ], 
+        "(9, 4)": {
+            "WBF": [
+                1929
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2775
+            ], 
+            "M2": [
+                2533
+            ], 
+            "BM1L": [
+                516
+            ], 
+            "WBO": [
+                1212
+            ], 
+            "WBL": [
+                3110
+            ], 
+            "AM2F": [
+                2878
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i tried calling the support number for a week , several time a day , and always got a busy signal ."
+    }
+}

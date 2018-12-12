@@ -1,0 +1,74 @@
+{
+    "9f2d19f4f15b79be42e96d4df6d23921": {
+        "(0, 15)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                185
+            ], 
+            "WBO": [
+                3094, 
+                2844, 
+                2457, 
+                416, 
+                2844, 
+                2952, 
+                501, 
+                2844, 
+                3210, 
+                863, 
+                1355
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0, 
+            14
+        ], 
+        "location2": [
+            15
+        ], 
+        "(14, 15)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1829
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                185
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "sound quality was the same between the two , but the zen did have more sound adjustment with the normal eax feature ."
+    }
+}

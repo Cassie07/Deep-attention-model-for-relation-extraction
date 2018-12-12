@@ -1,0 +1,87 @@
+{
+    "d7971a11f5508d7b68fd3dc153dd2301": {
+        "(16, 23)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                264
+            ], 
+            "WBO": [
+                316, 
+                2842, 
+                2595
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "well surely this is a product that i recommend someone in getting rather than any other mp3 player ( at that size and the price ) ."
+    }, 
+    "4eb5f2954876bf5f8cf65bf5ee5d832b": {
+        "(17, 2)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                697
+            ], 
+            "WBO": [
+                2672, 
+                2859, 
+                1788, 
+                381, 
+                2844, 
+                413, 
+                503, 
+                2016, 
+                2850, 
+                1212, 
+                130
+            ], 
+            "WBL": [
+                1770
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "considering the price and specs , this might be the best buy out there for a large memory mp3 player ."
+    }
+}

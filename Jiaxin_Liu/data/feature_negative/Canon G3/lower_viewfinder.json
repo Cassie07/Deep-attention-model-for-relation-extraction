@@ -1,0 +1,126 @@
+{
+    "48c9089c4729e58f320f3da81288ee13": {
+        "sentence": "to address two previous somewhat negative review : ( 1 ) yes , the lens barrel does obstruct part of the lower left corner in the lens viewfinder ; however , the lcd viewfinder is rather stunning and i find myself rarely using the lens viewfinder .", 
+        "(17, 27)": {
+            "WBF": [
+                1625
+            ], 
+            "AM2L": [
+                2287
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1705
+            ], 
+            "M2": [
+                3062
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                730, 
+                1468, 
+                2844, 
+                1632, 
+                3062, 
+                1425
+            ], 
+            "WBL": [
+                1615
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location2": [
+            23, 
+            27, 
+            39
+        ], 
+        "location1": [
+            17
+        ], 
+        "(17, 23)": {
+            "WBF": [
+                1625
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1705
+            ], 
+            "M2": [
+                3062
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                730, 
+                1468
+            ], 
+            "WBL": [
+                1632
+            ], 
+            "AM2F": [
+                1425
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(17, 39)": {
+            "WBF": [
+                1625
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1705
+            ], 
+            "M2": [
+                3062
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                730, 
+                1468, 
+                2844, 
+                1632, 
+                3062, 
+                1425, 
+                2844, 
+                1615, 
+                3062, 
+                1541, 
+                2287, 
+                2744, 
+                253, 
+                1429, 
+                1165, 
+                1858, 
+                2284, 
+                3026
+            ], 
+            "WBL": [
+                1632
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }
+}

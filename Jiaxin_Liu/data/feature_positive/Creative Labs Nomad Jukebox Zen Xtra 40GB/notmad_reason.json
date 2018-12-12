@@ -1,0 +1,45 @@
+{
+    "2f4b1a4eefb0c421b14cc034af6fd056": {
+        "location1": [
+            19
+        ], 
+        "location2": [
+            9
+        ], 
+        "(19, 9)": {
+            "WBF": [
+                1429
+            ], 
+            "BM1F": [
+                1978
+            ], 
+            "M1": [
+                2305
+            ], 
+            "M2": [
+                1924
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                239, 
+                1342, 
+                3158, 
+                1545, 
+                1541, 
+                386
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "given that i already have the zen the only reason i am happy with it is because of the notmad software ."
+    }
+}

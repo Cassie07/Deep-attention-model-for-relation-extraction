@@ -1,0 +1,171 @@
+{
+    "4609198e9495aeb97d0e1704b1f11136": {
+        "(4, 10)": {
+            "WBF": [
+                1691
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                1431
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2479
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                2139, 
+                385
+            ], 
+            "WBL": [
+                353
+            ], 
+            "AM2F": [
+                1441
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(39, 10)": {
+            "WBF": [
+                1441
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                353
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                436
+            ], 
+            "WBO": [
+                3203, 
+                6, 
+                2296, 
+                134, 
+                2844, 
+                2139, 
+                2637, 
+                1355, 
+                665, 
+                134, 
+                2844, 
+                1595, 
+                1951, 
+                130, 
+                3063, 
+                1407, 
+                1212, 
+                2844, 
+                1110, 
+                3124, 
+                2844, 
+                541, 
+                1541, 
+                1967, 
+                501
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                386
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4, 
+            39
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "much cheaper than i-pod good looking player ( beautiful blue back-lit screen ) if you 've read about the player , some have complained about the lack of a viewing hole for the face when the case is on , but this is good because the face does n't get damaged / scratched fast transfer rate"
+    }, 
+    "86231998768f09496e0db50c3fc87fcb": {
+        "(2, 0)": {
+            "AM2L": [
+                2886
+            ], 
+            "WBFL": [
+                3094
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                1300
+            ], 
+            "AM2F": [
+                985
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "+ screen was good , easy to read"
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(10, 13)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                2304
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2479
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

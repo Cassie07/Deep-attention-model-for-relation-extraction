@@ -1,0 +1,94 @@
+{
+    "c8a04e62ab057c0a7bce58982ce6cae8": {
+        "(4, 10)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                469
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2296, 
+                253
+            ], 
+            "WBL": [
+                436
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the screen is very easy to read and the blue light is bright enough to read at night , but dim enough so it does n't blind you when you stare too long ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(34, 20)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                436
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844, 
+                352, 
+                1541, 
+                2083, 
+                1136, 
+                304, 
+                1378, 
+                1468, 
+                1853, 
+                2916
+            ], 
+            "WBL": [
+                295
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            34
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

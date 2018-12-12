@@ -1,0 +1,48 @@
+{
+    "42f9a3d24c13151b0c3eee5b5a85dd48": {
+        "(21, 37)": {
+            "WBF": [
+                2540
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                2970
+            ], 
+            "M2": [
+                1331
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                2628, 
+                1545, 
+                2814, 
+                130, 
+                419, 
+                1279, 
+                3020, 
+                2886, 
+                1212, 
+                2638, 
+                1648, 
+                1752
+            ], 
+            "WBL": [
+                419
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            37
+        ], 
+        "sentence": "this model does have the traditional key arrangement , it 's just that they are really close to one another , and have unconventional shape , so it takes a big getting used to for someone like me with big hand ."
+    }
+}

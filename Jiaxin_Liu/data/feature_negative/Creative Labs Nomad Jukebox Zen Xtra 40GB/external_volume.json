@@ -1,0 +1,88 @@
+{
+    "e781c09e3c443732c8f53703efb0b736": {
+        "(11, 4)": {
+            "WBF": [
+                3124
+            ], 
+            "AM2L": [
+                532
+            ], 
+            "BM1F": [
+                1030
+            ], 
+            "M1": [
+                3074
+            ], 
+            "M2": [
+                1099
+            ], 
+            "BM1L": [
+                2244
+            ], 
+            "WBO": [
+                690, 
+                2886, 
+                1604
+            ], 
+            "WBL": [
+                1998
+            ], 
+            "AM2F": [
+                2314
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "* does not provide enough volume when connected to larger headphone , or external receiver ( car radio ) ."
+    }, 
+    "68dfe1e6439e1d2fafdd1dcf2ce1d498": {
+        "(16, 6)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3074
+            ], 
+            "M2": [
+                1099
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1829, 
+                2840, 
+                2461, 
+                1212, 
+                652, 
+                253
+            ], 
+            "WBL": [
+                2016
+            ], 
+            "AM2F": [
+                1897
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the sound is great , and the volume is more than satisfactory for commute and shutting out external noise ."
+    }
+}

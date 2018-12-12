@@ -1,0 +1,43 @@
+{
+    "faecff2a9f98008034e071e9ea118f8f": {
+        "(22, 26)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                2260
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1735
+            ], 
+            "BM1L": [
+                403
+            ], 
+            "WBO": [
+                2637
+            ], 
+            "WBL": [
+                1470
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "enough people have reported that their headphone jack does n't work after a month of using the device to believe that creative has some inbuilt manufacturing or quality control problem ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "6bff76f5401264648b027c7bc10b42de": {
+        "(3, 5)": {
+            "AM2L": [
+                1967
+            ], 
+            "WBFL": [
+                1651
+            ], 
+            "BM1F": [
+                502
+            ], 
+            "M1": [
+                1870
+            ], 
+            "M2": [
+                1261
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "all the button & neccessary lil ' gadget are on the side of the player which is nice for when you are holding it in the palm of your hand ."
+    }
+}

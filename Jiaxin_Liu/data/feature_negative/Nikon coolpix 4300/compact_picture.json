@@ -1,0 +1,59 @@
+{
+    "22acb9431eff5025a15adbaf9c736917": {
+        "(1, 25)": {
+            "WBF": [
+                875
+            ], 
+            "AM2L": [
+                2847
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                653
+            ], 
+            "M2": [
+                2112
+            ], 
+            "WBO": [
+                520, 
+                1541, 
+                1051, 
+                3021, 
+                1441, 
+                3203, 
+                1355, 
+                1669, 
+                592, 
+                298, 
+                253, 
+                3203, 
+                522, 
+                238, 
+                2812, 
+                2844, 
+                520, 
+                3158, 
+                3203, 
+                253
+            ], 
+            "WBL": [
+                1737
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "the compact digital camera is especially useful if you have little child around and you can always take the camera with you and take many picture of them ."
+    }
+}

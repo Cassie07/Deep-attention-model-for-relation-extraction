@@ -1,0 +1,87 @@
+{
+    "f0c0c8d21d612bb7b910accde1d355fe": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            6
+        ], 
+        "(15, 6)": {
+            "WBF": [
+                1967
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBO": [
+                1545, 
+                2850, 
+                1351, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                2215
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "now that i have all my music on it there has n't been any more problem ."
+    }, 
+    "bbaf3f10e9f4fa129011180196717cd9": {
+        "(27, 14)": {
+            "WBF": [
+                1156
+            ], 
+            "BM1F": [
+                1064
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "WBO": [
+                1429, 
+                1355, 
+                1541, 
+                1967, 
+                2850, 
+                3158, 
+                2441, 
+                1212, 
+                134
+            ], 
+            "WBL": [
+                95
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "with 40gb of storage i have about 7,500 song on the player ( everything music file i have is on there ) with room for about 2,500 more ."
+    }
+}

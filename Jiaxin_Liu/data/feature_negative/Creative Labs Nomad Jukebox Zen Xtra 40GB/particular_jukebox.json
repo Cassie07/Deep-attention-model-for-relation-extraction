@@ -1,0 +1,46 @@
+{
+    "ea4fb8598a87486371fe751a009ec959": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            10
+        ], 
+        "(2, 10)": {
+            "WBF": [
+                2644
+            ], 
+            "AM2L": [
+                1136
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2063
+            ], 
+            "M2": [
+                1566
+            ], 
+            "BM1L": [
+                1167
+            ], 
+            "WBO": [
+                2451, 
+                1998, 
+                216, 
+                1967
+            ], 
+            "WBL": [
+                1901
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "finding a particular song ( s ) or album on the nomad jukebox is fast and easy ."
+    }
+}

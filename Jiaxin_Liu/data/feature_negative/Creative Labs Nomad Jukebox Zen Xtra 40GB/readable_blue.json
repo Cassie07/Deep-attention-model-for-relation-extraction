@@ -1,0 +1,41 @@
+{
+    "97de56d8b2c770f71d198ee46e6dacfb": {
+        "(11, 20)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                2297
+            ], 
+            "M2": [
+                436
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                917, 
+                1859, 
+                5, 
+                643, 
+                1468
+            ], 
+            "WBL": [
+                2034
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "the screen may be a little smaller , but it is very readable and does n't come in the overused blue ."
+    }
+}

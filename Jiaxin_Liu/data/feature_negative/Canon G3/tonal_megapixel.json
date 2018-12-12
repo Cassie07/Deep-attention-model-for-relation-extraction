@@ -1,0 +1,43 @@
+{
+    "f774d50a8c6d2e482b4e764362bf0ccb": {
+        "location1": [
+            21
+        ], 
+        "location2": [
+            16
+        ], 
+        "(21, 16)": {
+            "WBF": [
+                874
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                80
+            ], 
+            "M1": [
+                1765
+            ], 
+            "M2": [
+                2894
+            ], 
+            "BM1L": [
+                776
+            ], 
+            "WBO": [
+                1241
+            ], 
+            "WBL": [
+                850
+            ], 
+            "AM2F": [
+                363
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "overall , the g3 delivers what must be considered the best image quality of any current > 4 megapixel digicams , from a detail , tonal balance and color response point of view ."
+    }
+}

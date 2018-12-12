@@ -1,0 +1,52 @@
+{
+    "5af90fdafd59b525226aefa2ffc9fd00": {
+        "(28, 14)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                394
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1086
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                2299, 
+                2844, 
+                2011, 
+                2417, 
+                1429, 
+                2855, 
+                1429, 
+                3145, 
+                381, 
+                919
+            ], 
+            "WBL": [
+                1669
+            ], 
+            "AM2F": [
+                1410
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            28
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "i read in consumer report that apex is a reliable brand , but with my experience and reading the other review , i think i will be doing a little more homework before considering another apex product ."
+    }
+}

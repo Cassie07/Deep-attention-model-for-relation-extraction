@@ -1,0 +1,89 @@
+{
+    "4e3e16c7d6dc2759d671c13215fece25": {
+        "(33, 9)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2576
+            ], 
+            "M2": [
+                2083
+            ], 
+            "BM1L": [
+                3110
+            ], 
+            "WBO": [
+                1351, 
+                392, 
+                1313, 
+                1468, 
+                2844, 
+                856, 
+                296, 
+                2756, 
+                253, 
+                1468, 
+                1856, 
+                2317, 
+                2437, 
+                2934, 
+                416, 
+                856, 
+                253, 
+                1914, 
+                1577, 
+                602
+            ], 
+            "WBL": [
+                1087
+            ], 
+            "AM2F": [
+                2576
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            33
+        ], 
+        "location2": [
+            9, 
+            34
+        ], 
+        "(33, 34)": {
+            "AM2L": [
+                2319
+            ], 
+            "BM1F": [
+                1087
+            ], 
+            "M1": [
+                2083
+            ], 
+            "M2": [
+                2576
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i have had the phone for 1 week , the signal quality has been great in the detroit area ( suburb ) and in my recent road trip between detroit and northern kentucky ( cincinnati ) i experienced perfect signal and reception along i-75 , far superior to at & # 38 ; t 's which does not work along several long stretch on that same route ."
+    }
+}

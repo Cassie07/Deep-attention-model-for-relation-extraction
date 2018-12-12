@@ -1,0 +1,75 @@
+{
+    "d460f81b43998cfb748cde2be9836aec": {
+        "(16, 18)": {
+            "AM2L": [
+                130
+            ], 
+            "WBFL": [
+                961
+            ], 
+            "BM1F": [
+                197
+            ], 
+            "M1": [
+                1849
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(16, 6)": {
+            "WBF": [
+                3094
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1849
+            ], 
+            "BM1L": [
+                3110
+            ], 
+            "WBO": [
+                1064, 
+                1429, 
+                1083, 
+                1545, 
+                2886, 
+                381
+            ], 
+            "WBL": [
+                197
+            ], 
+            "AM2F": [
+                961
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            6, 
+            18
+        ], 
+        "sentence": "for the first few week , this player was everything i expected it to be , an affordable multi-format dvd player with a stylish slim case as advertised ."
+    }
+}

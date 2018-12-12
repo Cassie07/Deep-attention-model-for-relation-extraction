@@ -1,0 +1,37 @@
+{
+    "922bdfb560dc1c43d64652c25daaa354": {
+        "(4, 7)": {
+            "WBF": [
+                2529
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                3166
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                1951
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the camera has a wonderful set of feature ."
+    }
+}

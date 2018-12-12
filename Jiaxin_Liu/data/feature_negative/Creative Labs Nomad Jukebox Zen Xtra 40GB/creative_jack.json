@@ -1,0 +1,102 @@
+{
+    "faecff2a9f98008034e071e9ea118f8f": {
+        "(22, 7)": {
+            "WBF": [
+                917
+            ], 
+            "AM2L": [
+                2637
+            ], 
+            "BM1F": [
+                1366
+            ], 
+            "M1": [
+                1552
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2846
+            ], 
+            "WBO": [
+                1859, 
+                5, 
+                3168, 
+                200, 
+                130, 
+                1827, 
+                1951, 
+                3026, 
+                2844, 
+                858, 
+                2886
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "enough people have reported that their headphone jack does n't work after a month of using the device to believe that creative has some inbuilt manufacturing or quality control problem ."
+    }, 
+    "ea590102fe54b3305e3c92c7f680c4d9": {
+        "(0, 25)": {
+            "WBF": [
+                3210
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1552
+            ], 
+            "WBO": [
+                1146, 
+                2762, 
+                1241, 
+                703, 
+                2260, 
+                2157, 
+                2221, 
+                2775, 
+                872, 
+                1951, 
+                3026, 
+                2844, 
+                2484, 
+                3123, 
+                253, 
+                2307, 
+                698, 
+                1146, 
+                134, 
+                2215, 
+                3158
+            ], 
+            "WBL": [
+                1366
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "creative zen feedback suffers from construction quality , poor product support , difficulty of using the scroll wheel and reasonably consistent feedback about problem with the headphone jack ."
+    }
+}

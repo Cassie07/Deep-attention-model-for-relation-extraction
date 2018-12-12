@@ -1,0 +1,76 @@
+{
+    "fcf866589e0cd5066cdb86f7e386fe2e": {
+        "(26, 6)": {
+            "WBF": [
+                3124
+            ], 
+            "BM1F": [
+                2961
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                638
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1545, 
+                644, 
+                2886, 
+                373, 
+                1143, 
+                501, 
+                1429, 
+                3094, 
+                903, 
+                3124, 
+                1429, 
+                2468, 
+                2842, 
+                1545, 
+                3094, 
+                1978
+            ], 
+            "WBL": [
+                1321
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            26
+        ], 
+        "location2": [
+            6, 
+            27
+        ], 
+        "(26, 27)": {
+            "BM1F": [
+                1321
+            ], 
+            "M1": [
+                638
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i thought this was the ultimate phone when it comes to basic feature , but i was dissapointed when i saw that it was only a gsm comaptible phone ."
+    }
+}

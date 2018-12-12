@@ -1,0 +1,43 @@
+{
+    "e781c09e3c443732c8f53703efb0b736": {
+        "(8, 4)": {
+            "WBF": [
+                3124
+            ], 
+            "AM2L": [
+                1998
+            ], 
+            "BM1F": [
+                1030
+            ], 
+            "M1": [
+                3074
+            ], 
+            "M2": [
+                1604
+            ], 
+            "BM1L": [
+                2244
+            ], 
+            "WBO": [
+                690
+            ], 
+            "WBL": [
+                2886
+            ], 
+            "AM2F": [
+                1366
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "* does not provide enough volume when connected to larger headphone , or external receiver ( car radio ) ."
+    }
+}

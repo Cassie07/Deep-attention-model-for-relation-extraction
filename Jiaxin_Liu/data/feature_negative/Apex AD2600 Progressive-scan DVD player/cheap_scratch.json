@@ -1,0 +1,37 @@
+{
+    "168375c1396ae73de3fde98510ddc928": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            9
+        ], 
+        "(7, 9)": {
+            "AM2L": [
+                2844
+            ], 
+            "WBFL": [
+                2615
+            ], 
+            "BM1F": [
+                2628
+            ], 
+            "M1": [
+                580
+            ], 
+            "M2": [
+                2477
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the build quality show why its so cheap - small scratch on the base plate , something that you would n't see on a sony and an overall plasticky feel"
+    }
+}

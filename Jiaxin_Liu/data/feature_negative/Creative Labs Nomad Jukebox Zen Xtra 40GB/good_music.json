@@ -1,0 +1,99 @@
+{
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            30
+        ], 
+        "(10, 30)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                715
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                2844, 
+                2479, 
+                1541, 
+                2304, 
+                419, 
+                253, 
+                2844, 
+                436, 
+                1644, 
+                1468, 
+                2844, 
+                352, 
+                1541, 
+                2083, 
+                1136, 
+                304
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                2916
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "366990c55e8589617438949b2756f2f4": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            6
+        ], 
+        "(3, 6)": {
+            "WBF": [
+                805
+            ], 
+            "AM2L": [
+                798
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1212
+            ], 
+            "WBL": [
+                1212
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this is a good deal for music and data storage ."
+    }
+}

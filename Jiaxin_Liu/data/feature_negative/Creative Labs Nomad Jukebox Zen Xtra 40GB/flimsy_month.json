@@ -1,0 +1,100 @@
+{
+    "cef7009c693118f1f13f7521c361b2de": {
+        "(31, 19)": {
+            "WBF": [
+                386
+            ], 
+            "BM1F": [
+                103
+            ], 
+            "M1": [
+                1827
+            ], 
+            "M2": [
+                1196
+            ], 
+            "BM1L": [
+                1885
+            ], 
+            "WBO": [
+                304, 
+                2011, 
+                2418, 
+                1355, 
+                2153, 
+                2016, 
+                2844, 
+                703
+            ], 
+            "WBL": [
+                2199
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            31
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "i fully expect it to go bad again in the same or some other way in the next 6 month because , as other reviewer have pointed out , the construction is pretty flimsy ."
+    }, 
+    "bc8cb26f2e111e60b22ac940195a192f": {
+        "location1": [
+            23
+        ], 
+        "location2": [
+            3
+        ], 
+        "(23, 3)": {
+            "WBF": [
+                2628
+            ], 
+            "AM2L": [
+                3123
+            ], 
+            "BM1F": [
+                62
+            ], 
+            "M1": [
+                1827
+            ], 
+            "M2": [
+                1196
+            ], 
+            "BM1L": [
+                3091
+            ], 
+            "WBO": [
+                1429, 
+                1302, 
+                2844, 
+                1096, 
+                3091, 
+                316, 
+                413, 
+                503, 
+                1945, 
+                1233, 
+                3006, 
+                984, 
+                1184, 
+                507, 
+                2162, 
+                2016
+            ], 
+            "WBL": [
+                2642
+            ], 
+            "AM2F": [
+                1865
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "short warranty ( 3 month , so i got the extended warranty at best buy ) , occasional freeze up ( easily fixed by popping out battery ) , somewhat flimsy navigation wheel ."
+    }
+}

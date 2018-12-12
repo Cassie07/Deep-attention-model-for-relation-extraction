@@ -1,0 +1,37 @@
+{
+    "60918d91db20f0758f77fc85122e79da": {
+        "(5, 6)": {
+            "AM2L": [
+                1141
+            ], 
+            "BM1F": [
+                1669
+            ], 
+            "M1": [
+                787
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1856
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "it has lot of little cute feature , my favorite being the game and the pim ( personal information manager -- i.e . organizer ) , and the radio !"
+    }
+}

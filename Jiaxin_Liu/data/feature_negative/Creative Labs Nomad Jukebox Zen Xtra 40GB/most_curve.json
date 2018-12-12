@@ -1,0 +1,47 @@
+{
+    "b9c3cfb01eca2d647b08e3a4c809cc68": {
+        "(7, 16)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2197
+            ], 
+            "BM1F": [
+                3168
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                778
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2844, 
+                2878, 
+                501, 
+                2850, 
+                1541
+            ], 
+            "WBL": [
+                1619
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the scroll wheel is finicky ; it work most of the time but there is a learning curve for pressing it just right ; new user say they have 50 % - 75 % success rate ; some find it so frustrating that they just return the device ."
+    }
+}

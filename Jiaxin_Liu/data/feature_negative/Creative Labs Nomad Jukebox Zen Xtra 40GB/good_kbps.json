@@ -1,0 +1,139 @@
+{
+    "ee31d7df41f71e9ae037cdf06e1512c9": {
+        "(23, 5)": {
+            "WBF": [
+                3162
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                30
+            ], 
+            "M1": [
+                1574
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1156, 
+                2654, 
+                1570, 
+                304, 
+                1300, 
+                304, 
+                2844, 
+                2658, 
+                553, 
+                253, 
+                2844, 
+                3210, 
+                3194, 
+                2654
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(11, 5)": {
+            "WBF": [
+                3162
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                30
+            ], 
+            "M1": [
+                1574
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1156, 
+                2654
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11, 
+            23
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "to my ear , a 160 kbps wma file sound just as good as the source cd , and the zen xtra sound just as good as a portable cd player ."
+    }, 
+    "c82d2cdb00de9ac0588234c023aef4ca": {
+        "location1": [
+            21
+        ], 
+        "location2": [
+            8
+        ], 
+        "(21, 8)": {
+            "WBF": [
+                3162
+            ], 
+            "AM2L": [
+                134
+            ], 
+            "BM1F": [
+                30
+            ], 
+            "M1": [
+                1574
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1529
+            ], 
+            "WBO": [
+                1156, 
+                2859, 
+                1287, 
+                251, 
+                340, 
+                1951, 
+                298, 
+                105, 
+                1750
+            ], 
+            "WBL": [
+                553
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i am ripping my cd collection into 160 kbps wma file ; this gives an average of around 60-65 mb per cd , good for about 900 cd in the ~ 57,000 mb of free memory available to me ."
+    }
+}

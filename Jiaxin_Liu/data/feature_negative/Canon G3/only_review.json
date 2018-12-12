@@ -1,0 +1,91 @@
+{
+    "0c497fa3be9389b212b112840b0bb06e": {
+        "(2, 8)": {
+            "WBF": [
+                1627
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2417
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBO": [
+                769, 
+                1241
+            ], 
+            "WBL": [
+                1977
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "about the only legitimate criticsm from the online review is that fact that the lens really does obstruct the viewfinder ."
+    }, 
+    "a4bf04bb2ffffdf15f1e93ccd942ba31": {
+        "(9, 23)": {
+            "WBF": [
+                917
+            ], 
+            "BM1F": [
+                1915
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2417
+            ], 
+            "BM1L": [
+                3166
+            ], 
+            "WBO": [
+                1545, 
+                2933, 
+                2844, 
+                2570, 
+                1545, 
+                522, 
+                233, 
+                381, 
+                3020, 
+                2886
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "the tiny ( postage-stamp sized ) remote unit is wonderful : not only does it trigger the shutter , it can also be used to zoom and review picture ."
+    }
+}

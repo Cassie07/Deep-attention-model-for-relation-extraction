@@ -1,0 +1,43 @@
+{
+    "c2ead43cc4af6f210ad3be6a5066613c": {
+        "(4, 9)": {
+            "WBF": [
+                943
+            ], 
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                1830
+            ], 
+            "BM1L": [
+                1815
+            ], 
+            "WBO": [
+                1570
+            ], 
+            "WBL": [
+                1973
+            ], 
+            "AM2F": [
+                394
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "in that model the hard drive just died one morning before my class ."
+    }
+}

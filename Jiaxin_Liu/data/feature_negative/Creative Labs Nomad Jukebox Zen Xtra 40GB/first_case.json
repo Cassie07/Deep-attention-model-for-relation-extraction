@@ -1,0 +1,43 @@
+{
+    "b1ea002e94262c6b402e3f320e945036": {
+        "(22, 14)": {
+            "WBF": [
+                2628
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                541
+            ], 
+            "M2": [
+                1179
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                1429, 
+                863, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                200
+            ], 
+            "AM2F": [
+                801
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the front cover can pop off easily but i always have mine in the case so i did n't notice after first day ."
+    }
+}

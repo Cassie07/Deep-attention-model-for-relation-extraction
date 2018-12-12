@@ -1,0 +1,37 @@
+{
+    "e1fa274c45a3d786c5a8eef4ad84ec31": {
+        "(6, 7)": {
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1929
+            ], 
+            "M1": [
+                1930
+            ], 
+            "M2": [
+                2878
+            ], 
+            "BM1L": [
+                2775
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i called apex 's support number numerous time but it just kept ringing ."
+    }
+}

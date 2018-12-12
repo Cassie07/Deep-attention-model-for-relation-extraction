@@ -1,0 +1,34 @@
+{
+    "b04114762c3824238acb69a9f7c5cc55": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            1
+        ], 
+        "(2, 1)": {
+            "AM2L": [
+                381
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3074
+            ], 
+            "M2": [
+                1579
+            ], 
+            "AM2F": [
+                522
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the volume key can be hard to press , but i think this may be by design rather than a flaw , perhaps to keep you from pressing it accidentally when you are in a call ."
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "7967db31bc77438a94a846ddeb630669": {
+        "(26, 72)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                2760
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2025
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                1529
+            ], 
+            "WBO": [
+                253, 
+                627, 
+                2886, 
+                3018, 
+                1051, 
+                3158, 
+                2811, 
+                253, 
+                2494, 
+                2844, 
+                3162, 
+                326, 
+                1219, 
+                2761, 
+                1190, 
+                2016, 
+                2761, 
+                1468, 
+                2834, 
+                1951, 
+                2654, 
+                2260, 
+                658, 
+                3158, 
+                2844, 
+                3041, 
+                2771, 
+                131, 
+                1219, 
+                2844, 
+                286, 
+                1536, 
+                3015, 
+                253, 
+                1545, 
+                2710, 
+                3203, 
+                3158, 
+                1973, 
+                1951, 
+                2844, 
+                2750
+            ], 
+            "WBL": [
+                2048
+            ], 
+            "AM2F": [
+                2527
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(26, 94)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                507
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2025
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                1529
+            ], 
+            "WBO": [
+                253, 
+                627, 
+                2886, 
+                3018, 
+                1051, 
+                3158, 
+                2811, 
+                253, 
+                2494, 
+                2844, 
+                3162, 
+                326, 
+                1219, 
+                2761, 
+                1190, 
+                2016, 
+                2761, 
+                1468, 
+                2834, 
+                1951, 
+                2654, 
+                2260, 
+                658, 
+                3158, 
+                2844, 
+                3041, 
+                2771, 
+                131, 
+                1219, 
+                2844, 
+                286, 
+                1536, 
+                3015, 
+                253, 
+                1545, 
+                2710, 
+                3203, 
+                3158, 
+                1973, 
+                1951, 
+                2844, 
+                2750, 
+                2057, 
+                2048, 
+                1853, 
+                2527, 
+                2760, 
+                304, 
+                1861, 
+                1513, 
+                1951, 
+                225, 
+                2886, 
+                3018, 
+                2844, 
+                1550, 
+                2726, 
+                3129, 
+                1441, 
+                3203, 
+                1059, 
+                2130, 
+                2886, 
+                2071
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            26
+        ], 
+        "location2": [
+            72, 
+            94
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }
+}

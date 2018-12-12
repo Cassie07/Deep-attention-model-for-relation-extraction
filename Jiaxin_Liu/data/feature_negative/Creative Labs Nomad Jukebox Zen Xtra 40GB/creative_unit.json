@@ -1,0 +1,97 @@
+{
+    "dddabe0a6ff5deb6dc9e3641be46c42d": {
+        "(27, 3)": {
+            "WBF": [
+                3145
+            ], 
+            "AM2L": [
+                1978
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1589
+            ], 
+            "WBO": [
+                1355, 
+                2215, 
+                1468, 
+                2844, 
+                1258, 
+                253, 
+                2844, 
+                82, 
+                1212, 
+                2844, 
+                39, 
+                3196, 
+                1896, 
+                2261, 
+                307, 
+                2383, 
+                3091, 
+                3145, 
+                381, 
+                3178
+            ], 
+            "WBL": [
+                2587
+            ], 
+            "AM2F": [
+                3145
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i know this unit will have problem in the future and the $ 40 for the 2 year `` no question asked `` replacement warranty will be worth it , since creative will only warrant it for 90 day - which in itself is totally ridiculous !"
+    }, 
+    "aeaf53d9981fcdae134d914c14c3bf3a": {
+        "(7, 5)": {
+            "AM2L": [
+                1998
+            ], 
+            "WBFL": [
+                1417
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "AM2F": [
+                1594
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "overall it is a great unit & hopefully creative lab or some other vendor will soon come out with some accessory for it ."
+    }
+}

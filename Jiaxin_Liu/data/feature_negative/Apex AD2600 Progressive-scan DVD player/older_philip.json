@@ -1,0 +1,34 @@
+{
+    "b04a1b6bbf5356e9d6ebf7e31273b479": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1966
+            ], 
+            "M2": [
+                2096
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1715
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it did play a dvd-r which was unplayable in my older philip machine ."
+    }
+}

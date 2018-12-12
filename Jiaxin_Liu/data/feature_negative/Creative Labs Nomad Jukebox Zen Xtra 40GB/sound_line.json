@@ -1,0 +1,54 @@
+{
+    "18776b75386e5e4b1a8d94034da05d2b": {
+        "(1, 20)": {
+            "WBF": [
+                808
+            ], 
+            "AM2L": [
+                1552
+            ], 
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1655
+            ], 
+            "WBO": [
+                501, 
+                1429, 
+                3181, 
+                1053, 
+                3203, 
+                1277, 
+                1749, 
+                115, 
+                1951, 
+                2844, 
+                2260, 
+                2842, 
+                3203, 
+                3181, 
+                1241
+            ], 
+            "WBL": [
+                2937
+            ], 
+            "AM2F": [
+                2016
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "it sound decent , but i would estimate you get maybe 80 % of the quality that you would from a true line out jack ."
+    }
+}

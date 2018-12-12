@@ -1,0 +1,37 @@
+{
+    "d379b42593ec45fb92354860d5f031da": {
+        "(7, 8)": {
+            "AM2L": [
+                2804
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                1293
+            ], 
+            "BM1L": [
+                3094
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the only problem i had was a small glitch with t-mobile ."
+    }
+}

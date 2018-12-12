@@ -1,0 +1,93 @@
+{
+    "26afbb728550c0df1149e771bc94d54b": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            33
+        ], 
+        "(15, 33)": {
+            "WBF": [
+                2479
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1689
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBO": [
+                1541, 
+                469, 
+                253, 
+                985, 
+                2886, 
+                2296, 
+                253, 
+                2844, 
+                2381, 
+                379, 
+                1753, 
+                130, 
+                1722, 
+                190
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                412
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }, 
+    "4fec9c067b66f205e88ef11ec78e607e": {
+        "(5, 12)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2199
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1691
+            ], 
+            "WBO": [
+                1915, 
+                304, 
+                2534
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "this thing , while looking pretty cool , is not as sexy as the ipod ."
+    }
+}

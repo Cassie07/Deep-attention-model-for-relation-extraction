@@ -1,0 +1,95 @@
+{
+    "2155dae2420356df58f64bd1e973732d": {
+        "(6, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1985
+            ], 
+            "BM1F": [
+                790
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1343
+            ], 
+            "WBO": [
+                260
+            ], 
+            "WBL": [
+                1803
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "d ) software is another great misfortune -- hard to operate , crash frequently , screwed my music library up , doesnt work with mp4s , the list goes on and on"
+    }, 
+    "595586dcd393895e2ca8c8a038c133b3": {
+        "(38, 19)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2065
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                2857
+            ], 
+            "WBO": [
+                762, 
+                1208, 
+                914, 
+                253, 
+                2226, 
+                522, 
+                5, 
+                381, 
+                1613, 
+                1241, 
+                2844, 
+                3210, 
+                2628, 
+                1545, 
+                1541
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            38
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "the zen does n't support folder so it is not really a storage device ; even with third party software that `` creates `` folder , document and program can 't be launched from the zen , so it is not a hard disk , it 's a storage device at best ."
+    }
+}

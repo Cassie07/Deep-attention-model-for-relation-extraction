@@ -1,0 +1,356 @@
+{
+    "131c06e405096af26850df4554b4fdfe": {
+        "(5, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3052
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the sound quality is very good ."
+    }, 
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(8, 10)": {
+            "AM2L": [
+                1143
+            ], 
+            "WBFL": [
+                2654
+            ], 
+            "BM1F": [
+                2853
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "AM2F": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "2505b3eb37eb261c8202ec3d03ef5c52": {
+        "(19, 16)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                3052
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "ripping the song , even with my 1.1 usb connection is still very quick , and the quality is very good ."
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "(12, 18)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                1355, 
+                2844
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "5a9e2c56b3e4e5359842e5b8ef87d675": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            6
+        ], 
+        "(14, 6)": {
+            "WBF": [
+                1360
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1076
+            ], 
+            "WBO": [
+                2595, 
+                253, 
+                2204, 
+                1723
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                503
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "lot of flaw , but exceptional sound quality , hd size , and price make it a good buy ."
+    }, 
+    "b119b00ce9abadfc9d962e0350c310c1": {
+        "(3, 1)": {
+            "AM2L": [
+                1545
+            ], 
+            "WBFL": [
+                3094
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1300
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "+ / - sound quality was good but it was going to take some tweakings with setting to try to make it great ."
+    }, 
+    "e49ac9a4b66e14c04595bc27e7a4d260": {
+        "(11, 19)": {
+            "WBF": [
+                1051
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "WBO": [
+                1441, 
+                3204, 
+                1156, 
+                1355
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(17, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2260
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                245, 
+                1429, 
+                3094, 
+                1084, 
+                3176, 
+                501, 
+                1548, 
+                2304, 
+                1300, 
+                1051, 
+                1441, 
+                3204
+            ], 
+            "WBL": [
+                1355
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "sound quality is amazing . i was expecting worse , but its really good ( especially if your file have good sound quality ) .", 
+        "(17, 19)": {
+            "WBFL": [
+                2654
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1156
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location2": [
+            1, 
+            19
+        ], 
+        "location1": [
+            11, 
+            17
+        ], 
+        "(11, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1441
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                245, 
+                1429, 
+                3094, 
+                1084, 
+                3176, 
+                501
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                1051
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "107c4aa2469fabfd4d6c8e2c795a739f": {
+        "(5, 6)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                503
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                201
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "i will never buy a creative product again ."
+    }, 
+    "16dccec07487bfb9e777d9b8fc08c377": {
+        "(2, 3)": {
+            "AM2L": [
+                2137
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                402
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "being a creative product the playback quality is unbeatable ."
+    }, 
+    "061fa6633540533196c8541145f80a36": {
+        "(8, 9)": {
+            "AM2L": [
+                3094
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                493
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "so yes , as with all software bundled with creative product , it was useless and ugly ."
+    }, 
+    "381645b8c5e4a5a766692ae2bb576665": {
+        "(4, 14)": {
+            "WBF": [
+                1594
+            ], 
+            "BM1F": [
+                2494
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                1842, 
+                2139, 
+                253, 
+                1545, 
+                1541, 
+                824
+            ], 
+            "WBL": [
+                1168
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "this is my second creative lab mp3 player , and it is definitely a fine product ."
+    }, 
+    "a44b72ed937e77df7cb07d76f90f6978": {
+        "(9, 10)": {
+            "BM1F": [
+                221
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "sound quality on this is amazing , as with all creative product ."
+    }, 
+    "ea590102fe54b3305e3c92c7f680c4d9": {
+        "(0, 8)": {
+            "WBF": [
+                3210
+            ], 
+            "AM2L": [
+                872
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2221
+            ], 
+            "WBO": [
+                1146, 
+                2762, 
+                1241, 
+                703
+            ], 
+            "WBL": [
+                2157
+            ], 
+            "AM2F": [
+                2775
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "creative zen feedback suffers from construction quality , poor product support , difficulty of using the scroll wheel and reasonably consistent feedback about problem with the headphone jack ."
+    }, 
+    "9962a0395a42bef512fbadba4dcc1ee1": {
+        "(2, 23)": {
+            "WBF": [
+                4
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                1146
+            ], 
+            "WBO": [
+                2221, 
+                2775, 
+                1541, 
+                2989, 
+                2157, 
+                2859, 
+                1541, 
+                1915, 
+                1654, 
+                2886, 
+                2844, 
+                3210, 
+                1545, 
+                289, 
+                2886, 
+                221, 
+                2844
+            ], 
+            "WBL": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            4, 
+            23
+        ], 
+        "(2, 4)": {
+            "AM2L": [
+                1541
+            ], 
+            "WBFL": [
+                4
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                1146
+            ], 
+            "AM2F": [
+                2775
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "feedback on creative 's product support is universally poor ; this is not limited to the zen , it applies to all the company 's product ."
+    }, 
+    "f6bc4fd24b9be00f5b099c30cab47b22": {
+        "(5, 6)": {
+            "BM1F": [
+                1072
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                260
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "all-in-all , this is another excellent creative product ."
+    }, 
+    "a0025c0db7ea0540259cd3b1b90d7fcb": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                1241
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound is excellent as one would suspect from a creative product ."
+    }
+}

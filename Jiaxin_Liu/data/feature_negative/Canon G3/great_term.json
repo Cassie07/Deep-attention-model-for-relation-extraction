@@ -1,0 +1,38 @@
+{
+    "17ea77f8baef8743561f50cf960f3ff5": {
+        "(10, 1)": {
+            "WBF": [
+                1951
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2834
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                2844, 
+                2564, 
+                2813, 
+                2859, 
+                520
+            ], 
+            "WBL": [
+                1500
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "in term of the shot taken , this camera is insanely great !"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "d460f81b43998cfb748cde2be9836aec": {
+        "(2, 23)": {
+            "WBF": [
+                1151
+            ], 
+            "AM2L": [
+                191
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                541
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                3110, 
+                2859, 
+                2139, 
+                3094, 
+                1064, 
+                1429, 
+                1083, 
+                1545, 
+                2886, 
+                381, 
+                251, 
+                197, 
+                1849, 
+                961, 
+                2139, 
+                3158, 
+                130
+            ], 
+            "WBL": [
+                2607
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "for the first few week , this player was everything i expected it to be , an affordable multi-format dvd player with a stylish slim case as advertised ."
+    }
+}

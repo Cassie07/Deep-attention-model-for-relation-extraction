@@ -1,0 +1,83 @@
+{
+    "240d08ecef328811154a250d31b6af41": {
+        "(4, 1)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                3126
+            ], 
+            "BM1F": [
+                1357
+            ], 
+            "M1": [
+                146
+            ], 
+            "M2": [
+                1848
+            ], 
+            "WBO": [
+                2628
+            ], 
+            "WBL": [
+                2628
+            ], 
+            "AM2F": [
+                1853
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "having access to so much music where ever you go is terrific ."
+    }, 
+    "d65b4f9868df8c7ec371d1551ba95d22": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            20
+        ], 
+        "(13, 20)": {
+            "WBF": [
+                1745
+            ], 
+            "AM2L": [
+                715
+            ], 
+            "BM1F": [
+                2896
+            ], 
+            "M1": [
+                1848
+            ], 
+            "M2": [
+                146
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1468, 
+                2844, 
+                3100
+            ], 
+            "WBL": [
+                182
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the cut-outs for the control is not thought out as there is too much material in the way to adequately access the control , especially the scroll wheel ."
+    }
+}

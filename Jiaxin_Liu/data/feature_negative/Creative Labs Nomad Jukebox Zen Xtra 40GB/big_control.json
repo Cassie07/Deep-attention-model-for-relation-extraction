@@ -1,0 +1,101 @@
+{
+    "9b738839dfbee4e8db71a1dba60aa00b": {
+        "(9, 20)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "WBO": [
+                646, 
+                1181, 
+                1468, 
+                1856, 
+                2150, 
+                1998, 
+                1374
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "the nomad is not ugly , it is not that big , it comfortably fit in my pocket , or heavy , and the control are not hard to get used to ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            32
+        ], 
+        "(16, 32)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                985
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2844, 
+                436, 
+                1644, 
+                1468, 
+                2844, 
+                352, 
+                1541, 
+                2083, 
+                1136, 
+                304, 
+                1378, 
+                1468
+            ], 
+            "WBL": [
+                2916
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

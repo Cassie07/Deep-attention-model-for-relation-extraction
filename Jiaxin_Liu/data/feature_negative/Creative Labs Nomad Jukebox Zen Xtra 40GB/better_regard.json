@@ -1,0 +1,48 @@
+{
+    "78c51d9eb31454b8f9dba754a0353b4b": {
+        "(35, 45)": {
+            "WBF": [
+                3035
+            ], 
+            "AM2L": [
+                454
+            ], 
+            "BM1F": [
+                1134
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                2347
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                253, 
+                1541, 
+                1570, 
+                304, 
+                985, 
+                2886
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            45
+        ], 
+        "sentence": "try before you buy if at all possible : although i am a mac addict now for over a decade and everyone i know has previously bought an ipod , the nomad zen xtra was a far better value and is just as easy to use with regard to both hardware and software interface ."
+    }
+}

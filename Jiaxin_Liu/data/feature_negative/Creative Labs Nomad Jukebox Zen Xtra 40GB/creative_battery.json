@@ -1,0 +1,169 @@
+{
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(4, 14)": {
+            "WBF": [
+                1267
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                316
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                1238
+            ], 
+            "WBO": [
+                2859, 
+                2853, 
+                1300, 
+                2654, 
+                2260, 
+                1313
+            ], 
+            "WBL": [
+                1685
+            ], 
+            "AM2F": [
+                1643
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "4147498480996841498df2bb40d27af6": {
+        "(7, 4)": {
+            "WBF": [
+                94
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                3025
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                580
+            ], 
+            "WBO": [
+                1241
+            ], 
+            "WBL": [
+                1241
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(7, 16)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                736
+            ], 
+            "BM1F": [
+                1241
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                94
+            ], 
+            "WBO": [
+                130, 
+                1313, 
+                190, 
+                2024, 
+                2844
+            ], 
+            "WBL": [
+                4
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            4, 
+            16
+        ], 
+        "sentence": "5 ) the cheap , user-replaceable battery ( $ 50 from creative ) is a great advantage over the ipod 's battery which cost $ 100 to replace ."
+    }, 
+    "f53180de30a7308dfce4f7c6df47edae": {
+        "(9, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1179
+            ], 
+            "WBO": [
+                2379, 
+                507, 
+                2844
+            ], 
+            "WBL": [
+                386
+            ], 
+            "AM2F": [
+                1518
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "first , the battery is replacable by the user , because creative intended it to be - unlike apple with the ipod ."
+    }
+}

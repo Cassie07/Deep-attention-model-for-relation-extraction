@@ -1,0 +1,37 @@
+{
+    "5ac53d99601e0ac19ef6cc71435053f3": {
+        "(7, 8)": {
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2560
+            ], 
+            "M2": [
+                2878
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "i have owned this camera for a short time and would n't give it up for anything ."
+    }
+}

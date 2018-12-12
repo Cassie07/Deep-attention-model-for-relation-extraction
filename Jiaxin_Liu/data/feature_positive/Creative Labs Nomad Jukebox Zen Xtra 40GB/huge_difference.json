@@ -1,0 +1,37 @@
+{
+    "bb25f76c14b817eebcf952611ddb3014": {
+        "location1": [
+            28
+        ], 
+        "location2": [
+            29
+        ], 
+        "(28, 29)": {
+            "AM2L": [
+                2204
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                868
+            ], 
+            "BM1L": [
+                1571
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the control are somewhat harder to use than the ipod , but i have gotten use to them , and even at the beginning did not think would justify the huge difference in price ."
+    }
+}

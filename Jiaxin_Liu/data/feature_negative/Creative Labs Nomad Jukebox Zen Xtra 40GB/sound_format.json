@@ -1,0 +1,82 @@
+{
+    "7967db31bc77438a94a846ddeb630669": {
+        "(48, 56)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                286
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1219
+            ], 
+            "BM1L": [
+                2834
+            ], 
+            "WBO": [
+                658, 
+                3158, 
+                2844, 
+                3041
+            ], 
+            "WBL": [
+                131
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            48
+        ], 
+        "location2": [
+            40, 
+            56
+        ], 
+        "(48, 40)": {
+            "WBF": [
+                2761
+            ], 
+            "AM2L": [
+                658
+            ], 
+            "BM1F": [
+                326
+            ], 
+            "M1": [
+                1219
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                3162
+            ], 
+            "WBO": [
+                1190, 
+                2016, 
+                2761, 
+                1468
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }
+}

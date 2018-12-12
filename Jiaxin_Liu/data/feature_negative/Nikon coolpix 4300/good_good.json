@@ -1,0 +1,610 @@
+{
+    "d4954af171cda06cc040755bc979e934": {
+        "(11, 11)": {
+            "AM2L": [
+                72
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2270
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "on average , indoor shot with a flash are not quite as good as 35mm ."
+    }, 
+    "695d490cea19970e52fa3608c2ac96c8": {
+        "(4, 4)": {
+            "AM2L": [
+                2570
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2814
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "otherwise , it takes very good picture ; shutter delay is n't so bad either ."
+    }, 
+    "7c796cc382127a60c5fb968230a6441f": {
+        "sentence": "but overall this is a good camera with a ' really good ' picture clarity ; an exceptional close-up shooting capability .", 
+        "location2": [
+            5, 
+            10
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(10, 5)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                607
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5, 
+            10
+        ], 
+        "(10, 10)": {
+            "AM2L": [
+                607
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(5, 10)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                607
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }, 
+    "42f0ce4c366e69f992de1c95467b18e7": {
+        "(11, 11)": {
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2245
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "the daylight picture are brilliant and the indoor shot are very good provided that your subject is no more than about 8 foot away ."
+    }, 
+    "0a97bbb3a0da722d9e48e3c05e77a24c": {
+        "(23, 23)": {
+            "AM2L": [
+                2923
+            ], 
+            "BM1F": [
+                2615
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                3018
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use , small good for travel , and provides excellent , sharp image ."
+    }, 
+    "13dec75bed7e631821be24ba46df1b44": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            3
+        ], 
+        "(3, 3)": {
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                332
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1030
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the auto-mode is good enough for most shot but the 4300 also boast 12 versatile scene mode as well as a manual mode though i admit i have n't played with it too much on manual ."
+    }, 
+    "4f404b3948413c53cce61743a7146b81": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                1302
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the battery life is very good , i got about 90 minute with the lcd turned on all the time , the first time around , and i have been using it with the lcd off every now and then , and have yet needed to recharge it ."
+    }, 
+    "3e862711b9c6b61022e139ccc3d36f8a": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            22
+        ], 
+        "(22, 22)": {
+            "BM1F": [
+                2219
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2408
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "in the auto mode it function basically as a point and click , the scene mode are very easy to use and produce good result ."
+    }, 
+    "858a58b51860cbf88e1296d8838558d1": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            3
+        ], 
+        "(3, 3)": {
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it is a good camera in term of the function and quality , but take your chance with it because nikon absolutely suck when it comes to customer service ."
+    }, 
+    "0ebcdfef8bb972e3ec21c12e403b87b6": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            7
+        ], 
+        "(7, 7)": {
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "with nikon , although picture quality are as good as any other 4 mp camera , i 've had the following headache ;"
+    }, 
+    "9e23440344513995e9ef9d800416e9c8": {
+        "(11, 11)": {
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1770
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "a nikon will make you happier and leave you lot of good memory , as always ."
+    }, 
+    "6c8553c3c50ea94e8903ac7ad2b1d889": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                2112
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2814
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the digital zoom takes as good of picture , as the optical zoom does !"
+    }, 
+    "4283cf0438864dd7aa4566ca679cc53b": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            10
+        ], 
+        "(10, 10)": {
+            "AM2L": [
+                520
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                875
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i highly recommend this camera to anyone looking for a good digital camera that takes great picture yet does n't take week to figure out how to operate ."
+    }, 
+    "725441f37b752c1ded51fc3639839472": {
+        "(21, 21)": {
+            "BM1F": [
+                2301
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "it does have a lense cap , but it wo n't let you take pic with it on which is real good ."
+    }, 
+    "11c073db11d440a6405218767fcb1e30": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            3
+        ], 
+        "(3, 3)": {
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1643
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                237
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "battery life is good , although i recommend two rechargebles , or a alkaline backup , for those emergency pic you have to have ."
+    }
+}

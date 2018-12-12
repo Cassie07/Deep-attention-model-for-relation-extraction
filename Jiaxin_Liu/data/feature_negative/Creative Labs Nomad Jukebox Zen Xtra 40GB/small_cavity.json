@@ -1,0 +1,39 @@
+{
+    "0a09b863b5f04c01db59378ac1f5c8f2": {
+        "(16, 23)": {
+            "WBF": [
+                1366
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                552
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                3203, 
+                1501, 
+                1468
+            ], 
+            "WBL": [
+                972
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "the headphone are n't the best , but you can really expect much out of the small headphone you insert in the ear cavity ."
+    }
+}

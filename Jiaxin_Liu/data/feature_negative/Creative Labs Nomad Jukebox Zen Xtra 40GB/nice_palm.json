@@ -1,0 +1,76 @@
+{
+    "6bff76f5401264648b027c7bc10b42de": {
+        "(15, 24)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                3204
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                2053
+            ], 
+            "BM1L": [
+                3129
+            ], 
+            "WBO": [
+                3124, 
+                3203, 
+                295, 
+                1405, 
+                1545
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "all the button & neccessary lil ' gadget are on the side of the player which is nice for when you are holding it in the palm of your hand ."
+    }, 
+    "0e5f67b050553dd76a766dd94211c505": {
+        "(0, 1)": {
+            "AM2L": [
+                2987
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                2053
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2596
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "nice palm sized unit , somewhat bigger then the ipod but not an issue if you 're not going to try & jog with it or something ."
+    }
+}

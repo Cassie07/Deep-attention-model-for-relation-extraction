@@ -1,0 +1,103 @@
+{
+    "39e5ba4fdeb5f16fb0a7683a6195790c": {
+        "(16, 7)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                2628, 
+                3115, 
+                846, 
+                2842, 
+                2852
+            ], 
+            "WBL": [
+                2712
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "3 it is very compact but the control are so well designed that they 're still easy to use ."
+    }, 
+    "385f6554344ce3fdba684ad8bf694cd7": {
+        "(1, 0)": {
+            "AM2L": [
+                3018
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                985
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3202
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            1, 
+            5
+        ], 
+        "location2": [
+            0
+        ], 
+        "(5, 0)": {
+            "WBF": [
+                985
+            ], 
+            "AM2L": [
+                1277
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                985
+            ], 
+            "WBO": [
+                3202
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "control easy yo use and easy to get to ."
+    }
+}

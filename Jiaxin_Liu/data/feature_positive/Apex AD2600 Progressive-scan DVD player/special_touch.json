@@ -1,0 +1,31 @@
+{
+    "6d685a8248c25916f3c4493aec1d226c": {
+        "(5, 6)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2668
+            ], 
+            "M2": [
+                2905
+            ], 
+            "BM1L": [
+                180
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "silverish color really adds a special touch ."
+    }
+}

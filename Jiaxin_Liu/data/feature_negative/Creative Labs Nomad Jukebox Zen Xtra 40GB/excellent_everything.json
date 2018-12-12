@@ -1,0 +1,37 @@
+{
+    "fb178e58423217eaa289bebf7a6aaa1c": {
+        "(2, 3)": {
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                2260
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1064
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "- sound quality : excellent , everything you would expect from this company ."
+    }
+}

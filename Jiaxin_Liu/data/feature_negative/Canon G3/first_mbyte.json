@@ -1,0 +1,87 @@
+{
+    "20c5a2780290c04a8fff006233aee834": {
+        "(33, 41)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                1751
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1429, 
+                863, 
+                3094, 
+                2380
+            ], 
+            "WBL": [
+                67
+            ], 
+            "AM2F": [
+                564
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            33
+        ], 
+        "location2": [
+            41, 
+            46
+        ], 
+        "(33, 46)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                1751
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1429, 
+                863, 
+                3094, 
+                2380, 
+                2844, 
+                67, 
+                1751, 
+                564, 
+                3158
+            ], 
+            "WBL": [
+                98
+            ], 
+            "AM2F": [
+                564
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now there is one more complaint i have about the g3 and that is the software that comes with it for processing raw image ( i only shoot in raw image mode and the first thing i did was replace the 32 mbyte cf with a 512 mbyte cf , which gives me 130 raw image , as opposed to 7 !"
+    }
+}

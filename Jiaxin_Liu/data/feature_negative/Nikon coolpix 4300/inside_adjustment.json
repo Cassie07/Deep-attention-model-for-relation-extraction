@@ -1,0 +1,60 @@
+{
+    "4c6c28d1390c22b69d834cde174cecbc": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            26
+        ], 
+        "(1, 26)": {
+            "WBF": [
+                2107
+            ], 
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1503
+            ], 
+            "M2": [
+                185
+            ], 
+            "WBO": [
+                522, 
+                381, 
+                130, 
+                423, 
+                567, 
+                501, 
+                3124, 
+                3203, 
+                522, 
+                1512, 
+                826, 
+                2107, 
+                3203, 
+                922, 
+                1648, 
+                2842, 
+                295, 
+                1915, 
+                1206, 
+                2084, 
+                1998
+            ], 
+            "WBL": [
+                1646
+            ], 
+            "AM2F": [
+                1723
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the inside pic , can be a bit challenging , but when you can instantly delete pic you dont like , that are not focused perfectly , or need lighting adjustment , make this camera very simple and effective ."
+    }
+}

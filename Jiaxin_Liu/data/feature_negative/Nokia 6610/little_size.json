@@ -1,0 +1,40 @@
+{
+    "8b4057f457380127479d55edc7268abf": {
+        "(8, 3)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2595
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                1648
+            ], 
+            "WBO": [
+                3112
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                770
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i like the size and weight of this little critter ."
+    }
+}

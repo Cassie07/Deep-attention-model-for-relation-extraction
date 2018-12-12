@@ -1,0 +1,76 @@
+{
+    "53300d7a7dd55e15a9b1ca34d833f210": {
+        "(5, 7)": {
+            "AM2L": [
+                1348
+            ], 
+            "WBFL": [
+                316
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2595
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "AM2F": [
+                3035
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "in short , this player is good at size , value , hardware design but really bad at its software"
+    }, 
+    "5a9e2c56b3e4e5359842e5b8ef87d675": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            8
+        ], 
+        "(14, 8)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                1360
+            ], 
+            "M1": [
+                2595
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2260
+            ], 
+            "WBO": [
+                2204, 
+                1723
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                503
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "lot of flaw , but exceptional sound quality , hd size , and price make it a good buy ."
+    }
+}

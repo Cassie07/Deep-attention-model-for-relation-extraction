@@ -1,0 +1,78 @@
+{
+    "ee31d7df41f71e9ae037cdf06e1512c9": {
+        "(8, 14)": {
+            "WBF": [
+                1570
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1156
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2658
+            ], 
+            "BM1L": [
+                3162
+            ], 
+            "WBO": [
+                304, 
+                1300
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                553
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(20, 14)": {
+            "WBF": [
+                553
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2658
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBO": [
+                253, 
+                2844
+            ], 
+            "WBL": [
+                3194
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8, 
+            20
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "to my ear , a 160 kbps wma file sound just as good as the source cd , and the zen xtra sound just as good as a portable cd player ."
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "311ef14e9030cb4c54bc34ae0487a489": {
+        "(4, 24)": {
+            "WBF": [
+                414
+            ], 
+            "AM2L": [
+                805
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2068
+            ], 
+            "BM1L": [
+                2214
+            ], 
+            "WBO": [
+                1441, 
+                3203, 
+                295, 
+                1691, 
+                1212, 
+                130, 
+                2097, 
+                1468, 
+                2859, 
+                2204, 
+                2280, 
+                1998, 
+                1648, 
+                1752, 
+                912, 
+                1915
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "this is probably your best bet if you are looking for a phone in this price range , or like me , do not have the patience to deal with annoying flip phone ."
+    }
+}

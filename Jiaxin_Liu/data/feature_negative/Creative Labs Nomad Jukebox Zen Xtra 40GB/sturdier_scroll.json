@@ -1,0 +1,40 @@
+{
+    "3ecab0f0f7b012bc1f10a6dda17f52bd": {
+        "(10, 15)": {
+            "WBF": [
+                502
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2745
+            ], 
+            "M2": [
+                2484
+            ], 
+            "BM1L": [
+                2191
+            ], 
+            "WBO": [
+                412
+            ], 
+            "WBL": [
+                2871
+            ], 
+            "AM2F": [
+                2258
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "easy enough to navigate through , although i 'd prefer a sturdier button besides the thumbwheel scroll / pushbutton ."
+    }
+}

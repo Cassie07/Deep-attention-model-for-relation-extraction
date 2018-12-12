@@ -1,0 +1,44 @@
+{
+    "e84bda7445af61e44a722324fcdbccf7": {
+        "(16, 10)": {
+            "WBF": [
+                1689
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                1857
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBO": [
+                2600, 
+                253
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "still , i was willing to overlook those thing as this unit look sleek and has a myriad of feature !"
+    }
+}

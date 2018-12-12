@@ -1,0 +1,120 @@
+{
+    "4b6a08ee430cea6d15e1cd66fb525897": {
+        "(4, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1689
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1886
+            ], 
+            "WBO": [
+                2642
+            ], 
+            "WBL": [
+                2642
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the software is somewhat nice to look at , using it is not the easiest ."
+    }, 
+    "8487498f2b6e44dd82814b6515fd3e74": {
+        "(6, 1)": {
+            "WBF": [
+                2448
+            ], 
+            "AM2L": [
+                1689
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1886
+            ], 
+            "WBO": [
+                2619
+            ], 
+            "WBL": [
+                4
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the software run smooth , it 's nice to look at , it 's very organized , easy to follow and makes thing very simple ."
+    }, 
+    "0a00b74b0ff92b29a1f105bc7d87ff27": {
+        "(16, 22)": {
+            "WBF": [
+                446
+            ], 
+            "AM2L": [
+                2850
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1998, 
+                507
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "playlist can be generated on the fly ( which is a bit clunky but still a really nice bonus ) or by using the software , and there are a bevy of eq option ."
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "3bf21a4b29d090cbd158c4195701fcd2": {
+        "location1": [
+            26
+        ], 
+        "location2": [
+            13
+        ], 
+        "(26, 13)": {
+            "WBF": [
+                2021
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2182
+            ], 
+            "M2": [
+                1099
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                223, 
+                2844, 
+                3210, 
+                3194, 
+                2886, 
+                943, 
+                1602, 
+                1364, 
+                304
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                2665
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "1 ) great sound ( > 98db signal-to-noise ratio beat ipod 's `` unspecified `` ratio ) and good power output allow the zen xtra to drive large head-phones as well as external speaker ."
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "60f14cbc1a1f1fba8df34fb32d3b3aa8": {
+        "(12, 15)": {
+            "WBF": [
+                1823
+            ], 
+            "AM2L": [
+                2292
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                381
+            ], 
+            "WBO": [
+                2587
+            ], 
+            "WBL": [
+                2587
+            ], 
+            "AM2F": [
+                1539
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "since battery do run out on everything , this will also be a big money-saver since ipod , irivers , rca , dell , all have built-in battery that need to be replaced by a technician ( apple charge 100 bone for the battery replacement ) ."
+    }, 
+    "027358c11edcbca4be06865adec2ddb1": {
+        "(5, 9)": {
+            "WBF": [
+                1466
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2024
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2907
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the scroll wheel is a big improvement over the ipod touchpad ."
+    }
+}

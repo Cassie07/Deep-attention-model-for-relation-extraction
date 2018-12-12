@@ -1,0 +1,124 @@
+{
+    "fd02adeb0b3e3ad869f3f15173d5cd41": {
+        "(7, 3)": {
+            "WBF": [
+                1566
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1901
+            ], 
+            "M2": [
+                84
+            ], 
+            "BM1L": [
+                2252
+            ], 
+            "WBO": [
+                3210
+            ], 
+            "WBL": [
+                3194
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i purchased the nomad jukebox zen xtra 40gb and it is fantastic !"
+    }, 
+    "df460eaf582c2debf712f5605d908023": {
+        "(15, 5)": {
+            "WBF": [
+                3145
+            ], 
+            "AM2L": [
+                1343
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1901
+            ], 
+            "M2": [
+                84
+            ], 
+            "BM1L": [
+                1752
+            ], 
+            "WBO": [
+                1468, 
+                2844, 
+                1685, 
+                2448, 
+                381, 
+                316
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2166
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }, 
+    "4fb1cfe789fe3b6adac7a3197959eeff": {
+        "(6, 7)": {
+            "AM2L": [
+                3194
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                84
+            ], 
+            "M2": [
+                1901
+            ], 
+            "BM1L": [
+                597
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3210
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "after some consideration i chose the 40gb nomad zen xtra from creative , and i have not been disappointed ."
+    }
+}

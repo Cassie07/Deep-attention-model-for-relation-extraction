@@ -1,0 +1,82 @@
+{
+    "8c8bbd4a1f9a38c0933fcbd3803b117e": {
+        "(1, 17)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1614
+            ], 
+            "WBO": [
+                619, 
+                2889, 
+                253, 
+                2844, 
+                1614, 
+                1541, 
+                130, 
+                423, 
+                1255, 
+                1468, 
+                2353, 
+                2886
+            ], 
+            "WBL": [
+                2339
+            ], 
+            "AM2F": [
+                1580
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            7, 
+            17
+        ], 
+        "(1, 7)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1614
+            ], 
+            "WBO": [
+                619, 
+                2889
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the key are close together , and the layout is a bit funky in relation to standard rectangular layout keypad , but it 's not too weird ."
+    }
+}

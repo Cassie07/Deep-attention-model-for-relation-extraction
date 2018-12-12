@@ -1,0 +1,37 @@
+{
+    "9e23440344513995e9ef9d800416e9c8": {
+        "(11, 12)": {
+            "AM2L": [
+                238
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1770
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "a nikon will make you happier and leave you lot of good memory , as always ."
+    }
+}

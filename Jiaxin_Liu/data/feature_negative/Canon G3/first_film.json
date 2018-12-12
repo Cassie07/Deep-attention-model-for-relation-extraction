@@ -1,0 +1,43 @@
+{
+    "bf6a7e1803fcb60ab4e76c2f4119489b": {
+        "(0, 11)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                4
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                1162
+            ], 
+            "WBO": [
+                1213, 
+                1545, 
+                3145, 
+                2812, 
+                415, 
+                2107, 
+                4
+            ], 
+            "WBL": [
+                1832
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "first and foremost , it will take better pic 's than most film camera 's ."
+    }
+}

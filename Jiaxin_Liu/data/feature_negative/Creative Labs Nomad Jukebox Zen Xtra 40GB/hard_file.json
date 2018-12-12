@@ -1,0 +1,115 @@
+{
+    "2264f719eb82749d362e807f6f91259d": {
+        "(35, 5)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                798
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                2726
+            ], 
+            "WBO": [
+                917, 
+                1915, 
+                223, 
+                130, 
+                1208, 
+                2738, 
+                1911, 
+                917, 
+                1545, 
+                223, 
+                914, 
+                2886, 
+                381, 
+                1983, 
+                1998, 
+                2226, 
+                2886, 
+                381, 
+                1613, 
+                1241, 
+                1548, 
+                896, 
+                2852, 
+                1855, 
+                381, 
+                727
+            ], 
+            "WBL": [
+                260
+            ], 
+            "AM2F": [
+                943
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "4 .the zen * store * data file , but does not allow a folder structure nor does it allow document to be opened or program to be launched from its disk ( they must be copied to another hard drive to be launched ) ."
+    }, 
+    "ca693a4c5df2c07f651e149646f822a6": {
+        "(11, 22)": {
+            "WBF": [
+                896
+            ], 
+            "AM2L": [
+                3151
+            ], 
+            "BM1F": [
+                177
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                1156
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBO": [
+                2628, 
+                1545, 
+                226, 
+                3203, 
+                2886, 
+                2585, 
+                937
+            ], 
+            "WBL": [
+                946
+            ], 
+            "AM2F": [
+                1241
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "transfer through window explorer - window recognizes the jukebox as an additional hard disk , so it allows you to simply drag and drop file from window explorer to a folder for the nomad ."
+    }
+}

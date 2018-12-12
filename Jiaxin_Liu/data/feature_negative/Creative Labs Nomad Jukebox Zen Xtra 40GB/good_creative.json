@@ -1,0 +1,183 @@
+{
+    "8448fda5701874e7c112eea37250d87a": {
+        "(3, 12)": {
+            "WBF": [
+                150
+            ], 
+            "AM2L": [
+                1739
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1595
+            ], 
+            "WBO": [
+                2859, 
+                1541, 
+                1829, 
+                1951, 
+                251
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "5 ) lack of good accessory - this is more of an oversight of creative 's marketing ."
+    }, 
+    "6bc32f701b31d3e1398b32992b827143": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            1
+        ], 
+        "(22, 1)": {
+            "WBF": [
+                1758
+            ], 
+            "AM2L": [
+                2527
+            ], 
+            "BM1F": [
+                113
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                237, 
+                1915, 
+                304, 
+                2600, 
+                1691, 
+                304, 
+                3151, 
+                1757, 
+                1541, 
+                992, 
+                1468, 
+                2007, 
+                3204, 
+                633, 
+                253, 
+                1541, 
+                1657
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                556
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "8 ) creative mediasource , although not as sleek looking as window mediaplayer , is effective in organizing your collection and is linked to a good cddb service ( gracenotes ) ."
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            7
+        ], 
+        "(12, 7)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2013
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                386
+            ], 
+            "WBO": [
+                2139
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(8, 4)": {
+            "WBF": [
+                1267
+            ], 
+            "AM2L": [
+                2260
+            ], 
+            "BM1F": [
+                316
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1238
+            ], 
+            "WBO": [
+                2859
+            ], 
+            "WBL": [
+                2853
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }
+}

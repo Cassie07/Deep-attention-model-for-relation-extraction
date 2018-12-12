@@ -1,0 +1,43 @@
+{
+    "333e87ce30ba03bd6f411b6b04304e07": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            8
+        ], 
+        "(5, 8)": {
+            "WBF": [
+                1147
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                3112
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this camera also has a great feel and weight to it ."
+    }
+}

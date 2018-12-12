@@ -1,0 +1,45 @@
+{
+    "7c34e517718ef2880221cd7408e54f54": {
+        "(6, 19)": {
+            "WBF": [
+                2745
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                541
+            ], 
+            "BM1L": [
+                3018
+            ], 
+            "WBO": [
+                703, 
+                1648, 
+                2844, 
+                294, 
+                1566, 
+                1998, 
+                2637, 
+                1583, 
+                1951
+            ], 
+            "WBL": [
+                2398
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "the nomad zen could use a little sturdier construction like the archos jukebox or some kind of shock resistant case ."
+    }
+}

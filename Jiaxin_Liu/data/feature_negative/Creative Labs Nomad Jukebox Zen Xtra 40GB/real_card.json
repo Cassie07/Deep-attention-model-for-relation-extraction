@@ -1,0 +1,47 @@
+{
+    "c35cec64272467bc85a2e0ad72807549": {
+        "(8, 20)": {
+            "WBF": [
+                666
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2301
+            ], 
+            "M2": [
+                533
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "WBO": [
+                2587, 
+                1832, 
+                3151, 
+                3023, 
+                912, 
+                1859, 
+                5, 
+                1273
+            ], 
+            "WBL": [
+                1177
+            ], 
+            "AM2F": [
+                2848
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "it does n't have firewire , not a real complaint since most window user do n't generally have firewire card themselves ."
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "82e64d953b29aae10303bde70a8ad379": {
+        "(4, 5)": {
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                3112
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "the phone is very light weight ."
+    }, 
+    "b89efe0de0fd797ce86e413b78bcc046": {
+        "(35, 31)": {
+            "WBF": [
+                267
+            ], 
+            "AM2L": [
+                1147
+            ], 
+            "BM1F": [
+                918
+            ], 
+            "M1": [
+                3112
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1549
+            ], 
+            "WBO": [
+                1548
+            ], 
+            "WBL": [
+                2896
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            31
+        ], 
+        "sentence": "the first night i got this phone i put it next to me when i went to bed just to listen to my favorite music station and the handset itself doesnt weight anything its too light and feel so comfy with it ."
+    }, 
+    "f814470075f9eaffe13f9b92b246daab": {
+        "(3, 4)": {
+            "AM2L": [
+                1351
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                3112
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "it is very light weight and has a good signal strength ."
+    }
+}

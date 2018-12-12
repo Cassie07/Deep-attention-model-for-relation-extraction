@@ -1,0 +1,88 @@
+{
+    "26afbb728550c0df1149e771bc94d54b": {
+        "(29, 26)": {
+            "WBF": [
+                1753
+            ], 
+            "AM2L": [
+                2024
+            ], 
+            "BM1F": [
+                2381
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                1722
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                190
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }, 
+    "3d060f3950f61d0bcf49f47833b88c09": {
+        "(4, 16)": {
+            "WBF": [
+                2853
+            ], 
+            "BM1F": [
+                1832
+            ], 
+            "M1": [
+                1722
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                2842, 
+                1429, 
+                3094, 
+                903, 
+                3158, 
+                1468, 
+                2859, 
+                2139
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1643
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the one and most major thing that i was dissapointed with , in this player , is the battery life ."
+    }
+}

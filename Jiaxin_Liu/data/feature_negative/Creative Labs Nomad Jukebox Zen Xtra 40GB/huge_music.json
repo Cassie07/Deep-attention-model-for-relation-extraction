@@ -1,0 +1,155 @@
+{
+    "370f2f08bb8ba98db88f94c031ba3f60": {
+        "(31, 18)": {
+            "WBF": [
+                1998
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                1426
+            ], 
+            "BM1L": [
+                3006
+            ], 
+            "WBO": [
+                1725, 
+                1545, 
+                2654, 
+                1648, 
+                3203, 
+                3, 
+                1370, 
+                2844, 
+                1853
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                327
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(31, 28)": {
+            "WBF": [
+                1468
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                1426
+            ], 
+            "BM1L": [
+                1370
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                327
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            31
+        ], 
+        "location2": [
+            18, 
+            28
+        ], 
+        "sentence": "the player is fast and sound great , it also has many option like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium ."
+    }, 
+    "ca1082e52c74fe20465b83cd64f2464c": {
+        "(13, 9)": {
+            "WBF": [
+                633
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                1426
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2149
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "its ability to serve as a back-up for my music collection is a huge plus ."
+    }, 
+    "39e04a3877da6e2dd43afd9b1587c5f3": {
+        "(0, 9)": {
+            "WBF": [
+                2725
+            ], 
+            "AM2L": [
+                1542
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                1853
+            ], 
+            "WBO": [
+                2660, 
+                1429, 
+                1674, 
+                1856, 
+                1036
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "huge storage space , i loaded my entire collection of music , which isnt that much , 400 song , and still have 26 gb , out of the 28 provided to you ."
+    }
+}

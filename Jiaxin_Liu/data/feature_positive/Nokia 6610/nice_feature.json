@@ -1,0 +1,148 @@
+{
+    "58e7e474b8ea3dcf3293853aae627fc1": {
+        "(9, 10)": {
+            "AM2L": [
+                384
+            ], 
+            "BM1F": [
+                1302
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "this really is a great little phone ; its got nice feature , a beatiful screen , great ergonomics , and its tiny !"
+    }, 
+    "d36bdc5dfa57c2ffcd3b26042b66d2e6": {
+        "(19, 20)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3124
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7, 
+            19
+        ], 
+        "location2": [
+            20
+        ], 
+        "(7, 20)": {
+            "WBF": [
+                584
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                675, 
+                1545, 
+                233, 
+                924, 
+                304, 
+                130, 
+                2275, 
+                3129, 
+                1541
+            ], 
+            "WBL": [
+                1886
+            ], 
+            "AM2F": [
+                3124
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "sound - excellent polyphonic ringing tone are very nice ( check con ) it also double as a radio , which is a nice feature when you are bored ."
+    }, 
+    "c63b814a0a679b601fcf858056f31723": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            8
+        ], 
+        "(6, 8)": {
+            "AM2L": [
+                775
+            ], 
+            "WBFL": [
+                1100
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "speakerphone - loud and clear has some nice extra feature like currency converter and a stopwatch ."
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "d4aea072a4d82c259b1c6322dc4b650a": {
+        "(8, 18)": {
+            "WBF": [
+                1242
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2055, 
+                502, 
+                1614, 
+                253, 
+                1545, 
+                1351
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                2529
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "it 's very sleek looking with a very good front panel button layout , and it has a great feature set ."
+    }, 
+    "b3d6250f8c0e2d723e032191144e6c20": {
+        "(3, 12)": {
+            "WBF": [
+                2426
+            ], 
+            "AM2L": [
+                1300
+            ], 
+            "BM1F": [
+                1690
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "WBO": [
+                2016, 
+                1951, 
+                2844, 
+                460, 
+                1957
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3, 
+            14
+        ], 
+        "location2": [
+            12
+        ], 
+        "(14, 12)": {
+            "WBFL": [
+                253
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "AM2F": [
+                2748
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the player looked good right out of the box , offering lot of feature and good styling ."
+    }, 
+    "b5938c00042cd746390dea8b55ef54ef": {
+        "(6, 7)": {
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1715
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "for the money apex machine have good feature ."
+    }
+}

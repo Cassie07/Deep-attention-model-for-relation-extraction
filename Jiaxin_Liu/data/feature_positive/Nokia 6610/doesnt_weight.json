@@ -1,0 +1,37 @@
+{
+    "b89efe0de0fd797ce86e413b78bcc046": {
+        "location1": [
+            30
+        ], 
+        "location2": [
+            31
+        ], 
+        "(30, 31)": {
+            "AM2L": [
+                1548
+            ], 
+            "BM1F": [
+                1549
+            ], 
+            "M1": [
+                918
+            ], 
+            "M2": [
+                3112
+            ], 
+            "BM1L": [
+                1335
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                267
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the first night i got this phone i put it next to me when i went to bed just to listen to my favorite music station and the handset itself doesnt weight anything its too light and feel so comfy with it ."
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "656e72834c7ff8e049c4a59974414993": {
+        "(29, 5)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                2332
+            ], 
+            "WBO": [
+                266, 
+                3135, 
+                1541, 
+                1691, 
+                1212, 
+                1072, 
+                2260, 
+                2112, 
+                253, 
+                130, 
+                639, 
+                1951, 
+                981, 
+                1951, 
+                3018, 
+                253, 
+                2844, 
+                1194, 
+                2886, 
+                1277
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                1996
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "i 'd highly recommend this camera for anyone who is looking for excellent quality picture and a combination of ease of use and the flexibility to get advanced with many option to adjust if you like ."
+    }, 
+    "8125b34510fad206a46ff327585af3a6": {
+        "(10, 13)": {
+            "WBF": [
+                2616
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2992
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                875
+            ], 
+            "WBL": [
+                875
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(5, 13)": {
+            "WBF": [
+                3021
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1674
+            ], 
+            "WBO": [
+                1143, 
+                253, 
+                2992, 
+                1737
+            ], 
+            "WBL": [
+                875
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5, 
+            10
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the g3 is loaded with many useful feature , and unlike many smaller digital camera , it is easy to hold steady when using slower shutter speed ."
+    }
+}

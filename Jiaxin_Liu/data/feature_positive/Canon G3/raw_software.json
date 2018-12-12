@@ -1,0 +1,344 @@
+{
+    "d00579c5aee168118aee6243ff803b1c": {
+        "(3, 5)": {
+            "AM2L": [
+                3203
+            ], 
+            "WBFL": [
+                1448
+            ], 
+            "BM1F": [
+                1260
+            ], 
+            "M1": [
+                2290
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                1287
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "what the g3 raw image software gives you is a fantasy world designed to please the uncritical ."
+    }, 
+    "20c5a2780290c04a8fff006233aee834": {
+        "sentence": "now there is one more complaint i have about the g3 and that is the software that comes with it for processing raw image ( i only shoot in raw image mode and the first thing i did was replace the 32 mbyte cf with a 512 mbyte cf , which gives me 130 raw image , as opposed to 7 !", 
+        "location2": [
+            15
+        ], 
+        "location1": [
+            22, 
+            28, 
+            52
+        ], 
+        "(52, 15)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2290
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                644, 
+                3158, 
+                1545, 
+                1212, 
+                2218, 
+                2290, 
+                1448, 
+                1429, 
+                1978, 
+                2557, 
+                1468, 
+                2290, 
+                1448, 
+                1814, 
+                253, 
+                2844, 
+                1179, 
+                2853, 
+                1429, 
+                863, 
+                3094, 
+                2380, 
+                2844, 
+                67, 
+                1751, 
+                564, 
+                3158, 
+                130, 
+                98, 
+                1751, 
+                564, 
+                3129, 
+                1287
+            ], 
+            "WBL": [
+                23
+            ], 
+            "AM2F": [
+                1448
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(28, 15)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                1814
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2290
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                644, 
+                3158, 
+                1545, 
+                1212, 
+                2218, 
+                2290, 
+                1448, 
+                1429, 
+                1978
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                1448
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(22, 15)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2290
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                644, 
+                3158, 
+                1545
+            ], 
+            "WBL": [
+                2218
+            ], 
+            "AM2F": [
+                1448
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }
+    }, 
+    "c9e60af8c804cc7bc30a164554f7375d": {
+        "(4, 2)": {
+            "AM2L": [
+                917
+            ], 
+            "WBFL": [
+                1212
+            ], 
+            "BM1F": [
+                525
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2290
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                1448
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the canon software for raw image does not present you with a raw image at all , but the raw image after it has been processed by all the image-affecting setting in the camera .", 
+        "location2": [
+            2
+        ], 
+        "location1": [
+            4, 
+            12, 
+            18
+        ], 
+        "(18, 2)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                200
+            ], 
+            "BM1F": [
+                525
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2290
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2290, 
+                1448, 
+                917, 
+                1915, 
+                2193, 
+                3203, 
+                3158, 
+                130, 
+                2290, 
+                1448, 
+                316, 
+                221
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1448
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(12, 2)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                316
+            ], 
+            "BM1F": [
+                525
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2290
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2290, 
+                1448, 
+                917, 
+                1915, 
+                2193, 
+                3203
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1448
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }
+    }, 
+    "511a23f3a4fe98af1bf9d231291e4dff": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            14
+        ], 
+        "(3, 14)": {
+            "WBF": [
+                2147
+            ], 
+            "BM1F": [
+                520
+            ], 
+            "M1": [
+                2290
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                188
+            ], 
+            "WBO": [
+                2567, 
+                1971, 
+                201, 
+                2842, 
+                1348, 
+                1541, 
+                1789
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the adobe camera raw plug-in show once again that hardware is mile ahead of software ."
+    }
+}

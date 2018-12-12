@@ -1,0 +1,50 @@
+{
+    "7f29f0fe969c8fc60fdc28661dd9739a": {
+        "(16, 4)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                1808
+            ], 
+            "BM1F": [
+                42
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                1886
+            ], 
+            "BM1L": [
+                2024
+            ], 
+            "WBO": [
+                1856, 
+                2141, 
+                316, 
+                2844, 
+                1820, 
+                253, 
+                2844, 
+                2279
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1557
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "i have over 2000 file in my playlist at the moment and the random does a nice job mixing it up ."
+    }
+}

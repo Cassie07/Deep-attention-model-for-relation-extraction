@@ -1,0 +1,66 @@
+{
+    "d0d621d83a44b4ab35ea2f818978ec04": {
+        "(0, 1)": {
+            "AM2L": [
+                2083
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                379
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1643
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great battery life , perfect size , but a tid bit quieter than i would like ."
+    }, 
+    "bc412b771cb33944aaf00912480e5a71": {
+        "(2, 3)": {
+            "AM2L": [
+                1201
+            ], 
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1643
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "it has great battery life , fm radio , excellent signal , hand free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "534cc711fb7497cc8a9f2de24a929ac6": {
+        "(2, 3)": {
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2663
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                9
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3181
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "1 ) a spare battery would have been great ."
+    }
+}

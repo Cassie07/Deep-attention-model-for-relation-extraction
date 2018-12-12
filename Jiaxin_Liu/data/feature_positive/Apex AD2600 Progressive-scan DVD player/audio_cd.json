@@ -1,0 +1,116 @@
+{
+    "542d552b6a80169971106c0493d88457": {
+        "(21, 10)": {
+            "WBF": [
+                2138
+            ], 
+            "AM2L": [
+                2112
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                553
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                1168, 
+                501, 
+                3158, 
+                130, 
+                961, 
+                1429, 
+                1978
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "when i hooked it up it only produced sound - a cd played fine , but with a dvd i only got the audio - no picture !"
+    }, 
+    "83e9f5a06e9e14fe2fc55a1563f15ee0": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                962
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                553
+            ], 
+            "BM1L": [
+                3043
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "ability to play most discs - i tried dvd , vcd , dvd-r , audio cd and it played all"
+    }, 
+    "c82e6d350f624f918e300fffbbcad423": {
+        "(7, 6)": {
+            "BM1F": [
+                221
+            ], 
+            "M1": [
+                553
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                2136
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                890
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "it will read and play all cd audio disc ."
+    }
+}

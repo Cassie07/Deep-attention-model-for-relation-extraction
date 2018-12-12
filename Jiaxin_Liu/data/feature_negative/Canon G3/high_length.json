@@ -1,0 +1,45 @@
+{
+    "be379679dac602b9b58a047cfe52bfb9": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            20
+        ], 
+        "(13, 20)": {
+            "WBF": [
+                2674
+            ], 
+            "AM2L": [
+                1248
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                1630
+            ], 
+            "BM1L": [
+                2212
+            ], 
+            "WBO": [
+                2752, 
+                274, 
+                2212
+            ], 
+            "WBL": [
+                1202
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "with a quick spin of the dial you can select shutter priority ( for high speed subject ) , aperture priority ( for focal length ) or full program mode where the camera selects both for ideal photo quality ."
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "ad71306ca9a64f28e317dd789b8d22d2": {
+        "(0, 1)": {
+            "AM2L": [
+                3022
+            ], 
+            "M1": [
+                2239
+            ], 
+            "M2": [
+                541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                668
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "* protective case completely useless as is since it obscures display window ."
+    }, 
+    "f68ec80438a497aca071cd7853ac8434": {
+        "(7, 8)": {
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2245
+            ], 
+            "M1": [
+                2239
+            ], 
+            "M2": [
+                541
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                237
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "i use it primarily in the provided protective case although i have dropped it about 3 foot from my desk ( by accident ) as well as have played it outdoors in - 30 fahrenheit weather ( by design ) and it has continued to work fine ."
+    }, 
+    "3bc4feba5ac935dba2cf5229f7485723": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            9
+        ], 
+        "(7, 9)": {
+            "AM2L": [
+                381
+            ], 
+            "WBFL": [
+                540
+            ], 
+            "BM1F": [
+                1829
+            ], 
+            "M1": [
+                2239
+            ], 
+            "M2": [
+                541
+            ], 
+            "BM1L": [
+                2745
+            ], 
+            "AM2F": [
+                3181
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "at the very least , a sturdier more protective carrying case would be nice ."
+    }, 
+    "8a31ba51febce8f3d665f6e34835eb2d": {
+        "(13, 10)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                540
+            ], 
+            "M1": [
+                541
+            ], 
+            "M2": [
+                2239
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                2304
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the free ( i didnt know they still did that ) carrying case is really protective , and to me its the only accessory you need ( except good headphone ) ."
+    }
+}

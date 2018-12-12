@@ -1,0 +1,37 @@
+{
+    "c89290e4f08ad015ca64345fd0491bda": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            9
+        ], 
+        "(9, 9)": {
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1886
+            ], 
+            "M1": [
+                835
+            ], 
+            "M2": [
+                835
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1147
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it 's very solidly built , and has a nice dense feel to it ."
+    }
+}

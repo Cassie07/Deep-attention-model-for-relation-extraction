@@ -1,0 +1,45 @@
+{
+    "44f2a23eb1e67de5a88009265ba81109": {
+        "(16, 9)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                394
+            ], 
+            "M1": [
+                2253
+            ], 
+            "M2": [
+                2205
+            ], 
+            "BM1L": [
+                2417
+            ], 
+            "WBO": [
+                2331, 
+                3190, 
+                1902
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                3210
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "naturally i did quite a bit of review before purchasing ( i recomend www.nomadness.net ) , and price-wise zen are unbeatable ."
+    }
+}

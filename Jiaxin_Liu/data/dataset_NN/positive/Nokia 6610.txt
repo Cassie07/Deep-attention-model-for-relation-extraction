@@ -1,0 +1,770 @@
+c16c5d2303fcab3823fe913b6b4cef82.(18, 0).Nokia	<e1>game</e1> kind of stink and you cant download them you have to get the link cable to get <e2>additional</e2> game
++(e2, e1)
+c16c5d2303fcab3823fe913b6b4cef82.(18, 19).Nokia	game kind of stink and you cant download them you have to get the link cable to get <e1>additional</e1> <e2>game</e2>
++(e1, e2)
+44319df7de849e736c4e09bf62fef41e.(17, 10).Nokia	this mean that there is a good chance that this <e1>phone</e1> will not break easily like typical <e2>american</e2> phone
++(e2, e1)
+44319df7de849e736c4e09bf62fef41e.(17, 18).Nokia	this mean that there is a good chance that this phone will not break easily like typical <e1>american</e1> <e2>phone</e2>
++(e1, e2)
+311ef14e9030cb4c54bc34ae0487a489.(28, 12).Nokia	this is probably your best bet if you are looking for a <e1>phone</e1> in this price range or like me do not have the patience to deal with <e2>annoying</e2> flip phone
++(e2, e1)
+311ef14e9030cb4c54bc34ae0487a489.(28, 30).Nokia	this is probably your best bet if you are looking for a phone in this price range or like me do not have the patience to deal with <e1>annoying</e1> flip <e2>phone</e2>
++(e1, e2)
+947e4a7f76574c8d9e61e6f0a4bf403d.(10, 11).Nokia	it is a perfect phone in such a small and <e1>appealing</e1> <e2>package</e2>
++(e1, e2)
+5741b29bc5d1f08561ddf80eaccd827d.(17, 16).Nokia	surfing the web on it is nice as well i just wish there were more wap <e1>page</e1> <e2>available</e2>
++(e2, e1)
+47e3873452377bfeaeb451bfad9ba553.(7, 8).Nokia	overall this is a slightly better than <e1>average</e1> <e2>phone</e2>
++(e1, e2)
+fcf866589e0cd5066cdb86f7e386fe2e.(11, 12).Nokia	i thought this was the ultimate phone when it comes to <e1>basic</e1> <e2>feature</e2> but i was dissapointed when i saw that it was only a gsm comaptible phone
++(e1, e2)
+58e7e474b8ea3dcf3293853aae627fc1.(12, 13).Nokia	this really is a great little phone its got nice feature a <e1>beatiful</e1> <e2>screen</e2> great ergonomics and its tiny
++(e1, e2)
+311ef14e9030cb4c54bc34ae0487a489.(4, 5).Nokia	this is probably your <e1>best</e1> <e2>bet</e2> if you are looking for a phone in this price range or like me do not have the patience to deal with annoying flip phone
++(e1, e2)
+d6508cf7de570cf330c9dbd17b8d3f48.(5, 6).Nokia	and really this is the <e1>best</e1> <e2>phone</e2> one could have
++(e1, e2)
+f3bb75d4d6b62c19c453c3d7a0d1fcd5.(3, 5).Nokia	one of the <e1>best</e1> cell <e2>phone</e2> i have ever used to-date
++(e1, e2)
+793b5dd3a570afa3f48e4ec4ed2e097c.(3, 4).Nokia	this is the <e1>best</e1> <e2>phone</e2> i have seen
++(e1, e2)
+311ef14e9030cb4c54bc34ae0487a489.(4, 12).Nokia	this is probably your <e1>best</e1> bet if you are looking for a <e2>phone</e2> in this price range or like me do not have the patience to deal with annoying flip phone
++(e1, e2)
+311ef14e9030cb4c54bc34ae0487a489.(4, 30).Nokia	this is probably your <e1>best</e1> bet if you are looking for a phone in this price range or like me do not have the patience to deal with annoying flip <e2>phone</e2>
++(e1, e2)
+28fd6ff95028de4d9ea392d1a09a45ff.(4, 5).Nokia	overall this is the <e1>best</e1> <e2>phone</e2> i have ever owned
++(e1, e2)
+64fb66cc374fec3973bcd3984f004f56.(2, 3).Nokia	the two <e1>biggest</e1> <e2>thing</e2> is the excellent working speakerphone unlike the nokia 3650 and the superb reception nokia is known for in the gsm phone they make
++(e1, e2)
+2fcb297b562e0085ac2b38a1e5132982.(3, 1).Nokia	the <e1>screen</e1> is <e2>bright</e2> and ring tone are unlimited
++(e2, e1)
+5f86510c019b5a8471a682edff4d3332.(8, 2).Nokia	the color <e1>screen</e1> makes this free-after-rebates phone shine <e2>bright</e2> and command are very responsive
++(e2, e1)
+eeeacba322957f4c880a66e6ed2a23f0.(3, 1).Nokia	the <e1>screen</e1> is <e2>bright</e2> easy to see in the daylight with nice color
++(e2, e1)
+d2fa4332430086507ce16ebe69abca1e.(0, 2).Nokia	<e1>bright</e1> visible <e2>screen</e2>
++(e1, e2)
+79fdc99cd2e5ba077ab8625e5ec1d969.(3, 4).Nokia	no option for <e1>caller-id</e1> <e2>picture</e2> or individualized ringtones
++(e1, e2)
+0bd4b7ea23395053267cfdb384e926bd.(28, 29).Nokia	however the call constantly drop in my area and i experince mega-static to the point where i 'd have to dial number 6 7 time to get a <e1>clear</e1> <e2>line</e2>
++(e1, e2)
+c63b814a0a679b601fcf858056f31723.(3, 0).Nokia	<e1>speakerphone</e1> loud and <e2>clear</e2> has some nice extra feature like currency converter and a stopwatch
++(e2, e1)
+fcf866589e0cd5066cdb86f7e386fe2e.(26, 6).Nokia	i thought this was the ultimate <e1>phone</e1> when it comes to basic feature but i was dissapointed when i saw that it was only a gsm <e2>comaptible</e2> phone
++(e2, e1)
+fcf866589e0cd5066cdb86f7e386fe2e.(26, 27).Nokia	i thought this was the ultimate phone when it comes to basic feature but i was dissapointed when i saw that it was only a gsm <e1>comaptible</e1> <e2>phone</e2>
++(e1, e2)
+5e74b4c1331cab866091f6646439932c.(3, 4).Nokia	with all its <e1>complicated</e1> <e2>feature</e2> the menus are easily accessible and the quality of the feature is great
++(e1, e2)
+5e74b4c1331cab866091f6646439932c.(3, 15).Nokia	with all its <e1>complicated</e1> feature the menus are easily accessible and the quality of the <e2>feature</e2> is great
++(e1, e2)
+00f4f2006de708c2e8e1b5f70f053974.(4, 7).Nokia	i do here a <e1>constant</e1> high-pitched distorted <e2>sound</e2> not to mention the volume does not seem to be loud enough
++(e1, e2)
+744203c0ba661b81fbf49e058d3b8553.(5, 8).Nokia	this phone has a very <e1>cool</e1> and useful <e2>feature</e2> the speakerphone
++(e1, e2)
+307c93e8a0e6940c41d5d78c4dba4954.(4, 1).Nokia	the <e1>feature</e1> are really <e2>cool</e2> like the radio
++(e2, e1)
+cd886273a55bc57a2201d12617b65f4b.(11, 12).Nokia	i just purchased this phone and i think this is the <e1>coolest</e1> <e2>phone</e2> i ever had
++(e1, e2)
+cd886273a55bc57a2201d12617b65f4b.(11, 4).Nokia	i just purchased this <e1>phone</e1> and i think this is the <e2>coolest</e2> phone i ever had
++(e2, e1)
+60918d91db20f0758f77fc85122e79da.(5, 6).Nokia	it has lot of little <e1>cute</e1> <e2>feature</e2> my favorite being the game and the pim personal information manager i e organizer and the radio
++(e1, e2)
+cb73b87bc53d6be47ba62c64c5eefff1.(7, 8).Nokia	the phone comes with okay ringtones some <e1>decent</e1> <e2>background</e2> screensavers but the phone has very little memory mine had 230kb as it arrived from amazon so you do n 't have too many option on what you can put on there
++(e1, e2)
+7aba4051c00fd6801f9538e897377aed.(4, 1).Nokia	the <e1>keypad</e1> is a <e2>decent</e2> size but the power on off key is small and difficult to press
++(e2, e1)
+c9d0d998766ff632aa6c28c85f4926f0.(4, 5).Nokia	this radio receives fairly <e1>decent</e1> <e2>reception</e2> but not nearly as good as a normal radio but as long as the station are coming in clearly the phone 's radio should work perfectly
++(e1, e2)
+7aba4051c00fd6801f9538e897377aed.(4, 5).Nokia	the keypad is a <e1>decent</e1> <e2>size</e2> but the power on off key is small and difficult to press
++(e1, e2)
+4c97fb16f6c98310c527b30aa33a2434.(36, 37).Nokia	the internet function of the phone wap and gprs will only work through t-mobile 's service because they have deleted the menu option that would enable you to configure the phone to be used on a <e1>different</e1> <e2>network</e2>
++(e1, e2)
+23f161907c6d5ce5f76a95f06dcb4341.(4, 10).Nokia	negative impossibly tiny and <e1>difficult</e1> to operate barely visible power <e2>button</e2>
++(e1, e2)
+00f4f2006de708c2e8e1b5f70f053974.(6, 7).Nokia	i do here a constant high-pitched <e1>distorted</e1> <e2>sound</e2> not to mention the volume does not seem to be loud enough
++(e1, e2)
+ff02148f541cf5f18c7b9c51fb6d96d1.(11, 9).Nokia	i find the lack of entertaining game on this <e1>phone</e1> quite <e2>disturbing</e2>
++(e2, e1)
+b89efe0de0fd797ce86e413b78bcc046.(30, 31).Nokia	the first night i got this phone i put it next to me when i went to bed just to listen to my favorite music station and the handset itself <e1>doesnt</e1> <e2>weight</e2> anything its too light and feel so comfy with it
++(e1, e2)
+bc412b771cb33944aaf00912480e5a71.(23, 25).Nokia	it has great battery life fm radio excellent signal hand free speakerphone which i have to say is probably my favorite function and <e1>downloadable</e1> java <e2>apps</e2>
++(e1, e2)
+e52d5fd102dc709b3e64330ff8edc1b0.(16, 18).Nokia	from the speakerphone that can be used up to 15 foot away with clarity to the <e1>downloadable</e1> poly-graphic <e2>megatones</e2> that adds a personal touch to this nifty phone
++(e1, e2)
+bda6c10fbfa269bc9c256d0a04ea7069.(2, 6).Nokia	great phone <e1>easy</e1> to use excellent <e2>network</e2> no regret
++(e1, e2)
+ff02148f541cf5f18c7b9c51fb6d96d1.(5, 6).Nokia	i find the lack of <e1>entertaining</e1> <e2>game</e2> on this phone quite disturbing
++(e1, e2)
+b1faecc5dd56946295f5940b7205af66.(2, 3).Nokia	i have <e1>excellent</e1> <e2>hearing</e2> but the volume level on this phone is especially quiet
++(e1, e2)
+bda6c10fbfa269bc9c256d0a04ea7069.(5, 6).Nokia	great phone easy to use <e1>excellent</e1> <e2>network</e2> no regret
++(e1, e2)
+b8c4180a9c3121e6ea19a6b4eeabba04.(0, 1).Nokia	<e1>excellent</e1> <e2>phone</e2> the phone look much better than what u see in the picture
++(e1, e2)
+b8c4180a9c3121e6ea19a6b4eeabba04.(0, 3).Nokia	<e1>excellent</e1> phone the <e2>phone</e2> look much better than what u see in the picture
++(e1, e2)
+bda6c10fbfa269bc9c256d0a04ea7069.(5, 1).Nokia	great <e1>phone</e1> easy to use <e2>excellent</e2> network no regret
++(e2, e1)
+7f5b26b2865cc958e9fec839306cd9cf.(10, 1).Nokia	the <e1>phone</e1> book is very user-friendly and the speakerphone is <e2>excellent</e2>
++(e2, e1)
+64fb66cc374fec3973bcd3984f004f56.(6, 24).Nokia	the two biggest thing is the <e1>excellent</e1> working speakerphone unlike the nokia 3650 and the superb reception nokia is known for in the gsm <e2>phone</e2> they make
++(e1, e2)
+867e0d28796d18caa886b83e1e446570.(14, 4).Nokia	while i had the <e1>phone</e1> the positive feature were good sound quality and an <e2>excellent</e2> fm phone and earpiece
++(e2, e1)
+867e0d28796d18caa886b83e1e446570.(14, 16).Nokia	while i had the phone the positive feature were good sound quality and an <e1>excellent</e1> fm <e2>phone</e2> and earpiece
++(e1, e2)
+962d0a03e1daebad970b1586234fc351.(2, 3).Nokia	overall an <e1>excellent</e1> <e2>phone</e2>
++(e1, e2)
+b1faecc5dd56946295f5940b7205af66.(2, 10).Nokia	i have <e1>excellent</e1> hearing but the volume level on this <e2>phone</e2> is especially quiet
++(e1, e2)
+bc412b771cb33944aaf00912480e5a71.(7, 8).Nokia	it has great battery life fm radio <e1>excellent</e1> <e2>signal</e2> hand free speakerphone which i have to say is probably my favorite function and downloadable java apps
++(e1, e2)
+7f5b26b2865cc958e9fec839306cd9cf.(10, 8).Nokia	the phone book is very user-friendly and the <e1>speakerphone</e1> is <e2>excellent</e2>
++(e2, e1)
+64fb66cc374fec3973bcd3984f004f56.(6, 8).Nokia	the two biggest thing is the <e1>excellent</e1> working <e2>speakerphone</e2> unlike the nokia 3650 and the superb reception nokia is known for in the gsm phone they make
++(e1, e2)
+bc412b771cb33944aaf00912480e5a71.(7, 11).Nokia	it has great battery life fm radio <e1>excellent</e1> signal hand free <e2>speakerphone</e2> which i have to say is probably my favorite function and downloadable java apps
++(e1, e2)
+64fb66cc374fec3973bcd3984f004f56.(6, 3).Nokia	the two biggest <e1>thing</e1> is the <e2>excellent</e2> working speakerphone unlike the nokia 3650 and the superb reception nokia is known for in the gsm phone they make
++(e2, e1)
+d36bdc5dfa57c2ffcd3b26042b66d2e6.(1, 4).Nokia	sound <e1>excellent</e1> polyphonic ringing <e2>tone</e2> are very nice check con it also double as a radio which is a nice feature when you are bored
++(e1, e2)
+c63b814a0a679b601fcf858056f31723.(7, 8).Nokia	speakerphone loud and clear has some nice <e1>extra</e1> <e2>feature</e2> like currency converter and a stopwatch
++(e1, e2)
+1e497d003ead8f158733c4abb51c307b.(1, 2).Nokia	my <e1>favorite</e1> <e2>feature</e2> although there are many are the speaker phone the radio and the infrared
++(e1, e2)
+60918d91db20f0758f77fc85122e79da.(8, 6).Nokia	it has lot of little cute <e1>feature</e1> my <e2>favorite</e2> being the game and the pim personal information manager i e organizer and the radio
++(e2, e1)
+bc412b771cb33944aaf00912480e5a71.(20, 21).Nokia	it has great battery life fm radio excellent signal hand free speakerphone which i have to say is probably my <e1>favorite</e1> <e2>function</e2> and downloadable java apps
++(e1, e2)
+60918d91db20f0758f77fc85122e79da.(8, 11).Nokia	it has lot of little cute feature my <e1>favorite</e1> being the <e2>game</e2> and the pim personal information manager i e organizer and the radio
++(e1, e2)
+0a672f3d94178693fef4a061788aba10.(5, 6).Nokia	overall this has been my <e1>favorite</e1> <e2>phone</e2> that i have owned
++(e1, e2)
+b89efe0de0fd797ce86e413b78bcc046.(23, 6).Nokia	the first night i got this <e1>phone</e1> i put it next to me when i went to bed just to listen to my <e2>favorite</e2> music station and the handset itself doesnt weight anything its too light and feel so comfy with it
++(e2, e1)
+1e497d003ead8f158733c4abb51c307b.(1, 10).Nokia	my <e1>favorite</e1> feature although there are many are the speaker <e2>phone</e2> the radio and the infrared
++(e1, e2)
+bc412b771cb33944aaf00912480e5a71.(20, 11).Nokia	it has great battery life fm radio excellent signal hand free <e1>speakerphone</e1> which i have to say is probably my <e2>favorite</e2> function and downloadable java apps
++(e2, e1)
+b89efe0de0fd797ce86e413b78bcc046.(23, 25).Nokia	the first night i got this phone i put it next to me when i went to bed just to listen to my <e1>favorite</e1> music <e2>station</e2> and the handset itself doesnt weight anything its too light and feel so comfy with it
++(e1, e2)
+c67d6bcd1ecc6effe34a9f8354eddaa0.(23, 6).Nokia	the phone has a few minor <e1>inconvenience</e1> but only because it lack those feature bluetooth and high spend internet but there are very <e2>few</e2> problem with thing that you expected this phone to do
++(e2, e1)
+c67d6bcd1ecc6effe34a9f8354eddaa0.(4, 6).Nokia	the phone has a <e1>few</e1> minor <e2>inconvenience</e2> but only because it lack those feature bluetooth and high spend internet but there are very few problem with thing that you expected this phone to do
++(e1, e2)
+c67d6bcd1ecc6effe34a9f8354eddaa0.(23, 31).Nokia	the phone has a few minor inconvenience but only because it lack those feature bluetooth and high spend internet but there are very <e1>few</e1> problem with thing that you expected this <e2>phone</e2> to do
++(e1, e2)
+c67d6bcd1ecc6effe34a9f8354eddaa0.(4, 1).Nokia	the <e1>phone</e1> has a <e2>few</e2> minor inconvenience but only because it lack those feature bluetooth and high spend internet but there are very few problem with thing that you expected this phone to do
++(e2, e1)
+c67d6bcd1ecc6effe34a9f8354eddaa0.(4, 31).Nokia	the phone has a <e1>few</e1> minor inconvenience but only because it lack those feature bluetooth and high spend internet but there are very few problem with thing that you expected this <e2>phone</e2> to do
++(e1, e2)
+c67d6bcd1ecc6effe34a9f8354eddaa0.(23, 1).Nokia	the <e1>phone</e1> has a few minor inconvenience but only because it lack those feature bluetooth and high spend internet but there are very <e2>few</e2> problem with thing that you expected this phone to do
++(e2, e1)
+8920ebaa803b842f68dc03f411e539ae.(6, 1).Nokia	this <e1>phone</e1> is one of the <e2>few</e2> phone that have an fm radio tuner built in
++(e2, e1)
+8920ebaa803b842f68dc03f411e539ae.(6, 7).Nokia	this phone is one of the <e1>few</e1> <e2>phone</e2> that have an fm radio tuner built in
++(e1, e2)
+fdd4d278af1bf0a366d02bf985906571.(31, 6).Nokia	one highly beneficial feature of this <e1>phone</e1> at least to me is that it can be used anywhere in the world except a few country that do not use gsm a <e2>few</e2> in asia
++(e2, e1)
+fdd4d278af1bf0a366d02bf985906571.(23, 6).Nokia	one highly beneficial feature of this <e1>phone</e1> at least to me is that it can be used anywhere in the world except a <e2>few</e2> country that do not use gsm a few in asia
++(e2, e1)
+c67d6bcd1ecc6effe34a9f8354eddaa0.(4, 24).Nokia	the phone has a <e1>few</e1> minor inconvenience but only because it lack those feature bluetooth and high spend internet but there are very few <e2>problem</e2> with thing that you expected this phone to do
++(e1, e2)
+c67d6bcd1ecc6effe34a9f8354eddaa0.(23, 24).Nokia	the phone has a few minor inconvenience but only because it lack those feature bluetooth and high spend internet but there are very <e1>few</e1> <e2>problem</e2> with thing that you expected this phone to do
++(e1, e2)
+b89efe0de0fd797ce86e413b78bcc046.(1, 2).Nokia	the <e1>first</e1> <e2>night</e2> i got this phone i put it next to me when i went to bed just to listen to my favorite music station and the handset itself doesnt weight anything its too light and feel so comfy with it
++(e1, e2)
+6fe554bb692034563c238b99119b81ec.(3, 0).Nokia	<e1>nokia</e1> was my <e2>first</e2> nonflip phone and i 'm glad i decided to go with them
++(e2, e1)
+b89efe0de0fd797ce86e413b78bcc046.(1, 6).Nokia	the <e1>first</e1> night i got this <e2>phone</e2> i put it next to me when i went to bed just to listen to my favorite music station and the handset itself doesnt weight anything its too light and feel so comfy with it
++(e1, e2)
+6fe554bb692034563c238b99119b81ec.(3, 5).Nokia	nokia was my <e1>first</e1> nonflip <e2>phone</e2> and i 'm glad i decided to go with them
++(e1, e2)
+2444c9bfc1b6cb142560eb1ebb714654.(7, 4).Nokia	when i turned the <e1>phone</e1> on the <e2>first</e2> thing that hit me is how good the screen is
++(e2, e1)
+2444c9bfc1b6cb142560eb1ebb714654.(7, 8).Nokia	when i turned the phone on the <e1>first</e1> <e2>thing</e2> that hit me is how good the screen is
++(e1, e2)
+311ef14e9030cb4c54bc34ae0487a489.(29, 30).Nokia	this is probably your best bet if you are looking for a phone in this price range or like me do not have the patience to deal with annoying <e1>flip</e1> <e2>phone</e2>
++(e1, e2)
+311ef14e9030cb4c54bc34ae0487a489.(29, 12).Nokia	this is probably your best bet if you are looking for a <e1>phone</e1> in this price range or like me do not have the patience to deal with annoying <e2>flip</e2> phone
++(e2, e1)
+437957753d095bc51aec7470946afeac.(16, 7).Nokia	other than that this is a perfect <e1>phone</e1> for those of us with no patience for <e2>flip</e2>
++(e2, e1)
+5f86510c019b5a8471a682edff4d3332.(5, 6).Nokia	the color screen makes this <e1>free-after-rebates</e1> <e2>phone</e2> shine bright and command are very responsive
++(e1, e2)
+bc412b771cb33944aaf00912480e5a71.(10, 11).Nokia	it has great battery life fm radio excellent signal hand <e1>free</e1> <e2>speakerphone</e2> which i have to say is probably my favorite function and downloadable java apps
++(e1, e2)
+a892ae4eda5b2b52e80f56aebc1e502c.(9, 11).Nokia	anywhere i went in south africa this phone received <e1>full</e1> bar <e2>reception</e2>
++(e1, e2)
+44319df7de849e736c4e09bf62fef41e.(6, 7).Nokia	this mean that there is a <e1>good</e1> <e2>chance</e2> that this phone will not break easily like typical american phone
++(e1, e2)
+464ae5e381f94d45fed8ae02ad5e7495.(17, 11).Nokia	i 'm staying with sprint and though i fear that their <e1>csr</e1> is n 't nearly as <e2>good</e2> as t-mobile 's the clarity of their reception is exceptional
++(e2, e1)
+1f9933726e41699013c87cc15f21a066.(11, 12).Nokia	t-mobile is trying very hard and again they do have pretty <e1>good</e1> <e2>csr</e2> 's
++(e1, e2)
+2d9f1d8d7f3c3a79a868f38dccd16782.(3, 9).Nokia	this phone is <e1>good</e1> with a huge array of <e2>feature</e2> built into it
++(e1, e2)
+867e0d28796d18caa886b83e1e446570.(9, 7).Nokia	while i had the phone the positive <e1>feature</e1> were <e2>good</e2> sound quality and an excellent fm phone and earpiece
++(e2, e1)
+867e0d28796d18caa886b83e1e446570.(9, 11).Nokia	while i had the phone the positive feature were <e1>good</e1> sound <e2>quality</e2> and an excellent fm phone and earpiece
++(e1, e2)
+744f525296a4d9c08aa0fe2e19b27dba.(4, 6).Nokia	nokias have always had <e1>good</e1> sound <e2>quality</e2> and this is no exception
++(e1, e2)
+74ab0cc3f6e22fc34b2fa57efbcb6936.(16, 17).Nokia	this phone is great as a whole and is not like others with one or two <e1>good</e1> <e2>quality</e2>
++(e1, e2)
+5f632c925abff8ea973237469d07a2aa.(5, 2).Nokia	the voice <e1>quality</e1> is very <e2>good</e2> and it gets great reception that is in place where you get t-mobile coverage which is not that good see below
++(e2, e1)
+5f632c925abff8ea973237469d07a2aa.(24, 2).Nokia	the voice <e1>quality</e1> is very good and it gets great reception that is in place where you get t-mobile coverage which is not that <e2>good</e2> see below
++(e2, e1)
+c9d0d998766ff632aa6c28c85f4926f0.(10, 1).Nokia	this <e1>radio</e1> receives fairly decent reception but not nearly as <e2>good</e2> as a normal radio but as long as the station are coming in clearly the phone 's radio should work perfectly
++(e2, e1)
+c9d0d998766ff632aa6c28c85f4926f0.(10, 28).Nokia	this radio receives fairly decent reception but not nearly as <e1>good</e1> as a normal radio but as long as the station are coming in clearly the phone 's <e2>radio</e2> should work perfectly
++(e1, e2)
+c9d0d998766ff632aa6c28c85f4926f0.(10, 14).Nokia	this radio receives fairly decent reception but not nearly as <e1>good</e1> as a normal <e2>radio</e2> but as long as the station are coming in clearly the phone 's radio should work perfectly
++(e1, e2)
+c9d0d998766ff632aa6c28c85f4926f0.(10, 5).Nokia	this radio receives fairly decent <e1>reception</e1> but not nearly as <e2>good</e2> as a normal radio but as long as the station are coming in clearly the phone 's radio should work perfectly
++(e2, e1)
+464ae5e381f94d45fed8ae02ad5e7495.(17, 25).Nokia	i 'm staying with sprint and though i fear that their csr is n 't nearly as <e1>good</e1> as t-mobile 's the clarity of their <e2>reception</e2> is exceptional
++(e1, e2)
+5f632c925abff8ea973237469d07a2aa.(24, 10).Nokia	the voice quality is very good and it gets great <e1>reception</e1> that is in place where you get t-mobile coverage which is not that <e2>good</e2> see below
++(e2, e1)
+5f632c925abff8ea973237469d07a2aa.(5, 10).Nokia	the voice quality is very <e1>good</e1> and it gets great <e2>reception</e2> that is in place where you get t-mobile coverage which is not that good see below
++(e1, e2)
+f1215750c4fec903ffd2520c9d49c960.(4, 1).Nokia	the <e1>resolution</e1> is very <e2>good</e2> and the color are bright and even changeable
++(e2, e1)
+29ed127ae5b09fb6a770cea2c209ccf6.(9, 10).Nokia	the design is sleek and the color screen has <e1>good</e1> <e2>resolution</e2>
++(e1, e2)
+bad709d57055304005f6f24f865dccd3.(4, 5).Nokia	t-mobile was a pretty <e1>good</e1> <e2>server</e2>
++(e1, e2)
+e8e469c6ce127a2b8e862966b0c3685e.(8, 9).Nokia	the headset that comes with the phone has <e1>good</e1> <e2>sound</e2> volume but it hurt the ear like you can not imagine
++(e1, e2)
+744f525296a4d9c08aa0fe2e19b27dba.(4, 5).Nokia	nokias have always had <e1>good</e1> <e2>sound</e2> quality and this is no exception
++(e1, e2)
+867e0d28796d18caa886b83e1e446570.(9, 10).Nokia	while i had the phone the positive feature were <e1>good</e1> <e2>sound</e2> quality and an excellent fm phone and earpiece
++(e1, e2)
+f814470075f9eaffe13f9b92b246daab.(8, 10).Nokia	it is very light weight and has a <e1>good</e1> signal <e2>strength</e2>
++(e1, e2)
+464ae5e381f94d45fed8ae02ad5e7495.(17, 19).Nokia	i 'm staying with sprint and though i fear that their csr is n 't nearly as <e1>good</e1> as <e2>t-mobile</e2> 's the clarity of their reception is exceptional
++(e1, e2)
+5f632c925abff8ea973237469d07a2aa.(24, 18).Nokia	the voice quality is very good and it gets great reception that is in place where you get <e1>t-mobile</e1> coverage which is not that <e2>good</e2> see below
++(e2, e1)
+5f632c925abff8ea973237469d07a2aa.(5, 18).Nokia	the voice quality is very <e1>good</e1> and it gets great reception that is in place where you get <e2>t-mobile</e2> coverage which is not that good see below
++(e1, e2)
+d1de0c348ee15ec5bcf5d444ff8a78d8.(6, 3).Nokia	the service from <e1>t-mobile</e1> is very <e2>good</e2> too
++(e2, e1)
+1f9933726e41699013c87cc15f21a066.(11, 0).Nokia	<e1>t-mobile</e1> is trying very hard and again they do have pretty <e2>good</e2> csr 's
++(e2, e1)
+bad709d57055304005f6f24f865dccd3.(4, 0).Nokia	<e1>t-mobile</e1> was a pretty <e2>good</e2> server
++(e2, e1)
+e8e469c6ce127a2b8e862966b0c3685e.(8, 10).Nokia	the headset that comes with the phone has <e1>good</e1> sound <e2>volume</e2> but it hurt the ear like you can not imagine
++(e1, e2)
+3c8ffb554f238698530ef85279f9b51f.(10, 1).Nokia	the <e1>volume</e1> level of the phone is not all that <e2>good</e2>
++(e2, e1)
+58e7e474b8ea3dcf3293853aae627fc1.(4, 15).Nokia	this really is a <e1>great</e1> little phone its got nice feature a beatiful screen great <e2>ergonomics</e2> and its tiny
++(e1, e2)
+58e7e474b8ea3dcf3293853aae627fc1.(14, 15).Nokia	this really is a great little phone its got nice feature a beatiful screen <e1>great</e1> <e2>ergonomics</e2> and its tiny
++(e1, e2)
+5e74b4c1331cab866091f6646439932c.(17, 4).Nokia	with all its complicated <e1>feature</e1> the menus are easily accessible and the quality of the feature is <e2>great</e2>
++(e2, e1)
+5e74b4c1331cab866091f6646439932c.(17, 15).Nokia	with all its complicated feature the menus are easily accessible and the quality of the <e1>feature</e1> is <e2>great</e2>
++(e2, e1)
+e34cfc5c5d47ea85592063b8cfa07c03.(0, 1).Nokia	<e1>great</e1> <e2>feature</e2>
++(e1, e2)
+58e7e474b8ea3dcf3293853aae627fc1.(14, 10).Nokia	this really is a great little phone its got nice <e1>feature</e1> a beatiful screen <e2>great</e2> ergonomics and its tiny
++(e2, e1)
+58e7e474b8ea3dcf3293853aae627fc1.(4, 10).Nokia	this really is a <e1>great</e1> little phone its got nice <e2>feature</e2> a beatiful screen great ergonomics and its tiny
++(e1, e2)
+0640603a2170d71444627f4f433fd0bd.(19, 12).Nokia	there is much which has been said in other review about the <e1>feature</e1> of this phone it is a <e2>great</e2> phone mine worked without any problem right out of the box
++(e2, e1)
+bbdd399a8aa07bc878d531a293918676.(3, 16).Nokia	it is a <e1>great</e1> phone if you are traveling all over the world packed with wonderful <e2>feature</e2>
++(e1, e2)
+9b759b22613ccb3d5a5909c5cd771409.(27, 9).Nokia	service is great as far as i can tell <e1>feature</e1> work like a charm ringtones are high quality if you buy them from t-mobile and aim is <e2>great</e2>
++(e2, e1)
+9b759b22613ccb3d5a5909c5cd771409.(2, 9).Nokia	service is <e1>great</e1> as far as i can tell <e2>feature</e2> work like a charm ringtones are high quality if you buy them from t-mobile and aim is great
++(e1, e2)
+d0d621d83a44b4ab35ea2f818978ec04.(0, 2).Nokia	<e1>great</e1> battery <e2>life</e2> perfect size but a tid bit quieter than i would like
++(e1, e2)
+bc412b771cb33944aaf00912480e5a71.(2, 4).Nokia	it has <e1>great</e1> battery <e2>life</e2> fm radio excellent signal hand free speakerphone which i have to say is probably my favorite function and downloadable java apps
++(e1, e2)
+c942e7617c5617c46364266d80a29f69.(11, 1).Nokia	the <e1>nokia</e1> 6610 is a relatively new phone and what a <e2>great</e2> phone it is
++(e2, e1)
+bab7c888a49b92e4221b1c4a319f20de.(3, 0).Nokia	<e1>nokia</e1> makes a <e2>great</e2> phone that 's clear
++(e2, e1)
+c942e7617c5617c46364266d80a29f69.(11, 12).Nokia	the nokia 6610 is a relatively new phone and what a <e1>great</e1> <e2>phone</e2> it is
++(e1, e2)
+c942e7617c5617c46364266d80a29f69.(11, 7).Nokia	the nokia 6610 is a relatively new <e1>phone</e1> and what a <e2>great</e2> phone it is
++(e2, e1)
+bda6c10fbfa269bc9c256d0a04ea7069.(0, 1).Nokia	<e1>great</e1> <e2>phone</e2> easy to use excellent network no regret
++(e1, e2)
+abd74cd1dba7bfb5fe0802beda2c54f5.(0, 1).Nokia	<e1>great</e1> <e2>phone</e2>
++(e1, e2)
+f118bd4e6e431fb2d34e5648c625bd6d.(8, 18).Nokia	the loud speaker function on the 6610 is <e1>great</e1> because you do n 't need to put your <e2>phone</e2> right next to your ear to talk
++(e1, e2)
+58e7e474b8ea3dcf3293853aae627fc1.(14, 6).Nokia	this really is a great little <e1>phone</e1> its got nice feature a beatiful screen <e2>great</e2> ergonomics and its tiny
++(e2, e1)
+58e7e474b8ea3dcf3293853aae627fc1.(4, 6).Nokia	this really is a <e1>great</e1> little <e2>phone</e2> its got nice feature a beatiful screen great ergonomics and its tiny
++(e1, e2)
+0640603a2170d71444627f4f433fd0bd.(19, 20).Nokia	there is much which has been said in other review about the feature of this phone it is a <e1>great</e1> <e2>phone</e2> mine worked without any problem right out of the box
++(e1, e2)
+0640603a2170d71444627f4f433fd0bd.(19, 15).Nokia	there is much which has been said in other review about the feature of this <e1>phone</e1> it is a <e2>great</e2> phone mine worked without any problem right out of the box
++(e2, e1)
+bab7c888a49b92e4221b1c4a319f20de.(3, 4).Nokia	nokia makes a <e1>great</e1> <e2>phone</e2> that 's clear
++(e1, e2)
+2ba94a2d6897c0dc29eaf3f1c90562af.(18, 10).Nokia	i did a ton of research and settled on this <e1>phone</e1> because of the small size speakerphone option <e2>great</e2> priced calling plan and access to my corporate email
++(e2, e1)
+f7ad72dd81513ff8fba2a51a2ac0bd2f.(13, 17).Nokia	technology wise i think this is awesome plus the speaker makes it even <e1>great</e1> i love this <e2>phone</e2>
++(e1, e2)
+74ab0cc3f6e22fc34b2fa57efbcb6936.(3, 1).Nokia	this <e1>phone</e1> is <e2>great</e2> as a whole and is not like others with one or two good quality
++(e2, e1)
+8d147490bc04d64017ad35bd9084f37f.(0, 1).Nokia	<e1>great</e1> <e2>phone</e2> i 'd buy another
++(e1, e2)
+5e621b8f3d3b01939c7ca7308eec4cd4.(9, 10).Nokia	for a specific location i still think its a <e1>great</e1> <e2>phone</e2>
++(e1, e2)
+d3039095351362825c0bb445adb849f3.(4, 5).Nokia	1 month no problem <e1>great</e1> <e2>phone</e2> i 'm very pleased with my 6610 phone
++(e1, e2)
+d3039095351362825c0bb445adb849f3.(4, 13).Nokia	1 month no problem <e1>great</e1> phone i 'm very pleased with my 6610 <e2>phone</e2>
++(e1, e2)
+bbdd399a8aa07bc878d531a293918676.(3, 4).Nokia	it is a <e1>great</e1> <e2>phone</e2> if you are traveling all over the world packed with wonderful feature
++(e1, e2)
+6f9adbe48884c146062517217a8d680d.(6, 1).Nokia	the <e1>phone</e1> 's sound quality is <e2>great</e2> turn up the volume if its too quiet people this thing will get loud i dont have any complaint about this phone and the only thing that i miss from my 8290 is voice dialing
++(e2, e1)
+6f9adbe48884c146062517217a8d680d.(6, 28).Nokia	the phone 's sound quality is <e1>great</e1> turn up the volume if its too quiet people this thing will get loud i dont have any complaint about this <e2>phone</e2> and the only thing that i miss from my 8290 is voice dialing
++(e1, e2)
+4e3e16c7d6dc2759d671c13215fece25.(13, 4).Nokia	i have had the <e1>phone</e1> for 1 week the signal quality has been <e2>great</e2> in the detroit area suburb and in my recent road trip between detroit and northern kentucky cincinnati i experienced perfect signal and reception along i-75 far superior to at 38 t 's which does not work along several long stretch on that same route
++(e2, e1)
+5f632c925abff8ea973237469d07a2aa.(9, 10).Nokia	the voice quality is very good and it gets <e1>great</e1> <e2>reception</e2> that is in place where you get t-mobile coverage which is not that good see below
++(e1, e2)
+8709abbebe927492ab2305fce12bac51.(8, 9).Nokia	we hardly ever have to charge them get <e1>great</e1> <e2>reception</e2> live in chicago and the customization and application are awesome
++(e1, e2)
+4e3e16c7d6dc2759d671c13215fece25.(13, 36).Nokia	i have had the phone for 1 week the signal quality has been <e1>great</e1> in the detroit area suburb and in my recent road trip between detroit and northern kentucky cincinnati i experienced perfect signal and <e2>reception</e2> along i-75 far superior to at 38 t 's which does not work along several long stretch on that same route
++(e1, e2)
+58e7e474b8ea3dcf3293853aae627fc1.(14, 13).Nokia	this really is a great little phone its got nice feature a beatiful <e1>screen</e1> <e2>great</e2> ergonomics and its tiny
++(e2, e1)
+58e7e474b8ea3dcf3293853aae627fc1.(4, 13).Nokia	this really is a <e1>great</e1> little phone its got nice feature a beatiful <e2>screen</e2> great ergonomics and its tiny
++(e1, e2)
+c580e8b16d0f0c69d6f4a6852f64e367.(0, 1).Nokia	<e1>great</e1> <e2>screen</e2> and great sound
++(e1, e2)
+c580e8b16d0f0c69d6f4a6852f64e367.(3, 1).Nokia	great <e1>screen</e1> and <e2>great</e2> sound
++(e2, e1)
+c580e8b16d0f0c69d6f4a6852f64e367.(3, 4).Nokia	great screen and <e1>great</e1> <e2>sound</e2>
++(e1, e2)
+c580e8b16d0f0c69d6f4a6852f64e367.(0, 4).Nokia	<e1>great</e1> screen and great <e2>sound</e2>
++(e1, e2)
+6f9adbe48884c146062517217a8d680d.(6, 3).Nokia	the phone 's <e1>sound</e1> quality is <e2>great</e2> turn up the volume if its too quiet people this thing will get loud i dont have any complaint about this phone and the only thing that i miss from my 8290 is voice dialing
++(e2, e1)
+2ba94a2d6897c0dc29eaf3f1c90562af.(18, 3).Nokia	i did a <e1>ton</e1> of research and settled on this phone because of the small size speakerphone option <e2>great</e2> priced calling plan and access to my corporate email
++(e2, e1)
+cd4327cb2d23f487b5853995261ec659.(1, 2).Nokia	the <e1>hands-free</e1> <e2>speakerphone</e2> is quite powerful like the motorola phone i used to own
++(e1, e2)
+00f4f2006de708c2e8e1b5f70f053974.(5, 7).Nokia	i do here a constant <e1>high-pitched</e1> distorted <e2>sound</e2> not to mention the volume does not seem to be loud enough
++(e1, e2)
+dc8970a7ae3535e224c0efcde6cdc284.(35, 37).Nokia	the phone also sport an image gallery with option camera attachment a calendar organizer alarm clock with snooze fm radio way cool even if it is just through an ear-peice game java application and gprs <e1>high-speed</e1> internet <e2>connection</e2>
++(e1, e2)
+9b759b22613ccb3d5a5909c5cd771409.(16, 17).Nokia	service is great as far as i can tell feature work like a charm ringtones are <e1>high</e1> <e2>quality</e2> if you buy them from t-mobile and aim is great
++(e1, e2)
+9b759b22613ccb3d5a5909c5cd771409.(16, 14).Nokia	service is great as far as i can tell feature work like a charm <e1>ringtones</e1> are <e2>high</e2> quality if you buy them from t-mobile and aim is great
++(e2, e1)
+8b15359b7863064bb6750c1a814f9531.(3, 5).Nokia	some of the <e1>higher</e1> pitched <e2>ring</e2> are very easy to hear but not easy to listen to
++(e1, e2)
+79fdc99cd2e5ba077ab8625e5ec1d969.(6, 7).Nokia	no option for caller-id picture or <e1>individualized</e1> <e2>ringtones</e2>
++(e1, e2)
+75724e991eee9149c45dd759aeb7f1fd.(11, 12).Nokia	another benefit of this phone is that it is truly an <e1>international</e1> <e2>phone</e2> the 6610 is sold in almost everywhere in the world
++(e1, e2)
+75724e991eee9149c45dd759aeb7f1fd.(11, 4).Nokia	another benefit of this <e1>phone</e1> is that it is truly an <e2>international</e2> phone the 6610 is sold in almost everywhere in the world
++(e2, e1)
+42f9a3d24c13151b0c3eee5b5a85dd48.(6, 7).Nokia	this model does have the traditional <e1>key</e1> <e2>arrangement</e2> it 's just that they are really close to one another and have unconventional shape so it takes a big getting used to for someone like me with big hand
++(e1, e2)
+aa4cf9874eb6024ec9e908b53f471f6e.(4, 4).Nokia	poor visibility on the <e2><e1>key</e1></e2>
++(e2, e1)
+b04114762c3824238acb69a9f7c5cc55.(2, 2).Nokia	the volume <e2><e1>key</e1></e2> can be hard to press but i think this may be by design rather than a flaw perhaps to keep you from pressing it accidentally when you are in a call
++(e2, e1)
+6e389542d89508957c8af12f28f181a9.(1, 1).Nokia	the <e2><e1>key</e1></e2> are laid out normal so there is no guessing
++(e2, e1)
+7aba4051c00fd6801f9538e897377aed.(11, 11).Nokia	the keypad is a decent size but the power on off <e2><e1>key</e1></e2> is small and difficult to press
++(e2, e1)
+3f9cc3c78af4f8f3dbd173ab2962564f.(4, 4).Nokia	i like the automatic <e2><e1>key</e1></e2> lock function
++(e2, e1)
+42f9a3d24c13151b0c3eee5b5a85dd48.(6, 6).Nokia	this model does have the traditional <e2><e1>key</e1></e2> arrangement it 's just that they are really close to one another and have unconventional shape so it takes a big getting used to for someone like me with big hand
++(e2, e1)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(5, 9).Nokia	the fact that the 0 <e1>key</e1> is the space <e2>key</e2> for text input is a bit confusing as many phone use the key instead
++(e1, e2)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(9, 22).Nokia	the fact that the 0 key is the space <e1>key</e1> for text input is a bit confusing as many phone use the <e2>key</e2> instead
++(e1, e2)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(5, 5).Nokia	the fact that the 0 <e2><e1>key</e1></e2> is the space key for text input is a bit confusing as many phone use the key instead
++(e2, e1)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(5, 22).Nokia	the fact that the 0 <e1>key</e1> is the space key for text input is a bit confusing as many phone use the <e2>key</e2> instead
++(e1, e2)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(9, 9).Nokia	the fact that the 0 key is the space <e2><e1>key</e1></e2> for text input is a bit confusing as many phone use the key instead
++(e2, e1)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(9, 5).Nokia	the fact that the 0 <e1>key</e1> is the space <e2>key</e2> for text input is a bit confusing as many phone use the key instead
++(e2, e1)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(22, 5).Nokia	the fact that the 0 <e1>key</e1> is the space key for text input is a bit confusing as many phone use the <e2>key</e2> instead
++(e2, e1)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(22, 9).Nokia	the fact that the 0 key is the space <e1>key</e1> for text input is a bit confusing as many phone use the <e2>key</e2> instead
++(e2, e1)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(22, 22).Nokia	the fact that the 0 key is the space key for text input is a bit confusing as many phone use the <e2><e1>key</e1></e2> instead
++(e2, e1)
+8c8bbd4a1f9a38c0933fcbd3803b117e.(1, 1).Nokia	the <e2><e1>key</e1></e2> are close together and the layout is a bit funky in relation to standard rectangular layout keypad but it 's not too weird
++(e2, e1)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(5, 19).Nokia	the fact that the 0 <e1>key</e1> is the space key for text input is a bit confusing as many <e2>phone</e2> use the key instead
++(e1, e2)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(22, 19).Nokia	the fact that the 0 key is the space key for text input is a bit confusing as many <e1>phone</e1> use the <e2>key</e2> instead
++(e2, e1)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(9, 19).Nokia	the fact that the 0 key is the space <e1>key</e1> for text input is a bit confusing as many <e2>phone</e2> use the key instead
++(e1, e2)
+b89efe0de0fd797ce86e413b78bcc046.(35, 6).Nokia	the first night i got this <e1>phone</e1> i put it next to me when i went to bed just to listen to my favorite music station and the handset itself doesnt weight anything its too <e2>light</e2> and feel so comfy with it
++(e2, e1)
+0774bbf5a1f65c236eec818161d3b56d.(4, 5).Nokia	this is a very <e1>light</e1> <e2>phone</e2> a little less than 3 oz with long battery life not as long as the new polymer technology
++(e1, e2)
+8ee54a07a100d3ae716ff48a9b13ef2a.(4, 1).Nokia	the <e1>phone</e1> is small <e2>light</e2> and very attractive
++(e2, e1)
+068bd7c0f0afc39243b4899bb1fe99a4.(16, 11).Nokia	it is amazing that the battery last so long when the <e1>phone</e1> is so small and <e2>light</e2>
++(e2, e1)
+86fbc0120dc9e7b25d672355dc9d3046.(20, 4).Nokia	when you put this <e1>phone</e1> in your pocket you forget it is there it is unbelievably small and oh so <e2>light</e2>
++(e2, e1)
+105924e46523168dd9a09a96a05d6a46.(3, 2).Nokia	nice little <e1>phone</e1> <e2>light</e2> compact
++(e2, e1)
+82e64d953b29aae10303bde70a8ad379.(4, 1).Nokia	the <e1>phone</e1> is very <e2>light</e2> weight
++(e2, e1)
+82e64d953b29aae10303bde70a8ad379.(4, 5).Nokia	the phone is very <e1>light</e1> <e2>weight</e2>
++(e1, e2)
+b89efe0de0fd797ce86e413b78bcc046.(35, 31).Nokia	the first night i got this phone i put it next to me when i went to bed just to listen to my favorite music station and the handset itself doesnt <e1>weight</e1> anything its too <e2>light</e2> and feel so comfy with it
++(e2, e1)
+f814470075f9eaffe13f9b92b246daab.(3, 4).Nokia	it is very <e1>light</e1> <e2>weight</e2> and has a good signal strength
++(e1, e2)
+8b4057f457380127479d55edc7268abf.(8, 9).Nokia	i like the size and weight of this <e1>little</e1> <e2>critter</e2>
++(e1, e2)
+58e7e474b8ea3dcf3293853aae627fc1.(5, 10).Nokia	this really is a great <e1>little</e1> phone its got nice <e2>feature</e2> a beatiful screen great ergonomics and its tiny
++(e1, e2)
+c803c17bfceefa2bdbade542c896cde8.(6, 10).Nokia	although the nokia 6610 is a <e1>little</e1> short on the <e2>feature</e2> department it is an outstanding piece of hardware for doing what it was primarily meant to do to be a wireless telephone
++(e1, e2)
+25b1cc0cda02ef1722164f8b75bb7712.(12, 3).Nokia	there are some <e1>feature</e1> in the user interface that i find a <e2>little</e2> inconvenient
++(e2, e1)
+60918d91db20f0758f77fc85122e79da.(4, 6).Nokia	it has lot of <e1>little</e1> cute <e2>feature</e2> my favorite being the game and the pim personal information manager i e organizer and the radio
++(e1, e2)
+238d0351c8c8c466d81f67763e3871b1.(16, 17).Nokia	in true nokia style the phone is simple to use and despite its delicate appearance this <e1>little</e1> <e2>guy</e2> is as durable as other nokias i have owned
++(e1, e2)
+cb73b87bc53d6be47ba62c64c5eefff1.(15, 16).Nokia	the phone comes with okay ringtones some decent background screensavers but the phone has very <e1>little</e1> <e2>memory</e2> mine had 230kb as it arrived from amazon so you do n 't have too many option on what you can put on there
++(e1, e2)
+58e7e474b8ea3dcf3293853aae627fc1.(5, 6).Nokia	this really is a great <e1>little</e1> <e2>phone</e2> its got nice feature a beatiful screen great ergonomics and its tiny
++(e1, e2)
+238d0351c8c8c466d81f67763e3871b1.(16, 5).Nokia	in true nokia style the <e1>phone</e1> is simple to use and despite its delicate appearance this <e2>little</e2> guy is as durable as other nokias i have owned
++(e2, e1)
+cb73b87bc53d6be47ba62c64c5eefff1.(15, 12).Nokia	the phone comes with okay ringtones some decent background screensavers but the <e1>phone</e1> has very <e2>little</e2> memory mine had 230kb as it arrived from amazon so you do n 't have too many option on what you can put on there
++(e2, e1)
+cb73b87bc53d6be47ba62c64c5eefff1.(15, 1).Nokia	the <e1>phone</e1> comes with okay ringtones some decent background screensavers but the phone has very <e2>little</e2> memory mine had 230kb as it arrived from amazon so you do n 't have too many option on what you can put on there
++(e2, e1)
+105924e46523168dd9a09a96a05d6a46.(1, 2).Nokia	nice <e1>little</e1> <e2>phone</e2> light compact
++(e1, e2)
+0774bbf5a1f65c236eec818161d3b56d.(7, 5).Nokia	this is a very light <e1>phone</e1> a <e2>little</e2> less than 3 oz with long battery life not as long as the new polymer technology
++(e2, e1)
+ceb0982ee639d31ed4e5f43a46e69336.(4, 6).Nokia	button do seem a <e1>little</e1> sticky <e2>tho</e2> and the hand free kit connector might be a problem
++(e1, e2)
+c63b814a0a679b601fcf858056f31723.(1, 0).Nokia	<e1>speakerphone</e1> <e2>loud</e2> and clear has some nice extra feature like currency converter and a stopwatch
++(e2, e1)
+1e497d003ead8f158733c4abb51c307b.(6, 2).Nokia	my favorite <e1>feature</e1> although there are <e2>many</e2> are the speaker phone the radio and the infrared
++(e2, e1)
+8b06ee9536157bdc30f89af9097efd4e.(3, 12).Nokia	this phone has <e1>many</e1> other feature ir just to name one the <e2>feature</e2> above i view as the most beneficial
++(e1, e2)
+8b06ee9536157bdc30f89af9097efd4e.(3, 5).Nokia	this phone has <e1>many</e1> other <e2>feature</e2> ir just to name one the feature above i view as the most beneficial
++(e1, e2)
+cb424d3ece8282ce9d98ff9e19d23c6c.(12, 11).Nokia	the one huge disappointment is that the phone manufactured for t-mobile <e1>lack</e1> <e2>many</e2> of the menus and function that a nokia straight from the manufacturer should have
++(e2, e1)
+cb73b87bc53d6be47ba62c64c5eefff1.(32, 33).Nokia	the phone comes with okay ringtones some decent background screensavers but the phone has very little memory mine had 230kb as it arrived from amazon so you do n 't have too <e1>many</e1> <e2>option</e2> on what you can put on there
++(e1, e2)
+1e497d003ead8f158733c4abb51c307b.(6, 10).Nokia	my favorite feature although there are <e1>many</e1> are the speaker <e2>phone</e2> the radio and the infrared
++(e1, e2)
+21250d9726c5df5ab8b704a872ef5d69.(5, 21).Nokia	this is a benefit for <e1>many</e1> reason one being just for appearance your pant wo n 't be bulging with this <e2>phone</e2> in your pocket
++(e1, e2)
+cb424d3ece8282ce9d98ff9e19d23c6c.(12, 7).Nokia	the one huge disappointment is that the <e1>phone</e1> manufactured for t-mobile lack <e2>many</e2> of the menus and function that a nokia straight from the manufacturer should have
++(e2, e1)
+8b06ee9536157bdc30f89af9097efd4e.(3, 1).Nokia	this <e1>phone</e1> has <e2>many</e2> other feature ir just to name one the feature above i view as the most beneficial
++(e2, e1)
+cb73b87bc53d6be47ba62c64c5eefff1.(32, 1).Nokia	the <e1>phone</e1> comes with okay ringtones some decent background screensavers but the phone has very little memory mine had 230kb as it arrived from amazon so you do n 't have too <e2>many</e2> option on what you can put on there
++(e2, e1)
+cb73b87bc53d6be47ba62c64c5eefff1.(32, 12).Nokia	the phone comes with okay ringtones some decent background screensavers but the <e1>phone</e1> has very little memory mine had 230kb as it arrived from amazon so you do n 't have too <e2>many</e2> option on what you can put on there
++(e2, e1)
+88b9aa2d53178b2ce98e7c56d5c5e0d8.(18, 19).Nokia	the fact that the 0 key is the space key for text input is a bit confusing as <e1>many</e1> <e2>phone</e2> use the key instead
++(e1, e2)
+21250d9726c5df5ab8b704a872ef5d69.(5, 6).Nokia	this is a benefit for <e1>many</e1> <e2>reason</e2> one being just for appearance your pant wo n 't be bulging with this phone in your pocket
++(e1, e2)
+cb424d3ece8282ce9d98ff9e19d23c6c.(12, 10).Nokia	the one huge disappointment is that the phone manufactured for <e1>t-mobile</e1> lack <e2>many</e2> of the menus and function that a nokia straight from the manufacturer should have
++(e2, e1)
+c67d6bcd1ecc6effe34a9f8354eddaa0.(5, 6).Nokia	the phone has a few <e1>minor</e1> <e2>inconvenience</e2> but only because it lack those feature bluetooth and high spend internet but there are very few problem with thing that you expected this phone to do
++(e1, e2)
+7c8f3f41daa8a96742203572b5b47386.(1, 3).Nokia	the <e1>mobile</e1> text <e2>messaging</e2> chat picture sharing etc other nicities that you would enjoy
++(e1, e2)
+5741b29bc5d1f08561ddf80eaccd827d.(14, 16).Nokia	surfing the web on it is nice as well i just wish there were <e1>more</e1> wap <e2>page</e2> available
++(e1, e2)
+7d7d4d07552660b8043027100c94a48d.(7, 5).Nokia	additionally it has more fun <e1>stuff</e1> like <e2>more</e2> tone wallpaper screensaver stop clock alarm java application chess currency converter etc
++(e2, e1)
+7d7d4d07552660b8043027100c94a48d.(3, 5).Nokia	additionally it has <e1>more</e1> fun <e2>stuff</e2> like more tone wallpaper screensaver stop clock alarm java application chess currency converter etc
++(e1, e2)
+147682229af074d2520a07e45499562b.(1, 3).Nokia	the <e1>more</e1> subtle <e2>tone</e2> that were included with the phone are hard to hear at time
++(e1, e2)
+7d7d4d07552660b8043027100c94a48d.(3, 8).Nokia	additionally it has <e1>more</e1> fun stuff like more <e2>tone</e2> wallpaper screensaver stop clock alarm java application chess currency converter etc
++(e1, e2)
+7d7d4d07552660b8043027100c94a48d.(7, 8).Nokia	additionally it has more fun stuff like <e1>more</e1> <e2>tone</e2> wallpaper screensaver stop clock alarm java application chess currency converter etc
++(e1, e2)
+c942e7617c5617c46364266d80a29f69.(6, 1).Nokia	the <e1>nokia</e1> 6610 is a relatively <e2>new</e2> phone and what a great phone it is
++(e2, e1)
+c942e7617c5617c46364266d80a29f69.(6, 12).Nokia	the nokia 6610 is a relatively <e1>new</e1> phone and what a great <e2>phone</e2> it is
++(e1, e2)
+c942e7617c5617c46364266d80a29f69.(6, 7).Nokia	the nokia 6610 is a relatively <e1>new</e1> <e2>phone</e2> and what a great phone it is
++(e1, e2)
+0774bbf5a1f65c236eec818161d3b56d.(21, 5).Nokia	this is a very light <e1>phone</e1> a little less than 3 oz with long battery life not as long as the <e2>new</e2> polymer technology
++(e2, e1)
+d43fd9028c14d0fc8fcaa77456271140.(3, 4).Nokia	it has a <e1>nice</e1> <e2>color</e2> screen
++(e1, e2)
+eeeacba322957f4c880a66e6ed2a23f0.(11, 12).Nokia	the screen is bright easy to see in the daylight with <e1>nice</e1> <e2>color</e2>
++(e1, e2)
+58e7e474b8ea3dcf3293853aae627fc1.(9, 10).Nokia	this really is a great little phone its got <e1>nice</e1> <e2>feature</e2> a beatiful screen great ergonomics and its tiny
++(e1, e2)
+d36bdc5dfa57c2ffcd3b26042b66d2e6.(19, 20).Nokia	sound excellent polyphonic ringing tone are very nice check con it also double as a radio which is a <e1>nice</e1> <e2>feature</e2> when you are bored
++(e1, e2)
+d36bdc5dfa57c2ffcd3b26042b66d2e6.(7, 20).Nokia	sound excellent polyphonic ringing tone are very <e1>nice</e1> check con it also double as a radio which is a nice <e2>feature</e2> when you are bored
++(e1, e2)
+c63b814a0a679b601fcf858056f31723.(6, 8).Nokia	speakerphone loud and clear has some <e1>nice</e1> extra <e2>feature</e2> like currency converter and a stopwatch
++(e1, e2)
+58e7e474b8ea3dcf3293853aae627fc1.(9, 6).Nokia	this really is a great little <e1>phone</e1> its got <e2>nice</e2> feature a beatiful screen great ergonomics and its tiny
++(e2, e1)
+b7fe89c7512fb83bb17ebeaa6b53d631.(3, 9).Nokia	it receives very <e1>nice</e1> mms picture from other gsm <e2>phone</e2>
++(e1, e2)
+105924e46523168dd9a09a96a05d6a46.(0, 2).Nokia	<e1>nice</e1> little <e2>phone</e2> light compact
++(e1, e2)
+907a71d6c58acc8a9c22afee0469cda1.(4, 5).Nokia	this is a very <e1>nice</e1> <e2>phone</e2> but there is no warranty on it
++(e1, e2)
+b7fe89c7512fb83bb17ebeaa6b53d631.(3, 5).Nokia	it receives very <e1>nice</e1> mms <e2>picture</e2> from other gsm phone
++(e1, e2)
+d36bdc5dfa57c2ffcd3b26042b66d2e6.(7, 15).Nokia	sound excellent polyphonic ringing tone are very <e1>nice</e1> check con it also double as a <e2>radio</e2> which is a nice feature when you are bored
++(e1, e2)
+d36bdc5dfa57c2ffcd3b26042b66d2e6.(19, 15).Nokia	sound excellent polyphonic ringing tone are very nice check con it also double as a <e1>radio</e1> which is a <e2>nice</e2> feature when you are bored
++(e2, e1)
+a05eeda6733206f3896d450dd927f8fe.(5, 7).Nokia	this is one of the <e1>nicest</e1> phone <e2>nokia</e2> has made
++(e1, e2)
+e52d5fd102dc709b3e64330ff8edc1b0.(26, 27).Nokia	from the speakerphone that can be used up to 15 foot away with clarity to the downloadable poly-graphic megatones that adds a personal touch to this <e1>nifty</e1> <e2>phone</e2>
++(e1, e2)
+6fe554bb692034563c238b99119b81ec.(4, 0).Nokia	<e1>nokia</e1> was my first <e2>nonflip</e2> phone and i 'm glad i decided to go with them
++(e2, e1)
+6fe554bb692034563c238b99119b81ec.(4, 5).Nokia	nokia was my first <e1>nonflip</e1> <e2>phone</e2> and i 'm glad i decided to go with them
++(e1, e2)
+c9d0d998766ff632aa6c28c85f4926f0.(13, 1).Nokia	this <e1>radio</e1> receives fairly decent reception but not nearly as good as a <e2>normal</e2> radio but as long as the station are coming in clearly the phone 's radio should work perfectly
++(e2, e1)
+c9d0d998766ff632aa6c28c85f4926f0.(13, 14).Nokia	this radio receives fairly decent reception but not nearly as good as a <e1>normal</e1> <e2>radio</e2> but as long as the station are coming in clearly the phone 's radio should work perfectly
++(e1, e2)
+c9d0d998766ff632aa6c28c85f4926f0.(13, 28).Nokia	this radio receives fairly decent reception but not nearly as good as a <e1>normal</e1> radio but as long as the station are coming in clearly the phone 's <e2>radio</e2> should work perfectly
++(e1, e2)
+cb73b87bc53d6be47ba62c64c5eefff1.(4, 5).Nokia	the phone comes with <e1>okay</e1> <e2>ringtones</e2> some decent background screensavers but the phone has very little memory mine had 230kb as it arrived from amazon so you do n 't have too many option on what you can put on there
++(e1, e2)
+014aa078aecf0b50593f6613db26ebbc.(4, 5).Nokia	even better with the <e1>optional</e1> <e2>headset</e2> you can listen to music over the integrated radio
++(e1, e2)
+6678ea63baf21e42ca34ff9c60e47c7c.(22, 24).Nokia	the gprs connection is sometimes slow and writing instant message with the included aol instant messenger software is a pain but the <e1>other</e1> t-zones <e2>application</e2> are quite useful
++(e1, e2)
+8b06ee9536157bdc30f89af9097efd4e.(4, 5).Nokia	this phone has many <e1>other</e1> <e2>feature</e2> ir just to name one the feature above i view as the most beneficial
++(e1, e2)
+8b06ee9536157bdc30f89af9097efd4e.(4, 12).Nokia	this phone has many <e1>other</e1> feature ir just to name one the <e2>feature</e2> above i view as the most beneficial
++(e1, e2)
+38ea99941efb67acbdadb452537a05bc.(14, 15).Nokia	unfortunately the 6610 does not offer voice dialing like my previous phone but the <e1>other</e1> <e2>feature</e2> it pack outweighs this shortcoming
++(e1, e2)
+5951baa50c5670e7c4fcac86438fba32.(1, 8).Nokia	no <e1>other</e1> color phone has the combination of <e2>feature</e2> that the 6610 offer
++(e1, e2)
+0640603a2170d71444627f4f433fd0bd.(8, 12).Nokia	there is much which has been said in <e1>other</e1> review about the <e2>feature</e2> of this phone it is a great phone mine worked without any problem right out of the box
++(e1, e2)
+7c8f3f41daa8a96742203572b5b47386.(8, 9).Nokia	the mobile text messaging chat picture sharing etc <e1>other</e1> <e2>nicities</e2> that you would enjoy
++(e1, e2)
+238d0351c8c8c466d81f67763e3871b1.(22, 23).Nokia	in true nokia style the phone is simple to use and despite its delicate appearance this little guy is as durable as <e1>other</e1> <e2>nokias</e2> i have owned
++(e1, e2)
+238d0351c8c8c466d81f67763e3871b1.(22, 5).Nokia	in true nokia style the <e1>phone</e1> is simple to use and despite its delicate appearance this little guy is as durable as <e2>other</e2> nokias i have owned
++(e2, e1)
+0640603a2170d71444627f4f433fd0bd.(8, 15).Nokia	there is much which has been said in <e1>other</e1> review about the feature of this <e2>phone</e2> it is a great phone mine worked without any problem right out of the box
++(e1, e2)
+0640603a2170d71444627f4f433fd0bd.(8, 20).Nokia	there is much which has been said in <e1>other</e1> review about the feature of this phone it is a great <e2>phone</e2> mine worked without any problem right out of the box
++(e1, e2)
+5951baa50c5670e7c4fcac86438fba32.(1, 3).Nokia	no <e1>other</e1> color <e2>phone</e2> has the combination of feature that the 6610 offer
++(e1, e2)
+8b06ee9536157bdc30f89af9097efd4e.(4, 1).Nokia	this <e1>phone</e1> has many <e2>other</e2> feature ir just to name one the feature above i view as the most beneficial
++(e2, e1)
+437957753d095bc51aec7470946afeac.(0, 7).Nokia	<e1>other</e1> than that this is a perfect <e2>phone</e2> for those of us with no patience for flip
++(e1, e2)
+b7fe89c7512fb83bb17ebeaa6b53d631.(7, 9).Nokia	it receives very nice mms picture from <e1>other</e1> gsm <e2>phone</e2>
++(e1, e2)
+bc5f1642b16101e4228c81997a833126.(13, 14).Nokia	i am able to carry it close to my body in place where <e1>other</e1> <e2>phone</e2> are not so easily concealed
++(e1, e2)
+38ea99941efb67acbdadb452537a05bc.(14, 11).Nokia	unfortunately the 6610 does not offer voice dialing like my previous <e1>phone</e1> but the <e2>other</e2> feature it pack outweighs this shortcoming
++(e2, e1)
+0640603a2170d71444627f4f433fd0bd.(8, 9).Nokia	there is much which has been said in <e1>other</e1> <e2>review</e2> about the feature of this phone it is a great phone mine worked without any problem right out of the box
++(e1, e2)
+488636e06974d698e1fdaf82e4a7855d.(0, 2).Nokia	<e1>outstanding</e1> signal <e2>reception</e2>
++(e1, e2)
+47e3873452377bfeaeb451bfad9ba553.(0, 8).Nokia	<e1>overall</e1> this is a slightly better than average <e2>phone</e2>
++(e1, e2)
+28fd6ff95028de4d9ea392d1a09a45ff.(0, 5).Nokia	<e1>overall</e1> this is the best <e2>phone</e2> i have ever owned
++(e1, e2)
+962d0a03e1daebad970b1586234fc351.(0, 3).Nokia	<e1>overall</e1> an excellent <e2>phone</e2>
++(e1, e2)
+17f6d670f0087e4bd79ea3d9763fd40b.(0, 5).Nokia	<e1>overall</e1> i highly recommend this <e2>phone</e2>
++(e1, e2)
+d59318453bccd6b57857e2fa7b73f426.(5, 4).Nokia	i do like this <e1>phone</e1> <e2>overall</e2> would give it a 3 5 but unforutnately i am returning it
++(e2, e1)
+0a672f3d94178693fef4a061788aba10.(0, 6).Nokia	<e1>overall</e1> this has been my favorite <e2>phone</e2> that i have owned
++(e1, e2)
+947e4a7f76574c8d9e61e6f0a4bf403d.(3, 4).Nokia	it is a <e1>perfect</e1> <e2>phone</e2> in such a small and appealing package
++(e1, e2)
+13e3ad521538757c809d312f2b720148.(5, 21).Nokia	not only is it the <e1>perfect</e1> size not too small not too large it also has all the feature a high-tech <e2>phone</e2> user would want
++(e1, e2)
+4e3e16c7d6dc2759d671c13215fece25.(33, 4).Nokia	i have had the <e1>phone</e1> for 1 week the signal quality has been great in the detroit area suburb and in my recent road trip between detroit and northern kentucky cincinnati i experienced <e2>perfect</e2> signal and reception along i-75 far superior to at 38 t 's which does not work along several long stretch on that same route
++(e2, e1)
+437957753d095bc51aec7470946afeac.(6, 7).Nokia	other than that this is a <e1>perfect</e1> <e2>phone</e2> for those of us with no patience for flip
++(e1, e2)
+d0d621d83a44b4ab35ea2f818978ec04.(3, 4).Nokia	great battery life <e1>perfect</e1> <e2>size</e2> but a tid bit quieter than i would like
++(e1, e2)
+13e3ad521538757c809d312f2b720148.(5, 6).Nokia	not only is it the <e1>perfect</e1> <e2>size</e2> not too small not too large it also has all the feature a high-tech phone user would want
++(e1, e2)
+743eeb5f1185f0007cd790563f3abfc4.(9, 6).Nokia	after using it i found the <e1>size</e1> to be <e2>perfect</e2> for carrying in a pocket
++(e2, e1)
+8b15359b7863064bb6750c1a814f9531.(4, 5).Nokia	some of the higher <e1>pitched</e1> <e2>ring</e2> are very easy to hear but not easy to listen to
++(e1, e2)
+e52d5fd102dc709b3e64330ff8edc1b0.(17, 18).Nokia	from the speakerphone that can be used up to 15 foot away with clarity to the downloadable <e1>poly-graphic</e1> <e2>megatones</e2> that adds a personal touch to this nifty phone
++(e1, e2)
+66c96d417bca7af0fbf9a1d25d7bf577.(9, 10).Nokia	the color screen is a plus as are the <e1>polyphonic</e1> <e2>ringtones</e2>
++(e1, e2)
+8ea22abcafee5d8784ac48d7824ecab7.(11, 1).Nokia	the <e1>ringtones</e1> included are awesome and did i mention they were <e2>polyphonic</e2>
++(e2, e1)
+d36bdc5dfa57c2ffcd3b26042b66d2e6.(2, 4).Nokia	sound excellent <e1>polyphonic</e1> ringing <e2>tone</e2> are very nice check con it also double as a radio which is a nice feature when you are bored
++(e1, e2)
+285382587275bb6699276d5b9ea9c3ab.(8, 10).Nokia	it comes equipped with lot of wallpaper and <e1>polyphonic</e1> sweet <e2>tune</e2>
++(e1, e2)
+867e0d28796d18caa886b83e1e446570.(6, 7).Nokia	while i had the phone the <e1>positive</e1> <e2>feature</e2> were good sound quality and an excellent fm phone and earpiece
++(e1, e2)
+9d0740971a20ab06bf942f4cdc6c18bf.(8, 9).Nokia	in addition it comes with a sleek and <e1>powerful</e1> <e2>headset</e2>
++(e1, e2)
+1dc3740e06e3a4b6aef93300ba191638.(13, 15).Nokia	navigating through the menus is super easy especially if you have owned a <e1>previous</e1> model <e2>nokia</e2> phone
++(e1, e2)
+ef6ad218bc4eef8f153f8382e40b1d89.(9, 10).Nokia	the infrared is a blessing if you have a <e1>previous</e1> <e2>nokia</e2> and want to transfer your old phone book to this phone saved me hour of re-entering my number
++(e1, e2)
+1dc3740e06e3a4b6aef93300ba191638.(13, 16).Nokia	navigating through the menus is super easy especially if you have owned a <e1>previous</e1> model nokia <e2>phone</e2>
++(e1, e2)
+ef6ad218bc4eef8f153f8382e40b1d89.(9, 17).Nokia	the infrared is a blessing if you have a <e1>previous</e1> nokia and want to transfer your old <e2>phone</e2> book to this phone saved me hour of re-entering my number
++(e1, e2)
+ef6ad218bc4eef8f153f8382e40b1d89.(9, 21).Nokia	the infrared is a blessing if you have a <e1>previous</e1> nokia and want to transfer your old phone book to this <e2>phone</e2> saved me hour of re-entering my number
++(e1, e2)
+38ea99941efb67acbdadb452537a05bc.(10, 11).Nokia	unfortunately the 6610 does not offer voice dialing like my <e1>previous</e1> <e2>phone</e2> but the other feature it pack outweighs this shortcoming
++(e1, e2)
+dc93b572e66d7cee8d1301ab1059f27f.(18, 21).Nokia	the only problem that i have found with the internet service is that it does not access mls <e1>real</e1> estate broker <e2>software</e2> very well at all
++(e1, e2)
+9d0740971a20ab06bf942f4cdc6c18bf.(6, 9).Nokia	in addition it comes with a <e1>sleek</e1> and powerful <e2>headset</e2>
++(e1, e2)
+3cfd003cfecd282858702db176f2d30e.(3, 4).Nokia	i bought this <e1>slick</e1> <e2>phone</e2> and i am very happy with it
++(e1, e2)
+0fd1a39fbd9bf7572e59b5af4057aeba.(6, 11).Nokia	the button on the phone are <e1>small</e1> even for my small <e2>fingertip</e2> but you get used to them rather quickly
++(e1, e2)
+0fd1a39fbd9bf7572e59b5af4057aeba.(10, 11).Nokia	the button on the phone are small even for my <e1>small</e1> <e2>fingertip</e2> but you get used to them rather quickly
++(e1, e2)
+d379b42593ec45fb92354860d5f031da.(7, 8).Nokia	the only problem i had was a <e1>small</e1> <e2>glitch</e2> with t-mobile
++(e1, e2)
+947e4a7f76574c8d9e61e6f0a4bf403d.(8, 11).Nokia	it is a perfect phone in such a <e1>small</e1> and appealing <e2>package</e2>
++(e1, e2)
+7aba4051c00fd6801f9538e897377aed.(13, 5).Nokia	the keypad is a decent <e1>size</e1> but the power on off key is <e2>small</e2> and difficult to press
++(e2, e1)
+fe5fec6558b2e30fcb5d27fdc47570d2.(2, 0).Nokia	<e1>size</e1> extremely <e2>small</e2> and convenient will fit in your pocket and not bother you
++(e2, e1)
+2ba94a2d6897c0dc29eaf3f1c90562af.(14, 15).Nokia	i did a ton of research and settled on this phone because of the <e1>small</e1> <e2>size</e2> speakerphone option great priced calling plan and access to my corporate email
++(e1, e2)
+13e3ad521538757c809d312f2b720148.(9, 6).Nokia	not only is it the perfect <e1>size</e1> not too <e2>small</e2> not too large it also has all the feature a high-tech phone user would want
++(e2, e1)
+89e17bc3dd3643eef452c0b526b1397b.(0, 1).Nokia	<e1>small</e1> <e2>size</e2>
++(e1, e2)
+f18154e30404fb3775505cae4d99fcb0.(5, 4).Nokia	it is just a <e1>tad</e1> <e2>small</e2> to hold to your ear with your shoulder but that is solved with the very comfortable handsfree ear-piece which is included
++(e2, e1)
+d36bdc5dfa57c2ffcd3b26042b66d2e6.(0, 20).Nokia	<e1>sound</e1> excellent polyphonic ringing tone are very nice check con it also double as a radio which is a nice <e2>feature</e2> when you are bored
++(e1, e2)
+f5cbb3d03ebbfc0942b32ad9a8187168.(5, 2).Nokia	the radio <e1>feature</e1> has superb <e2>sound</e2> quality
++(e2, e1)
+867e0d28796d18caa886b83e1e446570.(10, 7).Nokia	while i had the phone the positive <e1>feature</e1> were good <e2>sound</e2> quality and an excellent fm phone and earpiece
++(e2, e1)
+e5530a413b6c717bbc2f6d1ede7c1ead.(1, 2).Nokia	excellent <e1>sound</e1> <e2>quality</e2>
++(e1, e2)
+c08ffc6c0204ff4421d6802f9f85c134.(3, 4).Nokia	the reception and <e1>sound</e1> <e2>quality</e2> are top-notch
++(e1, e2)
+37a84a72000588d4bc0ae8bef4295a66.(1, 2).Nokia	the <e1>sound</e1> <e2>quality</e2> is excellent except maybe a tad too quiet at time when there are quieter talker on the other end of the line
++(e1, e2)
+867e0d28796d18caa886b83e1e446570.(10, 11).Nokia	while i had the phone the positive feature were good <e1>sound</e1> <e2>quality</e2> and an excellent fm phone and earpiece
++(e1, e2)
+744f525296a4d9c08aa0fe2e19b27dba.(5, 6).Nokia	nokias have always had good <e1>sound</e1> <e2>quality</e2> and this is no exception
++(e1, e2)
+f5cbb3d03ebbfc0942b32ad9a8187168.(5, 6).Nokia	the radio feature has superb <e1>sound</e1> <e2>quality</e2>
++(e1, e2)
+66e182597a414b07d8bf1b3a941514eb.(11, 12).Nokia	however the main problem that i think is the with the <e1>sound</e1> <e2>quality</e2>
++(e1, e2)
+6f9adbe48884c146062517217a8d680d.(3, 4).Nokia	the phone 's <e1>sound</e1> <e2>quality</e2> is great turn up the volume if its too quiet people this thing will get loud i dont have any complaint about this phone and the only thing that i miss from my 8290 is voice dialing
++(e1, e2)
+c08ffc6c0204ff4421d6802f9f85c134.(3, 1).Nokia	the <e1>reception</e1> and <e2>sound</e2> quality are top-notch
++(e2, e1)
+3f4a8a9f30c37af03527a36fda76d179.(9, 10).Nokia	you can also assign special ring and graphic to <e1>special</e1> <e2>people</e2> when they call
++(e1, e2)
+3f4a8a9f30c37af03527a36fda76d179.(4, 10).Nokia	you can also assign <e1>special</e1> ring and graphic to special <e2>people</e2> when they call
++(e1, e2)
+3f4a8a9f30c37af03527a36fda76d179.(4, 5).Nokia	you can also assign <e1>special</e1> <e2>ring</e2> and graphic to special people when they call
++(e1, e2)
+3f4a8a9f30c37af03527a36fda76d179.(9, 5).Nokia	you can also assign special <e1>ring</e1> and graphic to <e2>special</e2> people when they call
++(e2, e1)
+ceb0982ee639d31ed4e5f43a46e69336.(5, 6).Nokia	button do seem a little <e1>sticky</e1> <e2>tho</e2> and the hand free kit connector might be a problem
++(e1, e2)
+147682229af074d2520a07e45499562b.(2, 3).Nokia	the more <e1>subtle</e1> <e2>tone</e2> that were included with the phone are hard to hear at time
++(e1, e2)
+947e4a7f76574c8d9e61e6f0a4bf403d.(6, 11).Nokia	it is a perfect phone in <e1>such</e1> a small and appealing <e2>package</e2>
++(e1, e2)
+64fb66cc374fec3973bcd3984f004f56.(15, 17).Nokia	the two biggest thing is the excellent working speakerphone unlike the nokia 3650 and the <e1>superb</e1> reception <e2>nokia</e2> is known for in the gsm phone they make
++(e1, e2)
+64fb66cc374fec3973bcd3984f004f56.(15, 11).Nokia	the two biggest thing is the excellent working speakerphone unlike the <e1>nokia</e1> 3650 and the <e2>superb</e2> reception nokia is known for in the gsm phone they make
++(e2, e1)
+2788e7b6f62d9a35ddbc41822916180e.(5, 9).Nokia	the pc sync feature is <e1>superb</e1> that comes with <e2>nokia</e2> pc suite software with data cable or infrared port or bluetooth
++(e1, e2)
+f5cbb3d03ebbfc0942b32ad9a8187168.(4, 6).Nokia	the radio feature has <e1>superb</e1> sound <e2>quality</e2>
++(e1, e2)
+f5cbb3d03ebbfc0942b32ad9a8187168.(4, 5).Nokia	the radio feature has <e1>superb</e1> <e2>sound</e2> quality
++(e1, e2)
+285382587275bb6699276d5b9ea9c3ab.(9, 10).Nokia	it comes equipped with lot of wallpaper and polyphonic <e1>sweet</e1> <e2>tune</e2>
++(e1, e2)
+5f632c925abff8ea973237469d07a2aa.(18, 19).Nokia	the voice quality is very good and it gets great reception that is in place where you get <e1>t-mobile</e1> <e2>coverage</e2> which is not that good see below
++(e1, e2)
+cb424d3ece8282ce9d98ff9e19d23c6c.(10, 11).Nokia	the one huge disappointment is that the phone manufactured for <e1>t-mobile</e1> <e2>lack</e2> many of the menus and function that a nokia straight from the manufacturer should have
++(e1, e2)
+cb424d3ece8282ce9d98ff9e19d23c6c.(10, 20).Nokia	the one huge disappointment is that the phone manufactured for <e1>t-mobile</e1> lack many of the menus and function that a <e2>nokia</e2> straight from the manufacturer should have
++(e1, e2)
+51b1770d89037fd1f2b3010444b9217d.(2, 0).Nokia	<e1>nokia</e1> and <e2>t-mobile</e2> really teamed up well on this baby
++(e2, e1)
+bad709d57055304005f6f24f865dccd3.(0, 5).Nokia	<e1>t-mobile</e1> was a pretty good <e2>server</e2>
++(e1, e2)
+b3f9fc452f442086e1d960c66db4a767.(6, 13).Nokia	one downside as of this writing <e1>t-mobile</e1> has n 't updated their t-zone <e2>system</e2> to fully support the 6610
++(e1, e2)
+23f161907c6d5ce5f76a95f06dcb4341.(2, 10).Nokia	negative impossibly <e1>tiny</e1> and difficult to operate barely visible power <e2>button</e2>
++(e1, e2)
+42f9a3d24c13151b0c3eee5b5a85dd48.(5, 7).Nokia	this model does have the <e1>traditional</e1> key <e2>arrangement</e2> it 's just that they are really close to one another and have unconventional shape so it takes a big getting used to for someone like me with big hand
++(e1, e2)
+42f9a3d24c13151b0c3eee5b5a85dd48.(5, 6).Nokia	this model does have the <e1>traditional</e1> <e2>key</e2> arrangement it 's just that they are really close to one another and have unconventional shape so it takes a big getting used to for someone like me with big hand
++(e1, e2)
+44319df7de849e736c4e09bf62fef41e.(16, 10).Nokia	this mean that there is a good chance that this <e1>phone</e1> will not break easily like <e2>typical</e2> american phone
++(e2, e1)
+44319df7de849e736c4e09bf62fef41e.(16, 18).Nokia	this mean that there is a good chance that this phone will not break easily like <e1>typical</e1> american <e2>phone</e2>
++(e1, e2)
+fcf866589e0cd5066cdb86f7e386fe2e.(5, 6).Nokia	i thought this was the <e1>ultimate</e1> <e2>phone</e2> when it comes to basic feature but i was dissapointed when i saw that it was only a gsm comaptible phone
++(e1, e2)
+fcf866589e0cd5066cdb86f7e386fe2e.(5, 27).Nokia	i thought this was the <e1>ultimate</e1> phone when it comes to basic feature but i was dissapointed when i saw that it was only a gsm comaptible <e2>phone</e2>
++(e1, e2)
+42f9a3d24c13151b0c3eee5b5a85dd48.(21, 22).Nokia	this model does have the traditional key arrangement it 's just that they are really close to one another and have <e1>unconventional</e1> <e2>shape</e2> so it takes a big getting used to for someone like me with big hand
++(e1, e2)
+6678ea63baf21e42ca34ff9c60e47c7c.(27, 24).Nokia	the gprs connection is sometimes slow and writing instant message with the included aol instant messenger software is a pain but the other t-zones <e1>application</e1> are quite <e2>useful</e2>
++(e2, e1)
+bc2579b51229368645d63774f91960e1.(14, 15).Nokia	it also has a stock tracking app built in also useless and a somewhat <e1>useful</e1> <e2>application</e2> which convert all type of metric currency length area etc
++(e1, e2)
+744203c0ba661b81fbf49e058d3b8553.(7, 8).Nokia	this phone has a very cool and <e1>useful</e1> <e2>feature</e2> the speakerphone
++(e1, e2)
+d2fa4332430086507ce16ebe69abca1e.(1, 2).Nokia	bright <e1>visible</e1> <e2>screen</e2>
++(e1, e2)
+25dd9f9401731661e5fb9235d8d76fce.(0, 1).Nokia	<e1>well-backlit</e1> <e2>keypad</e2>
++(e1, e2)
+bbdd399a8aa07bc878d531a293918676.(15, 16).Nokia	it is a great phone if you are traveling all over the world packed with <e1>wonderful</e1> <e2>feature</e2>
++(e1, e2)

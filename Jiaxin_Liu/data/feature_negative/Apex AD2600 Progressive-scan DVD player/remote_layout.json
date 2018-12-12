@@ -1,0 +1,78 @@
+{
+    "21b5b1779d52da82b0a477fbf05b65d0": {
+        "(9, 6)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1614
+            ], 
+            "M2": [
+                2366
+            ], 
+            "BM1L": [
+                1147
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                715
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "weakness are minor : the feel and layout of the remote control are only so-so ; it does n't show the complete filename of mp3s with really long name ; you must cycle through every zoom setting ( 2x , 3x , 4x , 1/2x , etc . ) before getting back to normal size [ sorry if i 'm just ignorant of a way to get back to 1x quickly ] ."
+    }, 
+    "84b3210547b32bd5ab20ec53b3438380": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            13
+        ], 
+        "(16, 13)": {
+            "WBF": [
+                1951
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1614
+            ], 
+            "M2": [
+                2366
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "there were a few attractive feature , such as the small size and the layout of the remote ."
+    }
+}

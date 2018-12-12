@@ -1,0 +1,170 @@
+{
+    "faecff2a9f98008034e071e9ea118f8f": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            1
+        ], 
+        "(22, 1)": {
+            "WBF": [
+                1355
+            ], 
+            "AM2L": [
+                2637
+            ], 
+            "BM1F": [
+                1030
+            ], 
+            "M1": [
+                2079
+            ], 
+            "M2": [
+                765
+            ], 
+            "WBO": [
+                2388, 
+                2842, 
+                2846, 
+                1366, 
+                1552, 
+                917, 
+                1859, 
+                5, 
+                3168, 
+                200, 
+                130, 
+                1827, 
+                1951, 
+                3026, 
+                2844, 
+                858, 
+                2886
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "enough people have reported that their headphone jack does n't work after a month of using the device to believe that creative has some inbuilt manufacturing or quality control problem ."
+    }, 
+    "d6255391e01cbaa0b68fdb9cf3e4e183": {
+        "(0, 4)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                674
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2079
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "creative are * the * sound people for computer , i can 't understand why eax would introduce static ."
+    }, 
+    "f047713fd7ebf2002c5bc05f4ab2df80": {
+        "(13, 3)": {
+            "WBF": [
+                664
+            ], 
+            "AM2L": [
+                2006
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2079
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "WBO": [
+                134, 
+                2844, 
+                765, 
+                2631, 
+                501, 
+                1429
+            ], 
+            "WBL": [
+                1165
+            ], 
+            "AM2F": [
+                1758
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(7, 3)": {
+            "WBF": [
+                664
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2079
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "WBO": [
+                134
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7, 
+            13
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "a lot of people complain about the creative software , but i actually find creative mediasource organizer to have some strength over itunes ."
+    }
+}

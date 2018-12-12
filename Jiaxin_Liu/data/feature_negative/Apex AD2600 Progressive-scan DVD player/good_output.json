@@ -1,0 +1,38 @@
+{
+    "89ec4ff01b352ade745a12c65404dee0": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            0
+        ], 
+        "(6, 0)": {
+            "WBF": [
+                2867
+            ], 
+            "AM2L": [
+                1856
+            ], 
+            "M1": [
+                2021
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                671, 
+                691
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "output through component connection look very good , on my non-hd tv ."
+    }
+}

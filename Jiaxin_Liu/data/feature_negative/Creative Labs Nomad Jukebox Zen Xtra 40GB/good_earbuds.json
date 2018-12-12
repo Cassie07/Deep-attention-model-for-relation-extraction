@@ -1,0 +1,47 @@
+{
+    "042d659e2571a54ac6dd267df5c94471": {
+        "(22, 13)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2011
+            ], 
+            "BM1F": [
+                2772
+            ], 
+            "M1": [
+                975
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844, 
+                2645, 
+                4, 
+                2842, 
+                1429
+            ], 
+            "WBL": [
+                2656
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "i must have differing preference than others here , as i prefer the supplied earbuds to the sony 's that i thought sounded good on other player ."
+    }
+}

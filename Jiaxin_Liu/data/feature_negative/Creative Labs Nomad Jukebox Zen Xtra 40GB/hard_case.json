@@ -1,0 +1,46 @@
+{
+    "0c4de298f25d33f98c423488a7bd4745": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            5
+        ], 
+        "(13, 5)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                1570
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                541
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                507, 
+                468, 
+                501, 
+                1973
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                943
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "always carried it in a case in by briefcase but one day the hard drive just zapped ."
+    }
+}

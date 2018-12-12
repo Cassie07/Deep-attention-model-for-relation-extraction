@@ -1,0 +1,41 @@
+{
+    "2372fb6a2b84de05a3b0daa7c5597402": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            7
+        ], 
+        "(1, 7)": {
+            "WBF": [
+                1689
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                110
+            ], 
+            "M1": [
+                590
+            ], 
+            "M2": [
+                2139
+            ], 
+            "WBO": [
+                253, 
+                1300
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                644
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "7 ) chic look and good build - the player comes in a compact form with a metal face plate ."
+    }
+}

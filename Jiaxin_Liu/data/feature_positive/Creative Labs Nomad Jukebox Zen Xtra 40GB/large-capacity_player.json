@@ -1,0 +1,37 @@
+{
+    "d8737e5e75f38be5112109d102d4da02": {
+        "(11, 12)": {
+            "AM2L": [
+                226
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1603
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                3094
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "at the end of the day , what i wanted was a large-capacity player which allows me to easily play any album from my collection wherever i go , and the zen xtra 's combination of price , capacity and feature easily meet those criterion ."
+    }
+}

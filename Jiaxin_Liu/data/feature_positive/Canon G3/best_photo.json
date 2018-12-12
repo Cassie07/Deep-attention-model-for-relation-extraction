@@ -1,0 +1,37 @@
+{
+    "5d8b5507ce45f152c58e301e745b132e": {
+        "(8, 10)": {
+            "AM2L": [
+                3
+            ], 
+            "WBFL": [
+                875
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "very comfortable camera , easy to use , and the best digital photo you 're going to get at this price ."
+    }
+}

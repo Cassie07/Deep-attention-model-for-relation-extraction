@@ -1,0 +1,72 @@
+{
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            10
+        ], 
+        "(18, 10)": {
+            "WBF": [
+                1313
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                2966
+            ], 
+            "BM1L": [
+                1300
+            ], 
+            "WBO": [
+                1143, 
+                1685, 
+                379, 
+                1643
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                2204
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "16dccec07487bfb9e777d9b8fc08c377": {
+        "(8, 6)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2137
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                2966
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "being a creative product the playback quality is unbeatable ."
+    }
+}

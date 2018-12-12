@@ -1,0 +1,171 @@
+{
+    "f1215750c4fec903ffd2520c9d49c960": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            9
+        ], 
+        "(9, 9)": {
+            "AM2L": [
+                1055
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                469
+            ], 
+            "M2": [
+                469
+            ], 
+            "BM1L": [
+                635
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the resolution is very good and the color are bright and even changeable !"
+    }, 
+    "2fcb297b562e0085ac2b38a1e5132982": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            3
+        ], 
+        "(3, 3)": {
+            "AM2L": [
+                2428
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                469
+            ], 
+            "M2": [
+                469
+            ], 
+            "BM1L": [
+                2479
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the screen is bright and ring tone are unlimited ."
+    }, 
+    "5f86510c019b5a8471a682edff4d3332": {
+        "(8, 8)": {
+            "AM2L": [
+                649
+            ], 
+            "BM1F": [
+                2548
+            ], 
+            "M1": [
+                469
+            ], 
+            "M2": [
+                469
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the color screen makes this free-after-rebates phone shine bright , and command are very responsive ."
+    }, 
+    "eeeacba322957f4c880a66e6ed2a23f0": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            3
+        ], 
+        "(3, 3)": {
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                469
+            ], 
+            "M2": [
+                469
+            ], 
+            "BM1L": [
+                2479
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                985
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the screen is bright , easy to see in the daylight , with nice color ."
+    }, 
+    "d2fa4332430086507ce16ebe69abca1e": {
+        "(0, 0)": {
+            "AM2L": [
+                2479
+            ], 
+            "M1": [
+                469
+            ], 
+            "M2": [
+                469
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3067
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "- bright , visible screen"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "c5fb91677140916fcce268347c2b912b": {
+        "(22, 5)": {
+            "WBF": [
+                1758
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                394
+            ], 
+            "WBO": [
+                2631, 
+                1541, 
+                165, 
+                2304, 
+                2438, 
+                848, 
+                3121, 
+                2012, 
+                1355, 
+                2454, 
+                2862, 
+                1924, 
+                1748
+            ], 
+            "WBL": [
+                3168
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "as i mentioned before , the creative mediasource software is actually really robust despite what others have said , though notmad may still work better ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "(33, 43)": {
+            "WBF": [
+                2840
+            ], 
+            "AM2L": [
+                392
+            ], 
+            "BM1F": [
+                381
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1536, 
+                1915, 
+                2785, 
+                697, 
+                2844, 
+                1929
+            ], 
+            "WBL": [
+                3196
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            33
+        ], 
+        "location2": [
+            43
+        ], 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }
+}

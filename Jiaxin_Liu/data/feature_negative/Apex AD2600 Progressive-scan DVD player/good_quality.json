@@ -1,0 +1,85 @@
+{
+    "63310a5e17e811681d048ee50bff3ac2": {
+        "location1": [
+            29
+        ], 
+        "location2": [
+            2
+        ], 
+        "(29, 2)": {
+            "WBF": [
+                1147
+            ], 
+            "BM1F": [
+                485
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2634, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                2536, 
+                1998, 
+                3131, 
+                3130, 
+                2140, 
+                894, 
+                253, 
+                2844, 
+                2112, 
+                253, 
+                2654, 
+                1541, 
+                2898, 
+                1916, 
+                454, 
+                949, 
+                253, 
+                803
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the build quality feel solid , it does n't shake or whine while playing discs , and the picture and sound is top notch ( both dts and dd5.1 sound good ) ."
+    }, 
+    "b2d71aa5c89ea5c46f9690a4448bb3e9": {
+        "(0, 1)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                1300
+            ], 
+            "AM2F": [
+                3057
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                2260
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "good quality video ."
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "63310a5e17e811681d048ee50bff3ac2": {
+        "location1": [
+            21
+        ], 
+        "location2": [
+            14
+        ], 
+        "(21, 14)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                454
+            ], 
+            "BM1F": [
+                2140
+            ], 
+            "M1": [
+                894
+            ], 
+            "M2": [
+                2898
+            ], 
+            "BM1L": [
+                3130
+            ], 
+            "WBO": [
+                2844, 
+                2112, 
+                253
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                1916
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the build quality feel solid , it does n't shake or whine while playing discs , and the picture and sound is top notch ( both dts and dd5.1 sound good ) ."
+    }
+}

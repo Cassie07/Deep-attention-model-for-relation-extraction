@@ -1,0 +1,1042 @@
+{
+    "d3ce1590bf181d8757fe6b288af73a66": {
+        "(6, 6)": {
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "i have no complaint with this mp3 player ."
+    }, 
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "location1": [
+            38
+        ], 
+        "location2": [
+            38
+        ], 
+        "(38, 38)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) ."
+    }, 
+    "937380945b7a721b7403148d0d455e73": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            9
+        ], 
+        "(9, 9)": {
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                3052
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the nomad jukebox zen xtra is a very good mp3 player but the software is it gets hurt ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "(11, 11)": {
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1566
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }, 
+    "eec2ea24e9d430dfa7c739b7564618f7": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            10
+        ], 
+        "(10, 10)": {
+            "AM2L": [
+                1277
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "but if you want a great deal and a great mp3 player , get the nomad ."
+    }, 
+    "eb5f7f84fb72e7589f2fbebf5436ab11": {
+        "(4, 4)": {
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                62
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "unlike my 3 other mp3 player , this thing will only work properly if you have id3 tag on all of your track ."
+    }, 
+    "aa3b4b93145f716321721fa859b6e463": {
+        "(18, 4)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2628
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2435
+            ], 
+            "WBO": [
+                2628, 
+                985, 
+                253, 
+                3203, 
+                522, 
+                1055, 
+                2432, 
+                2844, 
+                553, 
+                881
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the cd ripping to mp3 is so easy , and you can even rip the cd directly to the mp3 player , so it wo n't take up space on your pc hard drive .", 
+        "location2": [
+            4, 
+            18
+        ], 
+        "location1": [
+            4, 
+            18
+        ], 
+        "(4, 18)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2628
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2435
+            ], 
+            "WBO": [
+                2628, 
+                985, 
+                253, 
+                3203, 
+                522, 
+                1055, 
+                2432, 
+                2844, 
+                553, 
+                881
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(4, 4)": {
+            "AM2L": [
+                2628
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2435
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(18, 18)": {
+            "AM2L": [
+                2628
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "(8, 8)": {
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2013
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "f685a3a0947843463825e1bb031ce248": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1361
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1616
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "compared to other leading hdd mp3 player , the value per gb is the top ."
+    }, 
+    "5d8a1adbeeaf90d9f03da0b3810f9ee5": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            9
+        ], 
+        "(9, 9)": {
+            "AM2L": [
+                3168
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the software could n't be better and the mp3 player work like a dream , i could n't give this anything but a 5 , i wish there was a 6 ."
+    }, 
+    "c8196ec4c983af49734af374c87665fd": {
+        "(11, 11)": {
+            "AM2L": [
+                3124
+            ], 
+            "BM1F": [
+                1912
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "on the subject of headphone , this thing seems like a normal mp3 player when you use the headphone they give you in the box , but invest 30 dollar in a nice pair and the sound quality goes up through the roof !"
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            48
+        ], 
+        "location2": [
+            48
+        ], 
+        "(48, 48)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1737
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1369
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "513d68e23304b9a241c2496abf036c5b": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            13
+        ], 
+        "(13, 13)": {
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1156
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "navigation system - the zen xtra us id3 tag that are embedded in the mp3 file to organize your song ."
+    }, 
+    "4eb5f2954876bf5f8cf65bf5ee5d832b": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            17
+        ], 
+        "(17, 17)": {
+            "BM1F": [
+                1770
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1602
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "considering the price and specs , this might be the best buy out there for a large memory mp3 player ."
+    }, 
+    "381645b8c5e4a5a766692ae2bb576665": {
+        "(6, 6)": {
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1594
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                765
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this is my second creative lab mp3 player , and it is definitely a fine product ."
+    }, 
+    "ca72c2fb4eef254b80c4d2051a89c457": {
+        "(6, 6)": {
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2260
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1156
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "* eax equalizer accentuates dimished quality of mp3 file ."
+    }, 
+    "25e9ac3314edbb22f429a90632829517": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            9
+        ], 
+        "(9, 9)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have the software working fine now and the mp3 player is fantastic ."
+    }, 
+    "d1f779c0a4484ba66d43fb877ca475d8": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            2
+        ], 
+        "(2, 2)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "with this mp3 player you get much more memory for much less than an ipod ."
+    }, 
+    "b2d4e633a50cce494eea7a203213e6b5": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            13
+        ], 
+        "(13, 13)": {
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                869
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1737
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "before asking for the zen xtra specifically for christmas i researched many different mp3 player but finally decided on this one , and now that i have it i could n't be happier and i 'm convinced it 's the best one out there ."
+    }, 
+    "d7971a11f5508d7b68fd3dc153dd2301": {
+        "(16, 16)": {
+            "AM2L": [
+                316
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                264
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "well surely this is a product that i recommend someone in getting rather than any other mp3 player ( at that size and the price ) ."
+    }, 
+    "07c7902d501403f2cfb77c7bc163b9a5": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            18
+        ], 
+        "(18, 18)": {
+            "AM2L": [
+                912
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1441
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1156
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "my only complaint would be that you need id3 tag & that takes a while to do if your mp3 file do n't have them ."
+    }, 
+    "3e406d6f8231c62cced3fc27d645b1b8": {
+        "(6, 6)": {
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                1760
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "what really made this a mediocre mp3 player for me was the software ."
+    }, 
+    "6907bb010dae76e44e07aab7d20e448a": {
+        "location1": [
+            24
+        ], 
+        "location2": [
+            24
+        ], 
+        "(24, 24)": {
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                372
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1345
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "so far i have no complaint and i recommend this to anyone who wants quality over appearance , also anyone who wants a harddrive based mp3 player and wants to pay next to nothing ."
+    }, 
+    "9d4a8bd6c0f5e3a37a676f91296665f3": {
+        "(11, 11)": {
+            "BM1F": [
+                1882
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "all in all though i 'm very happy with my new mp3 player ."
+    }, 
+    "9182663809b6095073a7d5f7266c9609": {
+        "(11, 11)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2631
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "so once i worked out the problem with the software this mp3 player is worth the money it cost ."
+    }, 
+    "f36365781e2d87d761d5f6c5b23a90ab": {
+        "(6, 6)": {
+            "AM2L": [
+                1328
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "in fact , each of my creative mp3 player had software problem in the first place ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(6, 6)": {
+            "AM2L": [
+                1648
+            ], 
+            "BM1F": [
+                1832
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                507
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

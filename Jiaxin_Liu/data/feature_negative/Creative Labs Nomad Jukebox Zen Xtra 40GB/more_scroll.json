@@ -1,0 +1,70 @@
+{
+    "55dab1cfdddd4a895855e44900c1da52": {
+        "(2, 0)": {
+            "AM2L": [
+                2840
+            ], 
+            "WBFL": [
+                502
+            ], 
+            "M1": [
+                2484
+            ], 
+            "M2": [
+                1829
+            ], 
+            "AM2F": [
+                774
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "* scroll button more cumbersome than on earlier model ."
+    }, 
+    "9b424d6365bac0f4f17ad2c4236e8f08": {
+        "(10, 1)": {
+            "WBF": [
+                367
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2484
+            ], 
+            "M2": [
+                1829
+            ], 
+            "WBO": [
+                2215, 
+                1723, 
+                2844, 
+                2822, 
+                1951
+            ], 
+            "WBL": [
+                2141
+            ], 
+            "AM2F": [
+                1245
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the scroll bar problem make the task of creating playlist more frustrating ."
+    }
+}

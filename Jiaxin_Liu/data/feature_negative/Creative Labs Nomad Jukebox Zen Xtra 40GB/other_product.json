@@ -1,0 +1,139 @@
+{
+    "d7971a11f5508d7b68fd3dc153dd2301": {
+        "(15, 5)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2221
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1429, 
+                2332, 
+                2638, 
+                1468, 
+                1279, 
+                2287
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                1842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "well surely this is a product that i recommend someone in getting rather than any other mp3 player ( at that size and the price ) ."
+    }, 
+    "baf85a0b553ca7fd741513aae4904839": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            25
+        ], 
+        "(11, 25)": {
+            "WBF": [
+                2079
+            ], 
+            "AM2L": [
+                818
+            ], 
+            "BM1F": [
+                1737
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                3135, 
+                1355, 
+                2178, 
+                1381, 
+                3135, 
+                1355, 
+                1328, 
+                2844, 
+                2457, 
+                1086
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i 'm convinced by my own experience and that of many other people who have posted here who have had the same experience that the product is defectively designed , and will not hold up to normal use ."
+    }, 
+    "e31dd62f55c1c30d4c665bd6ad5606e1": {
+        "(13, 16)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                3172
+            ], 
+            "WBO": [
+                427
+            ], 
+            "WBL": [
+                427
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the software is not good either and the driver has trouble working with other sound blaster product , which is very dumb ."
+    }
+}

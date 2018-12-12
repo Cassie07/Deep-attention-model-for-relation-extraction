@@ -1,0 +1,37 @@
+{
+    "d0d621d83a44b4ab35ea2f818978ec04": {
+        "(3, 2)": {
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1643
+            ], 
+            "M2": [
+                2083
+            ], 
+            "BM1L": [
+                1313
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2595
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "great battery life , perfect size , but a tid bit quieter than i would like ."
+    }
+}

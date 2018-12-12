@@ -1,0 +1,34 @@
+{
+    "1bea3ea293d255cd27ba76a46ede23ef": {
+        "(1, 2)": {
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                260
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2853
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "another good thing is that this camera seems to introduce much less noise in dark place than others i 've seen ."
+    }
+}

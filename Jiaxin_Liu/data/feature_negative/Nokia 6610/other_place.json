@@ -1,0 +1,37 @@
+{
+    "bc5f1642b16101e4228c81997a833126": {
+        "(13, 11)": {
+            "AM2L": [
+                295
+            ], 
+            "WBFL": [
+                3126
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2126
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                444
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "i am able to carry it close to my body , in place where other phone are not so easily concealed ."
+    }
+}

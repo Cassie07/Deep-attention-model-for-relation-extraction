@@ -1,0 +1,28 @@
+{
+    "d2fa4332430086507ce16ebe69abca1e": {
+        "(1, 0)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                469
+            ], 
+            "AM2F": [
+                2479
+            ], 
+            "M1_ADJ": [
+                0
+            ], 
+            "M2": [
+                3067
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "- bright , visible screen"
+    }
+}

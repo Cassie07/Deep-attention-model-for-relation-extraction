@@ -1,0 +1,37 @@
+{
+    "8b15359b7863064bb6750c1a814f9531": {
+        "(3, 5)": {
+            "AM2L": [
+                3052
+            ], 
+            "WBFL": [
+                2122
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1393
+            ], 
+            "M2": [
+                2428
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "some of the higher pitched ring are very easy to hear , but not easy to listen to ."
+    }
+}

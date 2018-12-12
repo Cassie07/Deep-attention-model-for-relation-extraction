@@ -1,0 +1,154 @@
+{
+    "6a24487459d99b1b25825952b9db4493": {
+        "(17, 39)": {
+            "WBF": [
+                1311
+            ], 
+            "BM1F": [
+                1156
+            ], 
+            "M1": [
+                1230
+            ], 
+            "M2": [
+                292
+            ], 
+            "BM1L": [
+                1787
+            ], 
+            "WBO": [
+                1241, 
+                264, 
+                2112, 
+                1967, 
+                3204, 
+                674, 
+                253, 
+                1441, 
+                3203, 
+                1589, 
+                1424, 
+                2886, 
+                2226, 
+                1556, 
+                3203, 
+                522, 
+                1055, 
+                1723
+            ], 
+            "WBL": [
+                2037
+            ], 
+            "AM2F": [
+                1264
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12, 
+            17
+        ], 
+        "location2": [
+            39
+        ], 
+        "(12, 39)": {
+            "WBF": [
+                2431
+            ], 
+            "BM1F": [
+                968
+            ], 
+            "M1": [
+                1230
+            ], 
+            "M2": [
+                292
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                1241, 
+                1787, 
+                1156, 
+                1230, 
+                1311, 
+                1241, 
+                264, 
+                2112, 
+                1967, 
+                3204, 
+                674, 
+                253, 
+                1441, 
+                3203, 
+                1589, 
+                1424, 
+                2886, 
+                2226, 
+                1556, 
+                3203, 
+                522, 
+                1055, 
+                1723
+            ], 
+            "WBL": [
+                2037
+            ], 
+            "AM2F": [
+                1264
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "you can do * so * much more with the pc suite , i.e . free ringtones from midi file , free graphic from any picture on your computer , and if you know how to program jme you can even make your own apps / game ."
+    }, 
+    "bc412b771cb33944aaf00912480e5a71": {
+        "(10, 25)": {
+            "WBF": [
+                2666
+            ], 
+            "BM1F": [
+                1331
+            ], 
+            "M1": [
+                1230
+            ], 
+            "M2": [
+                292
+            ], 
+            "BM1L": [
+                2576
+            ], 
+            "WBO": [
+                3129, 
+                1429, 
+                1355, 
+                2886, 
+                2469, 
+                1541, 
+                2214, 
+                1856, 
+                1141, 
+                1252, 
+                253
+            ], 
+            "WBL": [
+                1554
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "it has great battery life , fm radio , excellent signal , hand free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps ."
+    }
+}

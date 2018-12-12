@@ -1,0 +1,150 @@
+{
+    "2e3f4a9da60918bdc961149cf8e14d7f": {
+        "(9, 10)": {
+            "AM2L": [
+                159
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                858
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1300
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "11 ) minimal pause between song - less than that on other device - good achievement for a hard-drive based player"
+    }, 
+    "496c1896b2e7b5f68f4a805a4611b9f8": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            9
+        ], 
+        "(1, 9)": {
+            "WBF": [
+                2149
+            ], 
+            "AM2L": [
+                2846
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                858
+            ], 
+            "WBO": [
+                1541, 
+                2842, 
+                1861, 
+                1926
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                3053
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "one other plus is that napster now support this device via their software ."
+    }, 
+    "a92fef16203e6547baf7dd20d024590d": {
+        "(24, 26)": {
+            "WBFL": [
+                326
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                858
+            ], 
+            "BM1L": [
+                912
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "the included leather pouch is a big plus : it actually protects the unit well , something a lot of ' carrying case ' fail to do with other audio device ."
+    }, 
+    "8c911f0be96ba4560218d1f4847f02a8": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            11
+        ], 
+        "(1, 11)": {
+            "WBF": [
+                3167
+            ], 
+            "AM2L": [
+                503
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                858
+            ], 
+            "WBO": [
+                2844, 
+                3210, 
+                1541, 
+                1915, 
+                130, 
+                718
+            ], 
+            "WBL": [
+                2725
+            ], 
+            "AM2F": [
+                1978
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "in other word , the zen is not a convenient data storage device ; only buy the capacity you need for your music collection ( see point 1. for some sizing information ) ."
+    }
+}

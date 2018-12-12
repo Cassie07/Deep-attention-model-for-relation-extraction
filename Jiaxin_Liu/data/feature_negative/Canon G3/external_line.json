@@ -1,0 +1,53 @@
+{
+    "4a44a69cb955602ceffa932a795dd6aa": {
+        "(19, 1)": {
+            "WBF": [
+                3115
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                457
+            ], 
+            "M1": [
+                1655
+            ], 
+            "M2": [
+                1099
+            ], 
+            "WBO": [
+                1718, 
+                520, 
+                985, 
+                2886, 
+                3018, 
+                3052, 
+                1195, 
+                253, 
+                2184, 
+                1143, 
+                2886, 
+                1473, 
+                2844, 
+                132
+            ], 
+            "WBL": [
+                3018
+            ], 
+            "AM2F": [
+                1188
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "bottom line , well made camera , easy to use , very flexible and powerful feature to include the ability to use external flash and lense / filter choice ."
+    }
+}

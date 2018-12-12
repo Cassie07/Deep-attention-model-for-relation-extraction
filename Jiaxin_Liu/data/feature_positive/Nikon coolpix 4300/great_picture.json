@@ -1,0 +1,66 @@
+{
+    "736ae5070578444c8cf7f228710c97da": {
+        "(2, 3)": {
+            "BM1F": [
+                2814
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "it takes great picture ."
+    }, 
+    "4283cf0438864dd7aa4566ca679cc53b": {
+        "(15, 16)": {
+            "AM2L": [
+                917
+            ], 
+            "BM1F": [
+                2814
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3200
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "i highly recommend this camera to anyone looking for a good digital camera that takes great picture yet does n't take week to figure out how to operate ."
+    }
+}

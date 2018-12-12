@@ -1,0 +1,153 @@
+{
+    "14d20e2bcf29b6bcafa9483b929a2de6": {
+        "(1, 20)": {
+            "WBF": [
+                1758
+            ], 
+            "AM2L": [
+                2432
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1854
+            ], 
+            "WBO": [
+                2631, 
+                1541, 
+                1962, 
+                2886, 
+                2432, 
+                545, 
+                494, 
+                1853, 
+                1441, 
+                3203, 
+                295, 
+                2700, 
+                1241, 
+                2477, 
+                501
+            ], 
+            "WBL": [
+                3020
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "1. creative mediasource software is ok to rip , catalog & burn music if you are starting from scratch ; but i used musicmatch to rip my cd before i bought the zen ( 278 cd ; 3,400 track ; 12.5 gb of music all ripped at 128bps ) and guess what ?"
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(39, 9)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                1648
+            ], 
+            "M1": [
+                1854
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "WBO": [
+                3149, 
+                501, 
+                1915, 
+                765, 
+                3160, 
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545
+            ], 
+            "WBL": [
+                1853
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14, 
+            39
+        ], 
+        "location2": [
+            9
+        ], 
+        "(14, 9)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1924
+            ], 
+            "BM1F": [
+                1648
+            ], 
+            "M1": [
+                1854
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "WBO": [
+                3149
+            ], 
+            "WBL": [
+                1915
+            ], 
+            "AM2F": [
+                3160
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

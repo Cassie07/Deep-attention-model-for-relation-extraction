@@ -1,0 +1,240 @@
+{
+    "ec45f347a448e896c123cf2716a5bcba": {
+        "(7, 4)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                2802
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                1854
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1159
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "compared to musicmatch , the software has a better filing system and easier to use ."
+    }, 
+    "c5fb91677140916fcce268347c2b912b": {
+        "(22, 7)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                1758
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                765
+            ], 
+            "WBO": [
+                165, 
+                2304, 
+                2438, 
+                848, 
+                3121, 
+                2012, 
+                1355, 
+                2454, 
+                2862, 
+                1924, 
+                1748
+            ], 
+            "WBL": [
+                3168
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "as i mentioned before , the creative mediasource software is actually really robust despite what others have said , though notmad may still work better ."
+    }, 
+    "a47093dc8287a8f274c8d63c78ce45d1": {
+        "(9, 7)": {
+            "AM2L": [
+                736
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2342
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                237
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(9, 0)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                736
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                415
+            ], 
+            "WBO": [
+                985, 
+                2886, 
+                3018, 
+                237, 
+                2342
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            0, 
+            7
+        ], 
+        "sentence": "software is easy to use ( although redhat software is better , but cost money )"
+    }, 
+    "78c51d9eb31454b8f9dba754a0353b4b": {
+        "(35, 50)": {
+            "WBF": [
+                3035
+            ], 
+            "BM1F": [
+                1134
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                253, 
+                1541, 
+                1570, 
+                304, 
+                985, 
+                2886, 
+                3018, 
+                3158, 
+                2347, 
+                2886, 
+                454
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                1522
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            50
+        ], 
+        "sentence": "try before you buy if at all possible : although i am a mac addict now for over a decade and everyone i know has previously bought an ipod , the nomad zen xtra was a far better value and is just as easy to use with regard to both hardware and software interface ."
+    }, 
+    "5d8a1adbeeaf90d9f03da0b3810f9ee5": {
+        "(6, 1)": {
+            "WBF": [
+                738
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                415
+            ], 
+            "WBO": [
+                1859
+            ], 
+            "WBL": [
+                381
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the software could n't be better and the mp3 player work like a dream , i could n't give this anything but a 5 , i wish there was a 6 ."
+    }
+}

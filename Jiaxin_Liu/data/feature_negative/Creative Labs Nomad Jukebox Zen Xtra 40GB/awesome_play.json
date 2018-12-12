@@ -1,0 +1,37 @@
+{
+    "c70fb67c5efeb4037aa2b2f54e618a66": {
+        "(3, 2)": {
+            "AM2L": [
+                2598
+            ], 
+            "BM1F": [
+                1853
+            ], 
+            "M1": [
+                2136
+            ], 
+            "M2": [
+                346
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1881
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the music play awesome , never skip , even if u run for a bit , so you can listen to music without interruption ."
+    }
+}

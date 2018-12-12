@@ -1,0 +1,45 @@
+{
+    "76e1f9c946b4e5b0f0c7e5da55e53d60": {
+        "(11, 4)": {
+            "WBF": [
+                570
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                2224
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                1727
+            ], 
+            "WBO": [
+                2844, 
+                714, 
+                1951
+            ], 
+            "WBL": [
+                1723
+            ], 
+            "AM2F": [
+                2954
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "you can manage your profile , change the contrast of backlight , make different type of display , either list or tabbed ."
+    }
+}

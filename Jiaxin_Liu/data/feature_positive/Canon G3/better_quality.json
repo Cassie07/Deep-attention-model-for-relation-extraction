@@ -1,0 +1,105 @@
+{
+    "8cff8b3bb4b722f290108da2b2fcc548": {
+        "(39, 7)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                1548
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                316
+            ], 
+            "WBO": [
+                2844, 
+                2290, 
+                1448, 
+                1429, 
+                239, 
+                1279, 
+                1241, 
+                2859, 
+                1260, 
+                1468, 
+                688, 
+                3158, 
+                1856, 
+                2223, 
+                1188, 
+                2802, 
+                253, 
+                522, 
+                984, 
+                2259, 
+                3006, 
+                3158, 
+                2844, 
+                520, 
+                1653, 
+                386, 
+                1551, 
+                1881
+            ], 
+            "WBL": [
+                267
+            ], 
+            "AM2F": [
+                3159
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            39
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i am stunned and amazed at the quality of the raw image i am getting from this g3 ( in conjunction with my professional flash system ) , and can easily put up with the camera limitation , because ive never seen anything better within its resolution limit ."
+    }, 
+    "a7d8e305d570d95f2e66cc869353dc9a": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            9
+        ], 
+        "(7, 9)": {
+            "AM2L": [
+                1703
+            ], 
+            "WBFL": [
+                2112
+            ], 
+            "BM1F": [
+                1287
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1260
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the larger lens of the g3 gives better picture quality in low light , and the 4-times optical zoom gets you just that much closer ."
+    }
+}

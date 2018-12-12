@@ -1,0 +1,37 @@
+{
+    "5f632c925abff8ea973237469d07a2aa": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            19
+        ], 
+        "(18, 19)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1277
+            ], 
+            "M1": [
+                2804
+            ], 
+            "M2": [
+                747
+            ], 
+            "BM1L": [
+                3203
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the voice quality is very good , and it gets great reception ( that is , in place where you get t-mobile coverage , which is not that good ; see below ) ."
+    }
+}

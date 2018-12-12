@@ -1,0 +1,43 @@
+{
+    "d7971a11f5508d7b68fd3dc153dd2301": {
+        "(16, 20)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2595
+            ], 
+            "BM1L": [
+                264
+            ], 
+            "WBO": [
+                316
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "well surely this is a product that i recommend someone in getting rather than any other mp3 player ( at that size and the price ) ."
+    }
+}

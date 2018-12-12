@@ -1,0 +1,37 @@
+{
+    "4eb5f2954876bf5f8cf65bf5ee5d832b": {
+        "(15, 16)": {
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1602
+            ], 
+            "M2": [
+                1770
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "considering the price and specs , this might be the best buy out there for a large memory mp3 player ."
+    }
+}

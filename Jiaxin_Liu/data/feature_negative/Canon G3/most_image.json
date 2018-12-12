@@ -1,0 +1,37 @@
+{
+    "ca42696d0e457f98f2255b29dfa3f6dc": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            9
+        ], 
+        "(7, 9)": {
+            "AM2L": [
+                1059
+            ], 
+            "WBFL": [
+                2105
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                1448
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "AM2F": [
+                1551
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "but at least youre starting with the most photorealistic image ive ever seen from a camera ."
+    }
+}

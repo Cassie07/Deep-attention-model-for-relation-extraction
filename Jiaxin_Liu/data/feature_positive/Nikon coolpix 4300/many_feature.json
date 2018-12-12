@@ -1,0 +1,107 @@
+{
+    "be4e9a19d2b204275ec3196e89ef4502": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            4
+        ], 
+        "(2, 4)": {
+            "AM2L": [
+                3052
+            ], 
+            "WBFL": [
+                1313
+            ], 
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it has many great feature and very few bad one ."
+    }, 
+    "f4ed4ae3305445dd6ec6f73ce7ad7b7c": {
+        "(2, 3)": {
+            "AM2L": [
+                985
+            ], 
+            "BM1F": [
+                1548
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1987
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "operating its many feature is easy and often obvious - i 'm no annie lebovitz , but i was able to figure out most of its ability just messing around with it at a camera store ."
+    }, 
+    "f8fa77a39d46ecc23ee6c2f2659dd3e5": {
+        "(15, 16)": {
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2628
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "ooh , and i dropped it and it still work fine : this little camera has so many feature i have n't even gotten to all of them yet ."
+    }
+}

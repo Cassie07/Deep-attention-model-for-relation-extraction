@@ -1,0 +1,37 @@
+{
+    "5d3199c4c10ac5b497205480f52f828d": {
+        "(5, 6)": {
+            "AM2L": [
+                1548
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1169
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1134
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this is by far the finest camera in its price and category i have ever used ."
+    }
+}

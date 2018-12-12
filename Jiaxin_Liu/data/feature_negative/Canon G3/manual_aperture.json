@@ -1,0 +1,89 @@
+{
+    "075cbfa6d23b531fc7100bc9ad7dcd00": {
+        "(1, 17)": {
+            "WBF": [
+                1814
+            ], 
+            "AM2L": [
+                1357
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1731
+            ], 
+            "M2": [
+                274
+            ], 
+            "WBO": [
+                1541, 
+                985, 
+                2886, 
+                3018, 
+                3158, 
+                1136, 
+                146, 
+                1212, 
+                2844, 
+                2505, 
+                1951, 
+                2570
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                3160
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "the manual mode is easy to use with fast access for the selection of shutter speed and aperture without having to fumble through menu option ."
+    }, 
+    "1f8107d369d0a9aff676c54f789d4256": {
+        "(20, 15)": {
+            "WBF": [
+                2212
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                274
+            ], 
+            "M2": [
+                1731
+            ], 
+            "BM1L": [
+                1194
+            ], 
+            "WBO": [
+                2570
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                1814
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            20
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "the camera is a dream to operate in automode , but also gives tremendous flexibility in aperture priority , shutter priority , and manual mode ."
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "381645b8c5e4a5a766692ae2bb576665": {
+        "(3, 7)": {
+            "WBF": [
+                765
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                2494
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1594
+            ], 
+            "WBL": [
+                1842
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "this is my second creative lab mp3 player , and it is definitely a fine product ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "(36, 27)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                3162
+            ], 
+            "BM1F": [
+                2025
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2494
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                627, 
+                2886, 
+                3018, 
+                1051, 
+                3158
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            36
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "2ba94a2d6897c0dc29eaf3f1c90562af": {
+        "(18, 3)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                516
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2893
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                863
+            ], 
+            "WBO": [
+                2394, 
+                253, 
+                2531, 
+                1967, 
+                2859, 
+                2097, 
+                386, 
+                1951, 
+                2844, 
+                2615, 
+                2595
+            ], 
+            "WBL": [
+                1996
+            ], 
+            "AM2F": [
+                2206
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email ."
+    }
+}

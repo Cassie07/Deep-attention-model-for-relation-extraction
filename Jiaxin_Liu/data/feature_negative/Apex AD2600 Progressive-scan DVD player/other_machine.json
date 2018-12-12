@@ -1,0 +1,43 @@
+{
+    "a981acb506188c8737a2ad731e15dfff": {
+        "(14, 10)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1715
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                221
+            ], 
+            "WBL": [
+                2851
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "i only wanted something to play dvds on but this machine has all these other feature that i probably will never use but it 's nice to know that there 're there ."
+    }
+}

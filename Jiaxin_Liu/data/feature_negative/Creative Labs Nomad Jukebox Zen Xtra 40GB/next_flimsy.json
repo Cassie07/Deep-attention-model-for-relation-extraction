@@ -1,0 +1,46 @@
+{
+    "cef7009c693118f1f13f7521c361b2de": {
+        "(17, 31)": {
+            "WBF": [
+                103
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1885
+            ], 
+            "M2": [
+                1196
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                1827, 
+                386, 
+                304, 
+                2011, 
+                2418, 
+                1355, 
+                2153, 
+                2016, 
+                2844, 
+                703
+            ], 
+            "WBL": [
+                2199
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            31
+        ], 
+        "sentence": "i fully expect it to go bad again in the same or some other way in the next 6 month because , as other reviewer have pointed out , the construction is pretty flimsy ."
+    }
+}

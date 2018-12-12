@@ -1,0 +1,45 @@
+{
+    "48c9089c4729e58f320f3da81288ee13": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            11
+        ], 
+        "(18, 11)": {
+            "WBF": [
+                917
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                1632
+            ], 
+            "M1": [
+                370
+            ], 
+            "M2": [
+                1625
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1937, 
+                2061, 
+                1951
+            ], 
+            "WBL": [
+                1705
+            ], 
+            "AM2F": [
+                730
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "to address two previous somewhat negative review : ( 1 ) yes , the lens barrel does obstruct part of the lower left corner in the lens viewfinder ; however , the lcd viewfinder is rather stunning and i find myself rarely using the lens viewfinder ."
+    }
+}

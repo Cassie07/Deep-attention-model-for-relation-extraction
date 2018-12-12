@@ -1,0 +1,44 @@
+{
+    "f8e21ab1b8a57bce5633ca8027b19bb4": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            34
+        ], 
+        "(22, 34)": {
+            "WBF": [
+                3169
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                774
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                3026, 
+                2844, 
+                1536, 
+                304, 
+                130, 
+                1343, 
+                943, 
+                1513
+            ], 
+            "WBL": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the zen is an outstanding way to shuttle music between source , you can 't do this on the ipod ( except for a cumbersome work-around using the ipod as a hard drive instead of a player ) ."
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "64fb66cc374fec3973bcd3984f004f56": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            11, 
+            17
+        ], 
+        "(15, 11)": {
+            "WBF": [
+                73
+            ], 
+            "AM2L": [
+                1899
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1899
+            ], 
+            "M2": [
+                2769
+            ], 
+            "BM1L": [
+                2992
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2319
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(15, 17)": {
+            "AM2L": [
+                1591
+            ], 
+            "WBFL": [
+                2319
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2769
+            ], 
+            "M2": [
+                1899
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the two biggest thing is the excellent working speakerphone `` unlike the nokia 3650 `` and the superb reception nokia is known for in the gsm phone they make ..."
+    }, 
+    "2788e7b6f62d9a35ddbc41822916180e": {
+        "(5, 9)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                2764
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                2769
+            ], 
+            "M2": [
+                1899
+            ], 
+            "BM1L": [
+                1143
+            ], 
+            "WBO": [
+                644
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                2073
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the pc sync feature is superb that comes with nokia pc suite software ( with data cable or infrared port or bluetooth ) ."
+    }
+}

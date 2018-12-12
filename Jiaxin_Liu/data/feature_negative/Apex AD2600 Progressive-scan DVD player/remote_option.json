@@ -1,0 +1,98 @@
+{
+    "1b4b8b00a1be6322acc0a3232c0e902d": {
+        "(14, 3)": {
+            "WBF": [
+                522
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                2472
+            ], 
+            "M1": [
+                1996
+            ], 
+            "M2": [
+                2366
+            ], 
+            "BM1L": [
+                2229
+            ], 
+            "WBO": [
+                381, 
+                2946, 
+                1952, 
+                984, 
+                507, 
+                130, 
+                502
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                715
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14, 
+            24
+        ], 
+        "location2": [
+            3
+        ], 
+        "(24, 3)": {
+            "WBF": [
+                522
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2472
+            ], 
+            "M1": [
+                1996
+            ], 
+            "M2": [
+                2366
+            ], 
+            "BM1L": [
+                2229
+            ], 
+            "WBO": [
+                381, 
+                2946, 
+                1952, 
+                984, 
+                507, 
+                130, 
+                502, 
+                1967, 
+                2844, 
+                2366, 
+                715, 
+                3129, 
+                1541, 
+                1973, 
+                1951, 
+                2844, 
+                2584
+            ], 
+            "WBL": [
+                983
+            ], 
+            "AM2F": [
+                715
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the progressive scan option can be turned off easily by a button on the remote control which is one of the simplest and easiest remote control i have ever seen or used ."
+    }
+}

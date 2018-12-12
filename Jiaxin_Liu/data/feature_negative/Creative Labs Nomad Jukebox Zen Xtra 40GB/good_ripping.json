@@ -1,0 +1,187 @@
+{
+    "3fd077cfdb53680671d6b273e8b56c20": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            12
+        ], 
+        "(1, 12)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                2919
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2435
+            ], 
+            "WBO": [
+                316, 
+                130, 
+                1313, 
+                2204, 
+                3158, 
+                2835, 
+                2631
+            ], 
+            "WBL": [
+                1724
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be ."
+    }, 
+    "1537f5c863b8c8d881e3a30c0a61533b": {
+        "(11, 4)": {
+            "WBF": [
+                553
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                2435
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                3129, 
+                1545, 
+                917
+            ], 
+            "WBL": [
+                2199
+            ], 
+            "AM2F": [
+                1557
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "i use it for ripping cd , which it does a pretty good job of ."
+    }, 
+    "c82d2cdb00de9ac0588234c023aef4ca": {
+        "(21, 2)": {
+            "WBF": [
+                1856
+            ], 
+            "AM2L": [
+                134
+            ], 
+            "BM1F": [
+                239
+            ], 
+            "M1": [
+                2435
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                553, 
+                633, 
+                1529, 
+                30, 
+                1574, 
+                3162, 
+                1156, 
+                2859, 
+                1287, 
+                251, 
+                340, 
+                1951, 
+                298, 
+                105, 
+                1750
+            ], 
+            "WBL": [
+                553
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "i am ripping my cd collection into 160 kbps wma file ; this gives an average of around 60-65 mb per cd , good for about 900 cd in the ~ 57,000 mb of free memory available to me ."
+    }, 
+    "2505b3eb37eb261c8202ec3d03ef5c52": {
+        "(19, 0)": {
+            "WBF": [
+                2844
+            ], 
+            "M1": [
+                2435
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                2644, 
+                1055, 
+                3158, 
+                1856, 
+                9, 
+                9, 
+                3017, 
+                691, 
+                1541, 
+                2712, 
+                3052, 
+                2262, 
+                253, 
+                2844, 
+                2260
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "ripping the song , even with my 1.1 usb connection is still very quick , and the quality is very good ."
+    }
+}

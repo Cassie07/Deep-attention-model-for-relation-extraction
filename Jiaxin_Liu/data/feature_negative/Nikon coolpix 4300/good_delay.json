@@ -1,0 +1,43 @@
+{
+    "695d490cea19970e52fa3608c2ac96c8": {
+        "(4, 7)": {
+            "WBF": [
+                2112
+            ], 
+            "AM2L": [
+                1859
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                825
+            ], 
+            "BM1L": [
+                2814
+            ], 
+            "WBO": [
+                2570
+            ], 
+            "WBL": [
+                2570
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "otherwise , it takes very good picture ; shutter delay is n't so bad either ."
+    }
+}

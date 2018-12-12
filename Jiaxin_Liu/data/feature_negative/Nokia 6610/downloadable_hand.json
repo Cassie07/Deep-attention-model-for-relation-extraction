@@ -1,0 +1,52 @@
+{
+    "bc412b771cb33944aaf00912480e5a71": {
+        "(23, 9)": {
+            "WBF": [
+                1230
+            ], 
+            "AM2L": [
+                292
+            ], 
+            "BM1F": [
+                2576
+            ], 
+            "M1": [
+                1331
+            ], 
+            "M2": [
+                930
+            ], 
+            "BM1L": [
+                1072
+            ], 
+            "WBO": [
+                2666, 
+                3129, 
+                1429, 
+                1355, 
+                2886, 
+                2469, 
+                1541, 
+                2214, 
+                1856, 
+                1141
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                1554
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "it has great battery life , fm radio , excellent signal , hand free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps ."
+    }
+}

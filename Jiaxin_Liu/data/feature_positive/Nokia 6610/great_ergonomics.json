@@ -1,0 +1,76 @@
+{
+    "58e7e474b8ea3dcf3293853aae627fc1": {
+        "(4, 15)": {
+            "WBF": [
+                1669
+            ], 
+            "AM2L": [
+                1548
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1048
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2097, 
+                1548, 
+                1302, 
+                1886, 
+                1143, 
+                130, 
+                384
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4, 
+            14
+        ], 
+        "location2": [
+            15
+        ], 
+        "(14, 15)": {
+            "AM2L": [
+                1548
+            ], 
+            "BM1F": [
+                2479
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1048
+            ], 
+            "BM1L": [
+                384
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this really is a great little phone ; its got nice feature , a beatiful screen , great ergonomics , and its tiny !"
+    }
+}

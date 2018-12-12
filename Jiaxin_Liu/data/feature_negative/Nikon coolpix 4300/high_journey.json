@@ -1,0 +1,43 @@
+{
+    "e71bfa23d0bac20249b5f7a3754b3ca7": {
+        "(9, 5)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                2923
+            ], 
+            "BM1F": [
+                1098
+            ], 
+            "M1": [
+                1562
+            ], 
+            "M2": [
+                1387
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                1144
+            ], 
+            "AM2F": [
+                2085
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "after a lengthy and extensive journey for a feature-loaded , high performance , travel size camera , i initially gravitated to this little gem because of the superior picture quality 4 mega pixel ."
+    }
+}

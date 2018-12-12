@@ -1,0 +1,77 @@
+{
+    "241e92f11d46769e40d74aa4b77795f6": {
+        "(1, 8)": {
+            "WBF": [
+                2006
+            ], 
+            "AM2L": [
+                3194
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                1901
+            ], 
+            "WBO": [
+                2631, 
+                2842, 
+                2551
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3210
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the new organizer software that ship with the nomad zen xtra could n't be easier to use ."
+    }, 
+    "66ce466af1383f7ed6c6c49cbf3bf433": {
+        "(3, 4)": {
+            "AM2L": [
+                1313
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                1901
+            ], 
+            "BM1L": [
+                1701
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1548
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "i love my new nomad , its great !"
+    }
+}

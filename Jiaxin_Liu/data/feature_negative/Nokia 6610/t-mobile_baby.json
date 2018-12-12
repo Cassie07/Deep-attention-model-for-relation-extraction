@@ -1,0 +1,39 @@
+{
+    "51b1770d89037fd1f2b3010444b9217d": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            9
+        ], 
+        "(2, 9)": {
+            "WBF": [
+                2304
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2804
+            ], 
+            "M2": [
+                351
+            ], 
+            "BM1L": [
+                1899
+            ], 
+            "WBO": [
+                2824, 
+                3006, 
+                3115
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "nokia and t-mobile really teamed up well on this baby ."
+    }
+}

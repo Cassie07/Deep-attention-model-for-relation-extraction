@@ -1,0 +1,57 @@
+{
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(42, 23)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                221
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                2141
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                2338
+            ], 
+            "WBO": [
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545, 
+                3204, 
+                1853, 
+                765
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                655
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            42
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

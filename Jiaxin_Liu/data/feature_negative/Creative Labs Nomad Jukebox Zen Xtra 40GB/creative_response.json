@@ -1,0 +1,46 @@
+{
+    "8b9a6cd9df31ff13ae9cf191b5e2455f": {
+        "(5, 13)": {
+            "WBF": [
+                2825
+            ], 
+            "AM2L": [
+                3145
+            ], 
+            "BM1F": [
+                1006
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2405
+            ], 
+            "BM1L": [
+                231
+            ], 
+            "WBO": [
+                2775, 
+                134, 
+                1545, 
+                253
+            ], 
+            "WBL": [
+                2880
+            ], 
+            "AM2F": [
+                2852
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "but i 've already emailed creative tech support about it , and gotten timely response - they will fix it for me if necessary .. ."
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "d36bdc5dfa57c2ffcd3b26042b66d2e6": {
+        "(1, 20)": {
+            "WBF": [
+                2156
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1143
+            ], 
+            "WBO": [
+                2430, 
+                2895, 
+                295, 
+                3052, 
+                1886, 
+                584, 
+                675, 
+                1545, 
+                233, 
+                924, 
+                304, 
+                130, 
+                2275, 
+                3129, 
+                1541
+            ], 
+            "WBL": [
+                1886
+            ], 
+            "AM2F": [
+                3124
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "sound - excellent polyphonic ringing tone are very nice ( check con ) it also double as a radio , which is a nice feature when you are bored ."
+    }, 
+    "867e0d28796d18caa886b83e1e446570": {
+        "(14, 7)": {
+            "WBF": [
+                3120
+            ], 
+            "AM2L": [
+                2097
+            ], 
+            "BM1F": [
+                2171
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1300, 
+                2654, 
+                2260
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                1201
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "while i had the phone , the positive feature were : good sound quality and an excellent fm phone and earpiece ."
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "d0b9db1d064aee4b746b67671efad50e": {
+        "(7, 4)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                1874
+            ], 
+            "M2": [
+                1882
+            ], 
+            "BM1L": [
+                1298
+            ], 
+            "WBO": [
+                503
+            ], 
+            "WBL": [
+                503
+            ], 
+            "AM2F": [
+                1366
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "you 're going to need to buy new headphone , the stock one suck"
+    }, 
+    "f1ec074964c5a280f73dfd66022b0269": {
+        "(11, 8)": {
+            "WBF": [
+                1951
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                1874
+            ], 
+            "M2": [
+                1882
+            ], 
+            "BM1L": [
+                266
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "i really do recommend this to anyone in need of a new player ."
+    }, 
+    "00b26e308a4b8730247f6846646d008a": {
+        "(21, 45)": {
+            "WBF": [
+                1536
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                1874
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBO": [
+                1915, 
+                2886, 
+                1771, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                2586, 
+                3158, 
+                705, 
+                1660, 
+                2097, 
+                1929, 
+                179, 
+                447, 
+                989, 
+                1648, 
+                2844, 
+                1536, 
+                3129
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            45
+        ], 
+        "sentence": "its far more difficult to select song and has no easy to use on the fly playlist creation such as the new ipod not to mention it does n't sinc with contact list , phone number , address book , ect . like the ipod ( which eliminated my need for any kind of palm device ) ."
+    }
+}

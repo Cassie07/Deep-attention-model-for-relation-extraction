@@ -1,0 +1,37 @@
+{
+    "6fe554bb692034563c238b99119b81ec": {
+        "(4, 5)": {
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1179
+            ], 
+            "M1": [
+                1909
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "nokia was my first nonflip phone , and i 'm glad i decided to go with them ."
+    }
+}

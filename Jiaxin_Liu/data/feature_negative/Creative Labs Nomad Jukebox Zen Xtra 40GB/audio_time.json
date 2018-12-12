@@ -1,0 +1,48 @@
+{
+    "20ba4c4b32823c2ce57fa535aeed926f": {
+        "(15, 5)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1967
+            ], 
+            "BM1F": [
+                1328
+            ], 
+            "M1": [
+                2878
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                5
+            ], 
+            "WBO": [
+                2304, 
+                2257, 
+                2859, 
+                2139, 
+                2886, 
+                2844
+            ], 
+            "WBL": [
+                501
+            ], 
+            "AM2F": [
+                309
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "i have n't had time to really push this player to the limit , but audio aspect on the nomad are satisfactory , as should be expected from creative lab ."
+    }
+}

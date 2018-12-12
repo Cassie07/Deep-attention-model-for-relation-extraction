@@ -1,0 +1,34 @@
+{
+    "c2d8dd4f0d593e4f1ccb35743b4a76bd": {
+        "(1, 2)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1141
+            ], 
+            "M2": [
+                2853
+            ], 
+            "AM2F": [
+                134
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "my favorite thing about the nomad is the eax feature ."
+    }
+}

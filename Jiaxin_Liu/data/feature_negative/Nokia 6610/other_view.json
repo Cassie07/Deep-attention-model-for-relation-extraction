@@ -1,0 +1,49 @@
+{
+    "8b06ee9536157bdc30f89af9097efd4e": {
+        "(4, 15)": {
+            "WBF": [
+                1143
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1737
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                3058
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                1538, 
+                1570, 
+                2886, 
+                1860, 
+                1973, 
+                2844, 
+                1143
+            ], 
+            "WBL": [
+                1429
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "this phone has many other feature , ir , ; just to name one , the feature above i view as the most beneficial ."
+    }
+}

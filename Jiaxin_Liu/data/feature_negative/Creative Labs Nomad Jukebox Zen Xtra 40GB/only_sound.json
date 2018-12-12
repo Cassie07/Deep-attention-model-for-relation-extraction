@@ -1,0 +1,121 @@
+{
+    "fe535202f32e00ddf80d23a8b9e925a4": {
+        "(1, 5)": {
+            "WBF": [
+                2578
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2654
+            ], 
+            "WBO": [
+                666
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "my only significant complaint is sound quality ."
+    }, 
+    "25da27d72af155af06e6c5874f503ef7": {
+        "(10, 3)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                113
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                201
+            ], 
+            "WBO": [
+                346, 
+                2844, 
+                378
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                103
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "once again , the sound is awesome , the batterly life is only 6-8 hour , and that is because all my music is 320 kbps which does affect the battery life ."
+    }, 
+    "ba92443cb9a6e3b3c3a9255183b1c671": {
+        "(6, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3120
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                233
+            ], 
+            "WBO": [
+                3166
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                1318
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "also , the sound is wonderful ... my only gripe were those aweful earphone that this came with ."
+    }
+}

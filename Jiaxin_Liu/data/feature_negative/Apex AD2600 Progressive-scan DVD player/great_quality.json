@@ -1,0 +1,31 @@
+{
+    "f79b17a89c5ad1b3a2e790a644f71628": {
+        "(0, 1)": {
+            "AM2L": [
+                253
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2260
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great quality picture and feature ."
+    }
+}

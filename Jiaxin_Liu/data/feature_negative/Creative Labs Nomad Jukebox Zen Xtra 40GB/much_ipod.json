@@ -1,0 +1,270 @@
+{
+    "ca88fee0f48f7e3af6abbce6bb924179": {
+        "(3, 16)": {
+            "WBF": [
+                2771
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1848
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                693
+            ], 
+            "WBO": [
+                2115, 
+                1951, 
+                1045, 
+                394, 
+                2145, 
+                927, 
+                1329, 
+                130, 
+                1308
+            ], 
+            "WBL": [
+                251
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "please consider this much superior piece of equipment before plopping down half a grand for an ipod ."
+    }, 
+    "9cad5736da827e5d496c2741b7aabcef": {
+        "(12, 8)": {
+            "WBF": [
+                501
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                1848
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                1915
+            ], 
+            "WBL": [
+                507
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "sure , it 's a little bigger than the ipod , but not by much ."
+    }, 
+    "a38439d7c15e4548fd748f4b11dd2e65": {
+        "(3, 8)": {
+            "WBF": [
+                1490
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                1848
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                715
+            ], 
+            "WBO": [
+                2886
+            ], 
+            "WBL": [
+                2583
+            ], 
+            "AM2F": [
+                1973
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "- the control are much inferior to the simple ipod one ."
+    }, 
+    "d1f779c0a4484ba66d43fb877ca475d8": {
+        "(10, 14)": {
+            "WBF": [
+                1634
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                1848
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1770
+            ], 
+            "WBO": [
+                2840
+            ], 
+            "WBL": [
+                251
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6, 
+            10
+        ], 
+        "location2": [
+            14
+        ], 
+        "(6, 14)": {
+            "WBF": [
+                1829
+            ], 
+            "BM1F": [
+                1277
+            ], 
+            "M1": [
+                1848
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                3203
+            ], 
+            "WBO": [
+                1770, 
+                1212, 
+                1848, 
+                1634
+            ], 
+            "WBL": [
+                251
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "with this mp3 player you get much more memory for much less than an ipod ."
+    }, 
+    "d67db5a6180bd82bcfa586ef5b5d069d": {
+        "(35, 20)": {
+            "WBF": [
+                1570
+            ], 
+            "AM2L": [
+                503
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                1848
+            ], 
+            "BM1L": [
+                503
+            ], 
+            "WBO": [
+                2886, 
+                2469, 
+                3203, 
+                1355, 
+                251, 
+                1536, 
+                912, 
+                1859, 
+                5, 
+                455, 
+                2859
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                415
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(35, 27)": {
+            "WBF": [
+                912
+            ], 
+            "AM2L": [
+                503
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                1848
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                1859, 
+                5, 
+                455, 
+                2859
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                415
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            20, 
+            27
+        ], 
+        "sentence": "also , you can store data on it , which is a plus . for all you people who want to buy an ipod just to say you have an ipod , do n't bother , this is a much better buy ."
+    }
+}

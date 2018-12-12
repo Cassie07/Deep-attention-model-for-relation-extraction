@@ -1,0 +1,37 @@
+{
+    "dfb1e702c3280b5fd148ea2e3efce750": {
+        "(11, 9)": {
+            "AM2L": [
+                502
+            ], 
+            "WBFL": [
+                2883
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                348
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "AM2F": [
+                1678
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the on-off button feel somewhat flimsy , and has an awkward , tiny little lock-out button that need to be depressed to turn on the camera ."
+    }
+}

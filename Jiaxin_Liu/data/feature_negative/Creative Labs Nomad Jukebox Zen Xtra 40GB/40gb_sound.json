@@ -1,0 +1,128 @@
+{
+    "df460eaf582c2debf712f5605d908023": {
+        "(15, 47)": {
+            "WBF": [
+                2166
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                84
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                413
+            ], 
+            "WBO": [
+                1343, 
+                943, 
+                215, 
+                1973, 
+                1967, 
+                3129, 
+                1429, 
+                522, 
+                5, 
+                760, 
+                1208, 
+                1998, 
+                316, 
+                3177, 
+                130, 
+                3052, 
+                1085, 
+                1635, 
+                1468, 
+                655, 
+                1881, 
+                2886, 
+                503, 
+                2221, 
+                1241, 
+                201, 
+                1429, 
+                1355
+            ], 
+            "WBL": [
+                325
+            ], 
+            "AM2F": [
+                533
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            47
+        ], 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }, 
+    "00678fc65cf74c7bbfb5bf91f2796a34": {
+        "(26, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                84
+            ], 
+            "WBO": [
+                1072, 
+                2844, 
+                379, 
+                1643, 
+                1541, 
+                1072, 
+                2844, 
+                1112, 
+                2842, 
+                2844, 
+                379, 
+                1541, 
+                2379, 
+                1541, 
+                1072, 
+                253, 
+                1164, 
+                2844, 
+                2204, 
+                41, 
+                581
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1536
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            26
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the sound is excellent , the battery life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent ."
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "5d8b5507ce45f152c58e301e745b132e": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            2
+        ], 
+        "(10, 2)": {
+            "WBF": [
+                985
+            ], 
+            "AM2L": [
+                3
+            ], 
+            "BM1F": [
+                645
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                3052
+            ], 
+            "WBO": [
+                2886, 
+                3018, 
+                253, 
+                2844
+            ], 
+            "WBL": [
+                875
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "very comfortable camera , easy to use , and the best digital photo you 're going to get at this price ."
+    }, 
+    "f4d33ef7024c0c93baef74d60978635e": {
+        "(7, 4)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                3135
+            ], 
+            "BM1F": [
+                2083
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1403
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "this is the perfect camera for a photo hobbiest who wants to have easy point and shoot ability as well ."
+    }, 
+    "ea03c1eca4f4843d18fa28fa8e577b5c": {
+        "(7, 17)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                385
+            ], 
+            "M1": [
+                2098
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                137
+            ], 
+            "WBO": [
+                850, 
+                2842, 
+                566, 
+                221, 
+                1951, 
+                2844
+            ], 
+            "WBL": [
+                102
+            ], 
+            "AM2F": [
+                985
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "4mp , 4x optical zoom , takes absolutely beautiful photo with detail that challenge all of the above 5mp camera , easy to understand and use ( has a great swivel lcd screen ) , a lot of feature and add-on option , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumb up ! )"
+    }, 
+    "ffba0d840beb51172340e31591b656ce": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            10
+        ], 
+        "(18, 10)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                1302
+            ], 
+            "WBO": [
+                239, 
+                243, 
+                316, 
+                2844
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i began taking pic as soon as i got this camera and am amazed at the quality of photo i have took simply by using the auto mode ."
+    }, 
+    "be379679dac602b9b58a047cfe52bfb9": {
+        "location1": [
+            32
+        ], 
+        "location2": [
+            27
+        ], 
+        "(32, 27)": {
+            "WBF": [
+                2507
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                3126
+            ], 
+            "WBO": [
+                454
+            ], 
+            "WBL": [
+                1437
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "with a quick spin of the dial you can select shutter priority ( for high speed subject ) , aperture priority ( for focal length ) or full program mode where the camera selects both for ideal photo quality ."
+    }
+}

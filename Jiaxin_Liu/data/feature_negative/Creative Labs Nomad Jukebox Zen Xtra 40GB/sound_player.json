@@ -1,0 +1,827 @@
+{
+    "370f2f08bb8ba98db88f94c031ba3f60": {
+        "(5, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2654
+            ], 
+            "WBO": [
+                1136
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                1313
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5, 
+            22
+        ], 
+        "location2": [
+            1
+        ], 
+        "(22, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2654
+            ], 
+            "WBO": [
+                1136, 
+                253, 
+                2654, 
+                1313, 
+                1545, 
+                233, 
+                1351, 
+                1737, 
+                1996, 
+                1648, 
+                2611, 
+                1998, 
+                2675, 
+                3006, 
+                2844, 
+                1853, 
+                1998
+            ], 
+            "WBL": [
+                1545
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the player is fast and sound great , it also has many option like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium ."
+    }, 
+    "d2a9bfb1e9ed4d4734bd522814d495e6": {
+        "(10, 15)": {
+            "WBF": [
+                1967
+            ], 
+            "AM2L": [
+                2408
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                62
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "although the sound-quality is good , it takes more than good sound on a portable-mp 3 player to result in a good product ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(43, 49)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2893
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                502
+            ], 
+            "WBO": [
+                1551, 
+                1369
+            ], 
+            "WBL": [
+                1842
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            43
+        ], 
+        "location2": [
+            49
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "15c31085c6c71aeacffc1df322ba7655": {
+        "(7, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2654
+            ], 
+            "WBO": [
+                1532, 
+                253
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the player is intuitive and output great sound quality ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "(48, 27)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                658
+            ], 
+            "BM1F": [
+                2025
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                627, 
+                2886, 
+                3018, 
+                1051, 
+                3158, 
+                2811, 
+                253, 
+                2494, 
+                2844, 
+                3162, 
+                326, 
+                1219, 
+                2761, 
+                1190, 
+                2016, 
+                2761, 
+                1468
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            48
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "(28, 9)": {
+            "WBF": [
+                442
+            ], 
+            "AM2L": [
+                1591
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1931
+            ], 
+            "WBO": [
+                130, 
+                808, 
+                2595, 
+                253, 
+                3112, 
+                130, 
+                2356, 
+                1866, 
+                2802, 
+                2842, 
+                547, 
+                372, 
+                1967, 
+                1435, 
+                2810
+            ], 
+            "WBL": [
+                1072
+            ], 
+            "AM2F": [
+                3142
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            28
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "(17, 21)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                413
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1951
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            9, 
+            21
+        ], 
+        "(17, 9)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                1842
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                765
+            ], 
+            "WBO": [
+                3052, 
+                1300, 
+                253, 
+                1355
+            ], 
+            "WBL": [
+                413
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "location1": [
+            30
+        ], 
+        "location2": [
+            6, 
+            39
+        ], 
+        "(30, 6)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                433, 
+                2844, 
+                1431, 
+                343, 
+                3158, 
+                985, 
+                2886, 
+                3018, 
+                253, 
+                2976, 
+                1143, 
+                2631, 
+                2842, 
+                1541, 
+                2583, 
+                2886, 
+                2976, 
+                253, 
+                3018, 
+                253
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(30, 39)": {
+            "WBF": [
+                3129
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1541, 
+                221, 
+                2842, 
+                1746, 
+                1468
+            ], 
+            "WBL": [
+                1842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) ."
+    }, 
+    "ee31d7df41f71e9ae037cdf06e1512c9": {
+        "(8, 28)": {
+            "WBF": [
+                1570
+            ], 
+            "BM1F": [
+                1156
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                3162
+            ], 
+            "WBO": [
+                304, 
+                1300, 
+                304, 
+                2844, 
+                2658, 
+                553, 
+                253, 
+                2844, 
+                3210, 
+                3194, 
+                2654, 
+                1570, 
+                304, 
+                1300, 
+                304, 
+                130
+            ], 
+            "WBL": [
+                553
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8, 
+            20
+        ], 
+        "location2": [
+            28
+        ], 
+        "(20, 28)": {
+            "WBF": [
+                1570
+            ], 
+            "BM1F": [
+                3194
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                3210
+            ], 
+            "WBO": [
+                304, 
+                1300, 
+                304, 
+                130
+            ], 
+            "WBL": [
+                553
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "to my ear , a 160 kbps wma file sound just as good as the source cd , and the zen xtra sound just as good as a portable cd player ."
+    }, 
+    "1275816028be42ce14dd06e59b53b586": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            4
+        ], 
+        "(1, 4)": {
+            "WBF": [
+                1241
+            ], 
+            "AM2L": [
+                1962
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2139
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound from the player is ok ."
+    }, 
+    "891f63e1c470263e3ffad09e6a6969b0": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            8
+        ], 
+        "(5, 8)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2199
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2573
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "on the positive side , the sound of the player is pretty good , once you have everything configured ."
+    }, 
+    "5fd8c0085bdee242af47218a4dee27e1": {
+        "(11, 20)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                2771
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1277
+            ], 
+            "WBO": [
+                253, 
+                1703, 
+                2204, 
+                237, 
+                1429
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "i am willing to overlook it 's problem to get superior sound quality and low price , although i feel the player has a lot of room for improvement ."
+    }, 
+    "5752d425fd230241f15f09a3ca7c1c62": {
+        "(5, 14)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                377
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                157
+            ], 
+            "WBO": [
+                1967, 
+                2057, 
+                3158, 
+                1856, 
+                2583
+            ], 
+            "WBL": [
+                553
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "i was unable achieve a sound quality on par with my simple portable cd player with `` bass boost . ``"
+    }, 
+    "c8196ec4c983af49734af374c87665fd": {
+        "location1": [
+            34
+        ], 
+        "location2": [
+            12
+        ], 
+        "(34, 12)": {
+            "WBF": [
+                3124
+            ], 
+            "AM2L": [
+                1297
+            ], 
+            "BM1F": [
+                1842
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1912
+            ], 
+            "WBO": [
+                3203, 
+                3018, 
+                2844, 
+                1366, 
+                2852, 
+                1285, 
+                3203, 
+                1468, 
+                2844, 
+                460, 
+                501, 
+                1533, 
+                63, 
+                920, 
+                1468, 
+                130, 
+                1886, 
+                2051
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "on the subject of headphone , this thing seems like a normal mp3 player when you use the headphone they give you in the box , but invest 30 dollar in a nice pair and the sound quality goes up through the roof !"
+    }, 
+    "fa3ed2bde213bd0078bffda62730ce6c": {
+        "(6, 4)": {
+            "AM2L": [
+                1541
+            ], 
+            "WBFL": [
+                4
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "first of all the player 's sound quality is superior to the ipod ."
+    }
+}

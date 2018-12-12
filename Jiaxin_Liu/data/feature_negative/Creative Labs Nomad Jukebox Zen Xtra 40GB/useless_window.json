@@ -1,0 +1,39 @@
+{
+    "ad71306ca9a64f28e317dd789b8d22d2": {
+        "(3, 10)": {
+            "WBF": [
+                304
+            ], 
+            "BM1F": [
+                668
+            ], 
+            "M1": [
+                3022
+            ], 
+            "M2": [
+                3151
+            ], 
+            "BM1L": [
+                541
+            ], 
+            "WBO": [
+                1541, 
+                2587, 
+                1545
+            ], 
+            "WBL": [
+                898
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "* protective case completely useless as is since it obscures display window ."
+    }
+}

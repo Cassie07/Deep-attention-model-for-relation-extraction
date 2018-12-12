@@ -1,0 +1,36 @@
+{
+    "8569a7dfb307c605d7ba9f01dc118762": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            10
+        ], 
+        "(0, 10)": {
+            "WBF": [
+                2654
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1566
+            ], 
+            "WBO": [
+                1429, 
+                1225, 
+                2844, 
+                1853, 
+                2389, 
+                1124
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "excellent sound - i found the music reproduced faithfully through the jukebox ."
+    }
+}

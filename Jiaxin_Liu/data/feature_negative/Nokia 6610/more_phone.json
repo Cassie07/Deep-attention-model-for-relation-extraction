@@ -1,0 +1,202 @@
+{
+    "147682229af074d2520a07e45499562b": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            9
+        ], 
+        "(1, 9)": {
+            "WBF": [
+                2755
+            ], 
+            "AM2L": [
+                1343
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                2097
+            ], 
+            "WBO": [
+                2895, 
+                2842, 
+                3120, 
+                1474
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the more subtle tone that were included with the phone are hard to hear at time ."
+    }, 
+    "93bdb754833d306450a122ff2ee879e5": {
+        "(12, 9)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                239
+            ], 
+            "WBL": [
+                239
+            ], 
+            "AM2F": [
+                2143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            9, 
+            16
+        ], 
+        "(12, 16)": {
+            "WBF": [
+                2143
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                239
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i have not had any distortion problem with this phone and am more pleased with this phone than any i 've used before ."
+    }, 
+    "7061a15f87a6a0019ec1573b56a2fbba": {
+        "(4, 11)": {
+            "WBF": [
+                718
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1165
+            ], 
+            "WBO": [
+                2886, 
+                3018, 
+                10
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                917
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "although i find it more convenient to use 1-touch dialing , this phone does not have voice dialing ."
+    }, 
+    "eccef5c5474671e4d4ab562e624bc4a1": {
+        "(1, 10)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                1419
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                2097
+            ], 
+            "WBO": [
+                2844, 
+                814, 
+                2431, 
+                2842, 
+                643
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "one more thing , the default ringtones that come with the phone are horrible ."
+    }
+}

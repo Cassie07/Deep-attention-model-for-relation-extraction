@@ -1,0 +1,60 @@
+{
+    "b044707a805daadf2f4c1d1c24fefac8": {
+        "(14, 13)": {
+            "BM1F": [
+                1723
+            ], 
+            "M1": [
+                2853
+            ], 
+            "M2": [
+                2583
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the instruction that come with it do n't explain how to make thing simple ."
+    }, 
+    "8487498f2b6e44dd82814b6515fd3e74": {
+        "(21, 19)": {
+            "WBFL": [
+                3052
+            ], 
+            "BM1F": [
+                1724
+            ], 
+            "M1": [
+                2853
+            ], 
+            "M2": [
+                2583
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "the software run smooth , it 's nice to look at , it 's very organized , easy to follow and makes thing very simple ."
+    }
+}

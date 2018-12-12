@@ -1,0 +1,31 @@
+{
+    "867804e0f600290b55597fc61d92689b": {
+        "(0, 1)": {
+            "AM2L": [
+                3075
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                3035
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                84
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "- great value 40gb vs 10 gb ipod for the price"
+    }
+}

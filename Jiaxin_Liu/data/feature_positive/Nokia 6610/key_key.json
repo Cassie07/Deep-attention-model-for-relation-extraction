@@ -1,0 +1,543 @@
+{
+    "aa4cf9874eb6024ec9e908b53f471f6e": {
+        "(4, 4)": {
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "poor visibility on the key ."
+    }, 
+    "b04114762c3824238acb69a9f7c5cc55": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            2
+        ], 
+        "(2, 2)": {
+            "AM2L": [
+                381
+            ], 
+            "BM1F": [
+                3074
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                522
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the volume key can be hard to press , but i think this may be by design rather than a flaw , perhaps to keep you from pressing it accidentally when you are in a call ."
+    }, 
+    "6e389542d89508957c8af12f28f181a9": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            1
+        ], 
+        "(1, 1)": {
+            "AM2L": [
+                1598
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the key are laid out normal so there is no guessing ."
+    }, 
+    "7aba4051c00fd6801f9538e897377aed": {
+        "(11, 11)": {
+            "AM2L": [
+                2615
+            ], 
+            "BM1F": [
+                1952
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "the keypad is a decent size , but the power on/off key is small and difficult to press ."
+    }, 
+    "3f9cc3c78af4f8f3dbd173ab2962564f": {
+        "(4, 4)": {
+            "AM2L": [
+                1252
+            ], 
+            "BM1F": [
+                335
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1677
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "i like the automatic key lock function ."
+    }, 
+    "42f9a3d24c13151b0c3eee5b5a85dd48": {
+        "(6, 6)": {
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2913
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                299
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this model does have the traditional key arrangement , it 's just that they are really close to one another , and have unconventional shape , so it takes a big getting used to for someone like me with big hand ."
+    }, 
+    "88b9aa2d53178b2ce98e7c56d5c5e0d8": {
+        "(5, 9)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2839
+            ], 
+            "BM1F": [
+                7
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2660
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(5, 22)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                7
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844, 
+                2660, 
+                1579, 
+                1212, 
+                2839, 
+                1499, 
+                1541, 
+                130, 
+                423, 
+                687, 
+                304, 
+                1737, 
+                2097
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1513
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the fact that the `` 0 `` key is the space key for text input is a bit confusing , as many phone use the `` # `` key instead .", 
+        "(9, 22)": {
+            "WBF": [
+                1212
+            ], 
+            "BM1F": [
+                2660
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2839, 
+                1499, 
+                1541, 
+                130, 
+                423, 
+                687, 
+                304, 
+                1737, 
+                2097
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1513
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location2": [
+            5, 
+            9, 
+            22
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                7
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5, 
+            9, 
+            22
+        ], 
+        "(9, 9)": {
+            "AM2L": [
+                2839
+            ], 
+            "BM1F": [
+                2660
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(22, 5)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                7
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844, 
+                2660, 
+                1579, 
+                1212, 
+                2839, 
+                1499, 
+                1541, 
+                130, 
+                423, 
+                687, 
+                304, 
+                1737, 
+                2097
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1513
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(9, 5)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2839
+            ], 
+            "BM1F": [
+                7
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2660
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(22, 9)": {
+            "WBF": [
+                1212
+            ], 
+            "BM1F": [
+                2660
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2839, 
+                1499, 
+                1541, 
+                130, 
+                423, 
+                687, 
+                304, 
+                1737, 
+                2097
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1513
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(22, 22)": {
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                3018
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1513
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }
+    }, 
+    "8c8bbd4a1f9a38c0933fcbd3803b117e": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            1
+        ], 
+        "(1, 1)": {
+            "AM2L": [
+                619
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1579
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the key are close together , and the layout is a bit funky in relation to standard rectangular layout keypad , but it 's not too weird ."
+    }
+}

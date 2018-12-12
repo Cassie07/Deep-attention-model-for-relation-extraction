@@ -1,0 +1,50 @@
+{
+    "c5fb91677140916fcce268347c2b912b": {
+        "(18, 6)": {
+            "WBF": [
+                2631
+            ], 
+            "AM2L": [
+                2712
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1758
+            ], 
+            "M2": [
+                1924
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1541, 
+                165, 
+                2304, 
+                2438, 
+                848, 
+                3121, 
+                2012, 
+                1355
+            ], 
+            "WBL": [
+                2862
+            ], 
+            "AM2F": [
+                1748
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "as i mentioned before , the creative mediasource software is actually really robust despite what others have said , though notmad may still work better ."
+    }
+}

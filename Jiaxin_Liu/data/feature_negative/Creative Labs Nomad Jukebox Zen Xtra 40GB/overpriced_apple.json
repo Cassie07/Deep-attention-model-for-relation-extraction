@@ -1,0 +1,34 @@
+{
+    "c17dc1715e1475263f7052f45d238a95": {
+        "(10, 8)": {
+            "WBFL": [
+                4
+            ], 
+            "BM1F": [
+                2840
+            ], 
+            "M1": [
+                286
+            ], 
+            "M2": [
+                2032
+            ], 
+            "BM1L": [
+                1085
+            ], 
+            "AM2F": [
+                1536
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "overall : small , sound great , and less expensive than apple 's overpriced ipod !"
+    }
+}

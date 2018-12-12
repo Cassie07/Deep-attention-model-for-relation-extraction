@@ -1,0 +1,112 @@
+{
+    "656e72834c7ff8e049c4a59974414993": {
+        "(12, 13)": {
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1691
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "i 'd highly recommend this camera for anyone who is looking for excellent quality picture and a combination of ease of use and the flexibility to get advanced with many option to adjust if you like ."
+    }, 
+    "115727d751fe0038fc2b16ac5e044115": {
+        "(4, 2)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                1448
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the image quality is excellent ."
+    }, 
+    "1e4f51a49d87c73315e133f37c3a3ce3": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            13
+        ], 
+        "(3, 13)": {
+            "WBF": [
+                932
+            ], 
+            "AM2L": [
+                315
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1254
+            ], 
+            "WBO": [
+                2112, 
+                1541, 
+                2262, 
+                253, 
+                130, 
+                465
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "manual functionality is excellent , downloading picture is quick and a breeze , and the quality is astounding ."
+    }
+}

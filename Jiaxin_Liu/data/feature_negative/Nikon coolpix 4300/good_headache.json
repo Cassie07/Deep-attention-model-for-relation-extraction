@@ -1,0 +1,44 @@
+{
+    "0ebcdfef8bb972e3ec21c12e403b87b6": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            19
+        ], 
+        "(7, 19)": {
+            "WBF": [
+                304
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1365
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                264, 
+                2011, 
+                80, 
+                1841, 
+                520, 
+                1429, 
+                6, 
+                1328
+            ], 
+            "WBL": [
+                1210
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "with nikon , although picture quality are as good as any other 4 mp camera , i 've had the following headache ;"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "5a3288ba1d03d602b3367a0c74ac0315": {
+        "(1, 2)": {
+            "AM2L": [
+                863
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2853
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the only thing i did experience was a problem of the player freezing while playing , which i was able to clear by opening it up and blowing it out with `` canned air . ``"
+    }, 
+    "e603c6f4fbf730e9d4e0fb6cdebbc90a": {
+        "(10, 3)": {
+            "WBF": [
+                3006
+            ], 
+            "AM2L": [
+                1634
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2853
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                1414
+            ], 
+            "WBO": [
+                1429, 
+                1225, 
+                2842
+            ], 
+            "WBL": [
+                3181
+            ], 
+            "AM2F": [
+                2138
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "after hooking the thing up , i found that it would only played less than 50 % of the dvds i put in it ."
+    }
+}

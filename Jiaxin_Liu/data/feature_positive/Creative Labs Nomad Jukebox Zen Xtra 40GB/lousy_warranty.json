@@ -1,0 +1,40 @@
+{
+    "181a7b7896f3a5bc487caf123b3e4a42": {
+        "(16, 19)": {
+            "WBF": [
+                123
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1700
+            ], 
+            "M2": [
+                3091
+            ], 
+            "BM1L": [
+                200
+            ], 
+            "WBO": [
+                801
+            ], 
+            "WBL": [
+                801
+            ], 
+            "AM2F": [
+                1017
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "i took perfect care of this player and still it died in the week after the lousy 90 day warranty ended ."
+    }
+}

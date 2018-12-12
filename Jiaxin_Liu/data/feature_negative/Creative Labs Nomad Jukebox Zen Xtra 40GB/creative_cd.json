@@ -1,0 +1,151 @@
+{
+    "57a74e8be8d489d3048ecdc5e9e62e81": {
+        "(4, 7)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                1241
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                553
+            ], 
+            "BM1L": [
+                1806
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                496
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "only thing missing from creative is a cd burner ."
+    }, 
+    "14d20e2bcf29b6bcafa9483b929a2de6": {
+        "(1, 24)": {
+            "WBF": [
+                1758
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                553
+            ], 
+            "WBO": [
+                2631, 
+                1541, 
+                1962, 
+                2886, 
+                2432, 
+                545, 
+                494, 
+                1853, 
+                1441, 
+                3203, 
+                295, 
+                2700, 
+                1241, 
+                2477, 
+                501, 
+                1429, 
+                3020, 
+                1854, 
+                2886
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                394
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            24, 
+            31
+        ], 
+        "(1, 31)": {
+            "WBF": [
+                1758
+            ], 
+            "AM2L": [
+                83
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                553
+            ], 
+            "WBO": [
+                2631, 
+                1541, 
+                1962, 
+                2886, 
+                2432, 
+                545, 
+                494, 
+                1853, 
+                1441, 
+                3203, 
+                295, 
+                2700, 
+                1241, 
+                2477, 
+                501, 
+                1429, 
+                3020, 
+                1854, 
+                2886, 
+                2432, 
+                1856, 
+                553, 
+                394, 
+                1429, 
+                458, 
+                2844
+            ], 
+            "WBL": [
+                55
+            ], 
+            "AM2F": [
+                62
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "1. creative mediasource software is ok to rip , catalog & burn music if you are starting from scratch ; but i used musicmatch to rip my cd before i bought the zen ( 278 cd ; 3,400 track ; 12.5 gb of music all ripped at 128bps ) and guess what ?"
+    }
+}

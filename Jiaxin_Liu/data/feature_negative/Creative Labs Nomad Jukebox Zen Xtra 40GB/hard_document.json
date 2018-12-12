@@ -1,0 +1,107 @@
+{
+    "2264f719eb82749d362e807f6f91259d": {
+        "location1": [
+            35
+        ], 
+        "location2": [
+            17
+        ], 
+        "(35, 17)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                223
+            ], 
+            "M1": [
+                914
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                381, 
+                1983, 
+                1998, 
+                2226, 
+                2886, 
+                381, 
+                1613, 
+                1241, 
+                1548, 
+                896, 
+                2852, 
+                1855, 
+                381, 
+                727
+            ], 
+            "WBL": [
+                260
+            ], 
+            "AM2F": [
+                943
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "4 .the zen * store * data file , but does not allow a folder structure nor does it allow document to be opened or program to be launched from its disk ( they must be copied to another hard drive to be launched ) ."
+    }, 
+    "595586dcd393895e2ca8c8a038c133b3": {
+        "location1": [
+            38
+        ], 
+        "location2": [
+            23
+        ], 
+        "(38, 23)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1208
+            ], 
+            "M1": [
+                914
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                762
+            ], 
+            "WBO": [
+                2226, 
+                522, 
+                5, 
+                381, 
+                1613, 
+                1241, 
+                2844, 
+                3210, 
+                2628, 
+                1545, 
+                1541
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the zen does n't support folder so it is not really a storage device ; even with third party software that `` creates `` folder , document and program can 't be launched from the zen , so it is not a hard disk , it 's a storage device at best ."
+    }
+}

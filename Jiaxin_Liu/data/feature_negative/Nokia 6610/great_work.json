@@ -1,0 +1,157 @@
+{
+    "9b759b22613ccb3d5a5909c5cd771409": {
+        "location1": [
+            2, 
+            27
+        ], 
+        "location2": [
+            10
+        ], 
+        "(2, 10)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                3168
+            ], 
+            "BM1L": [
+                2527
+            ], 
+            "WBO": [
+                1134, 
+                304, 
+                1429, 
+                522
+            ], 
+            "WBL": [
+                1143
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(27, 10)": {
+            "WBF": [
+                1648
+            ], 
+            "BM1F": [
+                1143
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2831
+            ], 
+            "WBO": [
+                130, 
+                578, 
+                2431, 
+                295, 
+                1387, 
+                2260, 
+                1441, 
+                3203, 
+                503, 
+                2847, 
+                1241, 
+                2804, 
+                253
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "service is great as far as i can tell , feature work like a charm , ringtones are high quality if you buy them from t-mobile and aim is great ."
+    }, 
+    "4e3e16c7d6dc2759d671c13215fece25": {
+        "(13, 49)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                2533
+            ], 
+            "BM1F": [
+                392
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                3168
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                2844, 
+                856, 
+                296, 
+                2756, 
+                253, 
+                1468, 
+                1856, 
+                2317, 
+                2437, 
+                2934, 
+                416, 
+                856, 
+                253, 
+                1914, 
+                1577, 
+                602, 
+                1429, 
+                1087, 
+                2083, 
+                2576, 
+                253, 
+                2319, 
+                228, 
+                1430, 
+                1134, 
+                2771, 
+                2886, 
+                316, 
+                74, 
+                2803, 
+                4, 
+                3129
+            ], 
+            "WBL": [
+                1915
+            ], 
+            "AM2F": [
+                228
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            49
+        ], 
+        "sentence": "i have had the phone for 1 week , the signal quality has been great in the detroit area ( suburb ) and in my recent road trip between detroit and northern kentucky ( cincinnati ) i experienced perfect signal and reception along i-75 , far superior to at & # 38 ; t 's which does not work along several long stretch on that same route ."
+    }
+}

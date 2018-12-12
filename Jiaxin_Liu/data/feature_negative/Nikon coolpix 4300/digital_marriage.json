@@ -1,0 +1,49 @@
+{
+    "9f0a61055e1f449cb62f85d3d95c52bd": {
+        "(17, 6)": {
+            "WBF": [
+                416
+            ], 
+            "AM2L": [
+                2628
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1740
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                761
+            ], 
+            "WBO": [
+                1858, 
+                253, 
+                1893, 
+                1881, 
+                1586, 
+                1429, 
+                738
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this little camera has created a marriage between myself and nikon . never knew i could love a digital camera so much ."
+    }
+}

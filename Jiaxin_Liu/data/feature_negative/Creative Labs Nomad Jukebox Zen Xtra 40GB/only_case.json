@@ -1,0 +1,103 @@
+{
+    "e36d6c54ed710942569ac8dc47ef1c8b": {
+        "(1, 24)": {
+            "WBF": [
+                2952
+            ], 
+            "AM2L": [
+                644
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                541
+            ], 
+            "WBO": [
+                2853, 
+                2842, 
+                2718, 
+                1752, 
+                1241, 
+                1288, 
+                1545, 
+                93, 
+                2696, 
+                295, 
+                2844, 
+                1402, 
+                2631, 
+                2842, 
+                644, 
+                3158, 
+                2844, 
+                2802, 
+                253
+            ], 
+            "WBL": [
+                2925
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "the only two thing that stop me from giving it 5 star are the ho-hum software that comes with the system , and the traveling case it comes with ."
+    }, 
+    "8a31ba51febce8f3d665f6e34835eb2d": {
+        "(19, 10)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                540
+            ], 
+            "M1": [
+                541
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                2304, 
+                2239, 
+                253, 
+                2886, 
+                1752
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                150
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the free ( i didnt know they still did that ) carrying case is really protective , and to me its the only accessory you need ( except good headphone ) ."
+    }
+}

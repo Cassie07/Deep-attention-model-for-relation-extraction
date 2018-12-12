@@ -1,0 +1,96 @@
+{
+    "c12383bb97c5145343b5078c02d465f5": {
+        "(1, 21)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                1998
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                1536
+            ], 
+            "WBO": [
+                1429, 
+                3181, 
+                664, 
+                134, 
+                2844, 
+                3210, 
+                3194, 
+                1541, 
+                2842, 
+                2844, 
+                715, 
+                295, 
+                1859, 
+                5, 
+                304, 
+                985
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "the only thing i would complain about the zen xtra is that the control are n't as easy as the ipod 's , or as `` sexy `` looking ."
+    }, 
+    "3dbd647708d95a1f6f35a1c61bf4414e": {
+        "(2, 7)": {
+            "WBF": [
+                2606
+            ], 
+            "AM2L": [
+                1351
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1372
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "it 's only slightly heavier than the ipod , and has a longer battery life ."
+    }
+}

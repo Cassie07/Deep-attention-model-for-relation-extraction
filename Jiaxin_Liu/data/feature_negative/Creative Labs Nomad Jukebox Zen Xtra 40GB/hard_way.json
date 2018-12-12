@@ -1,0 +1,135 @@
+{
+    "df460eaf582c2debf712f5605d908023": {
+        "(17, 54)": {
+            "WBF": [
+                943
+            ], 
+            "AM2L": [
+                1245
+            ], 
+            "BM1F": [
+                2166
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                3100
+            ], 
+            "BM1L": [
+                84
+            ], 
+            "WBO": [
+                215, 
+                1973, 
+                1967, 
+                3129, 
+                1429, 
+                522, 
+                5, 
+                760, 
+                1208, 
+                1998, 
+                316, 
+                3177, 
+                130, 
+                3052, 
+                1085, 
+                1635, 
+                1468, 
+                655, 
+                1881, 
+                2886, 
+                503, 
+                2221, 
+                1241, 
+                201, 
+                1429, 
+                1355, 
+                2846, 
+                325, 
+                2654, 
+                533, 
+                253, 
+                1165, 
+                1545
+            ], 
+            "WBL": [
+                1737
+            ], 
+            "AM2F": [
+                1043
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            54
+        ], 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }, 
+    "f8e21ab1b8a57bce5633ca8027b19bb4": {
+        "(29, 5)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1513
+            ], 
+            "BM1F": [
+                2022
+            ], 
+            "M1": [
+                3100
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBO": [
+                2572, 
+                1853, 
+                416, 
+                2658, 
+                3203, 
+                522, 
+                5, 
+                912, 
+                2859, 
+                1967, 
+                2844, 
+                1536, 
+                1074, 
+                1212, 
+                130, 
+                774, 
+                3169, 
+                3026, 
+                2844, 
+                1536
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                943
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "the zen is an outstanding way to shuttle music between source , you can 't do this on the ipod ( except for a cumbersome work-around using the ipod as a hard drive instead of a player ) ."
+    }
+}

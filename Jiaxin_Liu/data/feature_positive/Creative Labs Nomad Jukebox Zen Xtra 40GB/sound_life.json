@@ -1,0 +1,209 @@
+{
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            15
+        ], 
+        "(9, 15)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                251
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1643
+            ], 
+            "BM1L": [
+                2853
+            ], 
+            "WBO": [
+                1313, 
+                1143
+            ], 
+            "WBL": [
+                379
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "92198989402e17a45ecbf5ef78c65e91": {
+        "(1, 5)": {
+            "WBF": [
+                3052
+            ], 
+            "AM2L": [
+                2445
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1643
+            ], 
+            "WBO": [
+                1685
+            ], 
+            "WBL": [
+                379
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hour ) , very fast recharges rate , removable battery , storage size , nice screen , firmware update , and great price ."
+    }, 
+    "25da27d72af155af06e6c5874f503ef7": {
+        "(3, 8)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1978
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1643
+            ], 
+            "BM1L": [
+                201
+            ], 
+            "WBO": [
+                346
+            ], 
+            "WBL": [
+                378
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(3, 29)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1643
+            ], 
+            "BM1L": [
+                201
+            ], 
+            "WBO": [
+                346, 
+                2844, 
+                378, 
+                1643, 
+                1541, 
+                1978, 
+                103, 
+                113, 
+                1422, 
+                253, 
+                2842, 
+                1541, 
+                386, 
+                221, 
+                1856, 
+                1853, 
+                1541, 
+                68, 
+                1574, 
+                3129, 
+                917, 
+                194
+            ], 
+            "WBL": [
+                379
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            8, 
+            29
+        ], 
+        "sentence": "once again , the sound is awesome , the batterly life is only 6-8 hour , and that is because all my music is 320 kbps which does affect the battery life ."
+    }, 
+    "00678fc65cf74c7bbfb5bf91f2796a34": {
+        "(1, 6)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1072
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1643
+            ], 
+            "WBO": [
+                1072
+            ], 
+            "WBL": [
+                379
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the sound is excellent , the battery life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent ."
+    }
+}

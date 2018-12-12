@@ -1,0 +1,43 @@
+{
+    "5f86510c019b5a8471a682edff4d3332": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            8
+        ], 
+        "(5, 8)": {
+            "WBF": [
+                2097
+            ], 
+            "AM2L": [
+                649
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1231
+            ], 
+            "M2": [
+                469
+            ], 
+            "BM1L": [
+                1724
+            ], 
+            "WBO": [
+                2548
+            ], 
+            "WBL": [
+                2548
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the color screen makes this free-after-rebates phone shine bright , and command are very responsive ."
+    }
+}

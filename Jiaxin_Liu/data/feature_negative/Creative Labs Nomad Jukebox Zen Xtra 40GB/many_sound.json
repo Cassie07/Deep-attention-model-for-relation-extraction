@@ -1,0 +1,166 @@
+{
+    "370f2f08bb8ba98db88f94c031ba3f60": {
+        "(10, 22)": {
+            "WBF": [
+                1996
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                233
+            ], 
+            "WBO": [
+                1648, 
+                2611, 
+                1998, 
+                2675, 
+                3006, 
+                2844, 
+                1853, 
+                1998
+            ], 
+            "WBL": [
+                1545
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            5, 
+            22
+        ], 
+        "(10, 5)": {
+            "WBF": [
+                1313
+            ], 
+            "AM2L": [
+                1648
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                1136
+            ], 
+            "WBO": [
+                1545
+            ], 
+            "WBL": [
+                1351
+            ], 
+            "AM2F": [
+                1996
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the player is fast and sound great , it also has many option like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium ."
+    }, 
+    "df460eaf582c2debf712f5605d908023": {
+        "(53, 47)": {
+            "WBF": [
+                533
+            ], 
+            "AM2L": [
+                1043
+            ], 
+            "BM1F": [
+                325
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                2846
+            ], 
+            "WBO": [
+                253, 
+                1165
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                3100
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            53
+        ], 
+        "location2": [
+            47
+        ], 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(47, 43)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                502
+            ], 
+            "WBO": [
+                1551
+            ], 
+            "WBL": [
+                1369
+            ], 
+            "AM2F": [
+                1842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            47
+        ], 
+        "location2": [
+            43
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

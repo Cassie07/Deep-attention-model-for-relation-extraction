@@ -1,0 +1,37 @@
+{
+    "7b185dc9dc52f36cb42d1ebf9b7745f6": {
+        "(27, 28)": {
+            "AM2L": [
+                208
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                259
+            ], 
+            "M2": [
+                2853
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                200
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "the front door is miss aligned on my unit and you have to manually life it up just so slightly for the door to close , a very annoying thing after ahwile ."
+    }
+}

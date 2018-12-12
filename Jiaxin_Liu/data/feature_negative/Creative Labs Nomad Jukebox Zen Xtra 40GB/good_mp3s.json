@@ -1,0 +1,82 @@
+{
+    "0cee0a56b66cdebe9d6e2c1f4c4a4f1d": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            13
+        ], 
+        "(4, 13)": {
+            "WBF": [
+                2814
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2500
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1843
+            ], 
+            "BM1L": [
+                1643
+            ], 
+            "WBO": [
+                3052, 
+                1708, 
+                2878, 
+                2886, 
+                574
+            ], 
+            "WBL": [
+                3013
+            ], 
+            "AM2F": [
+                2263
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the battery life seems good , takes very lttle time to charge , it uploads mp3s quickly and there is no delay between song ."
+    }, 
+    "2f0c579001ddf9a71892e54a7ae11a15": {
+        "(6, 11)": {
+            "WBF": [
+                1366
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1843
+            ], 
+            "BM1L": [
+                1313
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                2337
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "the zen xtra sound great with good headphone and well recored mp3s ."
+    }
+}

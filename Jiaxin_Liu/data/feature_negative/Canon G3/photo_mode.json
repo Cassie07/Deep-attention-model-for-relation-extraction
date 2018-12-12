@@ -1,0 +1,125 @@
+{
+    "3ecea01aa95a76d9bd9b4d7dc527100d": {
+        "(8, 15)": {
+            "WBF": [
+                483
+            ], 
+            "AM2L": [
+                1724
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                2098
+            ], 
+            "M2": [
+                1814
+            ], 
+            "BM1L": [
+                715
+            ], 
+            "WBO": [
+                501, 
+                2712, 
+                1351
+            ], 
+            "WBL": [
+                329
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "the canon g3 gives ton of control for photo buff but still has an `` auto `` mode that makes it very easy for the novice to use ."
+    }, 
+    "be379679dac602b9b58a047cfe52bfb9": {
+        "(32, 24)": {
+            "WBF": [
+                3126
+            ], 
+            "BM1F": [
+                2226
+            ], 
+            "M1": [
+                1814
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                1248
+            ], 
+            "WBO": [
+                2844, 
+                520, 
+                2507, 
+                454
+            ], 
+            "WBL": [
+                1437
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            32
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "with a quick spin of the dial you can select shutter priority ( for high speed subject ) , aperture priority ( for focal length ) or full program mode where the camera selects both for ideal photo quality ."
+    }, 
+    "ffba0d840beb51172340e31591b656ce": {
+        "(18, 27)": {
+            "WBF": [
+                1429
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2098
+            ], 
+            "M2": [
+                1814
+            ], 
+            "BM1L": [
+                2260
+            ], 
+            "WBO": [
+                1355, 
+                2897, 
+                2585, 
+                507, 
+                3026
+            ], 
+            "WBL": [
+                329
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "i began taking pic as soon as i got this camera and am amazed at the quality of photo i have took simply by using the auto mode ."
+    }
+}

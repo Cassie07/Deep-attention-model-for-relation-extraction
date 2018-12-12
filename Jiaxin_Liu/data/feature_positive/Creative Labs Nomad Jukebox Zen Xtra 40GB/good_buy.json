@@ -1,0 +1,66 @@
+{
+    "a885b5a985f79263561e8a12ab307a35": {
+        "(2, 3)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                503
+            ], 
+            "BM1L": [
+                2025
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "overall , a good buy for the price ."
+    }, 
+    "5a9e2c56b3e4e5359842e5b8ef87d675": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            15
+        ], 
+        "(14, 15)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                503
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "lot of flaw , but exceptional sound quality , hd size , and price make it a good buy ."
+    }
+}

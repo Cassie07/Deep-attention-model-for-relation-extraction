@@ -1,0 +1,81 @@
+{
+    "ef17800065343e65f25e6b2d1f306115": {
+        "(4, 1)": {
+            "WBF": [
+                2280
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3074
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                2628
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the volume range is great , so you can blast it if you want ."
+    }, 
+    "68dfe1e6439e1d2fafdd1dcf2ce1d498": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            6
+        ], 
+        "(3, 6)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1829
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                3074
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound is great , and the volume is more than satisfactory for commute and shutting out external noise ."
+    }
+}

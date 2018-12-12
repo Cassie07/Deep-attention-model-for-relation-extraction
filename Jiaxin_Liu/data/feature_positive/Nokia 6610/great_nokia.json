@@ -1,0 +1,80 @@
+{
+    "c942e7617c5617c46364266d80a29f69": {
+        "(11, 1)": {
+            "WBF": [
+                108
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1899
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                1541, 
+                130, 
+                2355, 
+                1882, 
+                2097, 
+                253
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the nokia 6610 is a relatively new phone , and what a great phone it is ."
+    }, 
+    "bab7c888a49b92e4221b1c4a319f20de": {
+        "(3, 0)": {
+            "WBF": [
+                1724
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "M1": [
+                1899
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "nokia makes a great phone , that 's clear ."
+    }
+}

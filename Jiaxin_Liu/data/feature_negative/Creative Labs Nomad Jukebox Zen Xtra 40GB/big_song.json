@@ -1,0 +1,172 @@
+{
+    "8d1f6697eefabe40a2bed7c33818a32d": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            12
+        ], 
+        "(1, 12)": {
+            "WBF": [
+                2725
+            ], 
+            "AM2L": [
+                216
+            ], 
+            "BM1F": [
+                17
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                2644
+            ], 
+            "WBO": [
+                1856, 
+                1036, 
+                553, 
+                633, 
+                1468, 
+                1973, 
+                2615
+            ], 
+            "WBL": [
+                101
+            ], 
+            "AM2F": [
+                88
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "12 ) big storage - my entire cd collection in one small device ( 5717 song , 491 album and counting ) !"
+    }, 
+    "851613aef4dc3542de9dbdae5f08f0c4": {
+        "(7, 40)": {
+            "WBF": [
+                805
+            ], 
+            "AM2L": [
+                2520
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                2304
+            ], 
+            "WBO": [
+                2886, 
+                1752, 
+                1074, 
+                1973, 
+                675, 
+                2842, 
+                917, 
+                257, 
+                1752, 
+                1541, 
+                2844, 
+                3100, 
+                1545, 
+                2726, 
+                1156, 
+                1896, 
+                1208, 
+                2738, 
+                253, 
+                1545, 
+                4, 
+                372, 
+                1967, 
+                2844, 
+                2885, 
+                1951, 
+                2844, 
+                2644, 
+                1737
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                3126
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            36, 
+            40
+        ], 
+        "(7, 36)": {
+            "WBF": [
+                805
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                2304
+            ], 
+            "WBO": [
+                2886, 
+                1752, 
+                1074, 
+                1973, 
+                675, 
+                2842, 
+                917, 
+                257, 
+                1752, 
+                1541, 
+                2844, 
+                3100, 
+                1545, 
+                2726, 
+                1156, 
+                1896, 
+                1208, 
+                2738, 
+                253, 
+                1545, 
+                4, 
+                372, 
+                1967, 
+                2844, 
+                2885
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1737
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the con are n't really a big deal to me ... except one con that does annoy me is the way it store file ... no folder structure ... and it 's based on the title of the song ... many of my song where seperated into folder ( on the pc ) ... and a few had same title ... so i had to change the title to make sure that i did n't have any that might be the same as another ."
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "bb25f76c14b817eebcf952611ddb3014": {
+        "(28, 31)": {
+            "WBF": [
+                868
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                1571
+            ], 
+            "WBO": [
+                1468
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            28
+        ], 
+        "location2": [
+            31
+        ], 
+        "sentence": "the control are somewhat harder to use than the ipod , but i have gotten use to them , and even at the beginning did not think would justify the huge difference in price ."
+    }, 
+    "05b005a587509a9b418bc7b414f03e1b": {
+        "(1, 6)": {
+            "WBF": [
+                2725
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2213
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                2204
+            ], 
+            "WBO": [
+                530
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                985
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "pro : huge storage capacity for the price , easy to navigate , can modify existing playlist on the fly , has a removable battery"
+    }
+}

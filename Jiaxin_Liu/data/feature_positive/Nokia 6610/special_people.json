@@ -1,0 +1,71 @@
+{
+    "3f4a8a9f30c37af03527a36fda76d179": {
+        "(4, 10)": {
+            "WBF": [
+                2428
+            ], 
+            "AM2L": [
+                2852
+            ], 
+            "BM1F": [
+                310
+            ], 
+            "M1": [
+                2668
+            ], 
+            "M2": [
+                2079
+            ], 
+            "BM1L": [
+                233
+            ], 
+            "WBO": [
+                253, 
+                1311
+            ], 
+            "WBL": [
+                2668
+            ], 
+            "AM2F": [
+                3124
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(9, 10)": {
+            "AM2L": [
+                2852
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                2668
+            ], 
+            "M2": [
+                2079
+            ], 
+            "BM1L": [
+                1311
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3124
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4, 
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "you can also assign special ring and graphic to special people when they call ."
+    }
+}

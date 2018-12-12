@@ -1,0 +1,204 @@
+{
+    "e8e469c6ce127a2b8e862966b0c3685e": {
+        "(9, 6)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                1300
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                3074
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the headset that comes with the phone has good sound volume but it hurt the ear like you can not imagine !"
+    }, 
+    "6f9adbe48884c146062517217a8d680d": {
+        "(3, 28)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "WBO": [
+                1541, 
+                1313, 
+                2944, 
+                3006, 
+                2844, 
+                3074, 
+                1441, 
+                1548, 
+                2896, 
+                2264, 
+                2079, 
+                2859, 
+                2853, 
+                3145, 
+                1277, 
+                1699, 
+                1429, 
+                922, 
+                1355, 
+                264, 
+                666
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(3, 1)": {
+            "AM2L": [
+                1541
+            ], 
+            "WBFL": [
+                4
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2654
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1, 
+            28
+        ], 
+        "sentence": "the phone 's sound quality is great ( turn up the volume if its too quiet , people , this thing will get loud ) i dont have any complaint about this phone and the only thing that i miss from my 8290 is voice dialing ."
+    }, 
+    "867e0d28796d18caa886b83e1e446570": {
+        "(10, 16)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                980
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                3120
+            ], 
+            "WBO": [
+                253, 
+                251
+            ], 
+            "WBL": [
+                1201
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            4, 
+            16
+        ], 
+        "(10, 4)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1328
+            ], 
+            "WBO": [
+                2171, 
+                1143
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "while i had the phone , the positive feature were : good sound quality and an excellent fm phone and earpiece ."
+    }
+}

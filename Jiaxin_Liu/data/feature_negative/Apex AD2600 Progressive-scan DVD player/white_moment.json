@@ -1,0 +1,70 @@
+{
+    "0d0f8d64973f708c799e4e49d6909dfd": {
+        "location1": [
+            19
+        ], 
+        "location2": [
+            14, 
+            24
+        ], 
+        "(19, 24)": {
+            "WBF": [
+                1897
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3133
+            ], 
+            "M2": [
+                1820
+            ], 
+            "BM1L": [
+                1978
+            ], 
+            "WBO": [
+                1212
+            ], 
+            "WBL": [
+                2011
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(19, 14)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                1820
+            ], 
+            "M2": [
+                3133
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                1351
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1897
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it sends discoutinous signal to tv , so the tv has the picture for one moment and has only the white noise for the other moment ."
+    }
+}

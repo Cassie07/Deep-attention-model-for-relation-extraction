@@ -1,0 +1,81 @@
+{
+    "0a97bbb3a0da722d9e48e3c05e77a24c": {
+        "(19, 23)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2923
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                3018
+            ], 
+            "WBL": [
+                2615
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use , small good for travel , and provides excellent , sharp image ."
+    }, 
+    "3e862711b9c6b61022e139ccc3d36f8a": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            22
+        ], 
+        "(17, 22)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                3018
+            ], 
+            "WBL": [
+                2219
+            ], 
+            "AM2F": [
+                2408
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "in the auto mode it function basically as a point and click , the scene mode are very easy to use and produce good result ."
+    }
+}

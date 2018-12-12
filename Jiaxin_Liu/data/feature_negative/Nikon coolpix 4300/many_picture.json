@@ -1,0 +1,130 @@
+{
+    "22acb9431eff5025a15adbaf9c736917": {
+        "location1": [
+            24
+        ], 
+        "location2": [
+            25
+        ], 
+        "(24, 25)": {
+            "AM2L": [
+                2847
+            ], 
+            "BM1F": [
+                2812
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the compact digital camera is especially useful if you have little child around and you can always take the camera with you and take many picture of them ."
+    }, 
+    "164dda298348d815567dec7d16e56e32": {
+        "(30, 21)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                1072, 
+                3158, 
+                76, 
+                2125, 
+                1168
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            30
+        ], 
+        "location2": [
+            21, 
+            53
+        ], 
+        "(30, 53)": {
+            "WBF": [
+                1951
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                642
+            ], 
+            "WBO": [
+                2844, 
+                3024, 
+                1252, 
+                295, 
+                3052, 
+                2582, 
+                2886, 
+                2613, 
+                1815, 
+                253, 
+                3158, 
+                174, 
+                717, 
+                1951, 
+                130, 
+                875, 
+                520, 
+                2842, 
+                3203
+            ], 
+            "WBL": [
+                2496
+            ], 
+            "AM2F": [
+                1454
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that quality of the picture are excellent with 3m-4m pixel / fine combo and many of the user-friendly function are very similar to slr model , and with added convenience of a digital camera that you can see picture immediately ."
+    }
+}

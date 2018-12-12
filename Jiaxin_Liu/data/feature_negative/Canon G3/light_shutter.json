@@ -1,0 +1,131 @@
+{
+    "ca1eaed91c3e55f4cceab5acd302386c": {
+        "(7, 16)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2196
+            ], 
+            "BM1F": [
+                1703
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                2570
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                3181, 
+                1915, 
+                2812, 
+                2844, 
+                2112
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(7, 22)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                392
+            ], 
+            "BM1F": [
+                1703
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                2570
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                3181, 
+                1915, 
+                2812, 
+                2844, 
+                2112, 
+                3124, 
+                2844, 
+                2570, 
+                3094, 
+                2196, 
+                501
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1328
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            16, 
+            22
+        ], 
+        "sentence": "the g3 had problem focusing in low light and would not take the picture when the shutter was pressed but after the shutter had been released a few second ."
+    }, 
+    "41d67c7360f1eaff9b82be88ea00f3d7": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            11
+        ], 
+        "(15, 11)": {
+            "WBF": [
+                2212
+            ], 
+            "AM2L": [
+                185
+            ], 
+            "BM1F": [
+                1996
+            ], 
+            "M1": [
+                2570
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                185
+            ], 
+            "WBO": [
+                273
+            ], 
+            "WBL": [
+                2212
+            ], 
+            "AM2F": [
+                1782
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have yet to try using all of the adjustment option : shutter priority , aperature priority , light metering adjustment , etc . , but all control are well thought out and and the manual is relatively clear ."
+    }
+}

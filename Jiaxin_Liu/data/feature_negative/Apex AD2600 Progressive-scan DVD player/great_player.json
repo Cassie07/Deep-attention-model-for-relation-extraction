@@ -1,0 +1,192 @@
+{
+    "2a1edb6a0f322e1800ffc50b6c0183ca": {
+        "(7, 4)": {
+            "WBF": [
+                2946
+            ], 
+            "BM1F": [
+                961
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                275
+            ], 
+            "WBO": [
+                2016
+            ], 
+            "WBL": [
+                2016
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "well , this apex dvd player turned out great !"
+    }, 
+    "3cb598830d17cf87874a5a2af03a542e": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            2
+        ], 
+        "(7, 2)": {
+            "WBF": [
+                3094
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                3124
+            ], 
+            "WBO": [
+                3172
+            ], 
+            "WBL": [
+                3094
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "when the player was working it was great , but ."
+    }, 
+    "9982cf025cf09cf43f1be57afa09155b": {
+        "(16, 28)": {
+            "WBF": [
+                805
+            ], 
+            "AM2L": [
+                1723
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2547
+            ], 
+            "WBO": [
+                1829, 
+                3124, 
+                1429, 
+                2252, 
+                130, 
+                1848, 
+                1888, 
+                961
+            ], 
+            "WBL": [
+                642
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(16, 10)": {
+            "WBF": [
+                2409
+            ], 
+            "AM2L": [
+                1829
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBO": [
+                1468, 
+                1752
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                805
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            10, 
+            28
+        ], 
+        "sentence": "all in all , trying to save some money on this player resulted in me shelling a great deal more when i purchased a much nicer dvd vcr combo player to make up for blazing crappiness of this very embarassing gift ."
+    }, 
+    "c6a83ea9da57eb20f326e6abc581d1df": {
+        "(4, 0)": {
+            "WBF": [
+                3168
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                1689
+            ], 
+            "AM2F": [
+                1441
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "player work and look great - if you can get the dvd 's to play ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "4147498480996841498df2bb40d27af6": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                190
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2024
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "5 ) the cheap , user-replaceable battery ( $ 50 from creative ) is a great advantage over the ipod 's battery which cost $ 100 to replace ."
+    }
+}

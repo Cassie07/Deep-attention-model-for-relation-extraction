@@ -1,0 +1,46 @@
+{
+    "d00579c5aee168118aee6243ff803b1c": {
+        "(3, 11)": {
+            "WBF": [
+                1448
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1260
+            ], 
+            "M1": [
+                2290
+            ], 
+            "M2": [
+                3173
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2631, 
+                1287, 
+                3203, 
+                1541
+            ], 
+            "WBL": [
+                1133
+            ], 
+            "AM2F": [
+                846
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "what the g3 raw image software gives you is a fantasy world designed to please the uncritical ."
+    }
+}

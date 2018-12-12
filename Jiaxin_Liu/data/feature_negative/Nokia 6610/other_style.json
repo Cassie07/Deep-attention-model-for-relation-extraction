@@ -1,0 +1,57 @@
+{
+    "238d0351c8c8c466d81f67763e3871b1": {
+        "(22, 3)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1899
+            ], 
+            "M1": [
+                2747
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                2937
+            ], 
+            "WBO": [
+                2097, 
+                1541, 
+                2583, 
+                2886, 
+                3018, 
+                253, 
+                848, 
+                1548, 
+                828, 
+                283, 
+                2859, 
+                1669, 
+                1326, 
+                1541, 
+                304
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                1900
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "in true nokia style , the phone is simple to use and despite its delicate appearance , this little guy is as durable as other nokias i have owned ."
+    }
+}

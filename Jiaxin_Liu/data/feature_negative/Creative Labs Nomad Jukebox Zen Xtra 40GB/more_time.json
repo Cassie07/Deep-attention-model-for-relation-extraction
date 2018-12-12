@@ -1,0 +1,78 @@
+{
+    "a0fdee29f22fcfa33ef66cdb8b74405c": {
+        "(11, 7)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                39
+            ], 
+            "BM1F": [
+                1685
+            ], 
+            "M1": [
+                2878
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2814
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the battery stay charged for a long time , and takes no more than 2 or 3 hour at most to fully recharge via the included ac adapter ."
+    }, 
+    "e823dccf754c11a8ec5a19b3ffb4f338": {
+        "(8, 9)": {
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                1338
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                2878
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "in fact , it caused my system to hang more time than not , so i uninstalled it and stuck with mediasource 100 % ."
+    }
+}

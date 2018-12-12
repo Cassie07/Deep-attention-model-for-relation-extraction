@@ -1,0 +1,53 @@
+{
+    "ffba0d840beb51172340e31591b656ce": {
+        "(18, 3)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2815
+            ], 
+            "M1": [
+                2107
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                396
+            ], 
+            "WBO": [
+                2647, 
+                304, 
+                1429, 
+                1302, 
+                2859, 
+                520, 
+                253, 
+                239, 
+                243, 
+                316, 
+                2844
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i began taking pic as soon as i got this camera and am amazed at the quality of photo i have took simply by using the auto mode ."
+    }
+}

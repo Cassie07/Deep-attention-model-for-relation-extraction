@@ -1,0 +1,37 @@
+{
+    "1815e3af4f811c08b874fb48013a9edc": {
+        "(23, 24)": {
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1101
+            ], 
+            "M2": [
+                1897
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1015
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "the eax feature are pretty cool , as well , as creative has included a number of eq adjustment that , for example , compensate for the extraneous noise encountered in a car or on a train ."
+    }
+}

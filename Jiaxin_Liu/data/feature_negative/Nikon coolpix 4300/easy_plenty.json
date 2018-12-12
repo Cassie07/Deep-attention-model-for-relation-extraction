@@ -1,0 +1,50 @@
+{
+    "a3b0eea6fef24303e358dc36a867f602": {
+        "(2, 14)": {
+            "WBF": [
+                1030
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2144
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2886, 
+                3018, 
+                1212, 
+                130, 
+                399, 
+                1648, 
+                1752, 
+                501
+            ], 
+            "WBL": [
+                1351
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "it is easy enough to use for a beginner like me but it has plenty of feature for me to grow into ."
+    }
+}

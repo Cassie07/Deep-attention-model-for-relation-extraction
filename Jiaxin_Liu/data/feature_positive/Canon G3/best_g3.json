@@ -1,0 +1,162 @@
+{
+    "dd71767481d19a9a0e0a0368b626b97e": {
+        "(6, 3)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                520
+            ], 
+            "BM1F": [
+                525
+            ], 
+            "M1": [
+                1260
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                875
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "simply , the canon g3 is the best digital camera out there today at this price point ."
+    }, 
+    "9912ee61adbc16ba2940f26778c640d0": {
+        "(8, 6)": {
+            "AM2L": [
+                1468
+            ], 
+            "WBFL": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1260
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1718
+            ], 
+            "AM2F": [
+                369
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "recent price drop have made the g3 the best bargain in digital camera currently available ."
+    }, 
+    "f774d50a8c6d2e482b4e764362bf0ccb": {
+        "(9, 2)": {
+            "WBF": [
+                832
+            ], 
+            "AM2L": [
+                2260
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1260
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                2025
+            ], 
+            "WBO": [
+                3121, 
+                1855, 
+                381
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1448
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "overall , the g3 delivers what must be considered the best image quality of any current > 4 megapixel digicams , from a detail , tonal balance and color response point of view ."
+    }, 
+    "ee59320ea439564bfb6e244ed61ae28d": {
+        "(6, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                520
+            ], 
+            "BM1F": [
+                525
+            ], 
+            "M1": [
+                1260
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2088
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                90
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the canon g3 is perhaps the best 4mp camera out there ."
+    }
+}

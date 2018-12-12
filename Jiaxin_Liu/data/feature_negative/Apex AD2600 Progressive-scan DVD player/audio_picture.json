@@ -1,0 +1,31 @@
+{
+    "542d552b6a80169971106c0493d88457": {
+        "location1": [
+            21
+        ], 
+        "location2": [
+            23
+        ], 
+        "(21, 23)": {
+            "WBFL": [
+                1896
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1302
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "when i hooked it up it only produced sound - a cd played fine , but with a dvd i only got the audio - no picture !"
+    }
+}

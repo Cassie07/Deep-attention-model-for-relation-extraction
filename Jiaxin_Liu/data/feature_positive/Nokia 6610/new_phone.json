@@ -1,0 +1,123 @@
+{
+    "c942e7617c5617c46364266d80a29f69": {
+        "(6, 7)": {
+            "AM2L": [
+                3121
+            ], 
+            "BM1F": [
+                2355
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7, 
+            12
+        ], 
+        "(6, 12)": {
+            "WBF": [
+                2097
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2355
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                253, 
+                3121
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the nokia 6610 is a relatively new phone , and what a great phone it is ."
+    }, 
+    "0774bbf5a1f65c236eec818161d3b56d": {
+        "(21, 5)": {
+            "WBF": [
+                130
+            ], 
+            "AM2L": [
+                2828
+            ], 
+            "BM1F": [
+                1644
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1882
+            ], 
+            "BM1L": [
+                3052
+            ], 
+            "WBO": [
+                1669, 
+                1634, 
+                2840, 
+                62, 
+                2040, 
+                3158, 
+                1685, 
+                379, 
+                1643, 
+                1915, 
+                304, 
+                1685
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2155
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this is a very light phone - a little less than 3 oz , with long battery life ( not as long as the new polymer technology ) ."
+    }
+}

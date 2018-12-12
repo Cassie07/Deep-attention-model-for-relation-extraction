@@ -1,0 +1,52 @@
+{
+    "2ba780a3839b97663494b0fa5de97d11": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            8
+        ], 
+        "(22, 8)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2651
+            ], 
+            "M1": [
+                3010
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                929
+            ], 
+            "WBO": [
+                1727, 
+                3204, 
+                875, 
+                2112, 
+                1967, 
+                2844, 
+                674, 
+                1541, 
+                3052, 
+                1886
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the canon computer software used to download , sort , upload and manage your digital picture on the computer is very nice and very easy to use ."
+    }
+}

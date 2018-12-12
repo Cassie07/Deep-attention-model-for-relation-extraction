@@ -1,0 +1,58 @@
+{
+    "c803c17bfceefa2bdbade542c896cde8": {
+        "(6, 32)": {
+            "WBF": [
+                2560
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                2829
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1967, 
+                2844, 
+                1143, 
+                836, 
+                1545, 
+                1541, 
+                251, 
+                2022, 
+                2115, 
+                1951, 
+                1348, 
+                1212, 
+                919, 
+                3121, 
+                1545, 
+                3094, 
+                2208, 
+                1754, 
+                2886, 
+                912, 
+                2886, 
+                381
+            ], 
+            "WBL": [
+                3155
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            32
+        ], 
+        "sentence": "although the nokia 6610 is a little short on the feature department , it is an outstanding piece of hardware for doing what it was primarily meant to do : to be a wireless telephone ."
+    }
+}

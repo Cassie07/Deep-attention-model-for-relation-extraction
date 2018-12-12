@@ -1,0 +1,48 @@
+{
+    "3a7359c228b14d5af1256761b5c276f0": {
+        "(1, 14)": {
+            "WBF": [
+                898
+            ], 
+            "AM2L": [
+                2712
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                437
+            ], 
+            "M2": [
+                2794
+            ], 
+            "WBO": [
+                1468, 
+                2844, 
+                3211, 
+                3194, 
+                1815, 
+                1541, 
+                251, 
+                1466, 
+                501
+            ], 
+            "WBL": [
+                2890
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the blue-screen display in the zennx xtra model is an improvement , but the toggle switch is still tricky ."
+    }
+}

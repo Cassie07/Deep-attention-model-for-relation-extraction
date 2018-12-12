@@ -1,0 +1,84 @@
+{
+    "dddabe0a6ff5deb6dc9e3641be46c42d": {
+        "location1": [
+            27
+        ], 
+        "location2": [
+            16
+        ], 
+        "(27, 16)": {
+            "WBF": [
+                1896
+            ], 
+            "AM2L": [
+                1978
+            ], 
+            "BM1F": [
+                39
+            ], 
+            "M1": [
+                3196
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2261, 
+                307, 
+                2383, 
+                3091, 
+                3145, 
+                381, 
+                3178
+            ], 
+            "WBL": [
+                2587
+            ], 
+            "AM2F": [
+                3145
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i know this unit will have problem in the future and the $ 40 for the 2 year `` no question asked `` replacement warranty will be worth it , since creative will only warrant it for 90 day - which in itself is totally ridiculous !"
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "location1": [
+            43
+        ], 
+        "location2": [
+            42
+        ], 
+        "(43, 42)": {
+            "AM2L": [
+                392
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                3196
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1929
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }
+}

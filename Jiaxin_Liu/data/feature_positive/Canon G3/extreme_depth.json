@@ -1,0 +1,37 @@
+{
+    "f1824e287ef5aafaf050e6870ece87c3": {
+        "(13, 14)": {
+            "AM2L": [
+                1154
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1102
+            ], 
+            "M2": [
+                842
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "what makes the focus-lock lag time something i can live with is the extreme depth of field obtainable with these point and shoot digicams at f8 ."
+    }
+}

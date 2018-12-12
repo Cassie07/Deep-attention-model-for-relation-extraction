@@ -1,0 +1,308 @@
+{
+    "fc9c733c80eb0e7cc04d22457ba2ed86": {
+        "location1": [
+            30
+        ], 
+        "location2": [
+            30
+        ], 
+        "(30, 30)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                507
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "even at the `` normal `` setting , a 8x10 print ! show not a single sign of visible rendering or pixel - you could never tell that the picture has been taken by a `` digital `` ."
+    }, 
+    "9f0a61055e1f449cb62f85d3d95c52bd": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            17
+        ], 
+        "(17, 17)": {
+            "AM2L": [
+                2628
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                1701
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "this little camera has created a marriage between myself and nikon . never knew i could love a digital camera so much ."
+    }, 
+    "ac4ab040f5068449f5d661c742ded24a": {
+        "(4, 4)": {
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1179
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "this is my first digital camera and i can say that i am quite impressed with the feature that it has ."
+    }, 
+    "22acb9431eff5025a15adbaf9c736917": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            2
+        ], 
+        "(2, 2)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                653
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the compact digital camera is especially useful if you have little child around and you can always take the camera with you and take many picture of them ."
+    }, 
+    "164dda298348d815567dec7d16e56e32": {
+        "location1": [
+            47
+        ], 
+        "location2": [
+            47
+        ], 
+        "(47, 47)": {
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that quality of the picture are excellent with 3m-4m pixel / fine combo and many of the user-friendly function are very similar to slr model , and with added convenience of a digital camera that you can see picture immediately ."
+    }, 
+    "2d3d3d47aa5812c5767bcd8d62c2bc24": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            10
+        ], 
+        "(10, 10)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2399
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                2768
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "if you 're looking for a small , compact , super resolution digital camera , you can end your search with the nikon 4300 !"
+    }, 
+    "6c8553c3c50ea94e8903ac7ad2b1d889": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            1
+        ], 
+        "(1, 1)": {
+            "AM2L": [
+                2814
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                875
+            ], 
+            "AM2F": [
+                3213
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the digital zoom takes as good of picture , as the optical zoom does !"
+    }, 
+    "4283cf0438864dd7aa4566ca679cc53b": {
+        "(11, 11)": {
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "i highly recommend this camera to anyone looking for a good digital camera that takes great picture yet does n't take week to figure out how to operate ."
+    }, 
+    "fc74409b72829e8f76ff6ce7e7d9c3eb": {
+        "(4, 4)": {
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                21
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3213
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "i expected the 12x digital zoom to be grainy , but onfull size high to fine quality , the zoomed image are quite impressive ."
+    }
+}

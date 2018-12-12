@@ -1,0 +1,241 @@
+{
+    "7c980ce6e3db331419916b5538ddd428": {
+        "(19, 20)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                805
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "the scroll button is sort of annoying to push - a nice button would be nicer but eh , not a big deal ."
+    }, 
+    "fb3aa19e10f1dae6b9413cfe33af040c": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                2843
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                805
+            ], 
+            "BM1L": [
+                5
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2587
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "- equipment included is average , but that is n't a big deal since thats not what you are buying it for ."
+    }, 
+    "b6ad3734805d45028aacb33df91f1f38": {
+        "(17, 18)": {
+            "AM2L": [
+                1752
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                805
+            ], 
+            "BM1L": [
+                2304
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "people also have complained about the case not having a window , but that 's not really a big deal to me either -- the case is sturdy and offer very good protection ."
+    }, 
+    "e1ad1a34c613db2ca633d3d78e5f2be1": {
+        "(13, 14)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                805
+            ], 
+            "BM1L": [
+                1926
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the case is strong and stylish , but unfortunately lack a window ( now a big deal ) ."
+    }, 
+    "851613aef4dc3542de9dbdae5f08f0c4": {
+        "(7, 8)": {
+            "AM2L": [
+                1752
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                805
+            ], 
+            "BM1L": [
+                2304
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the con are n't really a big deal to me ... except one con that does annoy me is the way it store file ... no folder structure ... and it 's based on the title of the song ... many of my song where seperated into folder ( on the pc ) ... and a few had same title ... so i had to change the title to make sure that i did n't have any that might be the same as another ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            56
+        ], 
+        "(16, 56)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1381
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                805
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2844, 
+                436, 
+                1644, 
+                1468, 
+                2844, 
+                352, 
+                1541, 
+                2083, 
+                1136, 
+                304, 
+                1378, 
+                1468, 
+                1853, 
+                2916, 
+                715, 
+                295, 
+                985, 
+                2886, 
+                3018, 
+                200, 
+                1743, 
+                2844, 
+                2484, 
+                502, 
+                1313, 
+                2654, 
+                253, 
+                1551, 
+                1369, 
+                1737, 
+                1842, 
+                2139, 
+                130, 
+                2893, 
+                1951, 
+                869
+            ], 
+            "WBL": [
+                2954
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

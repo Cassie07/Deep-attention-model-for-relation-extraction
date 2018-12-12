@@ -1,0 +1,56 @@
+{
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "(9, 33)": {
+            "WBF": [
+                2654
+            ], 
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1828
+            ], 
+            "BM1L": [
+                1302
+            ], 
+            "WBO": [
+                985, 
+                2886, 
+                3018, 
+                1055, 
+                2862, 
+                1429, 
+                206, 
+                2842, 
+                2844, 
+                2631, 
+                3094, 
+                1859, 
+                5, 
+                2844, 
+                413, 
+                253, 
+                1377, 
+                1030, 
+                2644, 
+                2886
+            ], 
+            "WBL": [
+                264
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            33
+        ], 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }
+}

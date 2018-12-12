@@ -1,0 +1,48 @@
+{
+    "1dc3740e06e3a4b6aef93300ba191638": {
+        "(13, 3)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1899
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1774
+            ], 
+            "M2": [
+                2202
+            ], 
+            "BM1L": [
+                2867
+            ], 
+            "WBO": [
+                2768, 
+                985, 
+                1051, 
+                1441, 
+                3203, 
+                1355
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1815
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "navigating through the menus is super easy , especially if you have owned a previous model nokia phone ."
+    }
+}

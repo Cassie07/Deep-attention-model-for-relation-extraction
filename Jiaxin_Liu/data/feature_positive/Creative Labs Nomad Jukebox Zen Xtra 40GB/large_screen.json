@@ -1,0 +1,168 @@
+{
+    "549c7d7059064e5d04e7311335d378a8": {
+        "(3, 1)": {
+            "AM2L": [
+                984
+            ], 
+            "WBFL": [
+                4
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                1602
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the screen 's large and easily read ."
+    }, 
+    "7491b52ccd6cdf7fb6cb7dd33913b3c3": {
+        "(0, 3)": {
+            "WBF": [
+                985
+            ], 
+            "M1": [
+                1602
+            ], 
+            "M2": [
+                2479
+            ], 
+            "WBO": [
+                2297
+            ], 
+            "WBL": [
+                2297
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "- large easy readable screen"
+    }, 
+    "80e11640737e6ee1cc2902f3c818c14c": {
+        "(5, 2)": {
+            "WBF": [
+                3094
+            ], 
+            "AM2L": [
+                2297
+            ], 
+            "BM1F": [
+                1615
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                1602
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3052
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the lcd screen was very large and readable ."
+    }, 
+    "6d0ac44003c8f03b17f4e1adcc23e886": {
+        "(3, 1)": {
+            "AM2L": [
+                469
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                1602
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the screen is large and bright and has all the info i need where i need it ."
+    }, 
+    "fcc6060d8953928ffecfa28e3e7a7871": {
+        "(3, 1)": {
+            "AM2L": [
+                253
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                1602
+            ], 
+            "AM2F": [
+                822
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the screen is large , defined , and easy to read , and the silver unit is naturally cool ."
+    }
+}

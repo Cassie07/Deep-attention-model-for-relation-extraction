@@ -1,0 +1,335 @@
+{
+    "ea590102fe54b3305e3c92c7f680c4d9": {
+        "(0, 1)": {
+            "AM2L": [
+                2762
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                3210
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1146
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "creative zen feedback suffers from construction quality , poor product support , difficulty of using the scroll wheel and reasonably consistent feedback about problem with the headphone jack ."
+    }, 
+    "4fb1cfe789fe3b6adac7a3197959eeff": {
+        "(11, 8)": {
+            "WBF": [
+                3194
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1901
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                84
+            ], 
+            "WBO": [
+                1241
+            ], 
+            "WBL": [
+                1241
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "after some consideration i chose the 40gb nomad zen xtra from creative , and i have not been disappointed ."
+    }, 
+    "9962a0395a42bef512fbadba4dcc1ee1": {
+        "(2, 15)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                289
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                3210
+            ], 
+            "BM1L": [
+                1146
+            ], 
+            "WBO": [
+                2221, 
+                2775, 
+                1541, 
+                2989, 
+                2157, 
+                2859, 
+                1541, 
+                1915, 
+                1654
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "feedback on creative 's product support is universally poor ; this is not limited to the zen , it applies to all the company 's product ."
+    }, 
+    "14d20e2bcf29b6bcafa9483b929a2de6": {
+        "(1, 29)": {
+            "WBF": [
+                1758
+            ], 
+            "AM2L": [
+                553
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                3210
+            ], 
+            "WBO": [
+                2631, 
+                1541, 
+                1962, 
+                2886, 
+                2432, 
+                545, 
+                494, 
+                1853, 
+                1441, 
+                3203, 
+                295, 
+                2700, 
+                1241, 
+                2477, 
+                501, 
+                1429, 
+                3020, 
+                1854, 
+                2886, 
+                2432, 
+                1856, 
+                553, 
+                394, 
+                1429
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                55
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            29
+        ], 
+        "sentence": "1. creative mediasource software is ok to rip , catalog & burn music if you are starting from scratch ; but i used musicmatch to rip my cd before i bought the zen ( 278 cd ; 3,400 track ; 12.5 gb of music all ripped at 128bps ) and guess what ?"
+    }, 
+    "93b83dad8de467af70db727ec3d5cebc": {
+        "(1, 3)": {
+            "AM2L": [
+                1351
+            ], 
+            "WBFL": [
+                1594
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                3210
+            ], 
+            "AM2F": [
+                3194
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the creative lab zen xtra has all the feature the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(39, 55)": {
+            "WBF": [
+                1998
+            ], 
+            "AM2L": [
+                732
+            ], 
+            "BM1F": [
+                1853
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                3210
+            ], 
+            "BM1L": [
+                3204
+            ], 
+            "WBO": [
+                264, 
+                2011, 
+                655, 
+                221, 
+                1856, 
+                17, 
+                93, 
+                1268, 
+                1951, 
+                1853, 
+                3120, 
+                2918
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(14, 55)": {
+            "WBF": [
+                3160
+            ], 
+            "AM2L": [
+                732
+            ], 
+            "BM1F": [
+                1915
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                3210
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545, 
+                3204, 
+                1853, 
+                765, 
+                1998, 
+                264, 
+                2011, 
+                655, 
+                221, 
+                1856, 
+                17, 
+                93, 
+                1268, 
+                1951, 
+                1853, 
+                3120, 
+                2918
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14, 
+            39
+        ], 
+        "location2": [
+            55
+        ], 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "fe7e064c5f0fe9bf989fab990cc0ea99": {
+        "(14, 3)": {
+            "WBF": [
+                53
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                275
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                458
+            ], 
+            "WBO": [
+                961, 
+                2139, 
+                1212, 
+                1858, 
+                316, 
+                598, 
+                386
+            ], 
+            "WBL": [
+                1302
+            ], 
+            "AM2F": [
+                2417
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(18, 3)": {
+            "WBF": [
+                53
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                275
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                458
+            ], 
+            "WBO": [
+                961, 
+                2139, 
+                1212, 
+                1858, 
+                316, 
+                598, 
+                386, 
+                1545, 
+                1302, 
+                1300, 
+                2417
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                3035
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14, 
+            18
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i bought this apex 2600 dvd player for myself at christmas because it got good review as a good value for the money on a variety of different site ."
+    }, 
+    "b5938c00042cd746390dea8b55ef54ef": {
+        "(6, 3)": {
+            "WBF": [
+                1715
+            ], 
+            "BM1F": [
+                1822
+            ], 
+            "M1": [
+                275
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1355
+            ], 
+            "WBL": [
+                1355
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "for the money apex machine have good feature ."
+    }
+}

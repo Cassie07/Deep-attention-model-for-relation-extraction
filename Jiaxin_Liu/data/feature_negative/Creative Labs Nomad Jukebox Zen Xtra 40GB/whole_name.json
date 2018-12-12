@@ -1,0 +1,47 @@
+{
+    "f6d65be6923c9fe3a8774db12bb405c2": {
+        "(3, 12)": {
+            "WBF": [
+                492
+            ], 
+            "AM2L": [
+                2852
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                3136
+            ], 
+            "M2": [
+                1860
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                1951, 
+                858, 
+                2842, 
+                221, 
+                1355
+            ], 
+            "WBL": [
+                2458
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "they have a whole bunch of device that all have the same-sounding name ( and they are long ) ."
+    }
+}

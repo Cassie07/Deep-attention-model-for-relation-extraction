@@ -1,0 +1,84 @@
+{
+    "c797f7ccd54badc9e0db79b7ce27861a": {
+        "(4, 0)": {
+            "WBF": [
+                228
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                2381
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                379
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "price , along with the replaceable battery ( which i understand apple charge a small fortune to replace - as well as the hassle of returning it ) were the two main factor on why i picked the nomad ."
+    }, 
+    "26afbb728550c0df1149e771bc94d54b": {
+        "location1": [
+            25
+        ], 
+        "location2": [
+            36
+        ], 
+        "(25, 36)": {
+            "WBF": [
+                379
+            ], 
+            "AM2L": [
+                1062
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2381
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1753, 
+                130, 
+                1722, 
+                190, 
+                2024, 
+                2844, 
+                1536
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }
+}

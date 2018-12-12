@@ -1,0 +1,368 @@
+{
+    "031b904a61e903f18f947e9c55fd4cfa": {
+        "(4, 4)": {
+            "AM2L": [
+                641
+            ], 
+            "BM1F": [
+                1703
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2592
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "i found that low light situation combined with any sort of action left this camera in the dust ."
+    }, 
+    "8182a54db1c1a13a5564eec84cb70c34": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            1
+        ], 
+        "(1, 1)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1644
+            ], 
+            "AM2F": [
+                330
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the light auto-correction is awesome ."
+    }, 
+    "41d67c7360f1eaff9b82be88ea00f3d7": {
+        "(15, 15)": {
+            "AM2L": [
+                185
+            ], 
+            "BM1F": [
+                2212
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                273
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1782
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "i have yet to try using all of the adjustment option : shutter priority , aperature priority , light metering adjustment , etc . , but all control are well thought out and and the manual is relatively clear ."
+    }, 
+    "a7d8e305d570d95f2e66cc869353dc9a": {
+        "(12, 12)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1703
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "the larger lens of the g3 gives better picture quality in low light , and the 4-times optical zoom gets you just that much closer ."
+    }, 
+    "ca1eaed91c3e55f4cceab5acd302386c": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            7
+        ], 
+        "(7, 7)": {
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                1703
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the g3 had problem focusing in low light and would not take the picture when the shutter was pressed but after the shutter had been released a few second ."
+    }, 
+    "7ce68523e9bd23cb9fa8f5c8bfadfa9f": {
+        "(23, 23)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                469
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the two limitation i knew i would have to deal with are the very long lag time before it focus-locks ( even in bright light ) , and the unsatisfactory light quality of the built-in flash .", 
+        "(27, 27)": {
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                3001
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location2": [
+            23, 
+            27
+        ], 
+        "(27, 23)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                469
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                3001
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            23, 
+            27
+        ], 
+        "(23, 27)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                469
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                3001
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }, 
+    "43a10b217a6096218dd793443cb53e1b": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            1
+        ], 
+        "(1, 1)": {
+            "AM2L": [
+                3145
+            ], 
+            "BM1F": [
+                3130
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1644
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "while light , it will not easily go in small handbag or pocket ."
+    }, 
+    "4af1a9d196ac9035aeb134474256ef16": {
+        "(8, 8)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                2144
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "when i took outdoor photo with plenty of light and the object were n't moving , the photo were awesome ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "921a0e8cd129e569ee56a67d7ae96da1": {
+        "(15, 16)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                2255
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "one bad thing is that it comes with a pitiful 32mb compactflash card , and for most purpose , it is not enough ."
+    }
+}

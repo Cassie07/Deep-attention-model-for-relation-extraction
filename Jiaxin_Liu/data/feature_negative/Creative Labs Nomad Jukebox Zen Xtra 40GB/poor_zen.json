@@ -1,0 +1,84 @@
+{
+    "ea590102fe54b3305e3c92c7f680c4d9": {
+        "(7, 1)": {
+            "WBF": [
+                1146
+            ], 
+            "AM2L": [
+                2775
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                2157
+            ], 
+            "WBO": [
+                2762, 
+                1241
+            ], 
+            "WBL": [
+                2260
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "creative zen feedback suffers from construction quality , poor product support , difficulty of using the scroll wheel and reasonably consistent feedback about problem with the headphone jack ."
+    }, 
+    "9962a0395a42bef512fbadba4dcc1ee1": {
+        "(8, 15)": {
+            "WBF": [
+                2859
+            ], 
+            "AM2L": [
+                289
+            ], 
+            "BM1F": [
+                2989
+            ], 
+            "M1": [
+                2157
+            ], 
+            "M2": [
+                3210
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1541, 
+                1915, 
+                1654
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "feedback on creative 's product support is universally poor ; this is not limited to the zen , it applies to all the company 's product ."
+    }
+}

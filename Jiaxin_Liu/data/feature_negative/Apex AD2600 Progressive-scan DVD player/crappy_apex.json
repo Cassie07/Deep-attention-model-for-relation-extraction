@@ -1,0 +1,43 @@
+{
+    "972c9a8ae7cdb01c2d55a7fe93e6ecd2": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            14
+        ], 
+        "(6, 14)": {
+            "WBF": [
+                2366
+            ], 
+            "BM1F": [
+                1479
+            ], 
+            "M1": [
+                755
+            ], 
+            "M2": [
+                275
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3129, 
+                1541, 
+                3176, 
+                2840
+            ], 
+            "WBL": [
+                581
+            ], 
+            "AM2F": [
+                2987
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "my other gripe is the incredibly crappy remote , which is worse than other , cheaper apex unit ."
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "66298b329dd1f88dfb52ab210c3cb820": {
+        "(23, 16)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2530
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1696
+            ], 
+            "WBO": [
+                253, 
+                1915, 
+                1055
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2173
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            4, 
+            16
+        ], 
+        "(23, 4)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2530
+            ], 
+            "BM1F": [
+                1028
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                984
+            ], 
+            "WBO": [
+                113, 
+                9, 
+                39, 
+                3191, 
+                15, 
+                3158, 
+                1896, 
+                3065, 
+                1696, 
+                1468, 
+                2112, 
+                2260, 
+                253, 
+                1915, 
+                1055
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2173
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i 'm easily enlarging picture to 8 1/2 x 11 with no visable loss in picture quality and not even using the best possible setting as yet ( super fine ) ."
+    }
+}

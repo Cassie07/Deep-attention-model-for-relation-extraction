@@ -1,0 +1,43 @@
+{
+    "122cfd2b8bf7fbd7aa5e8c6241d5400f": {
+        "(11, 7)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                4
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1141
+            ], 
+            "BM1L": [
+                3006
+            ], 
+            "WBO": [
+                1279
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                553
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i had no problem setting up the software and getting my favorite cd 's transferred ."
+    }
+}

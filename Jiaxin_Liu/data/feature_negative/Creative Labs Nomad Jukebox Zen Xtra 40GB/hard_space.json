@@ -1,0 +1,40 @@
+{
+    "aa3b4b93145f716321721fa859b6e463": {
+        "location1": [
+            31
+        ], 
+        "location2": [
+            27
+        ], 
+        "(31, 27)": {
+            "WBF": [
+                1967
+            ], 
+            "BM1F": [
+                3006
+            ], 
+            "M1": [
+                2660
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                2812
+            ], 
+            "WBO": [
+                3204
+            ], 
+            "WBL": [
+                2073
+            ], 
+            "AM2F": [
+                943
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the cd ripping to mp3 is so easy , and you can even rip the cd directly to the mp3 player , so it wo n't take up space on your pc hard drive ."
+    }
+}

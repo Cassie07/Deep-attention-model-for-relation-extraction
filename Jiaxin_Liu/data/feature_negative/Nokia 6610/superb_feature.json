@@ -1,0 +1,72 @@
+{
+    "f5cbb3d03ebbfc0942b32ad9a8187168": {
+        "(4, 2)": {
+            "AM2L": [
+                2260
+            ], 
+            "WBFL": [
+                1351
+            ], 
+            "BM1F": [
+                2275
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                2769
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the radio feature has superb sound quality ."
+    }, 
+    "2788e7b6f62d9a35ddbc41822916180e": {
+        "(5, 3)": {
+            "AM2L": [
+                644
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2798
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                2769
+            ], 
+            "BM1L": [
+                2073
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the pc sync feature is superb that comes with nokia pc suite software ( with data cable or infrared port or bluetooth ) ."
+    }
+}

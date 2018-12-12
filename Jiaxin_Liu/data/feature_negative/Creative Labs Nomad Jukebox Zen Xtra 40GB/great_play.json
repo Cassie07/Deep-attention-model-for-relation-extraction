@@ -1,0 +1,123 @@
+{
+    "92198989402e17a45ecbf5ef78c65e91": {
+        "(0, 8)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2136
+            ], 
+            "WBO": [
+                3052, 
+                1685, 
+                379, 
+                1643
+            ], 
+            "WBL": [
+                2445
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0, 
+            26
+        ], 
+        "location2": [
+            8
+        ], 
+        "(26, 8)": {
+            "WBF": [
+                1545
+            ], 
+            "BM1F": [
+                2445
+            ], 
+            "M1": [
+                2136
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                1212, 
+                17, 
+                1422, 
+                3052, 
+                1136, 
+                2325, 
+                2285, 
+                2368, 
+                379, 
+                2725, 
+                2595, 
+                1886, 
+                2479, 
+                1178
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2204
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hour ) , very fast recharges rate , removable battery , storage size , nice screen , firmware update , and great price ."
+    }, 
+    "00562a00a0ab2c377658f1ccf279b3bb": {
+        "(0, 13)": {
+            "WBF": [
+                2654
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2136
+            ], 
+            "WBO": [
+                1300, 
+                1522, 
+                2381, 
+                2184, 
+                379, 
+                1300, 
+                2631, 
+                3081, 
+                2601
+            ], 
+            "WBL": [
+                1851
+            ], 
+            "AM2F": [
+                1814
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "great sound ; good interface ; replaceable , powerful battery ; good software ; wake-up , sleep timer ; multiple play mode"
+    }
+}

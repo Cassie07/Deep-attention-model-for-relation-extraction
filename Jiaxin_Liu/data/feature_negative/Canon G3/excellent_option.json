@@ -1,0 +1,91 @@
+{
+    "656e72834c7ff8e049c4a59974414993": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            30
+        ], 
+        "(12, 30)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                183
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1996
+            ], 
+            "BM1L": [
+                1691
+            ], 
+            "WBO": [
+                2112, 
+                253, 
+                130, 
+                639, 
+                1951, 
+                981, 
+                1951, 
+                3018, 
+                253, 
+                2844, 
+                1194, 
+                2886, 
+                1277, 
+                189
+            ], 
+            "WBL": [
+                1737
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i 'd highly recommend this camera for anyone who is looking for excellent quality picture and a combination of ease of use and the flexibility to get advanced with many option to adjust if you like ."
+    }, 
+    "c9a1ccede0c517d9a890c1dbe5559a48": {
+        "(0, 4)": {
+            "WBF": [
+                2280
+            ], 
+            "AM2L": [
+                3115
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1996
+            ], 
+            "WBO": [
+                1951
+            ], 
+            "WBL": [
+                1782
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "excellent range of metering option as well ."
+    }
+}

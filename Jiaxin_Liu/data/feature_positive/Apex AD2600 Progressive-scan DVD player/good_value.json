@@ -1,0 +1,70 @@
+{
+    "fe7e064c5f0fe9bf989fab990cc0ea99": {
+        "(14, 19)": {
+            "WBF": [
+                2417
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1302
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                3035
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                304
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14, 
+            18
+        ], 
+        "location2": [
+            19
+        ], 
+        "(18, 19)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                3035
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i bought this apex 2600 dvd player for myself at christmas because it got good review as a good value for the money on a variety of different site ."
+    }
+}

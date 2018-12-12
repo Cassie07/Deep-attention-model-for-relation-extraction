@@ -1,0 +1,78 @@
+{
+    "3bc4feba5ac935dba2cf5229f7485723": {
+        "(7, 8)": {
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                1829
+            ], 
+            "M1": [
+                2239
+            ], 
+            "M2": [
+                540
+            ], 
+            "BM1L": [
+                2745
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "at the very least , a sturdier more protective carrying case would be nice ."
+    }, 
+    "8a31ba51febce8f3d665f6e34835eb2d": {
+        "(13, 9)": {
+            "WBF": [
+                541
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                540
+            ], 
+            "M2": [
+                2239
+            ], 
+            "BM1L": [
+                863
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the free ( i didnt know they still did that ) carrying case is really protective , and to me its the only accessory you need ( except good headphone ) ."
+    }
+}

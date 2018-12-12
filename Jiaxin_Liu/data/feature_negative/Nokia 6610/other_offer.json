@@ -1,0 +1,85 @@
+{
+    "5951baa50c5670e7c4fcac86438fba32": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            12
+        ], 
+        "(1, 12)": {
+            "WBF": [
+                635
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1955
+            ], 
+            "WBO": [
+                2097, 
+                1351, 
+                2844, 
+                639, 
+                1951, 
+                1143, 
+                2842
+            ], 
+            "WBL": [
+                108
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "no other color phone has the combination of feature that the 6610 offer ."
+    }, 
+    "38ea99941efb67acbdadb452537a05bc": {
+        "(14, 5)": {
+            "WBF": [
+                3072
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1915
+            ], 
+            "M1": [
+                1955
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                917
+            ], 
+            "WBO": [
+                861, 
+                1648, 
+                1856, 
+                2202, 
+                2097
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "unfortunately , the 6610 does not offer voice dialing like my previous phone , but the other feature it pack outweighs this shortcoming ."
+    }
+}

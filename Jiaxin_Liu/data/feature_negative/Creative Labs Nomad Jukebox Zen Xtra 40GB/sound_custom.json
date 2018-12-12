@@ -1,0 +1,50 @@
+{
+    "6215fd62148ab8893a49df9183f109ed": {
+        "(2, 14)": {
+            "WBF": [
+                1024
+            ], 
+            "AM2L": [
+                3094
+            ], 
+            "BM1F": [
+                988
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                780
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1143, 
+                863, 
+                1859, 
+                5, 
+                912, 
+                1030, 
+                1212, 
+                1752
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1041
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the eax sound enhancement feature did n't do enough for me and the custom eq was a limited 5 band eq ."
+    }
+}

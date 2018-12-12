@@ -1,0 +1,110 @@
+{
+    "83edcf9dbb7d04798873f0f20de79e03": {
+        "(3, 0)": {
+            "WBF": [
+                2479
+            ], 
+            "M1": [
+                635
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "color screen is good ."
+    }, 
+    "f1215750c4fec903ffd2520c9d49c960": {
+        "(4, 7)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                469
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                635
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the resolution is very good and the color are bright and even changeable !"
+    }, 
+    "29ed127ae5b09fb6a770cea2c209ccf6": {
+        "(9, 6)": {
+            "WBF": [
+                2479
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                635
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1351
+            ], 
+            "WBL": [
+                1351
+            ], 
+            "AM2F": [
+                2399
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the design is sleek and the color screen has good resolution ."
+    }
+}

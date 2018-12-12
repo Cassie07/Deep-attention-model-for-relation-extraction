@@ -1,0 +1,113 @@
+{
+    "fc74409b72829e8f76ff6ce7e7d9c3eb": {
+        "(12, 11)": {
+            "AM2L": [
+                1168
+            ], 
+            "BM1F": [
+                1976
+            ], 
+            "M1": [
+                2595
+            ], 
+            "M2": [
+                1387
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "i expected the 12x digital zoom to be grainy , but onfull size high to fine quality , the zoomed image are quite impressive ."
+    }, 
+    "1da9da21f6c3e925964f446dfeae9895": {
+        "(9, 14)": {
+            "WBF": [
+                2260
+            ], 
+            "BM1F": [
+                3018
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                2595
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the nikon coolpix 4300 is wonderful -- easy to use , high quality , and compact in size ."
+    }, 
+    "e71bfa23d0bac20249b5f7a3754b3ca7": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            12
+        ], 
+        "(9, 12)": {
+            "WBF": [
+                2085
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1144
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                2595
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2923
+            ], 
+            "WBL": [
+                2923
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "after a lengthy and extensive journey for a feature-loaded , high performance , travel size camera , i initially gravitated to this little gem because of the superior picture quality 4 mega pixel ."
+    }
+}

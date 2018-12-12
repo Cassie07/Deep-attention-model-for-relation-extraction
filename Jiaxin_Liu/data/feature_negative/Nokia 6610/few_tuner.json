@@ -1,0 +1,45 @@
+{
+    "8920ebaa803b842f68dc03f411e539ae": {
+        "(6, 13)": {
+            "WBF": [
+                2097
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                2943
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                2842, 
+                1355, 
+                251
+            ], 
+            "WBL": [
+                2275
+            ], 
+            "AM2F": [
+                487
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "this phone is one of the few phone that have an fm radio tuner built in ."
+    }
+}

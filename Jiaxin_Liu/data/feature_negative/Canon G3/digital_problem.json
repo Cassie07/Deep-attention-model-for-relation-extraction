@@ -1,0 +1,37 @@
+{
+    "bd6e7dce4fc34417032ba104211c56a2": {
+        "(11, 9)": {
+            "AM2L": [
+                2254
+            ], 
+            "WBFL": [
+                3158
+            ], 
+            "BM1F": [
+                3027
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "i have not yet seen any of the usual problem with digital picture ( purple fringing , etc ) so i am very pleased ."
+    }
+}

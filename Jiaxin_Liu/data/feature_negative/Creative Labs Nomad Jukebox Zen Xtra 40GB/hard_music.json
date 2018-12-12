@@ -1,0 +1,102 @@
+{
+    "f8e21ab1b8a57bce5633ca8027b19bb4": {
+        "location1": [
+            29
+        ], 
+        "location2": [
+            8
+        ], 
+        "(29, 8)": {
+            "WBF": [
+                416
+            ], 
+            "AM2L": [
+                1513
+            ], 
+            "BM1F": [
+                2572
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                2658, 
+                3203, 
+                522, 
+                5, 
+                912, 
+                2859, 
+                1967, 
+                2844, 
+                1536, 
+                1074, 
+                1212, 
+                130, 
+                774, 
+                3169, 
+                3026, 
+                2844, 
+                1536
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                943
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the zen is an outstanding way to shuttle music between source , you can 't do this on the ipod ( except for a cumbersome work-around using the ipod as a hard drive instead of a player ) ."
+    }, 
+    "2155dae2420356df58f64bd1e973732d": {
+        "(6, 13)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                3006
+            ], 
+            "BM1F": [
+                1803
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                1313
+            ], 
+            "WBO": [
+                1985, 
+                756, 
+                1236
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                1641
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "d ) software is another great misfortune -- hard to operate , crash frequently , screwed my music library up , doesnt work with mp4s , the list goes on and on"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "66298b329dd1f88dfb52ab210c3cb820": {
+        "location1": [
+            23
+        ], 
+        "location2": [
+            14
+        ], 
+        "(23, 14)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                2530
+            ], 
+            "BM1F": [
+                3065
+            ], 
+            "M1": [
+                1696
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1896
+            ], 
+            "WBO": [
+                2112, 
+                2260, 
+                253, 
+                1915, 
+                1055
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2173
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i 'm easily enlarging picture to 8 1/2 x 11 with no visable loss in picture quality and not even using the best possible setting as yet ( super fine ) ."
+    }
+}

@@ -1,0 +1,372 @@
+{
+    "626cfadc8b25761d5ae0b438886a2491": {
+        "(11, 11)": {
+            "BM1F": [
+                808
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "they 're pretty comfortable , stay in place and deliver a decent audio quality ."
+    }, 
+    "be0e0a7720ad5ee47b7615913913b9f3": {
+        "(8, 8)": {
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1156
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "3 ) folder can not be created for the audio file ."
+    }, 
+    "44d22a9ad796160bb6beb7100f6b8152": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            2
+        ], 
+        "(2, 2)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1038
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1425
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the environmental audio , however , is almost completely useless and has made most of my song sound worse than without it ( i encode my song at 192-256 kbps without variable bit rate . )"
+    }, 
+    "398cb319769bddd6c91cb1051d7c2e26": {
+        "(11, 11)": {
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                2255
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                448
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "this makes no sense and sort of defeat the purpose of audio bookmark .. ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "location1": [
+            48
+        ], 
+        "location2": [
+            48
+        ], 
+        "(48, 48)": {
+            "AM2L": [
+                499
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2090
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "location1": [
+            39
+        ], 
+        "location2": [
+            39
+        ], 
+        "(39, 39)": {
+            "AM2L": [
+                2761
+            ], 
+            "BM1F": [
+                3162
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1219
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "a92fef16203e6547baf7dd20d024590d": {
+        "(25, 25)": {
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                858
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            25
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "the included leather pouch is a big plus : it actually protects the unit well , something a lot of ' carrying case ' fail to do with other audio device ."
+    }, 
+    "20ba4c4b32823c2ce57fa535aeed926f": {
+        "(15, 15)": {
+            "AM2L": [
+                1967
+            ], 
+            "BM1F": [
+                501
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                1652
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                309
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "i have n't had time to really push this player to the limit , but audio aspect on the nomad are satisfactory , as should be expected from creative lab ."
+    }, 
+    "9fab3fa1513794381fb4939e464dcc56": {
+        "(19, 19)": {
+            "AM2L": [
+                200
+            ], 
+            "BM1F": [
+                549
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                522
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1523
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "first , the sound quality is okay , but ( as at least one other reviewer has mentioned ) the eax can cause audio interference after about 30 minute ."
+    }, 
+    "15b815592f0c46787eb83026ec326985": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            7
+        ], 
+        "(7, 7)": {
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                1853
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1156
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "and it holds sooooo much music and audio file ."
+    }, 
+    "e9d28867f6cc8362413781bc3fa7002f": {
+        "(4, 4)": {
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                1701
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                912
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2798
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "c. i do love audio sync which allows a one-click synchronization between the player and the music collection on the computer ."
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "e17e18380718fc3b0a9d1deacbd92ff8": {
+        "(27, 28)": {
+            "AM2L": [
+                655
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2857
+            ], 
+            "M2": [
+                2065
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "this player is an overall disappointment with a couple of big flaw that potential buyer should be wary of ; and all reader need to know about a third party software company that resolve virtually all of the creative mediasource file transfer issue ."
+    }, 
+    "595586dcd393895e2ca8c8a038c133b3": {
+        "(17, 18)": {
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                2857
+            ], 
+            "M2": [
+                2065
+            ], 
+            "BM1L": [
+                1055
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "the zen does n't support folder so it is not really a storage device ; even with third party software that `` creates `` folder , document and program can 't be launched from the zen , so it is not a hard disk , it 's a storage device at best ."
+    }
+}

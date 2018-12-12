@@ -1,0 +1,37 @@
+{
+    "76d840b24bd2063c716af94af9053f6b": {
+        "(13, 16)": {
+            "WBF": [
+                503
+            ], 
+            "BM1F": [
+                3110
+            ], 
+            "M1": [
+                922
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2859
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "update : january 27th 2004 - the second one crapped out only after a week - dont buy this product !"
+    }
+}

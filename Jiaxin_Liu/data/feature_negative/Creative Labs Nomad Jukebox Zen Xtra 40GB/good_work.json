@@ -1,0 +1,43 @@
+{
+    "de8c0ea32caab8f743c60c243bf98ff9": {
+        "(5, 9)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1967
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                3168
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1699
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                3115
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "but the sound is very good ( and loud ) and work well on my portable speaker ."
+    }
+}

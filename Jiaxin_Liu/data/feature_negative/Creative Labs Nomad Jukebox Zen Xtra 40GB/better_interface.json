@@ -1,0 +1,83 @@
+{
+    "4b422478d2bfe45105ae6e24c6b27e46": {
+        "(5, 1)": {
+            "WBF": [
+                3020
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1522
+            ], 
+            "M2": [
+                415
+            ], 
+            "WBO": [
+                738
+            ], 
+            "WBL": [
+                381
+            ], 
+            "AM2F": [
+                846
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the interface used could be better designed ."
+    }, 
+    "78c51d9eb31454b8f9dba754a0353b4b": {
+        "(35, 51)": {
+            "WBF": [
+                3035
+            ], 
+            "BM1F": [
+                1134
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                1522
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                253, 
+                1541, 
+                1570, 
+                304, 
+                985, 
+                2886, 
+                3018, 
+                3158, 
+                2347, 
+                2886, 
+                454, 
+                1348
+            ], 
+            "WBL": [
+                2631
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            51
+        ], 
+        "sentence": "try before you buy if at all possible : although i am a mac addict now for over a decade and everyone i know has previously bought an ipod , the nomad zen xtra was a far better value and is just as easy to use with regard to both hardware and software interface ."
+    }
+}

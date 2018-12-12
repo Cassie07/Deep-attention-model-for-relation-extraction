@@ -1,0 +1,66 @@
+{
+    "a41a3006363fa471b7f43d1b0173295a": {
+        "(1, 0)": {
+            "AM2L": [
+                1429
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1076
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2862
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "sound : exceptional , though i can 't really compare it to the ipod ."
+    }, 
+    "5a9e2c56b3e4e5359842e5b8ef87d675": {
+        "(4, 5)": {
+            "AM2L": [
+                1360
+            ], 
+            "BM1F": [
+                501
+            ], 
+            "M1": [
+                1076
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1191
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "lot of flaw , but exceptional sound quality , hd size , and price make it a good buy ."
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "ca88fee0f48f7e3af6abbce6bb924179": {
+        "(4, 16)": {
+            "WBF": [
+                2115
+            ], 
+            "BM1F": [
+                1848
+            ], 
+            "M1": [
+                2771
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                1951, 
+                1045, 
+                394, 
+                2145, 
+                927, 
+                1329, 
+                130, 
+                1308
+            ], 
+            "WBL": [
+                251
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "please consider this much superior piece of equipment before plopping down half a grand for an ipod ."
+    }, 
+    "fa3ed2bde213bd0078bffda62730ce6c": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            12
+        ], 
+        "(9, 12)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                2771
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2260
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "first of all the player 's sound quality is superior to the ipod ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "(54, 59)": {
+            "WBF": [
+                131
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                3041
+            ], 
+            "M1": [
+                2771
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1219
+            ], 
+            "WBL": [
+                286
+            ], 
+            "AM2F": [
+                3015
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            54
+        ], 
+        "location2": [
+            59
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "f744e4fb9058b980763743190fc727d9": {
+        "(3, 8)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                442
+            ], 
+            "M1": [
+                2771
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                3216
+            ], 
+            "WBO": [
+                2260
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1425
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the zx boast superior sound quality than the ipod , however it compromise a bit of the unit 's size in doing so ."
+    }
+}

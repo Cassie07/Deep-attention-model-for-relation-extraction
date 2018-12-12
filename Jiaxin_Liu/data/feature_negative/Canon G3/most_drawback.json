@@ -1,0 +1,37 @@
+{
+    "68f771352d0e49722a16c9efbc7c8342": {
+        "(5, 3)": {
+            "AM2L": [
+                520
+            ], 
+            "WBFL": [
+                2886
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                940
+            ], 
+            "M2": [
+                1832
+            ], 
+            "BM1L": [
+                1643
+            ], 
+            "AM2F": [
+                875
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "battery life , the drawback to most digital camera , to quote k. reef ."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "ead02770ba3fff710bbb69f23f20558b": {
+        "(16, 11)": {
+            "WBF": [
+                1570
+            ], 
+            "BM1F": [
+                2383
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                380
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1648
+            ], 
+            "WBL": [
+                2011
+            ], 
+            "AM2F": [
+                287
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "the zennx will keep running for the price of a replacement battery , just like any other battery-powered appliance ."
+    }
+}

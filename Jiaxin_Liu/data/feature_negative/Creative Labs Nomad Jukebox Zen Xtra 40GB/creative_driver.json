@@ -1,0 +1,43 @@
+{
+    "2462352e4d26f43439fa478ab33dff17": {
+        "(34, 31)": {
+            "WBF": [
+                1054
+            ], 
+            "AM2L": [
+                1977
+            ], 
+            "BM1F": [
+                2363
+            ], 
+            "M1": [
+                944
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                858
+            ], 
+            "WBO": [
+                1054
+            ], 
+            "WBL": [
+                1054
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            34
+        ], 
+        "location2": [
+            31
+        ], 
+        "sentence": "after i had it a couple week , it got into a state where it could never find the device , no matter how often i rebooted my pc , reset the device , reloaded driver , etc , etc . creative 's online support was no help at all ."
+    }
+}

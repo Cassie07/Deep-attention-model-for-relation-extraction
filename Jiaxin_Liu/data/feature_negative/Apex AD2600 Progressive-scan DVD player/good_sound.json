@@ -1,0 +1,92 @@
+{
+    "63310a5e17e811681d048ee50bff3ac2": {
+        "(29, 19)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2112
+            ], 
+            "WBO": [
+                2898, 
+                1916, 
+                454, 
+                949, 
+                253, 
+                803
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            19, 
+            28
+        ], 
+        "(29, 28)": {
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                803
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the build quality feel solid , it does n't shake or whine while playing discs , and the picture and sound is top notch ( both dts and dd5.1 sound good ) ."
+    }, 
+    "5b3429e381941b13bbcb18bc671c6eaf": {
+        "(11, 9)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the picture is clear , bright and sharp and the sound is good ."
+    }
+}

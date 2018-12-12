@@ -1,0 +1,199 @@
+{
+    "1769a914d0cd227d1f05d83abc44b3d3": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            21
+        ], 
+        "(20, 21)": {
+            "AM2L": [
+                1320
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                4
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it 's easy for beginner to use , but has feature that more serious photographer will love , so it 's an excellent camera to grow into ."
+    }, 
+    "0a97bbb3a0da722d9e48e3c05e77a24c": {
+        "location1": [
+            28
+        ], 
+        "location2": [
+            7
+        ], 
+        "(28, 7)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                1448
+            ], 
+            "BM1F": [
+                413
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844, 
+                1822, 
+                1441, 
+                3203, 
+                3, 
+                1691, 
+                1212, 
+                2639, 
+                2842, 
+                4, 
+                985, 
+                2886, 
+                3018, 
+                2615, 
+                1300, 
+                1212, 
+                2923
+            ], 
+            "WBL": [
+                2246
+            ], 
+            "AM2F": [
+                2542
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use , small good for travel , and provides excellent , sharp image ."
+    }, 
+    "164dda298348d815567dec7d16e56e32": {
+        "location1": [
+            23
+        ], 
+        "location2": [
+            48
+        ], 
+        "(23, 48)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                2112
+            ], 
+            "WBO": [
+                76, 
+                2125, 
+                1168, 
+                642, 
+                253, 
+                1737, 
+                1951, 
+                2844, 
+                3024, 
+                1252, 
+                295, 
+                3052, 
+                2582, 
+                2886, 
+                2613, 
+                1815, 
+                253, 
+                3158, 
+                174, 
+                717, 
+                1951
+            ], 
+            "WBL": [
+                875
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that quality of the picture are excellent with 3m-4m pixel / fine combo and many of the user-friendly function are very similar to slr model , and with added convenience of a digital camera that you can see picture immediately ."
+    }, 
+    "ef8b221188025f77306dd1fd16320e12": {
+        "(12, 1)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                2583
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1072
+            ], 
+            "WBO": [
+                1355, 
+                392, 
+                3026, 
+                2859, 
+                1212, 
+                2533, 
+                1827
+            ], 
+            "WBL": [
+                1302
+            ], 
+            "AM2F": [
+                2408
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great camera , i have been using this for several month and got excellent result , simple friendly usage , in many scene indoor , outdoor , snow , close up macro etc ."
+    }
+}

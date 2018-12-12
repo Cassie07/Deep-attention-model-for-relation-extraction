@@ -1,0 +1,31 @@
+{
+    "ded43ef4232c5c23698e001714547447": {
+        "(0, 1)": {
+            "AM2L": [
+                238
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                553
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                227
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "new cd almost always began skipping after a few play ."
+    }
+}

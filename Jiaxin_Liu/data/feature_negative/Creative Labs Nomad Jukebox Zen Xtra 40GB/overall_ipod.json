@@ -1,0 +1,147 @@
+{
+    "c17dc1715e1475263f7052f45d238a95": {
+        "(0, 11)": {
+            "WBF": [
+                2615
+            ], 
+            "M1": [
+                2025
+            ], 
+            "M2": [
+                1536
+            ], 
+            "WBO": [
+                2654, 
+                1313, 
+                253, 
+                1634, 
+                1085, 
+                2840, 
+                286
+            ], 
+            "WBL": [
+                2032
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "overall : small , sound great , and less expensive than apple 's overpriced ipod !"
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "location1": [
+            26
+        ], 
+        "location2": [
+            59
+        ], 
+        "(26, 59)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2025
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1529
+            ], 
+            "WBO": [
+                253, 
+                627, 
+                2886, 
+                3018, 
+                1051, 
+                3158, 
+                2811, 
+                253, 
+                2494, 
+                2844, 
+                3162, 
+                326, 
+                1219, 
+                2761, 
+                1190, 
+                2016, 
+                2761, 
+                1468, 
+                2834, 
+                1951, 
+                2654, 
+                2260, 
+                658, 
+                3158, 
+                2844, 
+                3041, 
+                2771, 
+                131, 
+                1219
+            ], 
+            "WBL": [
+                286
+            ], 
+            "AM2F": [
+                3015
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "f9ddf9883a3cf622da12c862e0d82fc1": {
+        "(3, 7)": {
+            "WBF": [
+                420
+            ], 
+            "AM2L": [
+                1576
+            ], 
+            "BM1F": [
+                2615
+            ], 
+            "M1": [
+                2025
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2840
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "it is small overall , bigger than the ipod , but keep in mind that this is because different , less expensive but not necessarily inferior technology is used in the zx ."
+    }
+}

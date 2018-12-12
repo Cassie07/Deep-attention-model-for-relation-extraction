@@ -1,0 +1,41 @@
+{
+    "e4e579de7f6a6a60872e54f2bea20df1": {
+        "(5, 14)": {
+            "WBF": [
+                2840
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                2083
+            ], 
+            "M2": [
+                1765
+            ], 
+            "BM1L": [
+                624
+            ], 
+            "WBO": [
+                264, 
+                2011, 
+                873, 
+                2842, 
+                1541
+            ], 
+            "WBL": [
+                93
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "this camera is closest to perfect than any other digicam that is 4-5 megapixel ."
+    }
+}

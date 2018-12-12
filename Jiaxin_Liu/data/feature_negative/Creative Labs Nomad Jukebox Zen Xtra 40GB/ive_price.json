@@ -1,0 +1,42 @@
+{
+    "8121831049060e4e814eb90a284743c5": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            10
+        ], 
+        "(0, 10)": {
+            "WBF": [
+                2501
+            ], 
+            "AM2L": [
+                1313
+            ], 
+            "M1": [
+                1551
+            ], 
+            "M2": [
+                2204
+            ], 
+            "WBO": [
+                1004, 
+                221, 
+                2844, 
+                294, 
+                833, 
+                1536
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }
+}

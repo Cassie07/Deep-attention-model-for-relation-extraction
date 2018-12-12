@@ -1,0 +1,41 @@
+{
+    "4d8ad44b1b14c1b2e414992de2d17bbd": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            19
+        ], 
+        "(10, 19)": {
+            "WBF": [
+                1522
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                2073
+            ], 
+            "BM1L": [
+                2992
+            ], 
+            "WBO": [
+                1212, 
+                2844, 
+                325, 
+                39, 
+                1931
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i find it pretty easy to use ... and unlike the remote interface for the audigy 2 nx ( on the pc ) .. ."
+    }
+}

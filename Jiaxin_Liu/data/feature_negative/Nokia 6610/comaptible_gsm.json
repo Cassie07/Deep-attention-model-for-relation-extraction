@@ -1,0 +1,34 @@
+{
+    "fcf866589e0cd5066cdb86f7e386fe2e": {
+        "(26, 25)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1321
+            ], 
+            "M2": [
+                638
+            ], 
+            "BM1L": [
+                1978
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            26
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "i thought this was the ultimate phone when it comes to basic feature , but i was dissapointed when i saw that it was only a gsm comaptible phone ."
+    }
+}

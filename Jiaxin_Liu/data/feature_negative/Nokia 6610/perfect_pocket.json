@@ -1,0 +1,37 @@
+{
+    "743eeb5f1185f0007cd790563f3abfc4": {
+        "(9, 14)": {
+            "WBF": [
+                1212
+            ], 
+            "BM1F": [
+                381
+            ], 
+            "M1": [
+                2083
+            ], 
+            "M2": [
+                2150
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                540
+            ], 
+            "WBL": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "after using it , i found the size to be perfect for carrying in a pocket ."
+    }
+}

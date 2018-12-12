@@ -1,0 +1,121 @@
+{
+    "867804e0f600290b55597fc61d92689b": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            6
+        ], 
+        "(2, 6)": {
+            "WBF": [
+                3075
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                3035
+            ], 
+            "M1": [
+                84
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1313
+            ], 
+            "WBO": [
+                11
+            ], 
+            "WBL": [
+                1268
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "- great value 40gb vs 10 gb ipod for the price"
+    }, 
+    "b9bfe35c56e22b2e41d54ff0d9f5e938": {
+        "(19, 12)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1638
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                84
+            ], 
+            "BM1L": [
+                1707
+            ], 
+            "WBO": [
+                3094, 
+                133, 
+                2886
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1825
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "for a price that 's still less than even the lowest level ipod i was able to get this 40gb monster , and the best part is it work as great as it was advertised to and then some ."
+    }, 
+    "00678fc65cf74c7bbfb5bf91f2796a34": {
+        "location1": [
+            26
+        ], 
+        "location2": [
+            27
+        ], 
+        "(26, 27)": {
+            "AM2L": [
+                1072
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                84
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound is excellent , the battery life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent ."
+    }
+}

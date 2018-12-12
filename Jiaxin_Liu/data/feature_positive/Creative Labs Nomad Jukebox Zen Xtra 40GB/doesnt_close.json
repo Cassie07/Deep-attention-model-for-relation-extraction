@@ -1,0 +1,37 @@
+{
+    "c990b6b1103f5a85ae4afcfa4dd6d607": {
+        "(2, 3)": {
+            "AM2L": [
+                1793
+            ], 
+            "BM1F": [
+                541
+            ], 
+            "M1": [
+                918
+            ], 
+            "M2": [
+                619
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1749
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "my case doesnt close ... maybe mine was just faulty , but the case isnt that great ."
+    }
+}

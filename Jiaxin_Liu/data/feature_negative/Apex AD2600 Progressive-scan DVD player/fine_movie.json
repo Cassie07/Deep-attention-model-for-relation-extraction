@@ -1,0 +1,110 @@
+{
+    "c6b55dc63ae357379b1ceebd32e4b39a": {
+        "(18, 13)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                3097
+            ], 
+            "M1": [
+                1839
+            ], 
+            "M2": [
+                1168
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1545
+            ], 
+            "WBL": [
+                3170
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "so far , we 've only used this player a few time to watch movie and it has worked fine ."
+    }, 
+    "4eadb02423a841209104f9bbc14fba06": {
+        "(9, 7)": {
+            "AM2L": [
+                1351
+            ], 
+            "WBFL": [
+                1570
+            ], 
+            "BM1F": [
+                2136
+            ], 
+            "M1": [
+                1839
+            ], 
+            "M2": [
+                1168
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            7, 
+            19
+        ], 
+        "(9, 19)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                1967
+            ], 
+            "BM1F": [
+                1570
+            ], 
+            "M1": [
+                1168
+            ], 
+            "M2": [
+                1839
+            ], 
+            "BM1L": [
+                1839
+            ], 
+            "WBO": [
+                1351, 
+                2346, 
+                2886, 
+                2296, 
+                2494, 
+                894
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1100
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the catch is that , while it play movie just fine , it has refused to read second discs with the movie `` extra `` on them on the two occaisions when i tried to do that ."
+    }
+}

@@ -1,0 +1,244 @@
+{
+    "df460eaf582c2debf712f5605d908023": {
+        "(16, 47)": {
+            "WBF": [
+                1343
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                84
+            ], 
+            "M1": [
+                2166
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                943, 
+                215, 
+                1973, 
+                1967, 
+                3129, 
+                1429, 
+                522, 
+                5, 
+                760, 
+                1208, 
+                1998, 
+                316, 
+                3177, 
+                130, 
+                3052, 
+                1085, 
+                1635, 
+                1468, 
+                655, 
+                1881, 
+                2886, 
+                503, 
+                2221, 
+                1241, 
+                201, 
+                1429, 
+                1355
+            ], 
+            "WBL": [
+                325
+            ], 
+            "AM2F": [
+                533
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            47
+        ], 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }, 
+    "5752d425fd230241f15f09a3ca7c1c62": {
+        "(12, 5)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2166
+            ], 
+            "BM1L": [
+                157
+            ], 
+            "WBO": [
+                1967, 
+                2057, 
+                3158
+            ], 
+            "WBL": [
+                2583
+            ], 
+            "AM2F": [
+                553
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "i was unable achieve a sound quality on par with my simple portable cd player with `` bass boost . ``"
+    }, 
+    "ee31d7df41f71e9ae037cdf06e1512c9": {
+        "(26, 20)": {
+            "WBF": [
+                1570
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                3194
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2166
+            ], 
+            "BM1L": [
+                3210
+            ], 
+            "WBO": [
+                304, 
+                1300
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                553
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(26, 8)": {
+            "WBF": [
+                1570
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                1156
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2166
+            ], 
+            "BM1L": [
+                3162
+            ], 
+            "WBO": [
+                304, 
+                1300, 
+                304, 
+                2844, 
+                2658, 
+                553, 
+                253, 
+                2844, 
+                3210, 
+                3194, 
+                2654, 
+                1570, 
+                304, 
+                1300
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                553
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            26
+        ], 
+        "location2": [
+            8, 
+            20
+        ], 
+        "sentence": "to my ear , a 160 kbps wma file sound just as good as the source cd , and the zen xtra sound just as good as a portable cd player ."
+    }, 
+    "de8c0ea32caab8f743c60c243bf98ff9": {
+        "(13, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2166
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                3052, 
+                1300, 
+                253, 
+                1699, 
+                253, 
+                3168, 
+                3115
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                2665
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "but the sound is very good ( and loud ) and work well on my portable speaker ."
+    }
+}

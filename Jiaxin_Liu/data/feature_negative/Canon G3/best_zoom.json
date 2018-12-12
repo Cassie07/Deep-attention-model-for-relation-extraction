@@ -1,0 +1,40 @@
+{
+    "6fe1a6cfcc61bb420320d4d66e4e64c4": {
+        "(1, 6)": {
+            "WBF": [
+                80
+            ], 
+            "AM2L": [
+                339
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                3213
+            ], 
+            "WBO": [
+                1765
+            ], 
+            "WBL": [
+                1994
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the best 4 megapixel/4x optical zoom camera available and fairly easy to use ."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "f5cbb3d03ebbfc0942b32ad9a8187168": {
+        "(4, 5)": {
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                2769
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1143
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "the radio feature has superb sound quality ."
+    }
+}

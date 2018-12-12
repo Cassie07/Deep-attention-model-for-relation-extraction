@@ -1,0 +1,37 @@
+{
+    "44f2a23eb1e67de5a88009265ba81109": {
+        "(16, 17)": {
+            "AM2L": [
+                2966
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2205
+            ], 
+            "M2": [
+                3210
+            ], 
+            "BM1L": [
+                1879
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "naturally i did quite a bit of review before purchasing ( i recomend www.nomadness.net ) , and price-wise zen are unbeatable ."
+    }
+}

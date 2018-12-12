@@ -1,0 +1,40 @@
+{
+    "29ed127ae5b09fb6a770cea2c209ccf6": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            1
+        ], 
+        "(9, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                845
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                2600, 
+                253, 
+                2844, 
+                635
+            ], 
+            "WBL": [
+                1351
+            ], 
+            "AM2F": [
+                2399
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the design is sleek and the color screen has good resolution ."
+    }
+}

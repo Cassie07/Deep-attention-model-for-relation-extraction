@@ -1,0 +1,233 @@
+{
+    "03f1651d264a21651b42a1041db57dbb": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            4
+        ], 
+        "(1, 4)": {
+            "WBF": [
+                2840
+            ], 
+            "BM1F": [
+                2595
+            ], 
+            "M1": [
+                420
+            ], 
+            "M2": [
+                1536
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "size - bigger than the ipod"
+    }, 
+    "f041070426ec31a080e77c74f9f5ee0c": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            10
+        ], 
+        "(7, 10)": {
+            "WBF": [
+                2840
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                423
+            ], 
+            "M1": [
+                420
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1669
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "1 . the size is a little bit bigger than the ipod , and it weighs a little bit more ."
+    }, 
+    "0e5f67b050553dd76a766dd94211c505": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            8
+        ], 
+        "(5, 8)": {
+            "WBF": [
+                2849
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                2642
+            ], 
+            "M1": [
+                420
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "nice palm sized unit , somewhat bigger then the ipod but not an issue if you 're not going to try & jog with it or something ."
+    }, 
+    "f9ddf9883a3cf622da12c862e0d82fc1": {
+        "(4, 7)": {
+            "WBF": [
+                2840
+            ], 
+            "AM2L": [
+                1576
+            ], 
+            "BM1F": [
+                2025
+            ], 
+            "M1": [
+                420
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2615
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "it is small overall , bigger than the ipod , but keep in mind that this is because different , less expensive but not necessarily inferior technology is used in the zx ."
+    }, 
+    "046321e6f46dfb8659079eb3d885696d": {
+        "(19, 22)": {
+            "WBF": [
+                2840
+            ], 
+            "BM1F": [
+                2606
+            ], 
+            "M1": [
+                420
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                402
+            ], 
+            "WBO": [
+                251
+            ], 
+            "WBL": [
+                251
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "other plus : changable battery , load of presets for environment , decent construction , still quite small and light despite being slightly bigger than an ipod ."
+    }, 
+    "9cad5736da827e5d496c2741b7aabcef": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            8
+        ], 
+        "(5, 8)": {
+            "WBF": [
+                2840
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                1669
+            ], 
+            "M1": [
+                420
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "sure , it 's a little bigger than the ipod , but not by much ."
+    }
+}

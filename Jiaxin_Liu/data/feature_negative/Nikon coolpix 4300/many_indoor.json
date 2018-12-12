@@ -1,0 +1,37 @@
+{
+    "ef8b221188025f77306dd1fd16320e12": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            20
+        ], 
+        "(18, 20)": {
+            "AM2L": [
+                2625
+            ], 
+            "WBFL": [
+                2474
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                1488
+            ], 
+            "BM1L": [
+                3016
+            ], 
+            "AM2F": [
+                2017
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "great camera , i have been using this for several month and got excellent result , simple friendly usage , in many scene indoor , outdoor , snow , close up macro etc ."
+    }
+}

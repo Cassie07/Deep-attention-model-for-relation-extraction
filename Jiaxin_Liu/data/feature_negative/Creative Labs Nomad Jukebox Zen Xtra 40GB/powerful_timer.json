@@ -1,0 +1,44 @@
+{
+    "00562a00a0ab2c377658f1ccf279b3bb": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            11
+        ], 
+        "(5, 11)": {
+            "WBF": [
+                379
+            ], 
+            "AM2L": [
+                2136
+            ], 
+            "BM1F": [
+                2381
+            ], 
+            "M1": [
+                2184
+            ], 
+            "M2": [
+                2881
+            ], 
+            "BM1L": [
+                1522
+            ], 
+            "WBO": [
+                1300, 
+                2631
+            ], 
+            "WBL": [
+                2601
+            ], 
+            "AM2F": [
+                1851
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "great sound ; good interface ; replaceable , powerful battery ; good software ; wake-up , sleep timer ; multiple play mode"
+    }
+}

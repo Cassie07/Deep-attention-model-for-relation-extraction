@@ -1,0 +1,197 @@
+{
+    "10a83c7e21b9720dc95f09ab9dd06707": {
+        "(8, 15)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                522
+            ], 
+            "BM1F": [
+                1103
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                402
+            ], 
+            "WBO": [
+                3018, 
+                3158, 
+                3115
+            ], 
+            "WBL": [
+                2016
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "it makes up for this by being extremely easy to use with well laid out control that can be learned quickly ."
+    }, 
+    "5e8d37c7fc800e394540cc47e42d3496": {
+        "(7, 5)": {
+            "AM2L": [
+                3018
+            ], 
+            "WBFL": [
+                295
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2112
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "it gives great picture , the control are easy to use , the battery last forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing ."
+    }, 
+    "c987fcf46ffc653deb0043f19e9b0e71": {
+        "(7, 5)": {
+            "WBFL": [
+                253
+            ], 
+            "BM1F": [
+                372
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1039
+            ], 
+            "AM2F": [
+                1774
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "i love the eos based control and easy menus ."
+    }, 
+    "3ecea01aa95a76d9bd9b4d7dc527100d": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            6
+        ], 
+        "(20, 6)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2893
+            ], 
+            "WBO": [
+                2098, 
+                483, 
+                501, 
+                2712, 
+                1351, 
+                251, 
+                329, 
+                1814, 
+                2842, 
+                1724
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the canon g3 gives ton of control for photo buff but still has an `` auto `` mode that makes it very easy for the novice to use ."
+    }, 
+    "7f1c1b92e8f206c138f4db63d898414e": {
+        "(13, 11)": {
+            "AM2L": [
+                3018
+            ], 
+            "WBFL": [
+                295
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1996
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "canon have packed a lot in here and the option and control are easy to use and logically laid out ."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "511a23f3a4fe98af1bf9d231291e4dff": {
+        "(3, 1)": {
+            "AM2L": [
+                2567
+            ], 
+            "WBFL": [
+                520
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                188
+            ], 
+            "M2": [
+                2290
+            ], 
+            "AM2F": [
+                2147
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the adobe camera raw plug-in show once again that hardware is mile ahead of software ."
+    }
+}

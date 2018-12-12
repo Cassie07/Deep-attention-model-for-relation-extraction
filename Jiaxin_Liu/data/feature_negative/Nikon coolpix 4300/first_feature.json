@@ -1,0 +1,52 @@
+{
+    "ac4ab040f5068449f5d661c742ded24a": {
+        "(3, 17)": {
+            "WBF": [
+                875
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                520, 
+                253, 
+                1429, 
+                522, 
+                2469, 
+                2842, 
+                1429, 
+                239, 
+                2270, 
+                1462
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "this is my first digital camera and i can say that i am quite impressed with the feature that it has ."
+    }
+}

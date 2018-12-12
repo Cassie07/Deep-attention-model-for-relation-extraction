@@ -1,0 +1,113 @@
+{
+    "8d1f6697eefabe40a2bed7c33818a32d": {
+        "(4, 5)": {
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                553
+            ], 
+            "BM1L": [
+                2725
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                633
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "12 ) big storage - my entire cd collection in one small device ( 5717 song , 491 album and counting ) !"
+    }, 
+    "3e72e9cc6e251da6798a2e9e66feb5b3": {
+        "(7, 8)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                553
+            ], 
+            "BM1L": [
+                1933
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                633
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "1 . i achieved my basic objective ; my entire cd collection is on a portable device with lot of room to store more ."
+    }, 
+    "8eb5d2fca4a827e8e326a4df00c9b809": {
+        "(10, 13)": {
+            "WBF": [
+                633
+            ], 
+            "AM2L": [
+                3145
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                553
+            ], 
+            "BM1L": [
+                2644
+            ], 
+            "WBO": [
+                1951
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the memory will hold an amazing amount of song , my entire collection of cd 's will all fit on this great little tiny piece of digital fun ."
+    }
+}

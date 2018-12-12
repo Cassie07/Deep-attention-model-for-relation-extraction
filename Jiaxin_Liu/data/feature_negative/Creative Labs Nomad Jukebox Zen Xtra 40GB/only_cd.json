@@ -1,0 +1,36 @@
+{
+    "57a74e8be8d489d3048ecdc5e9e62e81": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            7
+        ], 
+        "(0, 7)": {
+            "WBF": [
+                2853
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                553
+            ], 
+            "WBO": [
+                1806, 
+                1241, 
+                765
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                496
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "only thing missing from creative is a cd burner ."
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "b7a4b4086ff6f9e114fd0bbca4c9e6cc": {
+        "(25, 39)": {
+            "WBF": [
+                1328
+            ], 
+            "AM2L": [
+                1400
+            ], 
+            "BM1F": [
+                6
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                1366
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                2844, 
+                2139, 
+                1212, 
+                130, 
+                3130, 
+                1429, 
+                1622, 
+                2441, 
+                1212, 
+                926
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1552
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            25
+        ], 
+        "location2": [
+            39
+        ], 
+        "sentence": "overall , i 'm giving this 5 star as i 've seen nothing of the problem people have repeatedly cried havoc over , but as i 've only had the player for a while i leave room for doubt if the headphone jack , hissing , or scroll wheel problem show up with me too ."
+    }, 
+    "8a31ba51febce8f3d665f6e34835eb2d": {
+        "location1": [
+            19
+        ], 
+        "location2": [
+            25
+        ], 
+        "(19, 25)": {
+            "WBF": [
+                150
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                1366
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "WBO": [
+                3203, 
+                1874
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the free ( i didnt know they still did that ) carrying case is really protective , and to me its the only accessory you need ( except good headphone ) ."
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "7967db31bc77438a94a846ddeb630669": {
+        "location1": [
+            99
+        ], 
+        "location2": [
+            59
+        ], 
+        "(99, 59)": {
+            "WBF": [
+                3015
+            ], 
+            "BM1F": [
+                286
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                253, 
+                1545, 
+                2710, 
+                3203, 
+                3158, 
+                1973, 
+                1951, 
+                2844, 
+                2750, 
+                2057, 
+                2048, 
+                1853, 
+                2527, 
+                2760, 
+                304, 
+                1861, 
+                1513, 
+                1951, 
+                225, 
+                2886, 
+                3018, 
+                2844, 
+                1550, 
+                2726, 
+                3129, 
+                1441, 
+                3203, 
+                1059, 
+                2130, 
+                2886, 
+                2071, 
+                1212, 
+                3204, 
+                1853, 
+                1541, 
+                507
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "8121831049060e4e814eb90a284743c5": {
+        "(18, 7)": {
+            "WBF": [
+                1064
+            ], 
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                833
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                294
+            ], 
+            "WBO": [
+                1300, 
+                2204, 
+                253, 
+                1313, 
+                2654, 
+                1724, 
+                2859
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }, 
+    "b9bfe35c56e22b2e41d54ff0d9f5e938": {
+        "location1": [
+            23
+        ], 
+        "location2": [
+            12
+        ], 
+        "(23, 12)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1638
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1707
+            ], 
+            "WBO": [
+                3094, 
+                133, 
+                2886, 
+                1277, 
+                2859, 
+                84, 
+                1825
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2061
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "for a price that 's still less than even the lowest level ipod i was able to get this 40gb monster , and the best part is it work as great as it was advertised to and then some ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "(15, 23)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                833
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                2260, 
+                1951, 
+                2851, 
+                60
+            ], 
+            "WBL": [
+                1567
+            ], 
+            "AM2F": [
+                294
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }
+}

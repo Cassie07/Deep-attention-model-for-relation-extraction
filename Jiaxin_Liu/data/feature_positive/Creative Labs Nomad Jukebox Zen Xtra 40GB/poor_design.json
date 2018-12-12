@@ -1,0 +1,37 @@
+{
+    "0274c135b199dbc2203f17aa3978816d": {
+        "(2, 3)": {
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2157
+            ], 
+            "M2": [
+                845
+            ], 
+            "BM1L": [
+                2857
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                710
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "third , the poor design continues with the case ."
+    }
+}

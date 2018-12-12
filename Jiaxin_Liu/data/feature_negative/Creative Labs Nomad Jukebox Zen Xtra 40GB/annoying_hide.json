@@ -1,0 +1,43 @@
+{
+    "b9063ee5751791fa6c9c7c2cfb04d687": {
+        "(13, 9)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                1665
+            ], 
+            "BM1F": [
+                746
+            ], 
+            "M1": [
+                1386
+            ], 
+            "M2": [
+                259
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                251
+            ], 
+            "WBL": [
+                231
+            ], 
+            "AM2F": [
+                2158
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "b ) the screen is hard to read -- the cover hide it an already annoying poorly lit display"
+    }
+}

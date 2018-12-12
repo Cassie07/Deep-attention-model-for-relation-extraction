@@ -1,0 +1,52 @@
+{
+    "b2c12395e7baa4db094eb94137f35655": {
+        "(21, 7)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                2920
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                2166
+            ], 
+            "BM1L": [
+                1201
+            ], 
+            "WBO": [
+                1545, 
+                1545, 
+                3170, 
+                3115, 
+                3124, 
+                1429, 
+                2529, 
+                1545, 
+                1967, 
+                2898
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2275
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i 've tried the belkin fm transmitter unit with it & it worked well when i set it on top of a portable radio , but was awful trying to use in the car which is somewhat of a disappointment ."
+    }
+}

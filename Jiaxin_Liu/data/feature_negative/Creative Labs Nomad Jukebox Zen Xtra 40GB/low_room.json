@@ -1,0 +1,49 @@
+{
+    "5fd8c0085bdee242af47218a4dee27e1": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            25
+        ], 
+        "(14, 25)": {
+            "WBF": [
+                2204
+            ], 
+            "AM2L": [
+                1466
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1703
+            ], 
+            "M2": [
+                2441
+            ], 
+            "BM1L": [
+                2260
+            ], 
+            "WBO": [
+                237, 
+                1429, 
+                1147, 
+                2844, 
+                2139, 
+                1351, 
+                130
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i am willing to overlook it 's problem to get superior sound quality and low price , although i feel the player has a lot of room for improvement ."
+    }
+}

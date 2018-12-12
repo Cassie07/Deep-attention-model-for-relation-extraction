@@ -1,0 +1,37 @@
+{
+    "8ea22abcafee5d8784ac48d7824ecab7": {
+        "(11, 8)": {
+            "WBF": [
+                2852
+            ], 
+            "BM1F": [
+                1429
+            ], 
+            "M1": [
+                1771
+            ], 
+            "M2": [
+                2156
+            ], 
+            "BM1L": [
+                863
+            ], 
+            "WBO": [
+                3120
+            ], 
+            "WBL": [
+                3120
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the ringtones included are awesome , and did i mention they were polyphonic ?"
+    }
+}

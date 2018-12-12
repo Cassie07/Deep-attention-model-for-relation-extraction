@@ -1,0 +1,47 @@
+{
+    "5e74b4c1331cab866091f6646439932c": {
+        "(3, 12)": {
+            "WBF": [
+                1143
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1548
+            ], 
+            "M1": [
+                670
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBO": [
+                2844, 
+                1774, 
+                295, 
+                984, 
+                148
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "with all its complicated feature , the menus are easily accessible and the quality of the feature is great ."
+    }
+}

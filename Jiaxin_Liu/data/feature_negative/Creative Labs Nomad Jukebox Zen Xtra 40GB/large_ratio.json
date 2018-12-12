@@ -1,0 +1,93 @@
+{
+    "3bf21a4b29d090cbd158c4195701fcd2": {
+        "(21, 10)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                3002
+            ], 
+            "M1": [
+                2289
+            ], 
+            "M2": [
+                1602
+            ], 
+            "BM1L": [
+                4
+            ], 
+            "WBO": [
+                1300, 
+                2182, 
+                2021, 
+                223, 
+                2844, 
+                3210, 
+                3194
+            ], 
+            "WBL": [
+                943
+            ], 
+            "AM2F": [
+                1364
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(21, 5)": {
+            "WBF": [
+                383
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                2577
+            ], 
+            "M1": [
+                2289
+            ], 
+            "M2": [
+                1602
+            ], 
+            "BM1L": [
+                127
+            ], 
+            "WBO": [
+                1536, 
+                4, 
+                3002, 
+                2289, 
+                253, 
+                1300, 
+                2182, 
+                2021, 
+                223, 
+                2844, 
+                3210, 
+                3194
+            ], 
+            "WBL": [
+                943
+            ], 
+            "AM2F": [
+                1364
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            5, 
+            10
+        ], 
+        "sentence": "1 ) great sound ( > 98db signal-to-noise ratio beat ipod 's `` unspecified `` ratio ) and good power output allow the zen xtra to drive large head-phones as well as external speaker ."
+    }
+}

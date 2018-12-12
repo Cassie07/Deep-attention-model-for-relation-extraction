@@ -1,0 +1,79 @@
+{
+    "25d13607a3d0abce285789e09dc8ffa6": {
+        "(2, 3)": {
+            "AM2L": [
+                2204
+            ], 
+            "BM1F": [
+                1655
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                457
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2966
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "bottom line ... great product , unbeatable price ."
+    }, 
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "(9, 3)": {
+            "WBF": [
+                3124
+            ], 
+            "AM2L": [
+                985
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2221
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1702
+            ], 
+            "WBO": [
+                1429, 
+                1179
+            ], 
+            "WBL": [
+                1545
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "168375c1396ae73de3fde98510ddc928": {
+        "location1": [
+            8
+        ], 
+        "location2": [
+            2
+        ], 
+        "(8, 2)": {
+            "WBF": [
+                2567
+            ], 
+            "AM2L": [
+                1967
+            ], 
+            "BM1F": [
+                485
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3139, 
+                1548
+            ], 
+            "WBL": [
+                580
+            ], 
+            "AM2F": [
+                2477
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the build quality show why its so cheap - small scratch on the base plate , something that you would n't see on a sony and an overall plasticky feel"
+    }
+}

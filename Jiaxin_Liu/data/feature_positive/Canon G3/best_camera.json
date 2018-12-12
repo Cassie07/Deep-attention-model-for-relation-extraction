@@ -1,0 +1,334 @@
+{
+    "5d8b5507ce45f152c58e301e745b132e": {
+        "location1": [
+            8
+        ], 
+        "location2": [
+            2
+        ], 
+        "(8, 2)": {
+            "WBF": [
+                985
+            ], 
+            "AM2L": [
+                2098
+            ], 
+            "BM1F": [
+                645
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                3052
+            ], 
+            "WBO": [
+                2886, 
+                3018
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                875
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "very comfortable camera , easy to use , and the best digital photo you 're going to get at this price ."
+    }, 
+    "ee59320ea439564bfb6e244ed61ae28d": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            8
+        ], 
+        "(6, 8)": {
+            "AM2L": [
+                2850
+            ], 
+            "WBFL": [
+                90
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                2088
+            ], 
+            "AM2F": [
+                2016
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the canon g3 is perhaps the best 4mp camera out there ."
+    }, 
+    "861626d0cc4cc5ae19684d4b8d53194c": {
+        "(10, 12)": {
+            "AM2L": [
+                2974
+            ], 
+            "WBFL": [
+                875
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "AM2F": [
+                339
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "even with these shortcoming , i still think it is the best digital camera available under $ 1200 ."
+    }, 
+    "dd71767481d19a9a0e0a0368b626b97e": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            8
+        ], 
+        "(6, 8)": {
+            "AM2L": [
+                2850
+            ], 
+            "WBFL": [
+                875
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "AM2F": [
+                2016
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "simply , the canon g3 is the best digital camera out there today at this price point ."
+    }, 
+    "cb31f35d3c35ce640d8c859b871da89a": {
+        "(4, 5)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "overall it is the best camera on the market ."
+    }, 
+    "6fe1a6cfcc61bb420320d4d66e4e64c4": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            7
+        ], 
+        "(1, 7)": {
+            "WBF": [
+                80
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                520
+            ], 
+            "WBO": [
+                1765, 
+                92
+            ], 
+            "WBL": [
+                3213
+            ], 
+            "AM2F": [
+                339
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the best 4 megapixel/4x optical zoom camera available and fairly easy to use ."
+    }, 
+    "ab5381ff92d93f31f37a3da98c2c14a6": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            10
+        ], 
+        "(7, 10)": {
+            "WBF": [
+                1906
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                297
+            ], 
+            "WBO": [
+                875
+            ], 
+            "WBL": [
+                875
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all-in-all , i believe this is arguably the best non-slr digital camera on the market ."
+    }, 
+    "86b3450ce22023f2c9edfbb1431b515e": {
+        "(0, 1)": {
+            "AM2L": [
+                1241
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                520
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1059
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "best camera ever . from the image quality , color , function , i can say almost everything ."
+    }, 
+    "9912ee61adbc16ba2940f26778c640d0": {
+        "(8, 12)": {
+            "WBF": [
+                369
+            ], 
+            "AM2L": [
+                339
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1260
+            ], 
+            "WBO": [
+                1468
+            ], 
+            "WBL": [
+                875
+            ], 
+            "AM2F": [
+                777
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "recent price drop have made the g3 the best bargain in digital camera currently available ."
+    }
+}

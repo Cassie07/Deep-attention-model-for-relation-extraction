@@ -1,0 +1,81 @@
+{
+    "9faf0a7bfc43d9a419ce8a897488d3e6": {
+        "(19, 11)": {
+            "WBF": [
+                1814
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                1997
+            ], 
+            "M1": [
+                2474
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                17
+            ], 
+            "WBO": [
+                2852, 
+                295, 
+                954, 
+                253
+            ], 
+            "WBL": [
+                2886
+            ], 
+            "AM2F": [
+                2592
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "the auto-focus performs well , but i love having the 12 optional scene mode - they are dummy-proof , and correspond to many situation in which i would actually seek to use the camera ."
+    }, 
+    "ef8b221188025f77306dd1fd16320e12": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            19
+        ], 
+        "(18, 19)": {
+            "AM2L": [
+                2017
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2474
+            ], 
+            "BM1L": [
+                3016
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1488
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "great camera , i have been using this for several month and got excellent result , simple friendly usage , in many scene indoor , outdoor , snow , close up macro etc ."
+    }
+}

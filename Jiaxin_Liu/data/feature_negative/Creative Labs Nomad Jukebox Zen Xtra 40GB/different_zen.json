@@ -1,0 +1,107 @@
+{
+    "b2d4e633a50cce494eea7a203213e6b5": {
+        "(12, 4)": {
+            "WBF": [
+                3194
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                2670, 
+                1212, 
+                598, 
+                1429
+            ], 
+            "WBL": [
+                1737
+            ], 
+            "AM2F": [
+                1842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "before asking for the zen xtra specifically for christmas i researched many different mp3 player but finally decided on this one , and now that i have it i could n't be happier and i 'm convinced it 's the best one out there ."
+    }, 
+    "f2411c8e4e34052a33a2a92ad250283e": {
+        "location1": [
+            31
+        ], 
+        "location2": [
+            3
+        ], 
+        "(31, 3)": {
+            "WBF": [
+                93
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                1267
+            ], 
+            "WBO": [
+                2696, 
+                386, 
+                1545, 
+                4, 
+                1072, 
+                1212, 
+                2844, 
+                608, 
+                2842, 
+                1545, 
+                1541, 
+                1468, 
+                253, 
+                1545, 
+                4, 
+                1915, 
+                2304, 
+                290, 
+                2886, 
+                2285, 
+                1545, 
+                372, 
+                1967, 
+                2139
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                608
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i gave the zen 5 star because it 's excellent for the class that it is in and it 's not really appropriate to rate it based on player in a different class ."
+    }
+}

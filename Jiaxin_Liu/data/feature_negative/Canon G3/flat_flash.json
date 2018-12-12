@@ -1,0 +1,85 @@
+{
+    "d189707ad42028eec72db14fec45c699": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            9, 
+            16
+        ], 
+        "(22, 9)": {
+            "WBF": [
+                1967
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                1099
+            ], 
+            "M1": [
+                1188
+            ], 
+            "M2": [
+                1190
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                1856, 
+                1893, 
+                2613, 
+                2844, 
+                1525, 
+                1188, 
+                1967, 
+                2844, 
+                1260
+            ], 
+            "WBL": [
+                1350
+            ], 
+            "AM2F": [
+                1448
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(22, 16)": {
+            "WBF": [
+                1967
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                1525
+            ], 
+            "M1": [
+                1188
+            ], 
+            "M2": [
+                1190
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844, 
+                1260
+            ], 
+            "WBL": [
+                1350
+            ], 
+            "AM2F": [
+                1448
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "relative to what i can easily achieve with external flash on my nikon slr , the internal flash on the g3 produce harsh , flat image with ugly hot spot ."
+    }
+}

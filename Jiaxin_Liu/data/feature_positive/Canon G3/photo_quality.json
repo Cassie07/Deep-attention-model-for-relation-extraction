@@ -1,0 +1,174 @@
+{
+    "53ad4baf0995d0de9a707cf242ae5fe5": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            16
+        ], 
+        "(5, 16)": {
+            "WBF": [
+                3158
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2098
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1427
+            ], 
+            "WBO": [
+                1545, 
+                253, 
+                1429, 
+                708, 
+                2886, 
+                381, 
+                243
+            ], 
+            "WBL": [
+                2846
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i have taken hundred of photo with it and i continue to be amazed by their quality ."
+    }, 
+    "eb9a1fbd573dfc4c6bb5d2860fe69826": {
+        "(8, 9)": {
+            "AM2L": [
+                346
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2098
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "4 megapixels is enough for anybody and the photo quality is awesome ."
+    }, 
+    "333577d10a0d5606224f46a9898698e1": {
+        "(1, 2)": {
+            "AM2L": [
+                245
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2098
+            ], 
+            "M2": [
+                2260
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the photo quality is amazing and i know i 'm going to have fun with all the feature ."
+    }, 
+    "be379679dac602b9b58a047cfe52bfb9": {
+        "(32, 33)": {
+            "BM1F": [
+                1437
+            ], 
+            "M1": [
+                2098
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            32
+        ], 
+        "location2": [
+            33
+        ], 
+        "sentence": "with a quick spin of the dial you can select shutter priority ( for high speed subject ) , aperture priority ( for focal length ) or full program mode where the camera selects both for ideal photo quality ."
+    }, 
+    "ffba0d840beb51172340e31591b656ce": {
+        "(18, 16)": {
+            "AM2L": [
+                1355
+            ], 
+            "WBFL": [
+                1951
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                316
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "i began taking pic as soon as i got this camera and am amazed at the quality of photo i have took simply by using the auto mode ."
+    }
+}

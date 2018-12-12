@@ -1,0 +1,47 @@
+{
+    "f57610696a8c7bcfd48e157cbef09feb": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            13
+        ], 
+        "(1, 13)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                502
+            ], 
+            "WBO": [
+                1429, 
+                2, 
+                678, 
+                134, 
+                1541, 
+                2844, 
+                2260, 
+                1688
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the only thing i 'm concerned about is the quality / longevity of the button on the thing ."
+    }
+}

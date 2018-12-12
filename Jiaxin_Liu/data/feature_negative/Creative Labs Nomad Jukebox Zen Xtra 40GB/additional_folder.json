@@ -1,0 +1,56 @@
+{
+    "ca693a4c5df2c07f651e149646f822a6": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            28
+        ], 
+        "(10, 28)": {
+            "WBF": [
+                1343
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                177
+            ], 
+            "M2": [
+                1208
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBO": [
+                896, 
+                2628, 
+                1545, 
+                226, 
+                3203, 
+                2886, 
+                2585, 
+                937, 
+                253, 
+                946, 
+                1156, 
+                1241, 
+                3151, 
+                1093
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "transfer through window explorer - window recognizes the jukebox as an additional hard disk , so it allows you to simply drag and drop file from window explorer to a folder for the nomad ."
+    }
+}

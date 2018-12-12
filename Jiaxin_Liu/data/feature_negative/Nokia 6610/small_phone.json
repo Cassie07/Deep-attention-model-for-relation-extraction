@@ -1,0 +1,363 @@
+{
+    "13e3ad521538757c809d312f2b720148": {
+        "(9, 21)": {
+            "WBF": [
+                1915
+            ], 
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                2896
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "WBO": [
+                2896, 
+                1602, 
+                1545, 
+                233, 
+                1351, 
+                221, 
+                2844, 
+                1143
+            ], 
+            "WBL": [
+                1392
+            ], 
+            "AM2F": [
+                3023
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "not only is it the perfect size ( not too small , not too large ) , it also has all the feature a high-tech phone user would want ."
+    }, 
+    "068bd7c0f0afc39243b4899bb1fe99a4": {
+        "(14, 11)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1644
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                3124
+            ], 
+            "WBO": [
+                2628
+            ], 
+            "WBL": [
+                2628
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "it is amazing that the battery last so long when the phone is so small and light ."
+    }, 
+    "2701b1794a0ea76ecda5d225153a920e": {
+        "(6, 3)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                1648
+            ], 
+            "WBO": [
+                381
+            ], 
+            "WBL": [
+                381
+            ], 
+            "AM2F": [
+                2628
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i like my phone to be small so i can fit it in my pocket ."
+    }, 
+    "947e4a7f76574c8d9e61e6f0a4bf403d": {
+        "(8, 4)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                281
+            ], 
+            "BM1F": [
+                2083
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2760
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "it is a perfect phone in such a small and appealing package ."
+    }, 
+    "2ba94a2d6897c0dc29eaf3f1c90562af": {
+        "(14, 10)": {
+            "WBF": [
+                386
+            ], 
+            "AM2L": [
+                2666
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBO": [
+                1951
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2595
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email ."
+    }, 
+    "0fd1a39fbd9bf7572e59b5af4057aeba": {
+        "(6, 4)": {
+            "AM2L": [
+                1212
+            ], 
+            "WBFL": [
+                295
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "AM2F": [
+                1055
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6, 
+            10
+        ], 
+        "location2": [
+            4
+        ], 
+        "(10, 4)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBO": [
+                2615, 
+                1055
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                1172
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the button on the phone are small , even for my small fingertip , but you get used to them rather quickly ."
+    }, 
+    "86fbc0120dc9e7b25d672355dc9d3046": {
+        "(16, 4)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                1961
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                2259
+            ], 
+            "WBO": [
+                3204, 
+                2150, 
+                3203, 
+                1215, 
+                1545, 
+                1541, 
+                2850, 
+                1545
+            ], 
+            "WBL": [
+                2967
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "when you put this phone in your pocket you forget it is there ; it is unbelievably small and oh , so light ."
+    }, 
+    "8ee54a07a100d3ae716ff48a9b13ef2a": {
+        "(3, 1)": {
+            "AM2L": [
+                253
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2615
+            ], 
+            "AM2F": [
+                1644
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the phone is small , light , and very attractive ."
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "291b89defbbe4a497ff51c7d8d63f47c": {
+        "(3, 0)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2260
+            ], 
+            "M1": [
+                275
+            ], 
+            "M2": [
+                413
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                580
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "apex is the best cheap quality brand for dvd player ."
+    }, 
+    "862e0d8256d5175b4c962e3c6454f2af": {
+        "(5, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                2855
+            ], 
+            "M1": [
+                275
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                961
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "i think , apex is the best dvd player you can get for the price ."
+    }
+}

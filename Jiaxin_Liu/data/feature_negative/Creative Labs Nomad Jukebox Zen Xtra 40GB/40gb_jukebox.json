@@ -1,0 +1,43 @@
+{
+    "fd02adeb0b3e3ad869f3f15173d5cd41": {
+        "(7, 4)": {
+            "WBF": [
+                3210
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1901
+            ], 
+            "M1": [
+                1566
+            ], 
+            "M2": [
+                84
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3194
+            ], 
+            "WBL": [
+                3194
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "i purchased the nomad jukebox zen xtra 40gb and it is fantastic !"
+    }
+}

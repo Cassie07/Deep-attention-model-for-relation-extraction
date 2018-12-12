@@ -1,0 +1,126 @@
+{
+    "1a0d68ac376b768e92b8dca25c428ee4": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            17
+        ], 
+        "(22, 17)": {
+            "WBF": [
+                1094
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                329
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                2225
+            ], 
+            "WBO": [
+                2530
+            ], 
+            "WBL": [
+                1072
+            ], 
+            "AM2F": [
+                1441
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "1 ) slr like programming and exposure control gives you latitude to be creative , yet its progam and auto exposure setting provide excellent photo if you do n't want to bother with the setting ."
+    }, 
+    "3ecea01aa95a76d9bd9b4d7dc527100d": {
+        "(8, 14)": {
+            "WBF": [
+                483
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                2098
+            ], 
+            "M2": [
+                329
+            ], 
+            "BM1L": [
+                715
+            ], 
+            "WBO": [
+                501, 
+                2712
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                1814
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the canon g3 gives ton of control for photo buff but still has an `` auto `` mode that makes it very easy for the novice to use ."
+    }, 
+    "ffba0d840beb51172340e31591b656ce": {
+        "(18, 26)": {
+            "WBF": [
+                1429
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2098
+            ], 
+            "M2": [
+                329
+            ], 
+            "BM1L": [
+                2260
+            ], 
+            "WBO": [
+                1355, 
+                2897, 
+                2585, 
+                507
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1814
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "i began taking pic as soon as i got this camera and am amazed at the quality of photo i have took simply by using the auto mode ."
+    }
+}

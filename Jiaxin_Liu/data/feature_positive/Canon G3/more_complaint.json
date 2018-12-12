@@ -1,0 +1,37 @@
+{
+    "20c5a2780290c04a8fff006233aee834": {
+        "(4, 5)": {
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                666
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "now there is one more complaint i have about the g3 and that is the software that comes with it for processing raw image ( i only shoot in raw image mode and the first thing i did was replace the 32 mbyte cf with a 512 mbyte cf , which gives me 130 raw image , as opposed to 7 !"
+    }
+}

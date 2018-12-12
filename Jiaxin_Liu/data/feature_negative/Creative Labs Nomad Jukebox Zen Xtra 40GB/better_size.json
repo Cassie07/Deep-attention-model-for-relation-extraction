@@ -1,0 +1,99 @@
+{
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "location1": [
+            33
+        ], 
+        "location2": [
+            13
+        ], 
+        "(33, 13)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1536
+            ], 
+            "BM1F": [
+                808
+            ], 
+            "M1": [
+                2595
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                3112, 
+                130, 
+                2356, 
+                1866, 
+                2802, 
+                2842, 
+                547, 
+                372, 
+                1967, 
+                1435, 
+                2810, 
+                253, 
+                1072, 
+                2654, 
+                3142, 
+                1591
+            ], 
+            "WBL": [
+                381
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "cc9343b9437cedbe76ed6e65ab813167": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            5
+        ], 
+        "(10, 5)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2595
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                2837
+            ], 
+            "WBO": [
+                845
+            ], 
+            "WBL": [
+                1691
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the system is terrific in size and design , imo looking better than the ipod ."
+    }
+}

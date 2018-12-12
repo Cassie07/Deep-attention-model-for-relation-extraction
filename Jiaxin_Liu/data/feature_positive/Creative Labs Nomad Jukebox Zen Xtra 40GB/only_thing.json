@@ -1,0 +1,301 @@
+{
+    "df802df13330b60399ef8b6c4a7f1791": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            5
+        ], 
+        "(10, 5)": {
+            "WBF": [
+                386
+            ], 
+            "AM2L": [
+                39
+            ], 
+            "BM1F": [
+                346
+            ], 
+            "M1": [
+                2853
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBO": [
+                1545
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "battery recharge , is an awesome thing , because it recharges in only like 2-3 hour ."
+    }, 
+    "c59926d4de7d0d8aab8db084c3141f7d": {
+        "(1, 2)": {
+            "AM2L": [
+                912
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2853
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the only thing i do n't like about this is the cover does suck ."
+    }, 
+    "f57610696a8c7bcfd48e157cbef09feb": {
+        "(1, 2)": {
+            "AM2L": [
+                2
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2853
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(1, 16)": {
+            "WBF": [
+                2853
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2853
+            ], 
+            "WBO": [
+                1429, 
+                2, 
+                678, 
+                134, 
+                1541, 
+                2844, 
+                2260, 
+                1688, 
+                1951, 
+                2844, 
+                502
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2, 
+            16
+        ], 
+        "sentence": "the only thing i 'm concerned about is the quality / longevity of the button on the thing ."
+    }, 
+    "eb5f7f84fb72e7589f2fbebf5436ab11": {
+        "(9, 7)": {
+            "AM2L": [
+                2234
+            ], 
+            "WBFL": [
+                3145
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2853
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "AM2F": [
+                3168
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "unlike my 3 other mp3 player , this thing will only work properly if you have id3 tag on all of your track ."
+    }, 
+    "c12383bb97c5145343b5078c02d465f5": {
+        "(1, 2)": {
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2853
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the only thing i would complain about the zen xtra is that the control are n't as easy as the ipod 's , or as `` sexy `` looking ."
+    }, 
+    "57a74e8be8d489d3048ecdc5e9e62e81": {
+        "(0, 1)": {
+            "AM2L": [
+                1241
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2853
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1806
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "only thing missing from creative is a cd burner ."
+    }, 
+    "bf0a5e500cc50d952088360876e9fd68": {
+        "(1, 2)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2853
+            ], 
+            "AM2F": [
+                1806
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the only thing missing is an option to adjust the balance ."
+    }, 
+    "e36d6c54ed710942569ac8dc47ef1c8b": {
+        "(1, 3)": {
+            "AM2L": [
+                2718
+            ], 
+            "WBFL": [
+                2952
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2853
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the only two thing that stop me from giving it 5 star are the ho-hum software that comes with the system , and the traveling case it comes with ."
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "2f4b1a4eefb0c421b14cc034af6fd056": {
+        "(19, 19)": {
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1924
+            ], 
+            "M2": [
+                1924
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "given that i already have the zen the only reason i am happy with it is because of the notmad software ."
+    }, 
+    "eb88968921d7cb163079768a48fd733a": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            18
+        ], 
+        "(18, 18)": {
+            "AM2L": [
+                386
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                1924
+            ], 
+            "M2": [
+                1924
+            ], 
+            "BM1L": [
+                565
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the software interface supplied was very easy to use but i went ahead and got red chair 's `` notmad `` software because of some advanced feature i wanted ."
+    }, 
+    "48f139b652aef71ed74e6e8e8af8aae4": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            14
+        ], 
+        "(14, 14)": {
+            "BM1F": [
+                1648
+            ], 
+            "M1": [
+                1924
+            ], 
+            "M2": [
+                1924
+            ], 
+            "BM1L": [
+                2226
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the nomad explorer provide most of the functionality offered by 3rd party program like notmad ."
+    }, 
+    "c3343c3835f3c03085268bc260ac595b": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            18
+        ], 
+        "(18, 18)": {
+            "BM1F": [
+                505
+            ], 
+            "M1": [
+                1924
+            ], 
+            "M2": [
+                1924
+            ], 
+            "BM1L": [
+                1791
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "software definitely suck , hang up my notebook about half the time , but i do n't mind buying notmad ."
+    }, 
+    "c5fb91677140916fcce268347c2b912b": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            18
+        ], 
+        "(18, 18)": {
+            "AM2L": [
+                2712
+            ], 
+            "BM1F": [
+                2862
+            ], 
+            "M1": [
+                1924
+            ], 
+            "M2": [
+                1924
+            ], 
+            "BM1L": [
+                2454
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1748
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "as i mentioned before , the creative mediasource software is actually really robust despite what others have said , though notmad may still work better ."
+    }, 
+    "2b1f02e9b598b4335a04065124706081": {
+        "(4, 4)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1924
+            ], 
+            "M2": [
+                1924
+            ], 
+            "BM1L": [
+                503
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "i did buy the notmad software a week ago and found that a vast improvement ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(16, 16)": {
+            "AM2L": [
+                1874
+            ], 
+            "BM1F": [
+                3160
+            ], 
+            "M1": [
+                1924
+            ], 
+            "M2": [
+                1924
+            ], 
+            "BM1L": [
+                765
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

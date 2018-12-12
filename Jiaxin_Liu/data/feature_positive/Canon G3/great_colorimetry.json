@@ -1,0 +1,37 @@
+{
+    "ae0aed0b3b73dea5b4506576ff783dcc": {
+        "(5, 6)": {
+            "AM2L": [
+                3121
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                636
+            ], 
+            "BM1L": [
+                525
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2149
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this camera has canon 's great colorimetry , plus what you see in the lcd is what you get ."
+    }
+}

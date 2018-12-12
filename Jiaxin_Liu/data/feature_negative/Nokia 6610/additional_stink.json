@@ -1,0 +1,50 @@
+{
+    "c16c5d2303fcab3823fe913b6b4cef82": {
+        "(18, 3)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2713
+            ], 
+            "M2": [
+                177
+            ], 
+            "BM1L": [
+                1583
+            ], 
+            "WBO": [
+                3203, 
+                526, 
+                929, 
+                2847, 
+                3203, 
+                1355, 
+                2886, 
+                1277, 
+                2844, 
+                1656, 
+                509
+            ], 
+            "WBL": [
+                1277
+            ], 
+            "AM2F": [
+                1264
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "game kind of stink and you cant download them you have to get the link cable to get additional game ."
+    }
+}

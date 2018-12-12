@@ -1,0 +1,85 @@
+{
+    "e9085eaf184831b80aff2166379e289a": {
+        "(1, 10)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1366
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2051
+            ], 
+            "WBO": [
+                1072, 
+                501, 
+                130, 
+                2884, 
+                1277
+            ], 
+            "WBL": [
+                2301
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the sound is excellent , but a tip : get a real pair of headphone ."
+    }, 
+    "c8196ec4c983af49734af374c87665fd": {
+        "(34, 31)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1297
+            ], 
+            "BM1F": [
+                1886
+            ], 
+            "M1": [
+                2051
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            34
+        ], 
+        "location2": [
+            31
+        ], 
+        "sentence": "on the subject of headphone , this thing seems like a normal mp3 player when you use the headphone they give you in the box , but invest 30 dollar in a nice pair and the sound quality goes up through the roof !"
+    }
+}

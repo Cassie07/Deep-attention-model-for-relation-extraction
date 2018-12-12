@@ -1,0 +1,89 @@
+{
+    "744bdb63eb27c487cfb368662c9dcc70": {
+        "(23, 11)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                1814
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2474
+            ], 
+            "M2": [
+                1731
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                2844, 
+                2257, 
+                1951, 
+                130, 
+                502, 
+                253, 
+                1545, 
+                1351
+            ], 
+            "WBL": [
+                1970
+            ], 
+            "AM2F": [
+                1203
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            11, 
+            34
+        ], 
+        "(23, 34)": {
+            "WBF": [
+                1203
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1970
+            ], 
+            "M1": [
+                1731
+            ], 
+            "M2": [
+                2474
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBO": [
+                1814, 
+                2842, 
+                3181, 
+                381, 
+                2304, 
+                1380, 
+                1441
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "you can move the focus range to almost anywhere in the scene with the push of a button , and it has an on-screen manual focus mode that would be really helpful if shooting a scene that is tough to automatically focus ."
+    }
+}

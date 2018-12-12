@@ -1,0 +1,122 @@
+{
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(16, 38)": {
+            "WBF": [
+                3203
+            ], 
+            "AM2L": [
+                1998
+            ], 
+            "BM1F": [
+                3160
+            ], 
+            "M1": [
+                1924
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                765
+            ], 
+            "WBO": [
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                765
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            38, 
+            50
+        ], 
+        "(16, 50)": {
+            "WBF": [
+                3203
+            ], 
+            "AM2L": [
+                2918
+            ], 
+            "BM1F": [
+                3160
+            ], 
+            "M1": [
+                1924
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                765
+            ], 
+            "WBO": [
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545, 
+                3204, 
+                1853, 
+                765, 
+                1998, 
+                264, 
+                2011, 
+                655, 
+                221, 
+                1856, 
+                17, 
+                93
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                3120
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

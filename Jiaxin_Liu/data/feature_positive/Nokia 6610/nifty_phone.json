@@ -1,0 +1,31 @@
+{
+    "e52d5fd102dc709b3e64330ff8edc1b0": {
+        "location1": [
+            26
+        ], 
+        "location2": [
+            27
+        ], 
+        "(26, 27)": {
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1891
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "from the speakerphone that can be used up to 15 foot away with clarity , to the downloadable poly-graphic megatones that adds a personal touch to this nifty phone ."
+    }
+}

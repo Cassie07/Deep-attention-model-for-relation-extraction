@@ -1,0 +1,40 @@
+{
+    "e94a730e46252bda318d9e3325bfd892": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            2
+        ], 
+        "(7, 2)": {
+            "WBF": [
+                2500
+            ], 
+            "BM1F": [
+                1366
+            ], 
+            "M1": [
+                1552
+            ], 
+            "M2": [
+                1722
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2886
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2215
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the headphone jack seems to be a major problem ."
+    }
+}

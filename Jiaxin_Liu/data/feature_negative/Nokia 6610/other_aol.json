@@ -1,0 +1,47 @@
+{
+    "6678ea63baf21e42ca34ff9c60e47c7c": {
+        "(22, 13)": {
+            "WBF": [
+                1511
+            ], 
+            "AM2L": [
+                288
+            ], 
+            "BM1F": [
+                1474
+            ], 
+            "M1": [
+                271
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1778, 
+                2631, 
+                1541, 
+                130, 
+                2049
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2806
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the gprs connection is sometimes slow , and writing instant message with the included aol instant messenger software is a pain , but the other t-zones application are quite useful ."
+    }
+}

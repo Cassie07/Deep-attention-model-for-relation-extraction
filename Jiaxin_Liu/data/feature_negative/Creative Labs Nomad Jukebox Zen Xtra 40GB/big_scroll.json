@@ -1,0 +1,148 @@
+{
+    "7c980ce6e3db331419916b5538ddd428": {
+        "(19, 1)": {
+            "WBF": [
+                502
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2484
+            ], 
+            "M2": [
+                419
+            ], 
+            "WBO": [
+                1541, 
+                2651, 
+                1951, 
+                259, 
+                2886, 
+                2257, 
+                130, 
+                1886, 
+                502, 
+                3181, 
+                381, 
+                1888, 
+                501, 
+                993
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                805
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the scroll button is sort of annoying to push - a nice button would be nicer but eh , not a big deal ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            40
+        ], 
+        "(16, 40)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1313
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                2484
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2844, 
+                436, 
+                1644, 
+                1468, 
+                2844, 
+                352, 
+                1541, 
+                2083, 
+                1136, 
+                304, 
+                1378, 
+                1468, 
+                1853, 
+                2916, 
+                715, 
+                295, 
+                985, 
+                2886, 
+                3018, 
+                200
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                502
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "027358c11edcbca4be06865adec2ddb1": {
+        "(5, 1)": {
+            "WBF": [
+                3123
+            ], 
+            "AM2L": [
+                2024
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2484
+            ], 
+            "M2": [
+                419
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1466
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the scroll wheel is a big improvement over the ipod touchpad ."
+    }
+}

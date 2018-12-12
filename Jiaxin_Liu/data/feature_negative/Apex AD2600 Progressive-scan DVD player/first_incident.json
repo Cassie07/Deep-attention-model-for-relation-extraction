@@ -1,0 +1,43 @@
+{
+    "37f15e561ae7ac9028bbedac55bbb567": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            9
+        ], 
+        "(1, 9)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                316
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                1471
+            ], 
+            "WBO": [
+                2863, 
+                1545, 
+                1541, 
+                1978
+            ], 
+            "WBL": [
+                1543
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "at first i thought it is only a isolated incident , but i was proven wrong when the player would not read my `` alias `` dvds as well ."
+    }
+}

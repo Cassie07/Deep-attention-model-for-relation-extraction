@@ -1,0 +1,74 @@
+{
+    "50815ed54fda64a996bb08d62d2a7a46": {
+        "(14, 11)": {
+            "WBF": [
+                541
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1621
+            ], 
+            "M2": [
+                2301
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                260
+            ], 
+            "WBL": [
+                260
+            ], 
+            "AM2F": [
+                2149
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5, 
+            14
+        ], 
+        "location2": [
+            11
+        ], 
+        "(5, 11)": {
+            "WBF": [
+                2149
+            ], 
+            "AM2L": [
+                260
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2301
+            ], 
+            "M2": [
+                1621
+            ], 
+            "BM1L": [
+                2381
+            ], 
+            "WBO": [
+                253, 
+                2850
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the battery is replaceable ( a real plus ) and there is a leather case ( another real plus ) ."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "867e0d28796d18caa886b83e1e446570": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            18
+        ], 
+        "(10, 18)": {
+            "WBF": [
+                2260
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                980
+            ], 
+            "BM1L": [
+                3120
+            ], 
+            "WBO": [
+                253, 
+                251, 
+                1072, 
+                1201
+            ], 
+            "WBL": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "while i had the phone , the positive feature were : good sound quality and an excellent fm phone and earpiece ."
+    }
+}

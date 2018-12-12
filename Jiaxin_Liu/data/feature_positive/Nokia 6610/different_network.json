@@ -1,0 +1,31 @@
+{
+    "4c97fb16f6c98310c527b30aa33a2434": {
+        "(36, 37)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                1880
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            36
+        ], 
+        "location2": [
+            37
+        ], 
+        "sentence": "the internet function of the phone - wap and gprs - will only work through t-mobile 's service , because they have deleted the menu option that would enable you to configure the phone to be used on a different network ."
+    }
+}

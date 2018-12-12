@@ -1,0 +1,90 @@
+{
+    "8487498f2b6e44dd82814b6515fd3e74": {
+        "location1": [
+            21
+        ], 
+        "location2": [
+            1
+        ], 
+        "(21, 1)": {
+            "WBF": [
+                2448
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2583
+            ], 
+            "WBO": [
+                2619, 
+                1545, 
+                4, 
+                1886, 
+                2886, 
+                1689, 
+                316, 
+                1545, 
+                4, 
+                3052, 
+                2005, 
+                985, 
+                2886, 
+                1209, 
+                253, 
+                1724
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the software run smooth , it 's nice to look at , it 's very organized , easy to follow and makes thing very simple ."
+    }, 
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "(22, 19)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                2976
+            ], 
+            "BM1F": [
+                1143
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2583
+            ], 
+            "BM1L": [
+                2976
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) ."
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "c797f7ccd54badc9e0db79b7ce27861a": {
+        "(27, 0)": {
+            "WBF": [
+                228
+            ], 
+            "AM2L": [
+                1967
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                1721
+            ], 
+            "WBO": [
+                3158, 
+                2844, 
+                2381, 
+                379, 
+                3129, 
+                1429, 
+                2976, 
+                286, 
+                574, 
+                130, 
+                2615, 
+                1223, 
+                2886, 
+                2380, 
+                304, 
+                3115, 
+                304, 
+                2844, 
+                1353, 
+                1951, 
+                2415, 
+                1545, 
+                3120
+            ], 
+            "WBL": [
+                2952
+            ], 
+            "AM2F": [
+                1113
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "price , along with the replaceable battery ( which i understand apple charge a small fortune to replace - as well as the hassle of returning it ) were the two main factor on why i picked the nomad ."
+    }, 
+    "9f6a7f7178e78442ace2e798b1feb157": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            10
+        ], 
+        "(2, 10)": {
+            "WBF": [
+                2392
+            ], 
+            "AM2L": [
+                1225
+            ], 
+            "BM1F": [
+                2952
+            ], 
+            "M1": [
+                1721
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                3120, 
+                1687, 
+                379, 
+                1643
+            ], 
+            "WBL": [
+                1705
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "my two main requirement were longer battery life and lower price : i found both ."
+    }
+}

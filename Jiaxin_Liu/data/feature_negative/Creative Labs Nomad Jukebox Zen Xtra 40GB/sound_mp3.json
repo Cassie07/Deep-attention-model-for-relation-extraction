@@ -1,0 +1,229 @@
+{
+    "c8196ec4c983af49734af374c87665fd": {
+        "(34, 11)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                1297
+            ], 
+            "BM1F": [
+                1912
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                3124, 
+                3203, 
+                3018, 
+                2844, 
+                1366, 
+                2852, 
+                1285, 
+                3203, 
+                1468, 
+                2844, 
+                460, 
+                501, 
+                1533, 
+                63, 
+                920, 
+                1468, 
+                130, 
+                1886, 
+                2051
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            34
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "on the subject of headphone , this thing seems like a normal mp3 player when you use the headphone they give you in the box , but invest 30 dollar in a nice pair and the sound quality goes up through the roof !"
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(43, 48)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                502
+            ], 
+            "WBO": [
+                1551
+            ], 
+            "WBL": [
+                1737
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            43
+        ], 
+        "location2": [
+            48
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "location1": [
+            30
+        ], 
+        "location2": [
+            38
+        ], 
+        "(30, 38)": {
+            "WBF": [
+                3129
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1541, 
+                221, 
+                2842, 
+                1746
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) ."
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            8
+        ], 
+        "(17, 8)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2013
+            ], 
+            "WBO": [
+                295, 
+                3052, 
+                1300, 
+                253, 
+                1355
+            ], 
+            "WBL": [
+                413
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "(16, 11)": {
+            "WBF": [
+                1566
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1355
+            ], 
+            "WBL": [
+                413
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }
+}

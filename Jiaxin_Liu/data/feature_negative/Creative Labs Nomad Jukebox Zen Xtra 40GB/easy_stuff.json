@@ -1,0 +1,114 @@
+{
+    "26afbb728550c0df1149e771bc94d54b": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            11
+        ], 
+        "(20, 11)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                2296
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                2742
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                2987, 
+                1689, 
+                724, 
+                2479, 
+                1541
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            34
+        ], 
+        "location2": [
+            3
+        ], 
+        "(34, 3)": {
+            "WBF": [
+                3203
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2742
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1381
+            ], 
+            "WBO": [
+                2565, 
+                1589, 
+                2700, 
+                3158, 
+                2844, 
+                1300, 
+                2853, 
+                2844, 
+                2479, 
+                1541, 
+                2304, 
+                419, 
+                253, 
+                2844, 
+                436, 
+                1644, 
+                1468, 
+                2844, 
+                352, 
+                1541, 
+                2083, 
+                1136, 
+                304, 
+                1378, 
+                1468, 
+                1853, 
+                2916
+            ], 
+            "WBL": [
+                295
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "0e5f67b050553dd76a766dd94211c505": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            24
+        ], 
+        "(5, 24)": {
+            "WBF": [
+                2849
+            ], 
+            "BM1F": [
+                2642
+            ], 
+            "M1": [
+                420
+            ], 
+            "M2": [
+                2639
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBO": [
+                2844, 
+                1536, 
+                501, 
+                1915, 
+                251, 
+                1544, 
+                1441, 
+                3203, 
+                3, 
+                1915, 
+                1298, 
+                2886, 
+                2940, 
+                1559, 
+                3158
+            ], 
+            "WBL": [
+                1998
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "nice palm sized unit , somewhat bigger then the ipod but not an issue if you 're not going to try & jog with it or something ."
+    }
+}

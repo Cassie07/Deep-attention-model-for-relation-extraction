@@ -1,0 +1,137 @@
+{
+    "3dad728919e1b406d7295e3ca95a61fa": {
+        "(2, 25)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1429, 
+                1936, 
+                3130, 
+                1429, 
+                1328, 
+                2844, 
+                1901, 
+                1541, 
+                2842, 
+                2844, 
+                1242, 
+                746, 
+                3129, 
+                1541, 
+                2813, 
+                1952, 
+                2886, 
+                1355, 
+                146
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2499
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "the one other thing i observed while i had the nomad is that the front cover , which is taken off to have access to the battery , seemed to come undone very easily ."
+    }, 
+    "ead02770ba3fff710bbb69f23f20558b": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            11
+        ], 
+        "(15, 11)": {
+            "WBF": [
+                1570
+            ], 
+            "AM2L": [
+                287
+            ], 
+            "BM1F": [
+                2383
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1648
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                380
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the zennx will keep running for the price of a replacement battery , just like any other battery-powered appliance ."
+    }, 
+    "046321e6f46dfb8659079eb3d885696d": {
+        "(0, 3)": {
+            "WBF": [
+                2149
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                379
+            ], 
+            "WBO": [
+                569
+            ], 
+            "WBL": [
+                569
+            ], 
+            "AM2F": [
+                1673
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "other plus : changable battery , load of presets for environment , decent construction , still quite small and light despite being slightly bigger than an ipod ."
+    }
+}

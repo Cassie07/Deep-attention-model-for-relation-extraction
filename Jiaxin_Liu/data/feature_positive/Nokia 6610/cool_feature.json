@@ -1,0 +1,81 @@
+{
+    "744203c0ba661b81fbf49e058d3b8553": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            8
+        ], 
+        "(5, 8)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2666
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                3021
+            ], 
+            "WBL": [
+                3021
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this phone has a very cool and useful feature -- the speakerphone ."
+    }, 
+    "307c93e8a0e6940c41d5d78c4dba4954": {
+        "(4, 1)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                724
+            ], 
+            "WBO": [
+                2304
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the feature are really cool like the radio ."
+    }
+}

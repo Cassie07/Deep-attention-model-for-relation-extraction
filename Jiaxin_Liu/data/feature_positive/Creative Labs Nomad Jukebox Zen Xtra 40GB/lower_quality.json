@@ -1,0 +1,31 @@
+{
+    "673dd22fb3775b937ed0c3edfc1eeeaa": {
+        "(6, 7)": {
+            "BM1F": [
+                644
+            ], 
+            "M1": [
+                1705
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                2204
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "but with a low price , comes lower quality ."
+    }
+}

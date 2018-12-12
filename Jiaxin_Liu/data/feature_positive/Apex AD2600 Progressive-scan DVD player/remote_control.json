@@ -1,0 +1,238 @@
+{
+    "a475cd1c0454d10a130c0e05e28e193d": {
+        "(11, 12)": {
+            "BM1F": [
+                2988
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "5 ) this apex model 2600 will not work with my universal remote control ."
+    }, 
+    "21b5b1779d52da82b0a477fbf05b65d0": {
+        "(9, 10)": {
+            "AM2L": [
+                1978
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "weakness are minor : the feel and layout of the remote control are only so-so ; it does n't show the complete filename of mp3s with really long name ; you must cycle through every zoom setting ( 2x , 3x , 4x , 1/2x , etc . ) before getting back to normal size [ sorry if i 'm just ignorant of a way to get back to 1x quickly ] ."
+    }, 
+    "1b4b8b00a1be6322acc0a3232c0e902d": {
+        "(24, 15)": {
+            "WBF": [
+                3129
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2366
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                2366
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1541, 
+                1973, 
+                1951, 
+                2844, 
+                2584
+            ], 
+            "WBL": [
+                983
+            ], 
+            "AM2F": [
+                715
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the progressive scan option can be turned off easily by a button on the remote control which is one of the simplest and easiest remote control i have ever seen or used .", 
+        "location2": [
+            15, 
+            25
+        ], 
+        "(14, 25)": {
+            "WBF": [
+                715
+            ], 
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBO": [
+                3129, 
+                1541, 
+                1973, 
+                1951, 
+                2844, 
+                2584, 
+                253
+            ], 
+            "WBL": [
+                2366
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(24, 25)": {
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                983
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14, 
+            24
+        ], 
+        "(14, 15)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }, 
+    "b471b2d427e623361da6a9861a24aef8": {
+        "(3, 4)": {
+            "AM2L": [
+                2498
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                2451
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                917
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "p.s the remote control does seem to get confused at time and doesnt respond but it may be just operator error ?"
+    }
+}

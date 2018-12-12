@@ -1,0 +1,48 @@
+{
+    "c990b6b1103f5a85ae4afcfa4dd6d607": {
+        "(2, 12)": {
+            "WBF": [
+                619
+            ], 
+            "AM2L": [
+                1313
+            ], 
+            "BM1F": [
+                541
+            ], 
+            "M1": [
+                918
+            ], 
+            "M2": [
+                1542
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                1749, 
+                1793, 
+                3094, 
+                1570, 
+                1140, 
+                501
+            ], 
+            "WBL": [
+                541
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "my case doesnt close ... maybe mine was just faulty , but the case isnt that great ."
+    }
+}

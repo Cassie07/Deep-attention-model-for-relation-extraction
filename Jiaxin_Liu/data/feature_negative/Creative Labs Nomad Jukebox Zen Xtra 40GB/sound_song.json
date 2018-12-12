@@ -1,0 +1,204 @@
+{
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            29
+        ], 
+        "(10, 29)": {
+            "WBF": [
+                985
+            ], 
+            "AM2L": [
+                2763
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2886, 
+                3018, 
+                1055, 
+                2862, 
+                1429, 
+                206, 
+                2842, 
+                2844, 
+                2631, 
+                3094, 
+                1859, 
+                5, 
+                2844, 
+                413, 
+                253
+            ], 
+            "WBL": [
+                1030
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "location1": [
+            48
+        ], 
+        "location2": [
+            8
+        ], 
+        "(48, 8)": {
+            "WBF": [
+                1529
+            ], 
+            "AM2L": [
+                658
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2644
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBO": [
+                1545, 
+                1541, 
+                3041, 
+                1490, 
+                2886, 
+                1550, 
+                1967, 
+                2952, 
+                1638, 
+                1179, 
+                1545, 
+                1541, 
+                2158, 
+                1515, 
+                1529, 
+                2844, 
+                2025, 
+                2139, 
+                253, 
+                627, 
+                2886, 
+                3018, 
+                1051, 
+                3158, 
+                2811, 
+                253, 
+                2494, 
+                2844, 
+                3162, 
+                326, 
+                1219, 
+                2761, 
+                1190, 
+                2016, 
+                2761, 
+                1468
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "44d22a9ad796160bb6beb7100f6b8152": {
+        "(15, 23)": {
+            "WBF": [
+                3176
+            ], 
+            "AM2L": [
+                33
+            ], 
+            "BM1F": [
+                2644
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                2840, 
+                3160, 
+                1545, 
+                1429
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(15, 14)": {
+            "AM2L": [
+                2840
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                2644
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3176
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            14, 
+            23
+        ], 
+        "sentence": "the environmental audio , however , is almost completely useless and has made most of my song sound worse than without it ( i encode my song at 192-256 kbps without variable bit rate . )"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "c08ea81dfd0032ff6d47afa0112ba4c1": {
+        "(2, 15)": {
+            "WBF": [
+                2418
+            ], 
+            "AM2L": [
+                988
+            ], 
+            "BM1F": [
+                848
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                1191
+            ], 
+            "BM1L": [
+                39
+            ], 
+            "WBO": [
+                1288, 
+                1593, 
+                2886, 
+                2844, 
+                3210, 
+                1212, 
+                1853, 
+                2260, 
+                1429
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                3026
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "2 . despite most reviewer giving kudos to the zen for music quality , i experienced a flaw using eax ."
+    }
+}

@@ -1,0 +1,593 @@
+{
+    "381645b8c5e4a5a766692ae2bb576665": {
+        "(4, 7)": {
+            "WBF": [
+                1594
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2494
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                1842
+            ], 
+            "WBL": [
+                1842
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "this is my second creative lab mp3 player , and it is definitely a fine product ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "location1": [
+            43
+        ], 
+        "location2": [
+            9
+        ], 
+        "(43, 9)": {
+            "WBF": [
+                442
+            ], 
+            "AM2L": [
+                392
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1931
+            ], 
+            "WBO": [
+                130, 
+                808, 
+                2595, 
+                253, 
+                3112, 
+                130, 
+                2356, 
+                1866, 
+                2802, 
+                2842, 
+                547, 
+                372, 
+                1967, 
+                1435, 
+                2810, 
+                253, 
+                1072, 
+                2654, 
+                3142, 
+                1591, 
+                2886, 
+                381, 
+                415, 
+                2840, 
+                1536, 
+                1915, 
+                2785, 
+                697, 
+                2844, 
+                1929
+            ], 
+            "WBL": [
+                3196
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            9, 
+            21
+        ], 
+        "(7, 21)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2013
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                386
+            ], 
+            "WBO": [
+                2139, 
+                295, 
+                3052, 
+                1300, 
+                253, 
+                1355, 
+                2844, 
+                413, 
+                2654, 
+                2260
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(7, 9)": {
+            "AM2L": [
+                3052
+            ], 
+            "WBFL": [
+                1842
+            ], 
+            "BM1F": [
+                2013
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                386
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "93b83dad8de467af70db727ec3d5cebc": {
+        "(1, 28)": {
+            "WBF": [
+                1594
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2139
+            ], 
+            "WBO": [
+                3210, 
+                3194, 
+                1351, 
+                221, 
+                2844, 
+                1143, 
+                2844, 
+                1431, 
+                1351, 
+                253, 
+                1441, 
+                3203, 
+                1277, 
+                1441, 
+                1241, 
+                246, 
+                3204, 
+                1978, 
+                1298, 
+                2886, 
+                2071, 
+                64, 
+                1212
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "the creative lab zen xtra has all the feature the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player ."
+    }, 
+    "54724dd286a492837cf9f736f866a74a": {
+        "(1, 18)": {
+            "WBF": [
+                2631
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2857
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2139
+            ], 
+            "WBO": [
+                226, 
+                3203, 
+                2886, 
+                1576, 
+                2952, 
+                3151, 
+                1982, 
+                2886, 
+                1689, 
+                316, 
+                454, 
+                2844, 
+                707
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "third , creative software allows you to keep two window open to look at both the content on the player and the computer ."
+    }, 
+    "f36365781e2d87d761d5f6c5b23a90ab": {
+        "(5, 7)": {
+            "AM2L": [
+                2631
+            ], 
+            "WBFL": [
+                1842
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "AM2F": [
+                1328
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "in fact , each of my creative mp3 player had software problem in the first place ."
+    }, 
+    "c7f5cceaff97a5d0b302626a5fbb9eca": {
+        "(9, 3)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                201
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1701
+            ], 
+            "WBO": [
+                3181, 
+                2214
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                1594
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i love this player and would probably go with creative lab again ."
+    }, 
+    "20ba4c4b32823c2ce57fa535aeed926f": {
+        "location1": [
+            27
+        ], 
+        "location2": [
+            10
+        ], 
+        "(27, 10)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2257
+            ], 
+            "WBO": [
+                2844, 
+                1652, 
+                501, 
+                326, 
+                309, 
+                1967, 
+                2844, 
+                1901, 
+                295, 
+                2461, 
+                304, 
+                2565, 
+                381
+            ], 
+            "WBL": [
+                1241
+            ], 
+            "AM2F": [
+                1594
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have n't had time to really push this player to the limit , but audio aspect on the nomad are satisfactory , as should be expected from creative lab ."
+    }, 
+    "e17e18380718fc3b0a9d1deacbd92ff8": {
+        "location1": [
+            37
+        ], 
+        "location2": [
+            1
+        ], 
+        "(37, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1156
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                765
+            ], 
+            "WBO": [
+                251, 
+                2025, 
+                889, 
+                3158, 
+                130, 
+                744, 
+                1951, 
+                419, 
+                1191, 
+                2842, 
+                2179, 
+                504, 
+                2565, 
+                381, 
+                3093, 
+                1951, 
+                253, 
+                221, 
+                2298, 
+                1874, 
+                2886, 
+                1589, 
+                134, 
+                130, 
+                2857, 
+                2065, 
+                2631, 
+                655, 
+                2842, 
+                2400, 
+                3064, 
+                221
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1758
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "this player is an overall disappointment with a couple of big flaw that potential buyer should be wary of ; and all reader need to know about a third party software company that resolve virtually all of the creative mediasource file transfer issue ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(14, 7)": {
+            "WBF": [
+                1648
+            ], 
+            "AM2L": [
+                1924
+            ], 
+            "BM1F": [
+                1842
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1832
+            ], 
+            "WBO": [
+                1854, 
+                253, 
+                3149
+            ], 
+            "WBL": [
+                1915
+            ], 
+            "AM2F": [
+                3160
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(39, 7)": {
+            "WBF": [
+                1648
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                1842
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1832
+            ], 
+            "WBO": [
+                1854, 
+                253, 
+                3149, 
+                501, 
+                1915, 
+                765, 
+                3160, 
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545
+            ], 
+            "WBL": [
+                1853
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14, 
+            39
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

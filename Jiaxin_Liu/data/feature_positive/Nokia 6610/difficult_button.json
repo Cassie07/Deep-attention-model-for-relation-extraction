@@ -1,0 +1,38 @@
+{
+    "23f161907c6d5ce5f76a95f06dcb4341": {
+        "(4, 10)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                871
+            ], 
+            "M2": [
+                502
+            ], 
+            "BM1L": [
+                2883
+            ], 
+            "WBO": [
+                1985, 
+                368
+            ], 
+            "WBL": [
+                2182
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "negative : impossibly tiny and difficult to operate , barely visible , power button ."
+    }
+}

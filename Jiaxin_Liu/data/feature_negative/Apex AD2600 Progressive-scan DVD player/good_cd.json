@@ -1,0 +1,50 @@
+{
+    "eaf28814dbb3074b0659f527029d3186": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            15
+        ], 
+        "(3, 15)": {
+            "WBF": [
+                805
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                553
+            ], 
+            "BM1L": [
+                1648
+            ], 
+            "WBO": [
+                501, 
+                2859, 
+                2169, 
+                1236, 
+                522, 
+                1915, 
+                2327, 
+                966
+            ], 
+            "WBL": [
+                1853
+            ], 
+            "AM2F": [
+                2814
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "seemed like a good deal , but this pos frequently can not recognize dvds and music cd -- takes a long time loading and then concludes , `` no disc `` ."
+    }
+}

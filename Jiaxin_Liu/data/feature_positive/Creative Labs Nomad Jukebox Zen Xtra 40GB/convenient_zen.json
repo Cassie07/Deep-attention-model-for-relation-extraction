@@ -1,0 +1,105 @@
+{
+    "55a1e032f3ca37204ac18478c6c689ef": {
+        "(28, 2)": {
+            "WBF": [
+                1931
+            ], 
+            "AM2L": [
+                595
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                718
+            ], 
+            "BM1L": [
+                103
+            ], 
+            "WBO": [
+                379, 
+                2393, 
+                2844, 
+                139, 
+                171, 
+                2886, 
+                2321, 
+                1545, 
+                917, 
+                1915, 
+                574, 
+                507, 
+                3017, 
+                509, 
+                2859, 
+                1541, 
+                1915, 
+                2914, 
+                501, 
+                3017, 
+                2326, 
+                3181
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                177
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            28
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "6 . the zen nx battery requires the ac adapter to recharge ; it does not charge by usb cable ; this is not tragic , but usb recharging would be a convenient ( additional ) choice ."
+    }, 
+    "8c911f0be96ba4560218d1f4847f02a8": {
+        "(8, 4)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2725
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                718
+            ], 
+            "BM1L": [
+                3167
+            ], 
+            "WBO": [
+                1915
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                798
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "in other word , the zen is not a convenient data storage device ; only buy the capacity you need for your music collection ( see point 1. for some sizing information ) ."
+    }
+}

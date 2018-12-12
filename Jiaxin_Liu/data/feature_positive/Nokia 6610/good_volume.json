@@ -1,0 +1,73 @@
+{
+    "e8e469c6ce127a2b8e862966b0c3685e": {
+        "(8, 10)": {
+            "AM2L": [
+                1545
+            ], 
+            "WBFL": [
+                2654
+            ], 
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                3074
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the headset that comes with the phone has good sound volume but it hurt the ear like you can not imagine !"
+    }, 
+    "3c8ffb554f238698530ef85279f9b51f": {
+        "(10, 1)": {
+            "WBF": [
+                1638
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3074
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                1951, 
+                2844, 
+                2097, 
+                1541, 
+                1915
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the volume level of the phone is not all that good ."
+    }
+}

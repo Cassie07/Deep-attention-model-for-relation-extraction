@@ -1,0 +1,153 @@
+{
+    "ee31d7df41f71e9ae037cdf06e1512c9": {
+        "location1": [
+            8, 
+            20
+        ], 
+        "location2": [
+            7
+        ], 
+        "(20, 7)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                3162
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1574
+            ], 
+            "WBO": [
+                1570, 
+                304, 
+                1300, 
+                304, 
+                2844, 
+                2658, 
+                553, 
+                253, 
+                2844
+            ], 
+            "WBL": [
+                3194
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(8, 7)": {
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                3162
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1574
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "to my ear , a 160 kbps wma file sound just as good as the source cd , and the zen xtra sound just as good as a portable cd player ."
+    }, 
+    "e49ac9a4b66e14c04595bc27e7a4d260": {
+        "(0, 15)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1156
+            ], 
+            "WBO": [
+                1541, 
+                245, 
+                1429, 
+                3094, 
+                1084, 
+                3176, 
+                501, 
+                1548, 
+                2304, 
+                1300, 
+                1051
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                1355
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(18, 15)": {
+            "WBF": [
+                1355
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1441
+            ], 
+            "WBO": [
+                1300
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            0, 
+            18
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "sound quality is amazing . i was expecting worse , but its really good ( especially if your file have good sound quality ) ."
+    }
+}

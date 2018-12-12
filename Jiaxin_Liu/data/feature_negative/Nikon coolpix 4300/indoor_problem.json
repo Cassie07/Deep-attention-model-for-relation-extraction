@@ -1,0 +1,56 @@
+{
+    "747107cdbe2f2c1bbb64da5fa3d529a4": {
+        "(8, 26)": {
+            "WBF": [
+                2564
+            ], 
+            "AM2L": [
+                221
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                1488
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                1241, 
+                130, 
+                904, 
+                119, 
+                1595, 
+                714, 
+                253, 
+                635, 
+                501, 
+                1429, 
+                6, 
+                1225, 
+                2859, 
+                2886
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "the only drawback i 've encountered are : 1 indoor shot from a distance > 8ft lack contrast and color , but i 've found this to be a problem with all camera with built-in flash that i 've used even on a nikon slr ."
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "a5a636df118fc8a27663f81f5d541375": {
+        "(8, 26)": {
+            "WBF": [
+                2991
+            ], 
+            "BM1F": [
+                2199
+            ], 
+            "M1": [
+                3022
+            ], 
+            "M2": [
+                395
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3203, 
+                3, 
+                2046, 
+                2844, 
+                2139, 
+                3006, 
+                1212, 
+                2923, 
+                1998, 
+                1441, 
+                3203, 
+                1673, 
+                3006, 
+                221
+            ], 
+            "WBL": [
+                2644
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "as it stand now , the case is pretty useless unless you 're packing the player up for travel , or if you load up all your song beforehand ."
+    }
+}

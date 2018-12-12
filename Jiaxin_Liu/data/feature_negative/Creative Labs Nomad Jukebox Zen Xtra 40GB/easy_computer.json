@@ -1,0 +1,121 @@
+{
+    "da922c938e7f865a42ddedacb2b59143": {
+        "(11, 22)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                674
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3018, 
+                1441, 
+                3203, 
+                1355, 
+                130, 
+                373, 
+                1590
+            ], 
+            "WBL": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "i have found that the interface on the nomad is very easy to use if you have a basic knowledge of a computer ."
+    }, 
+    "8df2f7ba58c455f15ea3d272c2556f50": {
+        "(2, 14)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                3056
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                674
+            ], 
+            "BM1L": [
+                1865
+            ], 
+            "WBO": [
+                1429, 
+                1225, 
+                2842, 
+                2800, 
+                1156, 
+                1241, 
+                2844, 
+                2139
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2, 
+            19
+        ], 
+        "location2": [
+            14
+        ], 
+        "(19, 14)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                674
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                3056
+            ], 
+            "WBL": [
+                3094
+            ], 
+            "AM2F": [
+                2896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "navigation is easy and i found that syncing file from the player to the computer ( and vice versa ) was easy too ."
+    }
+}

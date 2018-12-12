@@ -1,0 +1,40 @@
+{
+    "80e11640737e6ee1cc2902f3c818c14c": {
+        "(5, 1)": {
+            "WBF": [
+                2479
+            ], 
+            "AM2L": [
+                2297
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1615
+            ], 
+            "M2": [
+                1602
+            ], 
+            "WBO": [
+                3094
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the lcd screen was very large and readable ."
+    }
+}

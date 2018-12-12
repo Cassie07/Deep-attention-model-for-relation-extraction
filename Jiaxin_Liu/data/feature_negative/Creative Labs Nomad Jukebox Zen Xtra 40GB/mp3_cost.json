@@ -1,0 +1,39 @@
+{
+    "9182663809b6095073a7d5f7266c9609": {
+        "(11, 18)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                736
+            ], 
+            "BM1L": [
+                2631
+            ], 
+            "WBO": [
+                1541, 
+                3178, 
+                2844
+            ], 
+            "WBL": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "so once i worked out the problem with the software this mp3 player is worth the money it cost ."
+    }
+}

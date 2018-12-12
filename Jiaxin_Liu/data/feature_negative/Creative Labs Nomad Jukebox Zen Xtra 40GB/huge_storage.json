@@ -1,0 +1,92 @@
+{
+    "1a660d93ab7bcfe1d1d3d39c1c3b80e0": {
+        "(0, 1)": {
+            "AM2L": [
+                1055
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                2725
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2660
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "huge storage space - even at 320kbs , you can store a ton of song on this thing ."
+    }, 
+    "05b005a587509a9b418bc7b414f03e1b": {
+        "(1, 2)": {
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                2213
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                2725
+            ], 
+            "AM2F": [
+                530
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "pro : huge storage capacity for the price , easy to navigate , can modify existing playlist on the fly , has a removable battery"
+    }, 
+    "39e04a3877da6e2dd43afd9b1587c5f3": {
+        "(0, 1)": {
+            "AM2L": [
+                1429
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                2725
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2660
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "huge storage space , i loaded my entire collection of music , which isnt that much , 400 song , and still have 26 gb , out of the 28 provided to you ."
+    }
+}

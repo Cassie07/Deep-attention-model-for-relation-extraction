@@ -1,0 +1,72 @@
+{
+    "da46710dc8d7f047b7d2852a70779dbb": {
+        "(11, 7)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1682
+            ], 
+            "BM1F": [
+                2112
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                2714
+            ], 
+            "WBO": [
+                1165
+            ], 
+            "WBL": [
+                2016
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "this camera has a cool stitch picture feature , to find out more just log on to canon 's website ."
+    }, 
+    "a820ec8ce849643a61378f3b7b7ef1ec": {
+        "(11, 12)": {
+            "BM1F": [
+                1055
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "it 's slightly lighter than the g2 and packed with even more feature ."
+    }
+}

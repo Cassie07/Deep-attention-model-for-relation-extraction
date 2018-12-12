@@ -1,0 +1,82 @@
+{
+    "c35cec64272467bc85a2e0ad72807549": {
+        "(8, 5)": {
+            "WBF": [
+                1915
+            ], 
+            "AM2L": [
+                2587
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                1177
+            ], 
+            "M2": [
+                2301
+            ], 
+            "BM1L": [
+                5
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                666
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            5, 
+            19
+        ], 
+        "(8, 19)": {
+            "WBF": [
+                666
+            ], 
+            "AM2L": [
+                2848
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2301
+            ], 
+            "M2": [
+                1177
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "WBO": [
+                2587, 
+                1832, 
+                3151, 
+                3023, 
+                912, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                1355
+            ], 
+            "AM2F": [
+                533
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it does n't have firewire , not a real complaint since most window user do n't generally have firewire card themselves ."
+    }
+}

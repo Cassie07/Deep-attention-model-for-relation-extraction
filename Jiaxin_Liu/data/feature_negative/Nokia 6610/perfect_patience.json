@@ -1,0 +1,46 @@
+{
+    "437957753d095bc51aec7470946afeac": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            14
+        ], 
+        "(6, 14)": {
+            "WBF": [
+                2097
+            ], 
+            "AM2L": [
+                1198
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2083
+            ], 
+            "M2": [
+                2068
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1212, 
+                2861, 
+                1951, 
+                3015
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "other than that , this is a perfect phone for those of us with no patience for flip ."
+    }
+}

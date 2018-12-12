@@ -1,0 +1,31 @@
+{
+    "f1d894ebed14f332b5be805d716739ef": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                2202
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2992
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "also navigating while playing music is a plus unlike my previous player ."
+    }
+}

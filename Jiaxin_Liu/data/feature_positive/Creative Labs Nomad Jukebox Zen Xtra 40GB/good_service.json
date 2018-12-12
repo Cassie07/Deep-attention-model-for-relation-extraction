@@ -1,0 +1,34 @@
+{
+    "6bc32f701b31d3e1398b32992b827143": {
+        "(22, 24)": {
+            "WBFL": [
+                556
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2527
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "AM2F": [
+                1305
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "8 ) creative mediasource , although not as sleek looking as window mediaplayer , is effective in organizing your collection and is linked to a good cddb service ( gracenotes ) ."
+    }
+}

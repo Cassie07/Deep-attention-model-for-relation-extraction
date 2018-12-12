@@ -1,0 +1,83 @@
+{
+    "c17dc1715e1475263f7052f45d238a95": {
+        "(1, 8)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                2032
+            ], 
+            "BM1F": [
+                2025
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                286
+            ], 
+            "WBO": [
+                1313, 
+                253, 
+                1634
+            ], 
+            "WBL": [
+                2840
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "overall : small , sound great , and less expensive than apple 's overpriced ipod !"
+    }, 
+    "c797f7ccd54badc9e0db79b7ce27861a": {
+        "(12, 9)": {
+            "WBF": [
+                574
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2976
+            ], 
+            "M1": [
+                286
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1223
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "price , along with the replaceable battery ( which i understand apple charge a small fortune to replace - as well as the hassle of returning it ) were the two main factor on why i picked the nomad ."
+    }
+}

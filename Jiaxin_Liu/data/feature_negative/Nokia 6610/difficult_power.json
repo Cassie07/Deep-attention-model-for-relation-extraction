@@ -1,0 +1,83 @@
+{
+    "7aba4051c00fd6801f9538e897377aed": {
+        "(15, 8)": {
+            "WBF": [
+                1967
+            ], 
+            "AM2L": [
+                2195
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2182
+            ], 
+            "M2": [
+                871
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                1952, 
+                1579, 
+                1541
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the keypad is a decent size , but the power on/off key is small and difficult to press ."
+    }, 
+    "23f161907c6d5ce5f76a95f06dcb4341": {
+        "(4, 9)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                871
+            ], 
+            "M2": [
+                2182
+            ], 
+            "BM1L": [
+                2883
+            ], 
+            "WBO": [
+                1985
+            ], 
+            "WBL": [
+                3067
+            ], 
+            "AM2F": [
+                502
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "negative : impossibly tiny and difficult to operate , barely visible , power button ."
+    }
+}

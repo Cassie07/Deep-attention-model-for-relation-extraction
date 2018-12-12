@@ -1,0 +1,37 @@
+{
+    "ccccff139fff46b68ee5e5d3b5f6720d": {
+        "(18, 16)": {
+            "AM2L": [
+                522
+            ], 
+            "WBFL": [
+                501
+            ], 
+            "BM1F": [
+                2811
+            ], 
+            "M1": [
+                2802
+            ], 
+            "M2": [
+                1832
+            ], 
+            "BM1L": [
+                2631
+            ], 
+            "AM2F": [
+                2079
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the control are somewhat harder to use , and there are some oddity about the software tagging system , but most people can live with this ."
+    }
+}

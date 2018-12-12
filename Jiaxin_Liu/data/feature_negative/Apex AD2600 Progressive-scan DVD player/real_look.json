@@ -1,0 +1,44 @@
+{
+    "3f3779a73e73c8430f134c2c7dca084f": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            4
+        ], 
+        "(13, 4)": {
+            "WBF": [
+                1441
+            ], 
+            "BM1F": [
+                2600
+            ], 
+            "M1": [
+                1689
+            ], 
+            "M2": [
+                2301
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1545, 
+                522, 
+                5, 
+                2136, 
+                2637
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                966
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "forget about the sleek look if it can 't play some of your real dvds ."
+    }
+}

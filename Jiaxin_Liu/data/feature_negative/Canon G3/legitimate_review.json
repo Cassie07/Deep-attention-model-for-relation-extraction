@@ -1,0 +1,43 @@
+{
+    "0c497fa3be9389b212b112840b0bb06e": {
+        "(3, 8)": {
+            "WBF": [
+                769
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1978
+            ], 
+            "M1": [
+                1627
+            ], 
+            "M2": [
+                2417
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1241
+            ], 
+            "WBL": [
+                1977
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "about the only legitimate criticsm from the online review is that fact that the lens really does obstruct the viewfinder ."
+    }
+}

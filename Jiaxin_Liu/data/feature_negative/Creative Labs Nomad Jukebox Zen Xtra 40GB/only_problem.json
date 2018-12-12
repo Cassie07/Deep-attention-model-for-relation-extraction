@@ -1,0 +1,185 @@
+{
+    "dddabe0a6ff5deb6dc9e3641be46c42d": {
+        "location1": [
+            29
+        ], 
+        "location2": [
+            6
+        ], 
+        "(29, 6)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                3145
+            ], 
+            "WBO": [
+                2844, 
+                1258, 
+                253, 
+                2844, 
+                82, 
+                1212, 
+                2844, 
+                39, 
+                3196, 
+                1896, 
+                2261, 
+                307, 
+                2383, 
+                3091, 
+                3145, 
+                381, 
+                3178, 
+                1545, 
+                2587
+            ], 
+            "WBL": [
+                3145
+            ], 
+            "AM2F": [
+                3090
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i know this unit will have problem in the future and the $ 40 for the 2 year `` no question asked `` replacement warranty will be worth it , since creative will only warrant it for 90 day - which in itself is totally ridiculous !"
+    }, 
+    "15a7c1725a6f3133066f8d0f949ee8de": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "AM2L": [
+                150
+            ], 
+            "WBFL": [
+                9
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2215
+            ], 
+            "AM2F": [
+                1896
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "only 1 problem , no accessory ... yet ."
+    }, 
+    "b7a4b4086ff6f9e114fd0bbca4c9e6cc": {
+        "(25, 45)": {
+            "WBF": [
+                1328
+            ], 
+            "AM2L": [
+                3006
+            ], 
+            "BM1F": [
+                6
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                2844, 
+                2139, 
+                1212, 
+                130, 
+                3130, 
+                1429, 
+                1622, 
+                2441, 
+                1212, 
+                926, 
+                1441, 
+                2844, 
+                1366, 
+                1552, 
+                1400, 
+                1998
+            ], 
+            "WBL": [
+                3123
+            ], 
+            "AM2F": [
+                2567
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(25, 14)": {
+            "WBF": [
+                2079
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                1355, 
+                2378, 
+                766, 
+                1358, 
+                2024, 
+                501, 
+                304
+            ], 
+            "WBL": [
+                6
+            ], 
+            "AM2F": [
+                1328
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            25
+        ], 
+        "location2": [
+            14, 
+            45
+        ], 
+        "sentence": "overall , i 'm giving this 5 star as i 've seen nothing of the problem people have repeatedly cried havoc over , but as i 've only had the player for a while i leave room for doubt if the headphone jack , hissing , or scroll wheel problem show up with me too ."
+    }
+}

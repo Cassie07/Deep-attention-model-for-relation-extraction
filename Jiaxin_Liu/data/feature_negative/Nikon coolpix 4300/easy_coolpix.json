@@ -1,0 +1,43 @@
+{
+    "1da9da21f6c3e925964f446dfeae9895": {
+        "(6, 2)": {
+            "WBF": [
+                85
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                1893
+            ], 
+            "M1": [
+                726
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                3166
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the nikon coolpix 4300 is wonderful -- easy to use , high quality , and compact in size ."
+    }
+}

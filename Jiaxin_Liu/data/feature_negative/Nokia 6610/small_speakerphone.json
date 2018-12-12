@@ -1,0 +1,37 @@
+{
+    "2ba94a2d6897c0dc29eaf3f1c90562af": {
+        "(14, 16)": {
+            "AM2L": [
+                1313
+            ], 
+            "WBFL": [
+                2595
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                2666
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "AM2F": [
+                1996
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email ."
+    }
+}

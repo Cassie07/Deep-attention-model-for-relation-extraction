@@ -1,0 +1,170 @@
+{
+    "bf481030e644dc8ef932d183242a13dd": {
+        "(7, 8)": {
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "this is wonderful to have for your first dvd player ."
+    }, 
+    "c43abed7f15effb4bbf9b56cd5cdb4e1": {
+        "(5, 18)": {
+            "WBF": [
+                896
+            ], 
+            "AM2L": [
+                1243
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                2867
+            ], 
+            "WBO": [
+                3102, 
+                2138, 
+                1967, 
+                1545, 
+                1862, 
+                1967, 
+                66, 
+                801, 
+                200
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "3/4 way through the first disk we played on it ( naturally on 31 day after purchase ) the dvd player froze ."
+    }, 
+    "650f5a9fc8d23e1f5feb8370e59dc04f": {
+        "(0, 6)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                961
+            ], 
+            "WBO": [
+                221, 
+                1429
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "first of all , i bought this dvd as a christmas present for my girlfriend and i am somewhat disappointed ."
+    }, 
+    "d460f81b43998cfb748cde2be9836aec": {
+        "(2, 17)": {
+            "WBF": [
+                1151
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                3110, 
+                2859, 
+                2139, 
+                3094, 
+                1064, 
+                1429, 
+                1083, 
+                1545, 
+                2886, 
+                381, 
+                251
+            ], 
+            "WBL": [
+                1849
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "for the first few week , this player was everything i expected it to be , an affordable multi-format dvd player with a stylish slim case as advertised ."
+    }
+}

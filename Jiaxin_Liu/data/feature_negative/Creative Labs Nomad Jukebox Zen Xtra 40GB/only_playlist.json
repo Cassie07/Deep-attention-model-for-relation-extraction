@@ -1,0 +1,50 @@
+{
+    "d8fbb9053ab6bfa846842cec9c7375ac": {
+        "(1, 16)": {
+            "WBF": [
+                934
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2141
+            ], 
+            "WBO": [
+                1429, 
+                2496, 
+                1541, 
+                2842, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                1689, 
+                1648, 
+                3203
+            ], 
+            "WBL": [
+                1727
+            ], 
+            "AM2F": [
+                1241
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the only downside i see is that it does n't look like you can manage playlist from the nomad , it has to be done from the computer ."
+    }
+}

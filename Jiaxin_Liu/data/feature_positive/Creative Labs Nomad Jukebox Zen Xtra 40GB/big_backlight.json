@@ -1,0 +1,72 @@
+{
+    "e4ac12789200e32ecf5a324b1e5e7bb1": {
+        "(1, 2)": {
+            "AM2L": [
+                2853
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                358
+            ], 
+            "AM2F": [
+                1724
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(12, 2)": {
+            "WBF": [
+                1724
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                419
+            ], 
+            "M1": [
+                358
+            ], 
+            "M2": [
+                419
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2853, 
+                985, 
+                2886, 
+                2496, 
+                253, 
+                2844
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                1030
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            1, 
+            12
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the big backlight makes thing easy to see , and the writing is big enough for people to see ."
+    }
+}

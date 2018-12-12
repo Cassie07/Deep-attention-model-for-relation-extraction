@@ -1,0 +1,128 @@
+{
+    "86fbc0120dc9e7b25d672355dc9d3046": {
+        "(16, 7)": {
+            "WBF": [
+                3203
+            ], 
+            "AM2L": [
+                1961
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                2150
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                1215, 
+                1545, 
+                1541, 
+                2850, 
+                1545
+            ], 
+            "WBL": [
+                2967
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "when you put this phone in your pocket you forget it is there ; it is unbelievably small and oh , so light ."
+    }, 
+    "fe5fec6558b2e30fcb5d27fdc47570d2": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            9
+        ], 
+        "(2, 9)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                1103
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                2150
+            ], 
+            "BM1L": [
+                2595
+            ], 
+            "WBO": [
+                718, 
+                3145, 
+                1181
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "size - extremely small and convenient will fit in your pocket and not bother you ."
+    }, 
+    "2701b1794a0ea76ecda5d225153a920e": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            14
+        ], 
+        "(6, 14)": {
+            "WBF": [
+                2628
+            ], 
+            "BM1F": [
+                381
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                2150
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1429, 
+                522, 
+                1181, 
+                1545
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i like my phone to be small so i can fit it in my pocket ."
+    }
+}

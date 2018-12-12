@@ -1,0 +1,82 @@
+{
+    "d36bdc5dfa57c2ffcd3b26042b66d2e6": {
+        "(0, 15)": {
+            "WBF": [
+                1072
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2275
+            ], 
+            "WBO": [
+                2156, 
+                2430, 
+                2895, 
+                295, 
+                3052, 
+                1886, 
+                584, 
+                675, 
+                1545, 
+                233, 
+                924
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "sound - excellent polyphonic ringing tone are very nice ( check con ) it also double as a radio , which is a nice feature when you are bored ."
+    }, 
+    "f5cbb3d03ebbfc0942b32ad9a8187168": {
+        "(5, 1)": {
+            "WBF": [
+                1143
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2275
+            ], 
+            "M2": [
+                2654
+            ], 
+            "WBO": [
+                1351
+            ], 
+            "WBL": [
+                2769
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the radio feature has superb sound quality ."
+    }
+}

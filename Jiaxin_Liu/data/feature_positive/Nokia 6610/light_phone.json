@@ -1,0 +1,288 @@
+{
+    "b89efe0de0fd797ce86e413b78bcc046": {
+        "(35, 6)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                1147
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1302
+            ], 
+            "WBO": [
+                2259, 
+                1545, 
+                1885, 
+                2886, 
+                1752, 
+                3124, 
+                1429, 
+                3119, 
+                2886, 
+                390, 
+                1570, 
+                2886, 
+                1662, 
+                2886, 
+                1856, 
+                1141, 
+                1853, 
+                2703, 
+                253, 
+                2844, 
+                1335, 
+                1549, 
+                918, 
+                3112, 
+                267
+            ], 
+            "WBL": [
+                2896
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the first night i got this phone i put it next to me when i went to bed just to listen to my favorite music station and the handset itself doesnt weight anything its too light and feel so comfy with it ."
+    }, 
+    "0774bbf5a1f65c236eec818161d3b56d": {
+        "(4, 5)": {
+            "AM2L": [
+                1669
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this is a very light phone - a little less than 3 oz , with long battery life ( not as long as the new polymer technology ) ."
+    }, 
+    "8ee54a07a100d3ae716ff48a9b13ef2a": {
+        "(4, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3052
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1644
+            ], 
+            "WBO": [
+                2615
+            ], 
+            "WBL": [
+                2615
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the phone is small , light , and very attractive ."
+    }, 
+    "068bd7c0f0afc39243b4899bb1fe99a4": {
+        "(16, 11)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                3124
+            ], 
+            "WBO": [
+                2628
+            ], 
+            "WBL": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "it is amazing that the battery last so long when the phone is so small and light ."
+    }, 
+    "82e64d953b29aae10303bde70a8ad379": {
+        "(4, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1644
+            ], 
+            "WBO": [
+                3052
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                3112
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the phone is very light weight ."
+    }, 
+    "105924e46523168dd9a09a96a05d6a46": {
+        "(3, 2)": {
+            "BM1F": [
+                1669
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                653
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "nice little phone ... light compact . ."
+    }, 
+    "86fbc0120dc9e7b25d672355dc9d3046": {
+        "(20, 4)": {
+            "WBF": [
+                1468
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                2259
+            ], 
+            "WBO": [
+                3204, 
+                2150, 
+                3203, 
+                1215, 
+                1545, 
+                1541, 
+                2850, 
+                1545, 
+                1541, 
+                2967, 
+                2615, 
+                253
+            ], 
+            "WBL": [
+                2628
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            20
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "when you put this phone in your pocket you forget it is there ; it is unbelievably small and oh , so light ."
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "df460eaf582c2debf712f5605d908023": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            39
+        ], 
+        "(13, 39)": {
+            "WBF": [
+                130
+            ], 
+            "AM2L": [
+                1241
+            ], 
+            "BM1F": [
+                316
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                503
+            ], 
+            "BM1L": [
+                381
+            ], 
+            "WBO": [
+                84, 
+                2166, 
+                1343, 
+                943, 
+                215, 
+                1973, 
+                1967, 
+                3129, 
+                1429, 
+                522, 
+                5, 
+                760, 
+                1208, 
+                1998, 
+                316, 
+                3177, 
+                130, 
+                3052, 
+                1085, 
+                1635, 
+                1468, 
+                655
+            ], 
+            "WBL": [
+                2886
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }, 
+    "4eb5f2954876bf5f8cf65bf5ee5d832b": {
+        "(9, 10)": {
+            "AM2L": [
+                2850
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                503
+            ], 
+            "BM1L": [
+                381
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2016
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "considering the price and specs , this might be the best buy out there for a large memory mp3 player ."
+    }, 
+    "bc8cb26f2e111e60b22ac940195a192f": {
+        "(11, 12)": {
+            "AM2L": [
+                1233
+            ], 
+            "BM1F": [
+                316
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                503
+            ], 
+            "BM1L": [
+                3091
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1945
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "short warranty ( 3 month , so i got the extended warranty at best buy ) , occasional freeze up ( easily fixed by popping out battery ) , somewhat flimsy navigation wheel ."
+    }
+}

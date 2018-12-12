@@ -1,0 +1,47 @@
+{
+    "4e222be5574201bad2e38c874688344f": {
+        "(3, 12)": {
+            "WBF": [
+                869
+            ], 
+            "AM2L": [
+                1926
+            ], 
+            "BM1F": [
+                912
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1583
+            ], 
+            "BM1L": [
+                522
+            ], 
+            "WBO": [
+                2853, 
+                3158, 
+                1545, 
+                2760, 
+                304
+            ], 
+            "WBL": [
+                3121
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "you can do other different thing with it such as choose what kind of `` now playing `` interface , you can see the interface as modern or classical ."
+    }
+}

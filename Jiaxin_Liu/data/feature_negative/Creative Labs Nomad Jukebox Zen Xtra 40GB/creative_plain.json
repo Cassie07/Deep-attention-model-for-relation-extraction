@@ -1,0 +1,44 @@
+{
+    "5665cc636f7aeff4e22e1cacfc8c571f": {
+        "(1, 10)": {
+            "WBF": [
+                2631
+            ], 
+            "AM2L": [
+                1859
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2129
+            ], 
+            "WBO": [
+                1541, 
+                348, 
+                871, 
+                2886, 
+                3018
+            ], 
+            "WBL": [
+                1570
+            ], 
+            "AM2F": [
+                917
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the creative software is awkward / difficult to use and just plain does n't load on some computer ."
+    }
+}

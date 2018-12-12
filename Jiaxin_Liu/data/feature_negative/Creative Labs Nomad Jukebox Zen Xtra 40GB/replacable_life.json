@@ -1,0 +1,47 @@
+{
+    "00678fc65cf74c7bbfb5bf91f2796a34": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            6
+        ], 
+        "(15, 6)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1072
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1643
+            ], 
+            "M2": [
+                2379
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1072, 
+                2844, 
+                1112, 
+                2842, 
+                2844
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the sound is excellent , the battery life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent ."
+    }
+}

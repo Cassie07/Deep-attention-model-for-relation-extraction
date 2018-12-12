@@ -1,0 +1,107 @@
+{
+    "e8e469c6ce127a2b8e862966b0c3685e": {
+        "(8, 9)": {
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3074
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the headset that comes with the phone has good sound volume but it hurt the ear like you can not imagine !"
+    }, 
+    "744f525296a4d9c08aa0fe2e19b27dba": {
+        "(4, 5)": {
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1328
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                238
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "nokias have always had good sound quality and this is no exception ."
+    }, 
+    "867e0d28796d18caa886b83e1e446570": {
+        "(9, 10)": {
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                3120
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1143
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "while i had the phone , the positive feature were : good sound quality and an excellent fm phone and earpiece ."
+    }
+}

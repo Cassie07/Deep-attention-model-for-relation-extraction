@@ -1,0 +1,44 @@
+{
+    "034391c92fae4d4613f259670a4dc0e4": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            12
+        ], 
+        "(6, 12)": {
+            "WBF": [
+                961
+            ], 
+            "AM2L": [
+                1973
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2494
+            ], 
+            "M2": [
+                1423
+            ], 
+            "BM1L": [
+                1505
+            ], 
+            "WBO": [
+                2139, 
+                1468
+            ], 
+            "WBL": [
+                478
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "when i tried to install the second dvd player in my brother house , that one didn `` t work either !"
+    }
+}

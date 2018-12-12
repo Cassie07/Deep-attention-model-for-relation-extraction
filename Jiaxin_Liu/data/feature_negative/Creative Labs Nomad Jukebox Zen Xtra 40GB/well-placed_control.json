@@ -1,0 +1,37 @@
+{
+    "d8012015c19cafbf96cbc6cad5741bba": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            5
+        ], 
+        "(6, 5)": {
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                3118
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i find all of the control well-placed and not flimsy in the least ."
+    }
+}

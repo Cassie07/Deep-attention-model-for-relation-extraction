@@ -1,0 +1,43 @@
+{
+    "da46710dc8d7f047b7d2852a70779dbb": {
+        "(11, 6)": {
+            "WBF": [
+                1143
+            ], 
+            "AM2L": [
+                1682
+            ], 
+            "BM1F": [
+                2714
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                724
+            ], 
+            "WBO": [
+                2886
+            ], 
+            "WBL": [
+                2016
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this camera has a cool stitch picture feature , to find out more just log on to canon 's website ."
+    }
+}

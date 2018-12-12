@@ -1,0 +1,131 @@
+{
+    "8c911f0be96ba4560218d1f4847f02a8": {
+        "(1, 20)": {
+            "WBF": [
+                3167
+            ], 
+            "AM2L": [
+                2496
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1853
+            ], 
+            "WBO": [
+                2844, 
+                3210, 
+                1541, 
+                1915, 
+                130, 
+                718, 
+                798, 
+                2725, 
+                858, 
+                1978, 
+                503, 
+                2844, 
+                530, 
+                3203, 
+                1874
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                633
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "in other word , the zen is not a convenient data storage device ; only buy the capacity you need for your music collection ( see point 1. for some sizing information ) ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(42, 38)": {
+            "WBF": [
+                765
+            ], 
+            "AM2L": [
+                221
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                545
+            ], 
+            "WBO": [
+                1998
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                655
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(42, 50)": {
+            "WBF": [
+                655
+            ], 
+            "AM2L": [
+                2918
+            ], 
+            "BM1F": [
+                264
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                1998
+            ], 
+            "WBO": [
+                221, 
+                1856, 
+                17, 
+                93
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                3120
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            42
+        ], 
+        "location2": [
+            38, 
+            50
+        ], 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

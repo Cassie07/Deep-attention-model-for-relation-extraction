@@ -1,0 +1,269 @@
+{
+    "695d490cea19970e52fa3608c2ac96c8": {
+        "(4, 5)": {
+            "AM2L": [
+                825
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                2814
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2570
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "otherwise , it takes very good picture ; shutter delay is n't so bad either ."
+    }, 
+    "7c796cc382127a60c5fb968230a6441f": {
+        "location1": [
+            5, 
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(5, 11)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                251
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3158, 
+                130
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                607
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(10, 11)": {
+            "AM2L": [
+                251
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                607
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "but overall this is a good camera with a ' really good ' picture clarity ; an exceptional close-up shooting capability ."
+    }, 
+    "42f0ce4c366e69f992de1c95467b18e7": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            2
+        ], 
+        "(11, 2)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                802
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                472, 
+                253, 
+                2844, 
+                1488, 
+                2564
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2245
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the daylight picture are brilliant and the indoor shot are very good provided that your subject is no more than about 8 foot away ."
+    }, 
+    "0ebcdfef8bb972e3ec21c12e403b87b6": {
+        "(7, 3)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                237
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1893
+            ], 
+            "WBO": [
+                295
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "with nikon , although picture quality are as good as any other 4 mp camera , i 've had the following headache ;"
+    }, 
+    "6c8553c3c50ea94e8903ac7ad2b1d889": {
+        "(5, 7)": {
+            "AM2L": [
+                2844
+            ], 
+            "WBFL": [
+                1951
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                2814
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the digital zoom takes as good of picture , as the optical zoom does !"
+    }, 
+    "4283cf0438864dd7aa4566ca679cc53b": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            16
+        ], 
+        "(10, 16)": {
+            "WBF": [
+                875
+            ], 
+            "AM2L": [
+                917
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                520, 
+                2842
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                3200
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i highly recommend this camera to anyone looking for a good digital camera that takes great picture yet does n't take week to figure out how to operate ."
+    }
+}

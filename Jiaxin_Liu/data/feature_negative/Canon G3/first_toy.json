@@ -1,0 +1,44 @@
+{
+    "eae3fa8ec5597ddf6e714868e7a3068d": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            9
+        ], 
+        "(3, 9)": {
+            "WBF": [
+                875
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                2910
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                520, 
+                253
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this is my first digital camera , and what a ' toy ' it is !"
+    }
+}

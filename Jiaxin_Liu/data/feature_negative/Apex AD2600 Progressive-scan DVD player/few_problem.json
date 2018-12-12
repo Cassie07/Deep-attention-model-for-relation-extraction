@@ -1,0 +1,59 @@
+{
+    "80a2e096524056f7ac5d85b13f7b69fe": {
+        "(36, 12)": {
+            "WBF": [
+                3124
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                1151
+            ], 
+            "BM1L": [
+                1547
+            ], 
+            "WBO": [
+                3098, 
+                130, 
+                1839, 
+                2844, 
+                2112, 
+                3145, 
+                1233, 
+                501, 
+                2844, 
+                961, 
+                2712, 
+                2136, 
+                253, 
+                1058, 
+                2844, 
+                2112, 
+                1581, 
+                352, 
+                1468, 
+                200
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1820
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            36
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "but about 25 % of dvd 's i 've played on ithave a problem , when watching a movie the picture will freeze , but the dvd still play , and eventualy the picture kick back in after skipping a few moment ."
+    }
+}

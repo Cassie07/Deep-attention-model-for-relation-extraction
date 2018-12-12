@@ -1,0 +1,54 @@
+{
+    "656e72834c7ff8e049c4a59974414993": {
+        "(29, 13)": {
+            "WBF": [
+                2112
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1072
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                253, 
+                130, 
+                639, 
+                1951, 
+                981, 
+                1951, 
+                3018, 
+                253, 
+                2844, 
+                1194, 
+                2886, 
+                1277
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                1996
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "i 'd highly recommend this camera for anyone who is looking for excellent quality picture and a combination of ease of use and the flexibility to get advanced with many option to adjust if you like ."
+    }
+}

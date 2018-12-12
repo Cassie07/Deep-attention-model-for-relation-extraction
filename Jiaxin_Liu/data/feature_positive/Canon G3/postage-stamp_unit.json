@@ -1,0 +1,43 @@
+{
+    "a4bf04bb2ffffdf15f1e93ccd942ba31": {
+        "(2, 5)": {
+            "WBF": [
+                2596
+            ], 
+            "AM2L": [
+                3166
+            ], 
+            "BM1F": [
+                2883
+            ], 
+            "M1": [
+                2177
+            ], 
+            "M2": [
+                2987
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2366
+            ], 
+            "WBL": [
+                2366
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "the tiny ( postage-stamp sized ) remote unit is wonderful : not only does it trigger the shutter , it can also be used to zoom and review picture ."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "5edd2e3912aadfe55b64bee98b5416f2": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            19
+        ], 
+        "(18, 19)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                3212
+            ], 
+            "BM1L": [
+                3094
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i was willing to live with the larger size ( inconvenient on the road ) but the durability was a big zero ."
+    }
+}

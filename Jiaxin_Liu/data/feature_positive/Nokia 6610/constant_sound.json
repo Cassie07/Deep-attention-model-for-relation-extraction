@@ -1,0 +1,43 @@
+{
+    "00f4f2006de708c2e8e1b5f70f053974": {
+        "(4, 7)": {
+            "WBF": [
+                1389
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                700
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1381
+            ], 
+            "WBO": [
+                905
+            ], 
+            "WBL": [
+                905
+            ], 
+            "AM2F": [
+                1915
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i do here a constant high-pitched distorted sound , not to mention the volume does not seem to be loud enough ."
+    }
+}

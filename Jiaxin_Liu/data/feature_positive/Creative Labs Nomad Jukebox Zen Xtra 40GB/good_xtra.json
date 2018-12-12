@@ -1,0 +1,203 @@
+{
+    "ee31d7df41f71e9ae037cdf06e1512c9": {
+        "(11, 19)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                1570
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                3194
+            ], 
+            "BM1L": [
+                1570
+            ], 
+            "WBO": [
+                2844, 
+                2658, 
+                553, 
+                253
+            ], 
+            "WBL": [
+                3210
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11, 
+            23
+        ], 
+        "location2": [
+            19
+        ], 
+        "(23, 19)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                3210
+            ], 
+            "M1": [
+                3194
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1570
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "to my ear , a 160 kbps wma file sound just as good as the source cd , and the zen xtra sound just as good as a portable cd player ."
+    }, 
+    "2f0c579001ddf9a71892e54a7ae11a15": {
+        "(6, 2)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                3210
+            ], 
+            "M1": [
+                3194
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1313
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                1366
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the zen xtra sound great with good headphone and well recored mp3s ."
+    }, 
+    "937380945b7a721b7403148d0d455e73": {
+        "(8, 4)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                3210
+            ], 
+            "M1": [
+                3194
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1566
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                1842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "the nomad jukebox zen xtra is a very good mp3 player but the software is it gets hurt ."
+    }, 
+    "3bf21a4b29d090cbd158c4195701fcd2": {
+        "(12, 18)": {
+            "WBF": [
+                2182
+            ], 
+            "AM2L": [
+                943
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                3194
+            ], 
+            "BM1L": [
+                2289
+            ], 
+            "WBO": [
+                2021, 
+                223
+            ], 
+            "WBL": [
+                3210
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "1 ) great sound ( > 98db signal-to-noise ratio beat ipod 's `` unspecified `` ratio ) and good power output allow the zen xtra to drive large head-phones as well as external speaker ."
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "48bcb8b7a73b431d17faa7c86416eb2c": {
+        "(3, 5)": {
+            "AM2L": [
+                1429
+            ], 
+            "WBFL": [
+                875
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this is my first digital camera and i could n't be happier ."
+    }, 
+    "bf6a7e1803fcb60ab4e76c2f4119489b": {
+        "(0, 12)": {
+            "WBF": [
+                253
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                520
+            ], 
+            "WBO": [
+                1213, 
+                1545, 
+                3145, 
+                2812, 
+                415, 
+                2107, 
+                4, 
+                2840
+            ], 
+            "WBL": [
+                1162
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "first and foremost , it will take better pic 's than most film camera 's ."
+    }, 
+    "eae3fa8ec5597ddf6e714868e7a3068d": {
+        "(3, 5)": {
+            "AM2L": [
+                3121
+            ], 
+            "WBFL": [
+                875
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this is my first digital camera , and what a ' toy ' it is !"
+    }, 
+    "03ba56f0d39bdcc405e0e8c231587f54": {
+        "(3, 5)": {
+            "AM2L": [
+                1429
+            ], 
+            "WBFL": [
+                875
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this is my first digital camera , and i am very pleased with it ."
+    }
+}

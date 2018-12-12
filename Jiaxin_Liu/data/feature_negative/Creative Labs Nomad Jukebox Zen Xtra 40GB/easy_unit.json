@@ -1,0 +1,119 @@
+{
+    "8bfc9a0d448d241bdb06f31c4c4b1541": {
+        "(3, 1)": {
+            "AM2L": [
+                3018
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                985
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "- the unit is easy to use and intuitive ."
+    }, 
+    "fcc6060d8953928ffecfa28e3e7a7871": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            12
+        ], 
+        "(6, 12)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1862
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2987
+            ], 
+            "BM1L": [
+                822
+            ], 
+            "WBO": [
+                2296, 
+                253
+            ], 
+            "WBL": [
+                2580
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the screen is large , defined , and easy to read , and the silver unit is naturally cool ."
+    }, 
+    "26afbb728550c0df1149e771bc94d54b": {
+        "(20, 13)": {
+            "WBF": [
+                1689
+            ], 
+            "AM2L": [
+                2296
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2742
+            ], 
+            "WBO": [
+                724, 
+                2479, 
+                1541
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            20
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }
+}

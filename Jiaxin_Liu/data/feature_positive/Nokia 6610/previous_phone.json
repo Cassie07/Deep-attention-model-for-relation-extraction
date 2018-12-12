@@ -1,0 +1,156 @@
+{
+    "1dc3740e06e3a4b6aef93300ba191638": {
+        "(13, 16)": {
+            "WBF": [
+                1815
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2202
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                2038
+            ], 
+            "WBO": [
+                1899
+            ], 
+            "WBL": [
+                1899
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "navigating through the menus is super easy , especially if you have owned a previous model nokia phone ."
+    }, 
+    "ef6ad218bc4eef8f153f8382e40b1d89": {
+        "(9, 17)": {
+            "WBF": [
+                1899
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2202
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                253, 
+                3085, 
+                2886, 
+                2916
+            ], 
+            "WBL": [
+                1965
+            ], 
+            "AM2F": [
+                447
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            17, 
+            21
+        ], 
+        "(9, 21)": {
+            "WBF": [
+                1899
+            ], 
+            "AM2L": [
+                1752
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2202
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                253, 
+                3085, 
+                2886, 
+                2916, 
+                3204, 
+                1965, 
+                2097, 
+                447
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                2465
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the infrared is a blessing if you have a previous nokia and want to transfer your old phone book to this phone , saved me hour of re-entering my number ."
+    }, 
+    "38ea99941efb67acbdadb452537a05bc": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                2202
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1648
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "unfortunately , the 6610 does not offer voice dialing like my previous phone , but the other feature it pack outweighs this shortcoming ."
+    }
+}

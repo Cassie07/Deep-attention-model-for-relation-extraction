@@ -1,0 +1,80 @@
+{
+    "e17e18380718fc3b0a9d1deacbd92ff8": {
+        "location1": [
+            37
+        ], 
+        "location2": [
+            40
+        ], 
+        "(37, 40)": {
+            "WBF": [
+                1758
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2916
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                1156
+            ], 
+            "WBL": [
+                1156
+            ], 
+            "AM2F": [
+                1544
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this player is an overall disappointment with a couple of big flaw that potential buyer should be wary of ; and all reader need to know about a third party software company that resolve virtually all of the creative mediasource file transfer issue ."
+    }, 
+    "367132e3bd707c6fcb4fcfefdd6d2de8": {
+        "(5, 15)": {
+            "WBF": [
+                1636
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2916
+            ], 
+            "BM1L": [
+                2798
+            ], 
+            "WBO": [
+                3203, 
+                2417, 
+                2844, 
+                2644, 
+                394, 
+                1545
+            ], 
+            "WBL": [
+                1548
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "second , the `` automatic `` sync on creative let you review the song before it begin its transfer ."
+    }
+}

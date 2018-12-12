@@ -1,0 +1,37 @@
+{
+    "e4730539ff132950b9f794e6c42e8042": {
+        "(16, 18)": {
+            "AM2L": [
+                1859
+            ], 
+            "WBFL": [
+                2419
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                1876
+            ], 
+            "M2": [
+                2987
+            ], 
+            "BM1L": [
+                2496
+            ], 
+            "AM2F": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "it worked from 12-26 to 1-9 at which time the picture failed completely ( see other negative reviews-my unit was n't the only one this happened to . )"
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "370f2f08bb8ba98db88f94c031ba3f60": {
+        "(22, 11)": {
+            "WBF": [
+                1648
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                1737
+            ], 
+            "M1": [
+                1996
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                2611, 
+                1998, 
+                2675, 
+                3006, 
+                2844, 
+                1853, 
+                1998
+            ], 
+            "WBL": [
+                1545
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5, 
+            22
+        ], 
+        "location2": [
+            11
+        ], 
+        "(5, 11)": {
+            "WBF": [
+                1313
+            ], 
+            "AM2L": [
+                2611
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1996
+            ], 
+            "BM1L": [
+                1136
+            ], 
+            "WBO": [
+                1545, 
+                233
+            ], 
+            "WBL": [
+                1737
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the player is fast and sound great , it also has many option like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium ."
+    }, 
+    "68a8302a084952a7e1cf8fe9f3f14b4e": {
+        "(13, 16)": {
+            "WBF": [
+                2194
+            ], 
+            "AM2L": [
+                1054
+            ], 
+            "BM1F": [
+                3115
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1996
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBO": [
+                1864
+            ], 
+            "WBL": [
+                1864
+            ], 
+            "AM2F": [
+                2141
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            7, 
+            16
+        ], 
+        "(13, 7)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                1864
+            ], 
+            "BM1F": [
+                784
+            ], 
+            "M1": [
+                1996
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1300
+            ], 
+            "WBO": [
+                2844, 
+                2987
+            ], 
+            "WBL": [
+                3115
+            ], 
+            "AM2F": [
+                2194
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "you of course have some good customization option with the unit as well ( sound presets , navigating option , playlist , etc ) ."
+    }, 
+    "9f235bc4fe0b25cfe6ce4bd9e0035c54": {
+        "(2, 3)": {
+            "AM2L": [
+                251
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1996
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(2, 12)": {
+            "WBF": [
+                1996
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1996
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "WBO": [
+                1351, 
+                251, 
+                1042, 
+                227, 
+                1648, 
+                3149
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3, 
+            12
+        ], 
+        "sentence": "lot of sound option , has an equalizer almost like winamp with the option ."
+    }
+}

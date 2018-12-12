@@ -1,0 +1,211 @@
+{
+    "7967db31bc77438a94a846ddeb630669": {
+        "location1": [
+            39
+        ], 
+        "location2": [
+            27
+        ], 
+        "(39, 27)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2761
+            ], 
+            "BM1F": [
+                2025
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                627, 
+                2886, 
+                3018, 
+                1051, 
+                3158, 
+                2811, 
+                253, 
+                2494
+            ], 
+            "WBL": [
+                3162
+            ], 
+            "AM2F": [
+                1219
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "e9d28867f6cc8362413781bc3fa7002f": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            13
+        ], 
+        "(4, 13)": {
+            "WBF": [
+                2798
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1701
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                912
+            ], 
+            "WBO": [
+                3129, 
+                226, 
+                130, 
+                1974, 
+                2799
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "c. i do love audio sync which allows a one-click synchronization between the player and the music collection on the computer ."
+    }, 
+    "20ba4c4b32823c2ce57fa535aeed926f": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            10
+        ], 
+        "(15, 10)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1967
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                2257
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                501
+            ], 
+            "AM2F": [
+                309
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have n't had time to really push this player to the limit , but audio aspect on the nomad are satisfactory , as should be expected from creative lab ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "location1": [
+            48
+        ], 
+        "location2": [
+            9
+        ], 
+        "(48, 9)": {
+            "WBF": [
+                442
+            ], 
+            "AM2L": [
+                499
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                1931
+            ], 
+            "WBO": [
+                130, 
+                808, 
+                2595, 
+                253, 
+                3112, 
+                130, 
+                2356, 
+                1866, 
+                2802, 
+                2842, 
+                547, 
+                372, 
+                1967, 
+                1435, 
+                2810, 
+                253, 
+                1072, 
+                2654, 
+                3142, 
+                1591, 
+                2886, 
+                381, 
+                415, 
+                2840, 
+                1536, 
+                1915, 
+                2785, 
+                697, 
+                2844, 
+                1929, 
+                1951, 
+                3196, 
+                765, 
+                1351, 
+                392
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2090
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }
+}

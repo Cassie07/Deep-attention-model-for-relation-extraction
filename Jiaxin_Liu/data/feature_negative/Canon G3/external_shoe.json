@@ -1,0 +1,91 @@
+{
+    "4a93d8f10f505f7246805579982dd792": {
+        "(26, 6)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1420
+            ], 
+            "M1": [
+                2556
+            ], 
+            "M2": [
+                1099
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                522, 
+                2812, 
+                251, 
+                1099, 
+                1188, 
+                253, 
+                1222, 
+                1212, 
+                1752, 
+                1429, 
+                231, 
+                2038, 
+                130, 
+                1973, 
+                1951, 
+                2844
+            ], 
+            "WBL": [
+                2260
+            ], 
+            "AM2F": [
+                1188
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(11, 6)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1420
+            ], 
+            "M1": [
+                2556
+            ], 
+            "M2": [
+                1099
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                522
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                1188
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11, 
+            26
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "fortunately , the g3 has a hot shoe that can take an external flash , and fortunately for me , i already owned a one of the highest quality external flash that money can buy : the metz 60 ct-4 ."
+    }
+}

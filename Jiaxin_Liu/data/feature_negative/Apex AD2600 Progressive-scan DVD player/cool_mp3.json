@@ -1,0 +1,47 @@
+{
+    "d1f5cf6191b3c90d8622b5f87670e411": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            13
+        ], 
+        "(1, 13)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                553
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                1842
+            ], 
+            "WBO": [
+                134, 
+                2844, 
+                169, 
+                1545, 
+                2136, 
+                229, 
+                1951, 
+                869
+            ], 
+            "WBL": [
+                1648
+            ], 
+            "AM2F": [
+                3162
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the cool thing about the ad-2600 it play alot of different file like mp3 , wma cd , jpeg and kodak picture cd , dvd 's , dvd - / + r 's ."
+    }
+}

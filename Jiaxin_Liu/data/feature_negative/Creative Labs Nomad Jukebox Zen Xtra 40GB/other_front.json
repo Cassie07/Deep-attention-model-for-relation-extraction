@@ -1,0 +1,50 @@
+{
+    "3dad728919e1b406d7295e3ca95a61fa": {
+        "(2, 14)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1242
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1429, 
+                1936, 
+                3130, 
+                1429, 
+                1328, 
+                2844, 
+                1901, 
+                1541
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                746
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the one other thing i observed while i had the nomad is that the front cover , which is taken off to have access to the battery , seemed to come undone very easily ."
+    }
+}

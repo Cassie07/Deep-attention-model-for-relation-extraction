@@ -1,0 +1,146 @@
+{
+    "e17e18380718fc3b0a9d1deacbd92ff8": {
+        "location1": [
+            37
+        ], 
+        "location2": [
+            39
+        ], 
+        "(37, 39)": {
+            "AM2L": [
+                1544
+            ], 
+            "WBFL": [
+                1758
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1156
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "AM2F": [
+                2916
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this player is an overall disappointment with a couple of big flaw that potential buyer should be wary of ; and all reader need to know about a third party software company that resolve virtually all of the creative mediasource file transfer issue ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(39, 1)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                1713
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                765
+            ], 
+            "WBO": [
+                3020, 
+                507, 
+                1832, 
+                1842, 
+                2139, 
+                1648, 
+                1854, 
+                253, 
+                3149, 
+                501, 
+                1915, 
+                765, 
+                3160, 
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545
+            ], 
+            "WBL": [
+                1853
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14, 
+            39
+        ], 
+        "location2": [
+            1
+        ], 
+        "(14, 1)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1924
+            ], 
+            "BM1F": [
+                1713
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                765
+            ], 
+            "WBO": [
+                3020, 
+                507, 
+                1832, 
+                1842, 
+                2139, 
+                1648, 
+                1854, 
+                253, 
+                3149
+            ], 
+            "WBL": [
+                1915
+            ], 
+            "AM2F": [
+                3160
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

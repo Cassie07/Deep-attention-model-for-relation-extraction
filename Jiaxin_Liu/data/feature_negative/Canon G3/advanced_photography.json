@@ -1,0 +1,40 @@
+{
+    "b43eea60a6e26ef2d546c1544c0e533f": {
+        "(16, 24)": {
+            "WBF": [
+                1252
+            ], 
+            "BM1F": [
+                2149
+            ], 
+            "M1": [
+                189
+            ], 
+            "M2": [
+                2104
+            ], 
+            "BM1L": [
+                2182
+            ], 
+            "WBO": [
+                1212, 
+                2861, 
+                3135, 
+                295
+            ], 
+            "WBL": [
+                134
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "range of function - as indicated above - it has something for everyone : point and shoot power plus advanced function for those who are serious about photography ."
+    }
+}

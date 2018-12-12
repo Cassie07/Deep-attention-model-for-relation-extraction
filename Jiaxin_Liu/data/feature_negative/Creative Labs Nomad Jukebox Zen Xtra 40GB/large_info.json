@@ -1,0 +1,45 @@
+{
+    "6d0ac44003c8f03b17f4e1adcc23e886": {
+        "(3, 10)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1874
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1602
+            ], 
+            "M2": [
+                1492
+            ], 
+            "BM1L": [
+                2479
+            ], 
+            "WBO": [
+                469, 
+                253, 
+                1351
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the screen is large and bright and has all the info i need where i need it ."
+    }
+}

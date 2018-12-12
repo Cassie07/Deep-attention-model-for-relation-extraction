@@ -1,0 +1,31 @@
+{
+    "80a2e096524056f7ac5d85b13f7b69fe": {
+        "(36, 37)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                1820
+            ], 
+            "BM1L": [
+                2599
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            36
+        ], 
+        "location2": [
+            37
+        ], 
+        "sentence": "but about 25 % of dvd 's i 've played on ithave a problem , when watching a movie the picture will freeze , but the dvd still play , and eventualy the picture kick back in after skipping a few moment ."
+    }
+}

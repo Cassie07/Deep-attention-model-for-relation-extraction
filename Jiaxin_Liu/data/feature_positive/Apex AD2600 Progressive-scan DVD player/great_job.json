@@ -1,0 +1,37 @@
+{
+    "368c413655d2e3b779a34ef7a27efb85": {
+        "(5, 6)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1557
+            ], 
+            "BM1L": [
+                863
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                722
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the aff feature did a great job converting the letterbox to fill 3/4 of the screen and the image still looked normal ."
+    }
+}

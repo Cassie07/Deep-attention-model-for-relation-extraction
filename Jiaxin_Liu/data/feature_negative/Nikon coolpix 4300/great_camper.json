@@ -1,0 +1,42 @@
+{
+    "af71635b2c094a32f231726f4484cd17": {
+        "(7, 17)": {
+            "WBF": [
+                520
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                521
+            ], 
+            "BM1L": [
+                2094
+            ], 
+            "WBO": [
+                1212, 
+                2844, 
+                1822, 
+                253, 
+                1429, 
+                2
+            ], 
+            "WBL": [
+                1342
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "still , at least from my perspective , a great camera for the money , and i 'm a happy camper !"
+    }
+}

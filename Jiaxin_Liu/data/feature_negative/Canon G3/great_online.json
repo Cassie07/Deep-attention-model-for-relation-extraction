@@ -1,0 +1,44 @@
+{
+    "0edeb8de7afc625a933b4c41f00abaf8": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            11
+        ], 
+        "(17, 11)": {
+            "WBF": [
+                2591
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1977
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBO": [
+                2709, 
+                936
+            ], 
+            "WBL": [
+                1529
+            ], 
+            "AM2F": [
+                842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i wo n't go into the detail here , as the online site ( stevesdigicams , dpreviews ) go into great depth in their review , but i am very pleased with the feature , the speed , the picture quality , the flexibility , the automation , and the functional convenience this camera offer ."
+    }
+}

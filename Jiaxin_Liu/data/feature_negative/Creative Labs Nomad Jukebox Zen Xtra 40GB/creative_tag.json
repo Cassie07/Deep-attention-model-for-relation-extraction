@@ -1,0 +1,177 @@
+{
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "location1": [
+            43
+        ], 
+        "location2": [
+            25
+        ], 
+        "(43, 25)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                392
+            ], 
+            "BM1F": [
+                1435
+            ], 
+            "M1": [
+                2810
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBO": [
+                1072, 
+                2654, 
+                3142, 
+                1591, 
+                2886, 
+                381, 
+                415, 
+                2840, 
+                1536, 
+                1915, 
+                2785, 
+                697, 
+                2844, 
+                1929
+            ], 
+            "WBL": [
+                3196
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(39, 58)": {
+            "WBF": [
+                1998
+            ], 
+            "BM1F": [
+                1853
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2810
+            ], 
+            "BM1L": [
+                3204
+            ], 
+            "WBO": [
+                264, 
+                2011, 
+                655, 
+                221, 
+                1856, 
+                17, 
+                93, 
+                1268, 
+                1951, 
+                1853, 
+                3120, 
+                2918, 
+                2886, 
+                2844, 
+                3210
+            ], 
+            "WBL": [
+                732
+            ], 
+            "AM2F": [
+                1415
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14, 
+            39
+        ], 
+        "location2": [
+            58
+        ], 
+        "(14, 58)": {
+            "WBF": [
+                3160
+            ], 
+            "BM1F": [
+                1915
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2810
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545, 
+                3204, 
+                1853, 
+                765, 
+                1998, 
+                264, 
+                2011, 
+                655, 
+                221, 
+                1856, 
+                17, 
+                93, 
+                1268, 
+                1951, 
+                1853, 
+                3120, 
+                2918, 
+                2886, 
+                2844, 
+                3210
+            ], 
+            "WBL": [
+                732
+            ], 
+            "AM2F": [
+                1415
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

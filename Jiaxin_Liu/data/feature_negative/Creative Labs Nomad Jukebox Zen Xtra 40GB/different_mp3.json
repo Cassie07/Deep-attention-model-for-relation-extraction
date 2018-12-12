@@ -1,0 +1,78 @@
+{
+    "b2d4e633a50cce494eea7a203213e6b5": {
+        "(12, 13)": {
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                1737
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2395
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "before asking for the zen xtra specifically for christmas i researched many different mp3 player but finally decided on this one , and now that i have it i could n't be happier and i 'm convinced it 's the best one out there ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            53
+        ], 
+        "location2": [
+            48
+        ], 
+        "(53, 48)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                2954
+            ], 
+            "BM1F": [
+                1737
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                1369
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                1044
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

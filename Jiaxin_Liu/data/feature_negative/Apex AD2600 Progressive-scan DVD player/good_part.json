@@ -1,0 +1,43 @@
+{
+    "1bb0466c467ad147fa770ae552afdb45": {
+        "(7, 3)": {
+            "WBF": [
+                2859
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                1832
+            ], 
+            "M1": [
+                2061
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                961
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "for the most part this is a good dvd player ."
+    }
+}

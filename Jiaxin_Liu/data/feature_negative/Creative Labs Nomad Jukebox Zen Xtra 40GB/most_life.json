@@ -1,0 +1,46 @@
+{
+    "3d060f3950f61d0bcf49f47833b88c09": {
+        "(3, 17)": {
+            "WBF": [
+                1722
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                1643
+            ], 
+            "BM1L": [
+                1973
+            ], 
+            "WBO": [
+                2853, 
+                2842, 
+                1429, 
+                3094, 
+                903, 
+                3158, 
+                1468, 
+                2859, 
+                2139, 
+                1541
+            ], 
+            "WBL": [
+                379
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "the one and most major thing that i was dissapointed with , in this player , is the battery life ."
+    }
+}

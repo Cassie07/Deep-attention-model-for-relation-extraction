@@ -1,0 +1,152 @@
+{
+    "8cff8b3bb4b722f290108da2b2fcc548": {
+        "location1": [
+            35
+        ], 
+        "location2": [
+            23
+        ], 
+        "(35, 23)": {
+            "WBF": [
+                2802
+            ], 
+            "AM2L": [
+                2501
+            ], 
+            "BM1F": [
+                2223
+            ], 
+            "M1": [
+                1188
+            ], 
+            "M2": [
+                1551
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                253, 
+                522, 
+                984, 
+                2259, 
+                3006, 
+                3158, 
+                2844, 
+                520
+            ], 
+            "WBL": [
+                386
+            ], 
+            "AM2F": [
+                1881
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i am stunned and amazed at the quality of the raw image i am getting from this g3 ( in conjunction with my professional flash system ) , and can easily put up with the camera limitation , because ive never seen anything better within its resolution limit ."
+    }, 
+    "865f5ce19fc754d56e712de777b1bcae": {
+        "(3, 26)": {
+            "WBF": [
+                2296
+            ], 
+            "AM2L": [
+                525
+            ], 
+            "BM1F": [
+                3121
+            ], 
+            "M1": [
+                1551
+            ], 
+            "M2": [
+                1188
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1003, 
+                2844, 
+                1260, 
+                917, 
+                2798, 
+                316, 
+                9, 
+                50, 
+                1951, 
+                130, 
+                2494, 
+                3158, 
+                2858, 
+                1188, 
+                1570, 
+                304, 
+                1545, 
+                917, 
+                3158
+            ], 
+            "WBL": [
+                813
+            ], 
+            "AM2F": [
+                1241
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(3, 18)": {
+            "WBF": [
+                2296
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                3121
+            ], 
+            "M1": [
+                1551
+            ], 
+            "M2": [
+                1188
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1003, 
+                2844, 
+                1260, 
+                917, 
+                2798, 
+                316, 
+                9, 
+                50, 
+                1951, 
+                130, 
+                2494
+            ], 
+            "WBL": [
+                2858
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            18, 
+            26
+        ], 
+        "sentence": "contrary to what ive read elsewhere , the g3 does sync at 1/250 of a second with third-party flash , just as it does with the dedicated flash from canon ."
+    }
+}

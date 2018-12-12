@@ -1,0 +1,107 @@
+{
+    "031b904a61e903f18f947e9c55fd4cfa": {
+        "(3, 4)": {
+            "AM2L": [
+                641
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                1703
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1225
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2592
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "i found that low light situation combined with any sort of action left this camera in the dust ."
+    }, 
+    "ca1eaed91c3e55f4cceab5acd302386c": {
+        "(6, 7)": {
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                1703
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1207
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the g3 had problem focusing in low light and would not take the picture when the shutter was pressed but after the shutter had been released a few second ."
+    }, 
+    "a7d8e305d570d95f2e66cc869353dc9a": {
+        "(11, 12)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                1703
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                2260
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "the larger lens of the g3 gives better picture quality in low light , and the 4-times optical zoom gets you just that much closer ."
+    }
+}

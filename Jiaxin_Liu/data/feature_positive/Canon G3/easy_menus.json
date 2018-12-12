@@ -1,0 +1,97 @@
+{
+    "c987fcf46ffc653deb0043f19e9b0e71": {
+        "(7, 8)": {
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1774
+            ], 
+            "BM1L": [
+                715
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "i love the eos based control and easy menus ."
+    }, 
+    "66817f1a7ea8fb5f8cfe69f9bb6c0c2f": {
+        "(3, 1)": {
+            "AM2L": [
+                1863
+            ], 
+            "WBFL": [
+                295
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1774
+            ], 
+            "M2": [
+                985
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3, 
+            10
+        ], 
+        "location2": [
+            1
+        ], 
+        "(10, 1)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1774
+            ], 
+            "M2": [
+                985
+            ], 
+            "WBO": [
+                985, 
+                2886, 
+                1863, 
+                253, 
+                2844
+            ], 
+            "WBL": [
+                295
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the menus are easy to navigate and the button are easy to use ."
+    }
+}

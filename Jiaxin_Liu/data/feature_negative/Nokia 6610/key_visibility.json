@@ -1,0 +1,34 @@
+{
+    "aa4cf9874eb6024ec9e908b53f471f6e": {
+        "(4, 1)": {
+            "WBF": [
+                1967
+            ], 
+            "BM1F": [
+                2157
+            ], 
+            "M1": [
+                3066
+            ], 
+            "M2": [
+                1579
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "poor visibility on the key ."
+    }
+}

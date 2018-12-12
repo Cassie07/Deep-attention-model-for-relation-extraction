@@ -1,0 +1,44 @@
+{
+    "25da27d72af155af06e6c5874f503ef7": {
+        "(7, 13)": {
+            "WBF": [
+                1643
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                378
+            ], 
+            "M2": [
+                1422
+            ], 
+            "BM1L": [
+                346
+            ], 
+            "WBO": [
+                1541, 
+                1978
+            ], 
+            "WBL": [
+                113
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "once again , the sound is awesome , the batterly life is only 6-8 hour , and that is because all my music is 320 kbps which does affect the battery life ."
+    }
+}

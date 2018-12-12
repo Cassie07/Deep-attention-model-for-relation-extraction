@@ -1,0 +1,37 @@
+{
+    "9d0740971a20ab06bf942f4cdc6c18bf": {
+        "(6, 9)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2600
+            ], 
+            "M2": [
+                1367
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                2184
+            ], 
+            "WBL": [
+                2184
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "in addition it comes with a sleek and powerful headset ."
+    }
+}

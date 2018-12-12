@@ -1,0 +1,41 @@
+{
+    "744203c0ba661b81fbf49e058d3b8553": {
+        "(7, 1)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                3021
+            ], 
+            "WBO": [
+                130, 
+                3052
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this phone has a very cool and useful feature -- the speakerphone ."
+    }
+}

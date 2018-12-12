@@ -1,0 +1,43 @@
+{
+    "03e1cd38959d29902a3f05c616118533": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            10
+        ], 
+        "(7, 10)": {
+            "WBF": [
+                1882
+            ], 
+            "AM2L": [
+                2637
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2737
+            ], 
+            "M2": [
+                2618
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                999
+            ], 
+            "WBL": [
+                999
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it did also seem to have a strong `` new electronics `` smell for some time ."
+    }
+}

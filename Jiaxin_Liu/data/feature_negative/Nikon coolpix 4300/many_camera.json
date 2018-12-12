@@ -1,0 +1,378 @@
+{
+    "9faf0a7bfc43d9a419ce8a897488d3e6": {
+        "(19, 30)": {
+            "WBF": [
+                2592
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                734
+            ], 
+            "WBO": [
+                1468, 
+                3129, 
+                1429, 
+                3181, 
+                165, 
+                2497, 
+                2886
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "the auto-focus performs well , but i love having the 12 optional scene mode - they are dummy-proof , and correspond to many situation in which i would actually seek to use the camera ."
+    }, 
+    "f4ed4ae3305445dd6ec6f73ce7ad7b7c": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            32
+        ], 
+        "(2, 32)": {
+            "WBF": [
+                1143
+            ], 
+            "BM1F": [
+                1548
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1987
+            ], 
+            "WBO": [
+                1541, 
+                985, 
+                253, 
+                1960, 
+                1941, 
+                1429, 
+                2, 
+                1896, 
+                256, 
+                1624, 
+                501, 
+                1429, 
+                3094, 
+                133, 
+                2886, 
+                1155, 
+                2016, 
+                1832, 
+                1951, 
+                1548, 
+                132, 
+                1570, 
+                1779, 
+                298, 
+                3158, 
+                1545
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2726
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "operating its many feature is easy and often obvious - i 'm no annie lebovitz , but i was able to figure out most of its ability just messing around with it at a camera store ."
+    }, 
+    "f8fa77a39d46ecc23ee6c2f2659dd3e5": {
+        "(15, 12)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1669
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                2628
+            ], 
+            "WBL": [
+                2628
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "ooh , and i dropped it and it still work fine : this little camera has so many feature i have n't even gotten to all of them yet ."
+    }, 
+    "22acb9431eff5025a15adbaf9c736917": {
+        "(24, 19)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                2812
+            ], 
+            "WBO": [
+                3203
+            ], 
+            "WBL": [
+                2812
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            3, 
+            19
+        ], 
+        "(24, 3)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                875
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                653
+            ], 
+            "WBO": [
+                1051, 
+                3021, 
+                1441, 
+                3203, 
+                1355, 
+                1669, 
+                592, 
+                298, 
+                253, 
+                3203, 
+                522, 
+                238, 
+                2812, 
+                2844, 
+                520, 
+                3158, 
+                3203
+            ], 
+            "WBL": [
+                2812
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the compact digital camera is especially useful if you have little child around and you can always take the camera with you and take many picture of them ."
+    }, 
+    "164dda298348d815567dec7d16e56e32": {
+        "(30, 48)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                642
+            ], 
+            "WBO": [
+                2844, 
+                3024, 
+                1252, 
+                295, 
+                3052, 
+                2582, 
+                2886, 
+                2613, 
+                1815, 
+                253, 
+                3158, 
+                174, 
+                717, 
+                1951
+            ], 
+            "WBL": [
+                875
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            30
+        ], 
+        "location2": [
+            48
+        ], 
+        "sentence": "recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that quality of the picture are excellent with 3m-4m pixel / fine combo and many of the user-friendly function are very similar to slr model , and with added convenience of a digital camera that you can see picture immediately ."
+    }, 
+    "ef8b221188025f77306dd1fd16320e12": {
+        "(18, 1)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                1488
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1737
+            ], 
+            "WBO": [
+                1355, 
+                392, 
+                3026, 
+                2859, 
+                1212, 
+                2533, 
+                1827, 
+                253, 
+                1302, 
+                1072, 
+                2408, 
+                2583, 
+                1239
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                2474
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great camera , i have been using this for several month and got excellent result , simple friendly usage , in many scene indoor , outdoor , snow , close up macro etc ."
+    }, 
+    "9a500297c21bf39ce8d23a80a2266c9f": {
+        "(3, 10)": {
+            "WBF": [
+                1252
+            ], 
+            "BM1F": [
+                2628
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                1468, 
+                2859, 
+                1669
+            ], 
+            "WBL": [
+                2184
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "there are so many function in this little , yet powerful camera !"
+    }
+}

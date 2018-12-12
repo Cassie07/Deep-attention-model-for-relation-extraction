@@ -1,0 +1,75 @@
+{
+    "333e87ce30ba03bd6f411b6b04304e07": {
+        "(5, 6)": {
+            "AM2L": [
+                3112
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1147
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this camera also has a great feel and weight to it ."
+    }, 
+    "5b3c35f2d0200b492eb1d84caff2bd26": {
+        "(2, 7)": {
+            "WBF": [
+                2112
+            ], 
+            "BM1F": [
+                2814
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1147
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1986
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2634
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "it takes great picture , operates quickly , and feel solid ."
+    }
+}

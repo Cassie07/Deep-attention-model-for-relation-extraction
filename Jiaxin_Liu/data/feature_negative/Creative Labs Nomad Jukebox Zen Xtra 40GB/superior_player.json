@@ -1,0 +1,152 @@
+{
+    "7967db31bc77438a94a846ddeb630669": {
+        "(54, 27)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1219
+            ], 
+            "BM1F": [
+                2025
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2771
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                627, 
+                2886, 
+                3018, 
+                1051, 
+                3158, 
+                2811, 
+                253, 
+                2494, 
+                2844, 
+                3162, 
+                326, 
+                1219, 
+                2761, 
+                1190, 
+                2016, 
+                2761, 
+                1468, 
+                2834, 
+                1951, 
+                2654, 
+                2260, 
+                658, 
+                3158
+            ], 
+            "WBL": [
+                3041
+            ], 
+            "AM2F": [
+                131
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            54
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "fa3ed2bde213bd0078bffda62730ce6c": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            4
+        ], 
+        "(9, 4)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2771
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBO": [
+                2654
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "first of all the player 's sound quality is superior to the ipod ."
+    }, 
+    "5fd8c0085bdee242af47218a4dee27e1": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            20
+        ], 
+        "(10, 20)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1277
+            ], 
+            "M1": [
+                2771
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                2260, 
+                253, 
+                1703, 
+                2204, 
+                237, 
+                1429
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i am willing to overlook it 's problem to get superior sound quality and low price , although i feel the player has a lot of room for improvement ."
+    }
+}

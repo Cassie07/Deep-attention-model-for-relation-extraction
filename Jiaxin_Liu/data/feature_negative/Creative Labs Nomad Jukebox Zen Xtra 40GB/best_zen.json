@@ -1,0 +1,182 @@
+{
+    "b2d4e633a50cce494eea7a203213e6b5": {
+        "(40, 4)": {
+            "WBF": [
+                3194
+            ], 
+            "AM2L": [
+                2016
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                2670, 
+                1212, 
+                598, 
+                1429, 
+                2395, 
+                1737, 
+                869, 
+                1842, 
+                2139, 
+                501, 
+                1164, 
+                810, 
+                1967, 
+                2859, 
+                1973, 
+                253, 
+                1926, 
+                2842, 
+                1429, 
+                1355, 
+                1545, 
+                1429, 
+                738, 
+                1859, 
+                5, 
+                381, 
+                1340, 
+                253, 
+                1429, 
+                2, 
+                723, 
+                1545
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1973
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            40
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "before asking for the zen xtra specifically for christmas i researched many different mp3 player but finally decided on this one , and now that i have it i could n't be happier and i 'm convinced it 's the best one out there ."
+    }, 
+    "595586dcd393895e2ca8c8a038c133b3": {
+        "(46, 1)": {
+            "WBF": [
+                917
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                413
+            ], 
+            "WBO": [
+                1859, 
+                5, 
+                2775, 
+                1208, 
+                2628, 
+                1545, 
+                1541, 
+                1915, 
+                2304, 
+                130, 
+                2725, 
+                858, 
+                1055, 
+                3158, 
+                2857, 
+                2065, 
+                2631, 
+                2842, 
+                762, 
+                1208, 
+                914, 
+                253, 
+                2226, 
+                522, 
+                5, 
+                381, 
+                1613, 
+                1241, 
+                2844, 
+                3210, 
+                2628, 
+                1545, 
+                1541, 
+                1915, 
+                130, 
+                1343, 
+                896, 
+                1545, 
+                4, 
+                130, 
+                2725
+            ], 
+            "WBL": [
+                316
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            46
+        ], 
+        "location2": [
+            1, 
+            32
+        ], 
+        "(46, 32)": {
+            "WBF": [
+                2628
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1241
+            ], 
+            "WBO": [
+                1545, 
+                1541, 
+                1915, 
+                130, 
+                1343, 
+                896, 
+                1545, 
+                4, 
+                130, 
+                2725
+            ], 
+            "WBL": [
+                316
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the zen does n't support folder so it is not really a storage device ; even with third party software that `` creates `` folder , document and program can 't be launched from the zen , so it is not a hard disk , it 's a storage device at best ."
+    }
+}

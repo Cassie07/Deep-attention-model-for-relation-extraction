@@ -1,0 +1,72 @@
+{
+    "656e72834c7ff8e049c4a59974414993": {
+        "(12, 14)": {
+            "AM2L": [
+                130
+            ], 
+            "WBFL": [
+                2260
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1691
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "i 'd highly recommend this camera for anyone who is looking for excellent quality picture and a combination of ease of use and the flexibility to get advanced with many option to adjust if you like ."
+    }, 
+    "1e4f51a49d87c73315e133f37c3a3ce3": {
+        "(3, 5)": {
+            "AM2L": [
+                2262
+            ], 
+            "WBFL": [
+                932
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1254
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "manual functionality is excellent , downloading picture is quick and a breeze , and the quality is astounding ."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "0a97bbb3a0da722d9e48e3c05e77a24c": {
+        "location1": [
+            29
+        ], 
+        "location2": [
+            25
+        ], 
+        "(29, 25)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                2923
+            ], 
+            "M2": [
+                2542
+            ], 
+            "BM1L": [
+                1300
+            ], 
+            "WBO": [
+                2246
+            ], 
+            "WBL": [
+                1072
+            ], 
+            "AM2F": [
+                1448
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use , small good for travel , and provides excellent , sharp image ."
+    }
+}

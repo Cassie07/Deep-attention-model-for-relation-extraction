@@ -1,0 +1,112 @@
+{
+    "d43fd9028c14d0fc8fcaa77456271140": {
+        "(3, 5)": {
+            "WBFL": [
+                635
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                2479
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "it has a nice color screen ."
+    }, 
+    "58e7e474b8ea3dcf3293853aae627fc1": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            13
+        ], 
+        "(9, 13)": {
+            "WBF": [
+                1143
+            ], 
+            "AM2L": [
+                1048
+            ], 
+            "BM1F": [
+                1302
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                2479
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                384
+            ], 
+            "AM2F": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this really is a great little phone ; its got nice feature , a beatiful screen , great ergonomics , and its tiny !"
+    }, 
+    "eeeacba322957f4c880a66e6ed2a23f0": {
+        "(11, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                1886
+            ], 
+            "WBO": [
+                469, 
+                985, 
+                2886, 
+                2496, 
+                1468, 
+                2844
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                635
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the screen is bright , easy to see in the daylight , with nice color ."
+    }
+}

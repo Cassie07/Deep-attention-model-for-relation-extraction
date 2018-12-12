@@ -1,0 +1,31 @@
+{
+    "fa9bea2213c882ed1c6758c2c27a2af5": {
+        "(3, 4)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                3166
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "this is a wonderful camera ."
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "656e72834c7ff8e049c4a59974414993": {
+        "location1": [
+            29
+        ], 
+        "location2": [
+            14
+        ], 
+        "(29, 14)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2260
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                1072
+            ], 
+            "WBO": [
+                130, 
+                639, 
+                1951, 
+                981, 
+                1951, 
+                3018, 
+                253, 
+                2844, 
+                1194, 
+                2886, 
+                1277
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                1996
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i 'd highly recommend this camera for anyone who is looking for excellent quality picture and a combination of ease of use and the flexibility to get advanced with many option to adjust if you like ."
+    }, 
+    "80ccab7499b52c8d7a9bb1f85ab5e9d6": {
+        "(3, 5)": {
+            "WBFL": [
+                440
+            ], 
+            "BM1F": [
+                2896
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                3100
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "got way too many blurry picture ."
+    }
+}

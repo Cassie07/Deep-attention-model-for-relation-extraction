@@ -1,0 +1,86 @@
+{
+    "2d02822aaf070b5602c867e2c6872e5d": {
+        "(8, 5)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2557
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2151
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "rather heavy for point and shoot but a great camera for semi pro ."
+    }, 
+    "4ee8d0b641c875e17446b74fd975c596": {
+        "(3, 16)": {
+            "WBF": [
+                1212
+            ], 
+            "BM1F": [
+                3168
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2557
+            ], 
+            "BM1L": [
+                1716
+            ], 
+            "WBO": [
+                1759, 
+                2103, 
+                253, 
+                2844, 
+                329, 
+                1814, 
+                1541, 
+                2837, 
+                1212
+            ], 
+            "WBL": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the macro work great for medical photographs and the auto mode is terrific for point and shoot ."
+    }
+}

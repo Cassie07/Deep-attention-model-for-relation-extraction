@@ -1,0 +1,359 @@
+{
+    "a94aaabf3cef30309f2f69f92777dcf8": {
+        "(3, 19)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1051, 
+                1212, 
+                2844, 
+                2204, 
+                3158, 
+                1143, 
+                2842, 
+                295, 
+                656, 
+                2886, 
+                253, 
+                1055
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "this is an excellent player , especially for the price , with feature that are comparable to and even excel the ipod ."
+    }, 
+    "57a292f9d802d5e4ae08672ca7c95a16": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            7
+        ], 
+        "(1, 7)": {
+            "WBF": [
+                379
+            ], 
+            "BM1F": [
+                103
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1536
+            ], 
+            "WBO": [
+                1643, 
+                24
+            ], 
+            "WBL": [
+                383
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "6 ) excellent battery life - 14 hour beat ipod 's ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "(27, 35)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                2785
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2810
+            ], 
+            "WBO": [
+                3142, 
+                1591, 
+                2886, 
+                381
+            ], 
+            "WBL": [
+                2840
+            ], 
+            "AM2F": [
+                1915
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            35
+        ], 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "00678fc65cf74c7bbfb5bf91f2796a34": {
+        "sentence": "the sound is excellent , the battery life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent .", 
+        "(3, 27)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                1072
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                379, 
+                1643, 
+                1541, 
+                1072, 
+                2844, 
+                1112, 
+                2842, 
+                2844, 
+                379, 
+                1541, 
+                2379, 
+                1541, 
+                1072, 
+                253, 
+                1164, 
+                2844, 
+                2204, 
+                41, 
+                581, 
+                2840
+            ], 
+            "WBL": [
+                84
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(8, 27)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                1072
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1643
+            ], 
+            "WBO": [
+                1112, 
+                2842, 
+                2844, 
+                379, 
+                1541, 
+                2379, 
+                1541, 
+                1072, 
+                253, 
+                1164, 
+                2844, 
+                2204, 
+                41, 
+                581, 
+                2840
+            ], 
+            "WBL": [
+                84
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(17, 27)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1072
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2379
+            ], 
+            "WBO": [
+                1164, 
+                2844, 
+                2204, 
+                41, 
+                581, 
+                2840
+            ], 
+            "WBL": [
+                84
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(29, 27)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                84
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location2": [
+            27
+        ], 
+        "location1": [
+            3, 
+            8, 
+            17, 
+            29
+        ]
+    }, 
+    "26afbb728550c0df1149e771bc94d54b": {
+        "(4, 33)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2260
+            ], 
+            "WBO": [
+                1429, 
+                2, 
+                1257, 
+                3158, 
+                2842, 
+                2742, 
+                2844, 
+                2987, 
+                1689, 
+                724, 
+                2479, 
+                1541, 
+                469, 
+                253, 
+                985, 
+                2886, 
+                2296, 
+                253, 
+                2844, 
+                2381, 
+                379, 
+                1753, 
+                130, 
+                1722, 
+                190
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                412
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            33
+        ], 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }
+}

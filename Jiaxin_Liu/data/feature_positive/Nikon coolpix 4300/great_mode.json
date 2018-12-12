@@ -1,0 +1,121 @@
+{
+    "5881e9601bc8ceb222a7a2d40997a8ab": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            5
+        ], 
+        "(18, 5)": {
+            "WBF": [
+                3129
+            ], 
+            "AM2L": [
+                161
+            ], 
+            "BM1F": [
+                2564
+            ], 
+            "M1": [
+                1814
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                711
+            ], 
+            "WBO": [
+                226, 
+                3203, 
+                2886, 
+                2812, 
+                3006, 
+                2886, 
+                29, 
+                2124, 
+                1468
+            ], 
+            "WBL": [
+                2759
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i love the continuous shot mode , which allows you to take up to 16 pix in rapid succession -- great for action shot ."
+    }, 
+    "d2ecbc0b6c5a83518582c7e8d313b9b7": {
+        "location1": [
+            21
+        ], 
+        "location2": [
+            23
+        ], 
+        "(21, 23)": {
+            "AM2L": [
+                1607
+            ], 
+            "WBFL": [
+                625
+            ], 
+            "BM1F": [
+                1097
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1814
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "AM2F": [
+                1685
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the same 4mp chip from the 4500 camera , plus a 3x zoom with the ability to expand upon that with extenders , great closeup mode , long lasting rechargable battery , etc etc ."
+    }, 
+    "20dbab3ec3be9a7c52eb8932beb60154": {
+        "(6, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                1839
+            ], 
+            "M1": [
+                1814
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                233
+            ], 
+            "WBL": [
+                3172
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the movie mode is also working great ."
+    }
+}

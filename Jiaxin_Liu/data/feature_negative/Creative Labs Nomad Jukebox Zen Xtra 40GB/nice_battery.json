@@ -1,0 +1,114 @@
+{
+    "dda5363374c02d2557ecec9085e01651": {
+        "(3, 1)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                379
+            ], 
+            "M1_ADJ": [
+                0
+            ], 
+            "M2": [
+                1886
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the battery is nice ."
+    }, 
+    "92198989402e17a45ecbf5ef78c65e91": {
+        "(21, 4)": {
+            "WBF": [
+                1643
+            ], 
+            "AM2L": [
+                1178
+            ], 
+            "BM1F": [
+                1685
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                1886
+            ], 
+            "BM1L": [
+                3052
+            ], 
+            "WBO": [
+                1429, 
+                2445, 
+                2136, 
+                1545, 
+                1212, 
+                17, 
+                1422, 
+                3052, 
+                1136, 
+                2325, 
+                2285, 
+                2368, 
+                379
+            ], 
+            "WBL": [
+                2595
+            ], 
+            "AM2F": [
+                2479
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(21, 18)": {
+            "WBF": [
+                2725
+            ], 
+            "AM2L": [
+                1178
+            ], 
+            "BM1F": [
+                2368
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                1886
+            ], 
+            "BM1L": [
+                2285
+            ], 
+            "WBO": [
+                2595
+            ], 
+            "WBL": [
+                2595
+            ], 
+            "AM2F": [
+                2479
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            4, 
+            18
+        ], 
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hour ) , very fast recharges rate , removable battery , storage size , nice screen , firmware update , and great price ."
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "3797f31b7e658ca2289e807be4ce0066": {
+        "(20, 3)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2098
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2570
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                631
+            ], 
+            "WBO": [
+                2844, 
+                1330, 
+                2170, 
+                253, 
+                1279, 
+                2844, 
+                2530, 
+                2300, 
+                2886, 
+                2557, 
+                1429, 
+                3094, 
+                133
+            ], 
+            "WBL": [
+                2219
+            ], 
+            "AM2F": [
+                2719
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            20
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "by cocking the shutter to the halfway position and getting the setting ready to shoot , i was able to produce excellent stopaction photo -- contrary to what other reviewer experienced ."
+    }
+}

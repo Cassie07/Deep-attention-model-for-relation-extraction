@@ -1,0 +1,87 @@
+{
+    "c97426f7e6b7627ae5bb73ee0fe03b0b": {
+        "(5, 18)": {
+            "WBF": [
+                2098
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2812
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2564
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1951, 
+                2844, 
+                91, 
+                1951, 
+                1568, 
+                1175, 
+                3168, 
+                253, 
+                1302
+            ], 
+            "WBL": [
+                245
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "i was able to take great photo of the 4th of july fire work , and got some amazing shot of the kid playing with sparkler ."
+    }, 
+    "17ea77f8baef8743561f50cf960f3ff5": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            4
+        ], 
+        "(10, 4)": {
+            "WBF": [
+                2813
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2564
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                2859, 
+                520
+            ], 
+            "WBL": [
+                1500
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "in term of the shot taken , this camera is insanely great !"
+    }
+}

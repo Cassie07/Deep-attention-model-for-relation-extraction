@@ -1,0 +1,74 @@
+{
+    "0908662baf8f85d175cd9e342db17d3e": {
+        "(17, 12)": {
+            "WBF": [
+                2968
+            ], 
+            "BM1F": [
+                1165
+            ], 
+            "M1": [
+                975
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                2628
+            ], 
+            "WBL": [
+                3018
+            ], 
+            "AM2F": [
+                1366
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            8, 
+            12
+        ], 
+        "(17, 8)": {
+            "WBF": [
+                501
+            ], 
+            "BM1F": [
+                2772
+            ], 
+            "M1": [
+                975
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1429, 
+                1165, 
+                975, 
+                2968, 
+                2628
+            ], 
+            "WBL": [
+                3018
+            ], 
+            "AM2F": [
+                1366
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the sound is great even with the supplied earbuds -- but i find earbuds uncomfortable so i use different headphone ."
+    }
+}

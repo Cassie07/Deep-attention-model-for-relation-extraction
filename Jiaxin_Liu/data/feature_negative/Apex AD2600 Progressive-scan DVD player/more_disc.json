@@ -1,0 +1,156 @@
+{
+    "8fd7717f6f4b86db0002350fe4354721": {
+        "(14, 19)": {
+            "WBF": [
+                1085
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                890
+            ], 
+            "BM1L": [
+                2140
+            ], 
+            "WBO": [
+                961
+            ], 
+            "WBL": [
+                1761
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            19, 
+            61
+        ], 
+        "(14, 61)": {
+            "WBF": [
+                1085
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                890
+            ], 
+            "BM1L": [
+                2140
+            ], 
+            "WBO": [
+                961, 
+                2272, 
+                1761, 
+                890, 
+                4, 
+                2842, 
+                2011, 
+                2139, 
+                3181, 
+                2136, 
+                501, 
+                2886, 
+                1856, 
+                2783, 
+                3094, 
+                133, 
+                2886, 
+                2136, 
+                587, 
+                1761, 
+                2842, 
+                1429, 
+                1328, 
+                495, 
+                2842, 
+                1429, 
+                738, 
+                1859, 
+                5, 
+                1277, 
+                2886, 
+                3168, 
+                394, 
+                1468, 
+                267, 
+                501, 
+                2844, 
+                961, 
+                496, 
+                1549, 
+                2842, 
+                1429, 
+                1328
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "when i 1st tried it i found that it had no problem playing the more expensive dvd - r medium disc 's that other player would play but to my surprise was able to play cheep medium that i had burned that i could n't get to work before in anything but the dvd burner itself that i had made the disc with ."
+    }, 
+    "315c1f1d70df18c343035b159b8fa102": {
+        "(6, 17)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                890
+            ], 
+            "BM1L": [
+                2680
+            ], 
+            "WBO": [
+                2849, 
+                2567, 
+                1967, 
+                2844, 
+                898, 
+                2842, 
+                2850
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "it would spin , read , spin some more and then show on the display that there was no disc ."
+    }
+}

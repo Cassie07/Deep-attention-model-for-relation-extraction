@@ -1,0 +1,66 @@
+{
+    "f79b17a89c5ad1b3a2e790a644f71628": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "AM2L": [
+                1143
+            ], 
+            "WBFL": [
+                2260
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2112
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "great quality picture and feature ."
+    }, 
+    "9f50c25f5f7fb84cc8995a85ac62697d": {
+        "(7, 5)": {
+            "AM2L": [
+                2529
+            ], 
+            "WBFL": [
+                3094
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "AM2F": [
+                3124
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "received apex dvd and the picture was great when set up with s connector ."
+    }
+}

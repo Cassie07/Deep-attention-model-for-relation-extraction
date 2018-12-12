@@ -1,0 +1,96 @@
+{
+    "20213c2657b8735b886c7d729880f2ad": {
+        "(10, 3)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                2321
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                1685
+            ], 
+            "BM1L": [
+                525
+            ], 
+            "WBO": [
+                2236, 
+                2852, 
+                1605
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                2878
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(10, 33)": {
+            "WBF": [
+                2878
+            ], 
+            "AM2L": [
+                1381
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                1685
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2321, 
+                1122, 
+                2263, 
+                1468, 
+                2844, 
+                520, 
+                2149, 
+                1441, 
+                3203, 
+                3085, 
+                1829, 
+                2182, 
+                3203, 
+                522, 
+                1055, 
+                1165, 
+                130, 
+                1588, 
+                576
+            ], 
+            "WBL": [
+                2663
+            ], 
+            "AM2F": [
+                2426
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            3, 
+            33
+        ], 
+        "sentence": "although canon 's battery are proprietary , they last a really long time , recharge fairly quickly in the camera , plus if you want ' more power ' , you can even find a knockoff charger and spare battery right here on amazon ."
+    }
+}

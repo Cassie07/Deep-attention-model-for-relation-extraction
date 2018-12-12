@@ -1,0 +1,43 @@
+{
+    "28625e5528127fc1474b0e6dad55a8cb": {
+        "(13, 18)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                683
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                3018
+            ], 
+            "WBO": [
+                783
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                958
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "it has a beautiful design , lot of feature , very easy to use , very configurable and customizable , and the battery duration is amazing !"
+    }
+}

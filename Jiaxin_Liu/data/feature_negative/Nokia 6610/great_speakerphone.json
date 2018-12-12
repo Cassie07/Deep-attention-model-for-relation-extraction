@@ -1,0 +1,82 @@
+{
+    "2ba94a2d6897c0dc29eaf3f1c90562af": {
+        "(18, 16)": {
+            "AM2L": [
+                516
+            ], 
+            "WBFL": [
+                1996
+            ], 
+            "BM1F": [
+                2595
+            ], 
+            "M1": [
+                2666
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2615
+            ], 
+            "AM2F": [
+                2206
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email ."
+    }, 
+    "bc412b771cb33944aaf00912480e5a71": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            11
+        ], 
+        "(2, 11)": {
+            "WBF": [
+                379
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2666
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1643, 
+                1201, 
+                2275, 
+                1072, 
+                2576
+            ], 
+            "WBL": [
+                1230
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it has great battery life , fm radio , excellent signal , hand free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps ."
+    }
+}

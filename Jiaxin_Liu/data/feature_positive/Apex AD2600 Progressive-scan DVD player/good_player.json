@@ -1,0 +1,227 @@
+{
+    "b3d6250f8c0e2d723e032191144e6c20": {
+        "(3, 1)": {
+            "AM2L": [
+                2016
+            ], 
+            "WBFL": [
+                1690
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "AM2F": [
+                2426
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3, 
+            14
+        ], 
+        "location2": [
+            1
+        ], 
+        "(14, 1)": {
+            "WBF": [
+                1690
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                1300, 
+                2426, 
+                2016, 
+                1951, 
+                2844, 
+                460, 
+                1957, 
+                1698, 
+                1951
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2748
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the player looked good right out of the box , offering lot of feature and good styling ."
+    }, 
+    "fe7e064c5f0fe9bf989fab990cc0ea99": {
+        "(18, 6)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                961
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                53
+            ], 
+            "WBO": [
+                1858, 
+                316, 
+                598, 
+                386, 
+                1545, 
+                1302, 
+                1300, 
+                2417
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                3035
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14, 
+            18
+        ], 
+        "location2": [
+            6
+        ], 
+        "(14, 6)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                961
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                53
+            ], 
+            "WBO": [
+                1858, 
+                316, 
+                598, 
+                386
+            ], 
+            "WBL": [
+                1302
+            ], 
+            "AM2F": [
+                2417
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i bought this apex 2600 dvd player for myself at christmas because it got good review as a good value for the money on a variety of different site ."
+    }, 
+    "1bb0466c467ad147fa770ae552afdb45": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            9
+        ], 
+        "(7, 9)": {
+            "WBFL": [
+                961
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "for the most part this is a good dvd player ."
+    }, 
+    "29d2614f705ec8f146e4eddeb3c87bcf": {
+        "location1": [
+            8
+        ], 
+        "location2": [
+            17
+        ], 
+        "(8, 17)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                2294
+            ], 
+            "BM1F": [
+                1279
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2304
+            ], 
+            "WBO": [
+                2897, 
+                1978, 
+                62, 
+                3172, 
+                801
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "finally , amazon 's free shipping is really getting good , it took only 3 working day for the player to reach me !"
+    }
+}

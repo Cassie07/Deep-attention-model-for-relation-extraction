@@ -1,0 +1,82 @@
+{
+    "a361394cdc6999e5a0fe06836b4e3951": {
+        "(2, 5)": {
+            "WBF": [
+                674
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1721
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                863
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "on my main computer the software did not work right ."
+    }, 
+    "27f13efb1c6d5d29bb29db0c4901feed": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            13
+        ], 
+        "(1, 13)": {
+            "WBF": [
+                2215
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1721
+            ], 
+            "M2": [
+                2631
+            ], 
+            "WBO": [
+                3158, 
+                2844, 
+                1901, 
+                1566, 
+                3210, 
+                3194, 
+                63, 
+                1268
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the main problem with the nomad jukebox zen xtra 30 gb is the software ."
+    }
+}

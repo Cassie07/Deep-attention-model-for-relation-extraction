@@ -1,0 +1,50 @@
+{
+    "dd00a38d580f6f271c19d5bf9766fffb": {
+        "(18, 3)": {
+            "WBF": [
+                1522
+            ], 
+            "BM1F": [
+                2139
+            ], 
+            "M1": [
+                3023
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2959, 
+                1541, 
+                1532, 
+                2886, 
+                3018, 
+                253, 
+                226, 
+                985, 
+                1865, 
+                1951, 
+                130
+            ], 
+            "WBL": [
+                1998
+            ], 
+            "AM2F": [
+                633
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "2 ) the player user interface ( ui ) is intuitive to use , and allows easy navigation of a large or small collection ."
+    }
+}

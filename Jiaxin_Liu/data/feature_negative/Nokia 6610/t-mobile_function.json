@@ -1,0 +1,92 @@
+{
+    "cb424d3ece8282ce9d98ff9e19d23c6c": {
+        "(10, 17)": {
+            "WBF": [
+                1595
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                2804
+            ], 
+            "M2": [
+                1252
+            ], 
+            "BM1L": [
+                1733
+            ], 
+            "WBO": [
+                1737, 
+                1951, 
+                2844
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "the one huge disappointment is that the phone manufactured for t-mobile lack many of the menus and function that a nokia straight from the manufacturer should have ."
+    }, 
+    "4c97fb16f6c98310c527b30aa33a2434": {
+        "(13, 2)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2527
+            ], 
+            "BM1F": [
+                1527
+            ], 
+            "M1": [
+                1252
+            ], 
+            "M2": [
+                2804
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844, 
+                2097, 
+                3089, 
+                253, 
+                1304, 
+                3145, 
+                1978
+            ], 
+            "WBL": [
+                2867
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the internet function of the phone - wap and gprs - will only work through t-mobile 's service , because they have deleted the menu option that would enable you to configure the phone to be used on a different network ."
+    }
+}

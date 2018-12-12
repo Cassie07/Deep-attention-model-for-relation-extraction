@@ -1,0 +1,31 @@
+{
+    "e938caf51ea8e0d24b0f060a2fa90eac": {
+        "(2, 3)": {
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2607
+            ], 
+            "M2": [
+                845
+            ], 
+            "BM1L": [
+                1702
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "loved the slim design ."
+    }
+}

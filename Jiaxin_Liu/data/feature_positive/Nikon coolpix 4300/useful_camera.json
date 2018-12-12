@@ -1,0 +1,113 @@
+{
+    "22acb9431eff5025a15adbaf9c736917": {
+        "(6, 3)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                875
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                3021
+            ], 
+            "BM1L": [
+                653
+            ], 
+            "WBO": [
+                1051
+            ], 
+            "WBL": [
+                1051
+            ], 
+            "AM2F": [
+                1441
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(6, 19)": {
+            "WBF": [
+                1441
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                1051
+            ], 
+            "M1": [
+                3021
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3203, 
+                1355, 
+                1669, 
+                592, 
+                298, 
+                253, 
+                3203, 
+                522, 
+                238
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            3, 
+            19
+        ], 
+        "sentence": "the compact digital camera is especially useful if you have little child around and you can always take the camera with you and take many picture of them ."
+    }, 
+    "e389400b358904930d1a6caf7c8dd8e6": {
+        "(10, 12)": {
+            "WBFL": [
+                1669
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                3021
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                2438
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "overall the nikon 4300 is a very dependable , robust , and useful little camera ."
+    }
+}

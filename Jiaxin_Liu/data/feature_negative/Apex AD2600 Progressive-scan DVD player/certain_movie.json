@@ -1,0 +1,91 @@
+{
+    "62cf1a8d3b2e903f5a6f46e8d99bb3c2": {
+        "(14, 19)": {
+            "WBF": [
+                897
+            ], 
+            "AM2L": [
+                890
+            ], 
+            "BM1F": [
+                2136
+            ], 
+            "M1": [
+                563
+            ], 
+            "M2": [
+                1839
+            ], 
+            "BM1L": [
+                5
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                961
+            ], 
+            "AM2F": [
+                1896
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "i have sent my ad2600 back to apex because it wo n't play certain disney and other dvd movie ( no disc message ) ."
+    }, 
+    "9151bec746be1369933e0711724fabba": {
+        "location1": [
+            36
+        ], 
+        "location2": [
+            24
+        ], 
+        "(36, 24)": {
+            "WBF": [
+                1060
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1839
+            ], 
+            "M2": [
+                563
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                2878, 
+                3102, 
+                2138, 
+                1545, 
+                62, 
+                1915, 
+                402, 
+                133
+            ], 
+            "WBL": [
+                146
+            ], 
+            "AM2F": [
+                2668
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the player usually play dvd 's , but has occasional problem such as : 1 ) not recognizing a dvd 2 ) stopping a particular point in a movie every time we played it 3 ) not being able to access certain special feature on a rental dvd ."
+    }
+}

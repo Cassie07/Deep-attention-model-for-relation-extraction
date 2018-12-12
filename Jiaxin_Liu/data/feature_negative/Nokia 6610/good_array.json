@@ -1,0 +1,43 @@
+{
+    "2d9f1d8d7f3c3a79a868f38dccd16782": {
+        "(3, 7)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                300
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                1426
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "this phone is good with a huge array of feature built into it ."
+    }
+}

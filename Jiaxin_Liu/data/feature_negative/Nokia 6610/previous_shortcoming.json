@@ -1,0 +1,42 @@
+{
+    "38ea99941efb67acbdadb452537a05bc": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            20
+        ], 
+        "(10, 20)": {
+            "WBF": [
+                2097
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                2202
+            ], 
+            "M2": [
+                2561
+            ], 
+            "BM1L": [
+                1648
+            ], 
+            "WBO": [
+                501, 
+                2844, 
+                2011, 
+                1143, 
+                1545, 
+                2043
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "unfortunately , the 6610 does not offer voice dialing like my previous phone , but the other feature it pack outweighs this shortcoming ."
+    }
+}

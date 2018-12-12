@@ -1,0 +1,78 @@
+{
+    "53300d7a7dd55e15a9b1ca34d833f210": {
+        "(5, 9)": {
+            "WBF": [
+                316
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1348
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "WBO": [
+                2595
+            ], 
+            "WBL": [
+                3035
+            ], 
+            "AM2F": [
+                845
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "in short , this player is good at size , value , hardware design but really bad at its software"
+    }, 
+    "dcec7d045bb56bb23bf6af62e977a87c": {
+        "(13, 10)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2139
+            ], 
+            "M1": [
+                1348
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                2199
+            ], 
+            "WBL": [
+                2199
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "first i 'll start off by saying that this player hardware is pretty good .. ."
+    }
+}

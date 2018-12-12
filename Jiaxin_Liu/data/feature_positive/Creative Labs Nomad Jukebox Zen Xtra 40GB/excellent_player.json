@@ -1,0 +1,182 @@
+{
+    "a94aaabf3cef30309f2f69f92777dcf8": {
+        "(3, 4)": {
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1051
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "this is an excellent player , especially for the price , with feature that are comparable to and even excel the ipod ."
+    }, 
+    "f2411c8e4e34052a33a2a92ad250283e": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            28
+        ], 
+        "(9, 28)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2844, 
+                608, 
+                2842, 
+                1545, 
+                1541, 
+                1468, 
+                253, 
+                1545, 
+                4, 
+                1915, 
+                2304, 
+                290, 
+                2886, 
+                2285, 
+                1545
+            ], 
+            "WBL": [
+                1967
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i gave the zen 5 star because it 's excellent for the class that it is in and it 's not really appropriate to rate it based on player in a different class ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "(27, 9)": {
+            "WBF": [
+                442
+            ], 
+            "AM2L": [
+                3142
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                1931
+            ], 
+            "WBO": [
+                130, 
+                808, 
+                2595, 
+                253, 
+                3112, 
+                130, 
+                2356, 
+                1866, 
+                2802, 
+                2842, 
+                547, 
+                372, 
+                1967, 
+                1435
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "7507936ccfd024868889a9ca39083bf9": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            11
+        ], 
+        "(5, 11)": {
+            "WBF": [
+                1143
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                501, 
+                1915
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "bookmark for example , are an excellent feature ... but not on this player .. ."
+    }
+}

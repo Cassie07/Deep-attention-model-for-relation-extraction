@@ -1,0 +1,43 @@
+{
+    "13ed9f0eb7cfb3f0871a1f60badfc088": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            9
+        ], 
+        "(14, 9)": {
+            "WBF": [
+                1724
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2139
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                2859
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the combination of the price , storage size , and player feature makes this player the best on the market ."
+    }
+}

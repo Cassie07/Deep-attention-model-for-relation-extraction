@@ -1,0 +1,40 @@
+{
+    "0bd4b7ea23395053267cfdb384e926bd": {
+        "(28, 24)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                110
+            ], 
+            "M1": [
+                2878
+            ], 
+            "M2": [
+                613
+            ], 
+            "BM1L": [
+                103
+            ], 
+            "WBO": [
+                1277
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1655
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            28
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "however , the call constantly drop in my area and i experince mega-static , to the point where i 'd have to dial number 6-7 time to get a clear line ."
+    }
+}

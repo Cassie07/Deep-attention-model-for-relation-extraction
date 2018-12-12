@@ -1,0 +1,37 @@
+{
+    "3e72e9cc6e251da6798a2e9e66feb5b3": {
+        "(7, 5)": {
+            "AM2L": [
+                633
+            ], 
+            "WBFL": [
+                1856
+            ], 
+            "BM1F": [
+                373
+            ], 
+            "M1": [
+                1933
+            ], 
+            "M2": [
+                1036
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "AM2F": [
+                553
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "1 . i achieved my basic objective ; my entire cd collection is on a portable device with lot of room to store more ."
+    }
+}

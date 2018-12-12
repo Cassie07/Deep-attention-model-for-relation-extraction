@@ -1,0 +1,84 @@
+{
+    "521121be8f6569821c970c8fc219b7d7": {
+        "(12, 10)": {
+            "AM2L": [
+                402
+            ], 
+            "WBFL": [
+                2844
+            ], 
+            "BM1F": [
+                3160
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                4
+            ], 
+            "AM2F": [
+                2952
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "it played only one out of three dvd 's without problem , the other two being afflicted by a number of glitch ."
+    }, 
+    "8fd7717f6f4b86db0002350fe4354721": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            11
+        ], 
+        "(22, 11)": {
+            "WBF": [
+                2140
+            ], 
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1328
+            ], 
+            "WBO": [
+                2844, 
+                1829, 
+                1085, 
+                961, 
+                2272, 
+                1761, 
+                890
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "when i 1st tried it i found that it had no problem playing the more expensive dvd - r medium disc 's that other player would play but to my surprise was able to play cheep medium that i had burned that i could n't get to work before in anything but the dvd burner itself that i had made the disc with ."
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "e36d6c54ed710942569ac8dc47ef1c8b": {
+        "(14, 20)": {
+            "WBF": [
+                2631
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1402
+            ], 
+            "M2": [
+                2802
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                2842, 
+                644
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "the only two thing that stop me from giving it 5 star are the ho-hum software that comes with the system , and the traveling case it comes with ."
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "9d4a8bd6c0f5e3a37a676f91296665f3": {
+        "(10, 12)": {
+            "WBFL": [
+                1842
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "all in all though i 'm very happy with my new mp3 player ."
+    }, 
+    "f1ec074964c5a280f73dfd66022b0269": {
+        "(11, 12)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "i really do recommend this to anyone in need of a new player ."
+    }, 
+    "fe401e4c7ad5871abaee9660a3bbdd76": {
+        "(33, 5)": {
+            "WBF": [
+                1351
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1882
+            ], 
+            "BM1L": [
+                190
+            ], 
+            "WBO": [
+                1441, 
+                2204, 
+                3094, 
+                1859, 
+                5, 
+                1030, 
+                1541, 
+                2844, 
+                1112, 
+                2842, 
+                2844, 
+                3023, 
+                522, 
+                2380, 
+                2844, 
+                379, 
+                1397, 
+                1382, 
+                507, 
+                1984, 
+                2844, 
+                1642, 
+                253, 
+                2162
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                379
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            33
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "possibly the biggest advantage this player has ( if price was n't enough ) is the fact that the user can replace the battery him / herself by opening the lid and popping in the new battery ."
+    }
+}

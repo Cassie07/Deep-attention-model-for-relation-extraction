@@ -1,0 +1,243 @@
+{
+    "3dad728919e1b406d7295e3ca95a61fa": {
+        "(2, 3)": {
+            "AM2L": [
+                1936
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2853
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the one other thing i observed while i had the nomad is that the front cover , which is taken off to have access to the battery , seemed to come undone very easily ."
+    }, 
+    "033b35286cae2ac0ec2fc080f51e500c": {
+        "(16, 4)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                744
+            ], 
+            "M1": [
+                2853
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                865, 
+                1648, 
+                2862, 
+                501, 
+                1920, 
+                2523, 
+                130, 
+                1669
+            ], 
+            "WBL": [
+                2840
+            ], 
+            "AM2F": [
+                1843
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            4, 
+            35
+        ], 
+        "(16, 35)": {
+            "WBF": [
+                1843
+            ], 
+            "AM2L": [
+                824
+            ], 
+            "BM1F": [
+                2840
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2853
+            ], 
+            "BM1L": [
+                1604
+            ], 
+            "WBO": [
+                501, 
+                2712, 
+                1644, 
+                2844, 
+                2631, 
+                2814, 
+                2637, 
+                2878, 
+                2886, 
+                1277, 
+                3020, 
+                2886, 
+                1749, 
+                12, 
+                1790
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                3181
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "there are a couple thing i didnt like though but nothing serious : a little larger than other mp3s but still light , the software takes some time to get used to ( maybe 10-15 min ) , and this thing would definitely be destroyed with one fall ."
+    }, 
+    "4b250e429d4a6e61e0e17bdef799bb3f": {
+        "(0, 4)": {
+            "WBF": [
+                2840
+            ], 
+            "AM2L": [
+                1313
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2853
+            ], 
+            "WBO": [
+                2842
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "other than that this thing is great ..."
+    }, 
+    "4e222be5574201bad2e38c874688344f": {
+        "(3, 5)": {
+            "AM2L": [
+                1545
+            ], 
+            "WBFL": [
+                869
+            ], 
+            "BM1F": [
+                912
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2853
+            ], 
+            "BM1L": [
+                522
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "you can do other different thing with it such as choose what kind of `` now playing `` interface , you can see the interface as modern or classical ."
+    }, 
+    "eb5f7f84fb72e7589f2fbebf5436ab11": {
+        "(3, 7)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                1978
+            ], 
+            "BM1F": [
+                62
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2853
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                2139
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                3145
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "unlike my 3 other mp3 player , this thing will only work properly if you have id3 tag on all of your track ."
+    }
+}

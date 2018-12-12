@@ -1,0 +1,51 @@
+{
+    "37a84a72000588d4bc0ae8bef4295a66": {
+        "(1, 17)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2817
+            ], 
+            "WBO": [
+                1541, 
+                1072, 
+                1074, 
+                1749, 
+                130, 
+                2809, 
+                2896, 
+                2264, 
+                316, 
+                2878, 
+                3124, 
+                2850
+            ], 
+            "WBL": [
+                2265
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "the sound quality is excellent , except , maybe a * tad * too quiet at time when there are quieter talker on the other end of the line ."
+    }
+}

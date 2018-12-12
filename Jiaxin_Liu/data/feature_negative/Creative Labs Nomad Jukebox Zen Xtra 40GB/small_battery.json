@@ -1,0 +1,91 @@
+{
+    "c797f7ccd54badc9e0db79b7ce27861a": {
+        "(12, 5)": {
+            "WBF": [
+                3129
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2381
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1429, 
+                2976, 
+                286
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1223
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "price , along with the replaceable battery ( which i understand apple charge a small fortune to replace - as well as the hassle of returning it ) were the two main factor on why i picked the nomad ."
+    }, 
+    "046321e6f46dfb8659079eb3d885696d": {
+        "(13, 3)": {
+            "WBF": [
+                1673
+            ], 
+            "AM2L": [
+                1644
+            ], 
+            "BM1F": [
+                569
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                2149
+            ], 
+            "WBO": [
+                1951, 
+                2194, 
+                1212, 
+                1037, 
+                808, 
+                703
+            ], 
+            "WBL": [
+                2270
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "other plus : changable battery , load of presets for environment , decent construction , still quite small and light despite being slightly bigger than an ipod ."
+    }
+}

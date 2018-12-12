@@ -1,0 +1,37 @@
+{
+    "d189707ad42028eec72db14fec45c699": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            23
+        ], 
+        "(22, 23)": {
+            "AM2L": [
+                2958
+            ], 
+            "BM1F": [
+                1350
+            ], 
+            "M1": [
+                1190
+            ], 
+            "M2": [
+                1448
+            ], 
+            "BM1L": [
+                2219
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "relative to what i can easily achieve with external flash on my nikon slr , the internal flash on the g3 produce harsh , flat image with ugly hot spot ."
+    }
+}

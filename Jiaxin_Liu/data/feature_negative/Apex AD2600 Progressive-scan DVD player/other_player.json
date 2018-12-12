@@ -1,0 +1,166 @@
+{
+    "9b11689d3b0c95dc2f00e7b8943b4934": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            12
+        ], 
+        "(4, 12)": {
+            "WBF": [
+                2079
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                3135, 
+                2313, 
+                130, 
+                1628
+            ], 
+            "WBL": [
+                961
+            ], 
+            "AM2F": [
+                518
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "unlike some of the other people who received a `` lemon `` , my dvd player came in perfect working condition ."
+    }, 
+    "8fd7717f6f4b86db0002350fe4354721": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            23
+        ], 
+        "(22, 23)": {
+            "AM2L": [
+                2136
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                4
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3181
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "when i 1st tried it i found that it had no problem playing the more expensive dvd - r medium disc 's that other player would play but to my surprise was able to play cheep medium that i had burned that i could n't get to work before in anything but the dvd burner itself that i had made the disc with ."
+    }, 
+    "6513c98716058aac2f83fc6564af3fd0": {
+        "location1": [
+            26
+        ], 
+        "location2": [
+            4, 
+            27
+        ], 
+        "(26, 27)": {
+            "AM2L": [
+                1238
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2296
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1241
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(26, 4)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                1241
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1328
+            ], 
+            "WBO": [
+                2533, 
+                1827, 
+                253, 
+                1545, 
+                2296, 
+                1832, 
+                894, 
+                501, 
+                1545, 
+                3181, 
+                1915, 
+                2327, 
+                2533, 
+                894, 
+                2842, 
+                3120, 
+                611, 
+                253
+            ], 
+            "WBL": [
+                1967
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i 've had this player for several month and it read most discs , but it would not recognize several discs that were clean and read on other player ( from friend season 2 ) ."
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "1815e3af4f811c08b874fb48013a9edc": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            13
+        ], 
+        "(9, 13)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                1041
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1929
+            ], 
+            "BM1L": [
+                3115
+            ], 
+            "WBO": [
+                1474
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the eax feature are pretty cool , as well , as creative has included a number of eq adjustment that , for example , compensate for the extraneous noise encountered in a car or on a train ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "(43, 40)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                392
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1929
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                697
+            ], 
+            "WBO": [
+                3196
+            ], 
+            "WBL": [
+                3196
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            43
+        ], 
+        "location2": [
+            40
+        ], 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }
+}

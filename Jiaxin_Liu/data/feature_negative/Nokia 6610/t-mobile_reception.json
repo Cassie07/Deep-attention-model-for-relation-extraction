@@ -1,0 +1,88 @@
+{
+    "464ae5e381f94d45fed8ae02ad5e7495": {
+        "location1": [
+            19
+        ], 
+        "location2": [
+            25
+        ], 
+        "(19, 25)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                1076
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                2804
+            ], 
+            "M2": [
+                2319
+            ], 
+            "BM1L": [
+                1300
+            ], 
+            "WBO": [
+                2844, 
+                607
+            ], 
+            "WBL": [
+                2846
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i 'm staying with sprint , and though i fear that their csr is n't nearly as good as t-mobile 's , the clarity of their reception is exceptional ."
+    }, 
+    "5f632c925abff8ea973237469d07a2aa": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            10
+        ], 
+        "(18, 10)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2319
+            ], 
+            "M2": [
+                2804
+            ], 
+            "BM1L": [
+                1278
+            ], 
+            "WBO": [
+                1541, 
+                1468, 
+                2126, 
+                3126
+            ], 
+            "WBL": [
+                1277
+            ], 
+            "AM2F": [
+                747
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the voice quality is very good , and it gets great reception ( that is , in place where you get t-mobile coverage , which is not that good ; see below ) ."
+    }
+}

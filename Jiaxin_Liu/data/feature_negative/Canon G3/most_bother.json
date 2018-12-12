@@ -1,0 +1,49 @@
+{
+    "3dd55b27114ec5fd6815b8c30aa6e44f": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            33
+        ], 
+        "(22, 33)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                1752
+            ], 
+            "BM1F": [
+                1615
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                455
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844, 
+                2878, 
+                2859, 
+                1541, 
+                1915, 
+                2304, 
+                1848
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the lens is visible in the viewfinder when the lens is set to the wide angle , but since i use the lcd most of the time , this is not really much of a bother to me ."
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            12
+        ], 
+        "(4, 12)": {
+            "WBF": [
+                1267
+            ], 
+            "AM2L": [
+                379
+            ], 
+            "BM1F": [
+                316
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1238
+            ], 
+            "WBO": [
+                2859, 
+                2853, 
+                1300, 
+                2654
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                1685
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "1815e3af4f811c08b874fb48013a9edc": {
+        "(9, 2)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1474
+            ], 
+            "BM1F": [
+                988
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2199, 
+                724, 
+                304
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the eax feature are pretty cool , as well , as creative has included a number of eq adjustment that , for example , compensate for the extraneous noise encountered in a car or on a train ."
+    }, 
+    "93b83dad8de467af70db727ec3d5cebc": {
+        "(1, 8)": {
+            "WBF": [
+                1594
+            ], 
+            "AM2L": [
+                1431
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1143
+            ], 
+            "WBO": [
+                3210, 
+                3194, 
+                1351
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the creative lab zen xtra has all the feature the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player ."
+    }
+}

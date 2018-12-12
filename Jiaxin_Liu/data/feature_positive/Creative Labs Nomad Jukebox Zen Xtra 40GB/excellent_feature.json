@@ -1,0 +1,80 @@
+{
+    "a94aaabf3cef30309f2f69f92777dcf8": {
+        "(3, 10)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1051, 
+                1212, 
+                2844
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "this is an excellent player , especially for the price , with feature that are comparable to and even excel the ipod ."
+    }, 
+    "7507936ccfd024868889a9ca39083bf9": {
+        "(5, 6)": {
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "bookmark for example , are an excellent feature ... but not on this player .. ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "4f4ce92984a186b080eef02938290fa5": {
+        "(2, 3)": {
+            "AM2L": [
+                1260
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                2035
+            ], 
+            "BM1L": [
+                1570
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2186
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "just a little overview , powershot g3 is the flagship of canon 's powershot series and its an slr-like camera , its 4 megapixel and ( alsmost ) full manual control gives the picture a touch of brilliance ."
+    }
+}

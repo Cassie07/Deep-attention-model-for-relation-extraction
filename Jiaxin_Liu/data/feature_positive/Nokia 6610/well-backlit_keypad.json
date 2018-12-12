@@ -1,0 +1,25 @@
+{
+    "25dd9f9401731661e5fb9235d8d76fce": {
+        "(0, 1)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                3116
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                1580
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "- well-backlit keypad"
+    }
+}

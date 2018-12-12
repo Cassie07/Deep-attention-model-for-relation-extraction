@@ -1,0 +1,87 @@
+{
+    "075cbfa6d23b531fc7100bc9ad7dcd00": {
+        "(4, 15)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                274
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2674
+            ], 
+            "BM1L": [
+                1814
+            ], 
+            "WBO": [
+                3018, 
+                3158, 
+                1136, 
+                146, 
+                1212, 
+                2844, 
+                2505
+            ], 
+            "WBL": [
+                2570
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "the manual mode is easy to use with fast access for the selection of shutter speed and aperture without having to fumble through menu option ."
+    }, 
+    "8125b34510fad206a46ff327585af3a6": {
+        "(16, 24)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2674
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1404, 
+                2706, 
+                3124, 
+                3026
+            ], 
+            "WBL": [
+                2570
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "the g3 is loaded with many useful feature , and unlike many smaller digital camera , it is easy to hold steady when using slower shutter speed ."
+    }
+}

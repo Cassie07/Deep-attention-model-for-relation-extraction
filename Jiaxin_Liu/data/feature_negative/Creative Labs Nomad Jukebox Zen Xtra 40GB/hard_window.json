@@ -1,0 +1,123 @@
+{
+    "ca693a4c5df2c07f651e149646f822a6": {
+        "sentence": "transfer through window explorer - window recognizes the jukebox as an additional hard disk , so it allows you to simply drag and drop file from window explorer to a folder for the nomad .", 
+        "location2": [
+            2, 
+            4, 
+            24
+        ], 
+        "(11, 4)": {
+            "WBF": [
+                2329
+            ], 
+            "AM2L": [
+                2628
+            ], 
+            "BM1F": [
+                1093
+            ], 
+            "M1": [
+                3151
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                3151
+            ], 
+            "WBO": [
+                2844, 
+                1566, 
+                304
+            ], 
+            "WBL": [
+                177
+            ], 
+            "AM2F": [
+                896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(11, 24)": {
+            "WBF": [
+                896
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                177
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                3151
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBO": [
+                2628, 
+                1545, 
+                226, 
+                3203, 
+                2886, 
+                2585, 
+                937, 
+                253, 
+                946
+            ], 
+            "WBL": [
+                1241
+            ], 
+            "AM2F": [
+                1093
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "(11, 2)": {
+            "WBF": [
+                1093
+            ], 
+            "AM2L": [
+                2628
+            ], 
+            "BM1F": [
+                2867
+            ], 
+            "M1": [
+                3151
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                2916
+            ], 
+            "WBO": [
+                3151, 
+                2329, 
+                2844, 
+                1566, 
+                304
+            ], 
+            "WBL": [
+                177
+            ], 
+            "AM2F": [
+                896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }
+    }
+}

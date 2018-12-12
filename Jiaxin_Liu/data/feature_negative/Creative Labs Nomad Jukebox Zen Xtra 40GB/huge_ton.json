@@ -1,0 +1,42 @@
+{
+    "1a660d93ab7bcfe1d1d3d39c1c3b80e0": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            10
+        ], 
+        "(0, 10)": {
+            "WBF": [
+                2725
+            ], 
+            "AM2L": [
+                2644
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                2893
+            ], 
+            "WBO": [
+                2660, 
+                1055, 
+                316, 
+                69, 
+                3203, 
+                522
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "huge storage space - even at 320kbs , you can store a ton of song on this thing ."
+    }
+}

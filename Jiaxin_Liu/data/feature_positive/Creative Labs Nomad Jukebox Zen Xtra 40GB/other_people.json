@@ -1,0 +1,139 @@
+{
+    "2c18484d512b4fc04c7dbcce1d30f543": {
+        "(4, 5)": {
+            "AM2L": [
+                2470
+            ], 
+            "BM1F": [
+                3121
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2079
+            ], 
+            "BM1L": [
+                1589
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "i dont know what other people are saying , but the software is awesome ."
+    }, 
+    "63b191a3a9ad3bc38caa73ddb3d65fb1": {
+        "(1, 2)": {
+            "AM2L": [
+                664
+            ], 
+            "BM1F": [
+                386
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2079
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "because other people that complain about this player are talking bull , this player is awesome , it just break fast , which is horrible ."
+    }, 
+    "baf85a0b553ca7fd741513aae4904839": {
+        "(11, 12)": {
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                1737
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2079
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3135
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "i 'm convinced by my own experience and that of many other people who have posted here who have had the same experience that the product is defectively designed , and will not hold up to normal use ."
+    }, 
+    "648fbc07d2a2a8cf747e25741707426f": {
+        "(11, 12)": {
+            "AM2L": [
+                2454
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2079
+            ], 
+            "BM1L": [
+                984
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1355
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "the panel seems like it will come off very easily as other people have said ."
+    }
+}

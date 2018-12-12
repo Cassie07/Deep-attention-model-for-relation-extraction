@@ -1,0 +1,78 @@
+{
+    "d0d621d83a44b4ab35ea2f818978ec04": {
+        "(0, 4)": {
+            "WBF": [
+                379
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2595
+            ], 
+            "WBO": [
+                1643
+            ], 
+            "WBL": [
+                2083
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "great battery life , perfect size , but a tid bit quieter than i would like ."
+    }, 
+    "2ba94a2d6897c0dc29eaf3f1c90562af": {
+        "(18, 15)": {
+            "WBF": [
+                2666
+            ], 
+            "AM2L": [
+                516
+            ], 
+            "BM1F": [
+                2615
+            ], 
+            "M1": [
+                2595
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1996
+            ], 
+            "WBL": [
+                1996
+            ], 
+            "AM2F": [
+                2206
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email ."
+    }
+}

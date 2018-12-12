@@ -1,0 +1,37 @@
+{
+    "f4d33ef7024c0c93baef74d60978635e": {
+        "(13, 14)": {
+            "AM2L": [
+                2557
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2151
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "this is the perfect camera for a photo hobbiest who wants to have easy point and shoot ability as well ."
+    }
+}

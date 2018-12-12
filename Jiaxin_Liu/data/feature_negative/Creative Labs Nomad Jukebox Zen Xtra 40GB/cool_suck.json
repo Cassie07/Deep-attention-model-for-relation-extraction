@@ -1,0 +1,41 @@
+{
+    "67bd9ef657ec9fe0e24675e255e6ee0d": {
+        "(7, 1)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                2587
+            ], 
+            "BM1F": [
+                1366
+            ], 
+            "M1": [
+                2761
+            ], 
+            "M2": [
+                724
+            ], 
+            "WBO": [
+                3181, 
+                1533
+            ], 
+            "WBL": [
+                2637
+            ], 
+            "AM2F": [
+                1973
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "headphone suck , i would invest in some cool one since it has the eax feature ."
+    }
+}

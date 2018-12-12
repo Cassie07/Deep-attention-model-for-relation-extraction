@@ -1,0 +1,72 @@
+{
+    "bc412b771cb33944aaf00912480e5a71": {
+        "(10, 9)": {
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                2576
+            ], 
+            "M1": [
+                1331
+            ], 
+            "M2": [
+                1230
+            ], 
+            "BM1L": [
+                1072
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2666
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "it has great battery life , fm radio , excellent signal , hand free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps ."
+    }, 
+    "ceb0982ee639d31ed4e5f43a46e69336": {
+        "(10, 9)": {
+            "AM2L": [
+                692
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1331
+            ], 
+            "M2": [
+                1230
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1585
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "button do seem a little sticky tho .. and the hand free kit ' connector might be a problem .."
+    }
+}

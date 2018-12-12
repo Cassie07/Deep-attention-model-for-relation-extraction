@@ -1,0 +1,72 @@
+{
+    "76e1f9c946b4e5b0f0c7e5da55e53d60": {
+        "(11, 12)": {
+            "AM2L": [
+                898
+            ], 
+            "BM1F": [
+                1723
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                2954
+            ], 
+            "BM1L": [
+                358
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "you can manage your profile , change the contrast of backlight , make different type of display , either list or tabbed ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            53
+        ], 
+        "location2": [
+            55
+        ], 
+        "(53, 55)": {
+            "AM2L": [
+                1967
+            ], 
+            "WBFL": [
+                1044
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                2954
+            ], 
+            "BM1L": [
+                2893
+            ], 
+            "AM2F": [
+                805
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

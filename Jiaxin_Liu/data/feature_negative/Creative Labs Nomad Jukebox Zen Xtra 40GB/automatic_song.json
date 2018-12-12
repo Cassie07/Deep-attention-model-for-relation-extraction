@@ -1,0 +1,46 @@
+{
+    "367132e3bd707c6fcb4fcfefdd6d2de8": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            10
+        ], 
+        "(2, 10)": {
+            "WBF": [
+                2798
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                335
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                2494
+            ], 
+            "WBO": [
+                1967, 
+                765, 
+                1636, 
+                3203
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                394
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "second , the `` automatic `` sync on creative let you review the song before it begin its transfer ."
+    }
+}

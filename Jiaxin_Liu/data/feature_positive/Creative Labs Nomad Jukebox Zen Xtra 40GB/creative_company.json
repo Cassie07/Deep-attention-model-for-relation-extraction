@@ -1,0 +1,198 @@
+{
+    "e17e18380718fc3b0a9d1deacbd92ff8": {
+        "(37, 30)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                1156
+            ], 
+            "BM1F": [
+                2631
+            ], 
+            "M1": [
+                655
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2065
+            ], 
+            "WBO": [
+                2400, 
+                3064, 
+                221
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1758
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            37
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "this player is an overall disappointment with a couple of big flaw that potential buyer should be wary of ; and all reader need to know about a third party software company that resolve virtually all of the creative mediasource file transfer issue ."
+    }, 
+    "9962a0395a42bef512fbadba4dcc1ee1": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            21
+        ], 
+        "(2, 21)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                2221
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                655
+            ], 
+            "BM1L": [
+                1146
+            ], 
+            "WBO": [
+                2221, 
+                2775, 
+                1541, 
+                2989, 
+                2157, 
+                2859, 
+                1541, 
+                1915, 
+                1654, 
+                2886, 
+                2844, 
+                3210, 
+                1545, 
+                289, 
+                2886
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "feedback on creative 's product support is universally poor ; this is not limited to the zen , it applies to all the company 's product ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(39, 43)": {
+            "WBF": [
+                1998
+            ], 
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                1853
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                655
+            ], 
+            "BM1L": [
+                3204
+            ], 
+            "WBO": [
+                264
+            ], 
+            "WBL": [
+                2011
+            ], 
+            "AM2F": [
+                221
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14, 
+            39
+        ], 
+        "location2": [
+            43
+        ], 
+        "(14, 43)": {
+            "WBF": [
+                3160
+            ], 
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                1915
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                655
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545, 
+                3204, 
+                1853, 
+                765, 
+                1998
+            ], 
+            "WBL": [
+                2011
+            ], 
+            "AM2F": [
+                221
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

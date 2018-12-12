@@ -1,0 +1,201 @@
+{
+    "e71bfa23d0bac20249b5f7a3754b3ca7": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            26
+        ], 
+        "(9, 26)": {
+            "WBF": [
+                2085
+            ], 
+            "AM2L": [
+                1763
+            ], 
+            "BM1F": [
+                1144
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2923, 
+                2595, 
+                520, 
+                1429, 
+                1496, 
+                1312, 
+                2886, 
+                2859, 
+                1669, 
+                1270, 
+                386, 
+                1951, 
+                2844
+            ], 
+            "WBL": [
+                2112
+            ], 
+            "AM2F": [
+                80
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "after a lengthy and extensive journey for a feature-loaded , high performance , travel size camera , i initially gravitated to this little gem because of the superior picture quality 4 mega pixel ."
+    }, 
+    "fc74409b72829e8f76ff6ce7e7d9c3eb": {
+        "(12, 15)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                3214
+            ], 
+            "BM1F": [
+                2595
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1976
+            ], 
+            "WBO": [
+                1168
+            ], 
+            "WBL": [
+                1168
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "i expected the 12x digital zoom to be grainy , but onfull size high to fine quality , the zoomed image are quite impressive ."
+    }, 
+    "1da9da21f6c3e925964f446dfeae9895": {
+        "(9, 10)": {
+            "AM2L": [
+                653
+            ], 
+            "BM1F": [
+                3018
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the nikon coolpix 4300 is wonderful -- easy to use , high quality , and compact in size ."
+    }, 
+    "e0a2186c7537ef86190504d475e55254": {
+        "(9, 10)": {
+            "AM2L": [
+                1060
+            ], 
+            "BM1F": [
+                1303
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "i selected the 4300 right away and have gotten high quality picture every time ."
+    }, 
+    "d70accb3661a2674ab2766a0dd695dae": {
+        "(15, 16)": {
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                3087
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2151
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "in summary , i love this camera and would whole-heartedly recommend this to anyone wanting a high quality point and shoot camera in the medium price range ."
+    }
+}

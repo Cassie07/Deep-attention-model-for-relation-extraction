@@ -1,0 +1,288 @@
+0bf10edcdbe26b58e9aa01bf73526b56.(0, 1).Nikon	<e1>awesome</e1> <e2>camera</e2> with huge print quality in a tiny package
++(e1, e2)
+c04938f6d553c4e369ea501705c0aff3.(4, 5).Nikon	it really is an <e1>awesome</e1> <e2>camera</e2> that is hard to beat for general-to moderate snapping
++(e1, e2)
+0d8185b14013eb0f62080f7c2c1f1129.(5, 6).Nikon	setting for just about everything <e1>beautiful</e1> <e2>pic</e2> and beautiful print
++(e1, e2)
+0d8185b14013eb0f62080f7c2c1f1129.(8, 6).Nikon	setting for just about everything beautiful <e1>pic</e1> and <e2>beautiful</e2> print
++(e2, e1)
+0d8185b14013eb0f62080f7c2c1f1129.(8, 9).Nikon	setting for just about everything beautiful pic and <e1>beautiful</e1> <e2>print</e2>
++(e1, e2)
+0d8185b14013eb0f62080f7c2c1f1129.(5, 9).Nikon	setting for just about everything <e1>beautiful</e1> pic and beautiful <e2>print</e2>
++(e1, e2)
+d0daccfd58ec29fbb2753db534018ca5.(6, 7).Nikon	nikon 4300 i feel is the <e1>best</e1> <e2>camera</e2> out there for the feature and price
++(e1, e2)
+0a97bbb3a0da722d9e48e3c05e77a24c.(6, 7).Nikon	in my opinion it 's the <e1>best</e1> <e2>camera</e2> for the money if you 're looking for something that 's easy to use small good for travel and provides excellent sharp image
++(e1, e2)
+22acb9431eff5025a15adbaf9c736917.(1, 3).Nikon	the <e1>compact</e1> digital <e2>camera</e2> is especially useful if you have little child around and you can always take the camera with you and take many picture of them
++(e1, e2)
+22acb9431eff5025a15adbaf9c736917.(1, 19).Nikon	the <e1>compact</e1> digital camera is especially useful if you have little child around and you can always take the <e2>camera</e2> with you and take many picture of them
++(e1, e2)
+2d3d3d47aa5812c5767bcd8d62c2bc24.(7, 11).Nikon	if you 're looking for a small <e1>compact</e1> super resolution digital <e2>camera</e2> you can end your search with the nikon 4300
++(e1, e2)
+113723c117c44d3f1da9fb6a41a2ac71.(5, 6).Nikon	over all a fantastic very <e1>compact</e1> <e2>camera</e2> which made us experience photography on a totally new level
++(e1, e2)
+9f0a61055e1f449cb62f85d3d95c52bd.(17, 2).Nikon	this little <e1>camera</e1> has created a marriage between myself and nikon never knew i could love a <e2>digital</e2> camera so much
++(e2, e1)
+9f0a61055e1f449cb62f85d3d95c52bd.(17, 18).Nikon	this little camera has created a marriage between myself and nikon never knew i could love a <e1>digital</e1> <e2>camera</e2> so much
++(e1, e2)
+ac4ab040f5068449f5d661c742ded24a.(4, 5).Nikon	this is my first <e1>digital</e1> <e2>camera</e2> and i can say that i am quite impressed with the feature that it has
++(e1, e2)
+22acb9431eff5025a15adbaf9c736917.(2, 3).Nikon	the compact <e1>digital</e1> <e2>camera</e2> is especially useful if you have little child around and you can always take the camera with you and take many picture of them
++(e1, e2)
+22acb9431eff5025a15adbaf9c736917.(2, 19).Nikon	the compact <e1>digital</e1> camera is especially useful if you have little child around and you can always take the <e2>camera</e2> with you and take many picture of them
++(e1, e2)
+164dda298348d815567dec7d16e56e32.(47, 48).Nikon	recently bought this coolpix 4300 along with a 256mb ultra flash card as expected i happily found that quality of the picture are excellent with 3m-4m pixel fine combo and many of the user-friendly function are very similar to slr model and with added convenience of a <e1>digital</e1> <e2>camera</e2> that you can see picture immediately
++(e1, e2)
+2d3d3d47aa5812c5767bcd8d62c2bc24.(10, 11).Nikon	if you 're looking for a small compact super resolution <e1>digital</e1> <e2>camera</e2> you can end your search with the nikon 4300
++(e1, e2)
+4283cf0438864dd7aa4566ca679cc53b.(11, 12).Nikon	i highly recommend this camera to anyone looking for a good <e1>digital</e1> <e2>camera</e2> that takes great picture yet does n 't take week to figure out how to operate
++(e1, e2)
+4283cf0438864dd7aa4566ca679cc53b.(11, 4).Nikon	i highly recommend this <e1>camera</e1> to anyone looking for a good <e2>digital</e2> camera that takes great picture yet does n 't take week to figure out how to operate
++(e2, e1)
+39e5ba4fdeb5f16fb0a7683a6195790c.(16, 7).Nikon	3 it is very compact but the <e1>control</e1> are so well designed that they 're still <e2>easy</e2> to use
++(e2, e1)
+385f6554344ce3fdba684ad8bf694cd7.(1, 0).Nikon	<e1>control</e1> <e2>easy</e2> yo use and easy to get to
++(e2, e1)
+385f6554344ce3fdba684ad8bf694cd7.(5, 0).Nikon	<e1>control</e1> easy yo use and <e2>easy</e2> to get to
++(e2, e1)
+7e902b1c3bac0da57adc7cb4cce23d18.(1, 27).Nikon	its <e1>easy</e1> to use and the sheer fun of being able to use an array of nikon accessory like the telephoto and wide-angle lens is the proverbial <e2>icing</e2> on the cake
++(e1, e2)
+1da9da21f6c3e925964f446dfeae9895.(6, 10).Nikon	the nikon coolpix 4300 is wonderful <e1>easy</e1> to use high <e2>quality</e2> and compact in size
++(e1, e2)
+a3b0eea6fef24303e358dc36a867f602.(2, 5).Nikon	it is <e1>easy</e1> enough to <e2>use</e2> for a beginner like me but it has plenty of feature for me to grow into
++(e1, e2)
+1769a914d0cd227d1f05d83abc44b3d3.(2, 6).Nikon	it 's <e1>easy</e1> for beginner to <e2>use</e2> but has feature that more serious photographer will love so it 's an excellent camera to grow into
++(e1, e2)
+50cf7592ad1ba3cc17dab3102c2caa84.(3, 9).Nikon	2 it is <e1>easy</e1> enough for my grandmother to <e2>use</e2>
++(e1, e2)
+3e862711b9c6b61022e139ccc3d36f8a.(17, 19).Nikon	in the auto mode it function basically as a point and click the scene mode are very <e1>easy</e1> to <e2>use</e2> and produce good result
++(e1, e2)
+611cd84ef2797167021575937265cb17.(2, 4).Nikon	it 's <e1>easy</e1> to <e2>use</e2> and yet very feature rich
++(e1, e2)
+0a97bbb3a0da722d9e48e3c05e77a24c.(19, 21).Nikon	in my opinion it 's the best camera for the money if you 're looking for something that 's <e1>easy</e1> to <e2>use</e2> small good for travel and provides excellent sharp image
++(e1, e2)
+385f6554344ce3fdba684ad8bf694cd7.(1, 3).Nikon	control <e1>easy</e1> yo <e2>use</e2> and easy to get to
++(e1, e2)
+385f6554344ce3fdba684ad8bf694cd7.(5, 3).Nikon	control easy yo <e1>use</e1> and <e2>easy</e2> to get to
++(e2, e1)
+e98ecaf7d8bf1bd365d78286f5ada68a.(5, 10).Nikon	i am impressed with how <e1>easy</e1> this camera is to <e2>use</e2>
++(e1, e2)
+3649de2567f56d923eed19f3229fac58.(5, 10).Nikon	the 4300 comes with excellent <e1>easy</e1> to install software i <e2>use</e2> it on xp and win98 without problem battery charger usb and video cable
++(e1, e2)
+39e5ba4fdeb5f16fb0a7683a6195790c.(16, 18).Nikon	3 it is very compact but the control are so well designed that they 're still <e1>easy</e1> to <e2>use</e2>
++(e1, e2)
+0d9c98a0b96f462fb9a75d73a026a16e.(7, 9).Nikon	it takes excellent pic and is very <e1>easy</e1> to <e2>use</e2> if you read the manual
++(e1, e2)
+7e902b1c3bac0da57adc7cb4cce23d18.(1, 3).Nikon	its <e1>easy</e1> to <e2>use</e2> and the sheer fun of being able to use an array of nikon accessory like the telephoto and wide-angle lens is the proverbial icing on the cake
++(e1, e2)
+7e902b1c3bac0da57adc7cb4cce23d18.(1, 12).Nikon	its <e1>easy</e1> to use and the sheer fun of being able to <e2>use</e2> an array of nikon accessory like the telephoto and wide-angle lens is the proverbial icing on the cake
++(e1, e2)
+1da9da21f6c3e925964f446dfeae9895.(6, 8).Nikon	the nikon coolpix 4300 is wonderful <e1>easy</e1> to <e2>use</e2> high quality and compact in size
++(e1, e2)
+1769a914d0cd227d1f05d83abc44b3d3.(20, 21).Nikon	it 's easy for beginner to use but has feature that more serious photographer will love so it 's an <e1>excellent</e1> <e2>camera</e2> to grow into
++(e1, e2)
+0a97bbb3a0da722d9e48e3c05e77a24c.(28, 7).Nikon	in my opinion it 's the best <e1>camera</e1> for the money if you 're looking for something that 's easy to use small good for travel and provides <e2>excellent</e2> sharp image
++(e2, e1)
+164dda298348d815567dec7d16e56e32.(23, 48).Nikon	recently bought this coolpix 4300 along with a 256mb ultra flash card as expected i happily found that quality of the picture are <e1>excellent</e1> with 3m-4m pixel fine combo and many of the user-friendly function are very similar to slr model and with added convenience of a digital <e2>camera</e2> that you can see picture immediately
++(e1, e2)
+ef8b221188025f77306dd1fd16320e12.(12, 1).Nikon	great <e1>camera</e1> i have been using this for several month and got <e2>excellent</e2> result simple friendly usage in many scene indoor outdoor snow close up macro etc
++(e2, e1)
+0a97bbb3a0da722d9e48e3c05e77a24c.(28, 30).Nikon	in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use small good for travel and provides <e1>excellent</e1> sharp <e2>image</e2>
++(e1, e2)
+0d9c98a0b96f462fb9a75d73a026a16e.(2, 3).Nikon	it takes <e1>excellent</e1> <e2>pic</e2> and is very easy to use if you read the manual
++(e1, e2)
+ef8b221188025f77306dd1fd16320e12.(12, 13).Nikon	great camera i have been using this for several month and got <e1>excellent</e1> <e2>result</e2> simple friendly usage in many scene indoor outdoor snow close up macro etc
++(e1, e2)
+97224a9d11f9869b7bb37913f20d0e1d.(2, 4).Nikon	they take <e1>excellent</e1> macro <e2>shot</e2> as well
++(e1, e2)
+113723c117c44d3f1da9fb6a41a2ac71.(3, 6).Nikon	over all a <e1>fantastic</e1> very compact <e2>camera</e2> which made us experience photography on a totally new level
++(e1, e2)
+ac4ab040f5068449f5d661c742ded24a.(3, 5).Nikon	this is my <e1>first</e1> digital <e2>camera</e2> and i can say that i am quite impressed with the feature that it has
++(e1, e2)
+0ebcdfef8bb972e3ec21c12e403b87b6.(7, 13).Nikon	with nikon although picture quality are as <e1>good</e1> as any other 4 mp <e2>camera</e2> i 've had the following headache
++(e1, e2)
+0a97bbb3a0da722d9e48e3c05e77a24c.(23, 7).Nikon	in my opinion it 's the best <e1>camera</e1> for the money if you 're looking for something that 's easy to use small <e2>good</e2> for travel and provides excellent sharp image
++(e2, e1)
+4283cf0438864dd7aa4566ca679cc53b.(10, 12).Nikon	i highly recommend this camera to anyone looking for a <e1>good</e1> digital <e2>camera</e2> that takes great picture yet does n 't take week to figure out how to operate
++(e1, e2)
+4283cf0438864dd7aa4566ca679cc53b.(10, 4).Nikon	i highly recommend this <e1>camera</e1> to anyone looking for a <e2>good</e2> digital camera that takes great picture yet does n 't take week to figure out how to operate
++(e2, e1)
+7c796cc382127a60c5fb968230a6441f.(5, 6).Nikon	but overall this is a <e1>good</e1> <e2>camera</e2> with a really good picture clarity an exceptional close-up shooting capability
++(e1, e2)
+7c796cc382127a60c5fb968230a6441f.(10, 6).Nikon	but overall this is a good <e1>camera</e1> with a really <e2>good</e2> picture clarity an exceptional close-up shooting capability
++(e2, e1)
+858a58b51860cbf88e1296d8838558d1.(3, 4).Nikon	it is a <e1>good</e1> <e2>camera</e2> in term of the function and quality but take your chance with it because nikon absolutely suck when it comes to customer service
++(e1, e2)
+7c796cc382127a60c5fb968230a6441f.(5, 12).Nikon	but overall this is a <e1>good</e1> camera with a really good picture <e2>clarity</e2> an exceptional close-up shooting capability
++(e1, e2)
+7c796cc382127a60c5fb968230a6441f.(10, 12).Nikon	but overall this is a good camera with a really <e1>good</e1> picture <e2>clarity</e2> an exceptional close-up shooting capability
++(e1, e2)
+9e23440344513995e9ef9d800416e9c8.(11, 12).Nikon	a nikon will make you happier and leave you lot of <e1>good</e1> <e2>memory</e2> as always
++(e1, e2)
+695d490cea19970e52fa3608c2ac96c8.(4, 5).Nikon	otherwise it takes very <e1>good</e1> <e2>picture</e2> shutter delay is n 't so bad either
++(e1, e2)
+7c796cc382127a60c5fb968230a6441f.(5, 11).Nikon	but overall this is a <e1>good</e1> camera with a really good <e2>picture</e2> clarity an exceptional close-up shooting capability
++(e1, e2)
+7c796cc382127a60c5fb968230a6441f.(10, 11).Nikon	but overall this is a good camera with a really <e1>good</e1> <e2>picture</e2> clarity an exceptional close-up shooting capability
++(e1, e2)
+42f0ce4c366e69f992de1c95467b18e7.(11, 2).Nikon	the daylight <e1>picture</e1> are brilliant and the indoor shot are very <e2>good</e2> provided that your subject is no more than about 8 foot away
++(e2, e1)
+0ebcdfef8bb972e3ec21c12e403b87b6.(7, 3).Nikon	with nikon although <e1>picture</e1> quality are as <e2>good</e2> as any other 4 mp camera i 've had the following headache
++(e2, e1)
+6c8553c3c50ea94e8903ac7ad2b1d889.(5, 7).Nikon	the digital zoom takes as <e1>good</e1> of <e2>picture</e2> as the optical zoom does
++(e1, e2)
+4283cf0438864dd7aa4566ca679cc53b.(10, 16).Nikon	i highly recommend this camera to anyone looking for a <e1>good</e1> digital camera that takes great <e2>picture</e2> yet does n 't take week to figure out how to operate
++(e1, e2)
+49fddc188547ceed107c560e4e129e1f.(0, 1).Nikon	<e1>great</e1> <e2>camera</e2> and for the price you can 't beat it
++(e1, e2)
+d2ecbc0b6c5a83518582c7e8d313b9b7.(21, 7).Nikon	the same 4mp chip from the 4500 <e1>camera</e1> plus a 3x zoom with the ability to expand upon that with extenders <e2>great</e2> closeup mode long lasting rechargable battery etc etc
++(e2, e1)
+af71635b2c094a32f231726f4484cd17.(7, 8).Nikon	still at least from my perspective a <e1>great</e1> <e2>camera</e2> for the money and i 'm a happy camper
++(e1, e2)
+c0cd1658c30cb16d99fbca9f888c59f5.(0, 1).Nikon	<e1>great</e1> <e2>camera</e2>
++(e1, e2)
+a5d898eb672a4f4889c7cc06168cb6da.(4, 2).Nikon	but this <e1>camera</e1> is <e2>great</e2>
++(e2, e1)
+ef8b221188025f77306dd1fd16320e12.(0, 1).Nikon	<e1>great</e1> <e2>camera</e2> i have been using this for several month and got excellent result simple friendly usage in many scene indoor outdoor snow close up macro etc
++(e1, e2)
+4283cf0438864dd7aa4566ca679cc53b.(15, 4).Nikon	i highly recommend this <e1>camera</e1> to anyone looking for a good digital camera that takes <e2>great</e2> picture yet does n 't take week to figure out how to operate
++(e2, e1)
+4283cf0438864dd7aa4566ca679cc53b.(15, 12).Nikon	i highly recommend this camera to anyone looking for a good digital <e1>camera</e1> that takes <e2>great</e2> picture yet does n 't take week to figure out how to operate
++(e2, e1)
+a037bc2334cf7856abb5cb99ee6cd3d8.(0, 1).Nikon	<e1>great</e1> <e2>camera</e2> great investment
++(e1, e2)
+a037bc2334cf7856abb5cb99ee6cd3d8.(2, 1).Nikon	great <e1>camera</e1> <e2>great</e2> investment
++(e2, e1)
+a037bc2334cf7856abb5cb99ee6cd3d8.(0, 3).Nikon	<e1>great</e1> camera great <e2>investment</e2>
++(e1, e2)
+a037bc2334cf7856abb5cb99ee6cd3d8.(2, 3).Nikon	great camera <e1>great</e1> <e2>investment</e2>
++(e1, e2)
+5881e9601bc8ceb222a7a2d40997a8ab.(18, 5).Nikon	i love the continuous shot <e1>mode</e1> which allows you to take up to 16 pix in rapid succession <e2>great</e2> for action shot
++(e2, e1)
+d2ecbc0b6c5a83518582c7e8d313b9b7.(21, 23).Nikon	the same 4mp chip from the 4500 camera plus a 3x zoom with the ability to expand upon that with extenders <e1>great</e1> closeup <e2>mode</e2> long lasting rechargable battery etc etc
++(e1, e2)
+20dbab3ec3be9a7c52eb8932beb60154.(6, 2).Nikon	the movie <e1>mode</e1> is also working <e2>great</e2>
++(e2, e1)
+736ae5070578444c8cf7f228710c97da.(2, 3).Nikon	it takes <e1>great</e1> <e2>picture</e2>
++(e1, e2)
+4283cf0438864dd7aa4566ca679cc53b.(15, 16).Nikon	i highly recommend this camera to anyone looking for a good digital camera that takes <e1>great</e1> <e2>picture</e2> yet does n 't take week to figure out how to operate
++(e1, e2)
+49fddc188547ceed107c560e4e129e1f.(0, 5).Nikon	<e1>great</e1> camera and for the <e2>price</e2> you can 't beat it
++(e1, e2)
+5408e4563e95c36874dcaf6a786a5d7c.(1, 2).Nikon	10 <e1>great</e1> <e2>price</e2> for all the feature
++(e1, e2)
+9f043f0ebf4759c2f9e477ec5b0d50d5.(19, 20).Nikon	i experimented with online print ordering with the two major us brick and mortar retailer and they both delivered <e1>great</e1> <e2>result</e2>
++(e1, e2)
+ef8b221188025f77306dd1fd16320e12.(0, 13).Nikon	<e1>great</e1> camera i have been using this for several month and got excellent <e2>result</e2> simple friendly usage in many scene indoor outdoor snow close up macro etc
++(e1, e2)
+d70accb3661a2674ab2766a0dd695dae.(15, 17).Nikon	in summary i love this camera and would whole-heartedly recommend this to anyone wanting a <e1>high</e1> quality <e2>point</e2> and shoot camera in the medium price range
++(e1, e2)
+e0a2186c7537ef86190504d475e55254.(9, 10).Nikon	i selected the 4300 right away and have gotten <e1>high</e1> <e2>quality</e2> picture every time
++(e1, e2)
+fc74409b72829e8f76ff6ce7e7d9c3eb.(12, 15).Nikon	i expected the 12x digital zoom to be grainy but onfull size <e1>high</e1> to fine <e2>quality</e2> the zoomed image are quite impressive
++(e1, e2)
+1da9da21f6c3e925964f446dfeae9895.(9, 10).Nikon	the nikon coolpix 4300 is wonderful easy to use <e1>high</e1> <e2>quality</e2> and compact in size
++(e1, e2)
+e71bfa23d0bac20249b5f7a3754b3ca7.(9, 26).Nikon	after a lengthy and extensive journey for a feature-loaded <e1>high</e1> performance travel size camera i initially gravitated to this little gem because of the superior picture <e2>quality</e2> 4 mega pixel
++(e1, e2)
+d70accb3661a2674ab2766a0dd695dae.(15, 16).Nikon	in summary i love this camera and would whole-heartedly recommend this to anyone wanting a <e1>high</e1> <e2>quality</e2> point and shoot camera in the medium price range
++(e1, e2)
+d03f98646be6254d949650bd4e9d9ba9.(17, 18).Nikon	after using it for about a month i can state unequivocably that this nikon definitely delivers a <e1>huge</e1> <e2>bang</e2> for the buck
++(e1, e2)
+0bf10edcdbe26b58e9aa01bf73526b56.(3, 5).Nikon	awesome camera with <e1>huge</e1> print <e2>quality</e2> in a tiny package
++(e1, e2)
+bc5b775fbaf3738d15534b70ed290f17.(11, 12).Nikon	after nearly 800 picture i have found that this nikon takes <e1>incredible</e1> <e2>picture</e2>
++(e1, e2)
+bc5b775fbaf3738d15534b70ed290f17.(11, 3).Nikon	after nearly 800 <e1>picture</e1> i have found that this nikon takes <e2>incredible</e2> picture
++(e2, e1)
+ef8b221188025f77306dd1fd16320e12.(20, 19).Nikon	great camera i have been using this for several month and got excellent result simple friendly usage in many <e1>scene</e1> <e2>indoor</e2> outdoor snow close up macro etc
++(e2, e1)
+d4954af171cda06cc040755bc979e934.(2, 3).Nikon	on average <e1>indoor</e1> <e2>shot</e2> with a flash are not quite as good as 35mm
++(e1, e2)
+42f0ce4c366e69f992de1c95467b18e7.(7, 8).Nikon	the daylight picture are brilliant and the <e1>indoor</e1> <e2>shot</e2> are very good provided that your subject is no more than about 8 foot away
++(e1, e2)
+747107cdbe2f2c1bbb64da5fa3d529a4.(8, 9).Nikon	the only drawback i 've encountered are 1 <e1>indoor</e1> <e2>shot</e2> from a distance 8ft lack contrast and color but i 've found this to be a problem with all camera with built-in flash that i 've used even on a nikon slr
++(e1, e2)
+4c6c28d1390c22b69d834cde174cecbc.(1, 2).Nikon	the <e1>inside</e1> <e2>pic</e2> can be a bit challenging but when you can instantly delete pic you dont like that are not focused perfectly or need lighting adjustment make this camera very simple and effective
++(e1, e2)
+4c6c28d1390c22b69d834cde174cecbc.(1, 14).Nikon	the <e1>inside</e1> pic can be a bit challenging but when you can instantly delete <e2>pic</e2> you dont like that are not focused perfectly or need lighting adjustment make this camera very simple and effective
++(e1, e2)
+d2ecbc0b6c5a83518582c7e8d313b9b7.(25, 27).Nikon	the same 4mp chip from the 4500 camera plus a 3x zoom with the ability to expand upon that with extenders great closeup mode long <e1>lasting</e1> rechargable <e2>battery</e2> etc etc
++(e1, e2)
+cc90bbee0ce57ccc7e1b784c1f46fd96.(9, 10).Nikon	the design and construction are excellent as is the <e1>legendary</e1> <e2>quality</e2> of the nikon optic
++(e1, e2)
+22acb9431eff5025a15adbaf9c736917.(10, 3).Nikon	the compact digital <e1>camera</e1> is especially useful if you have <e2>little</e2> child around and you can always take the camera with you and take many picture of them
++(e2, e1)
+22acb9431eff5025a15adbaf9c736917.(10, 19).Nikon	the compact digital camera is especially useful if you have <e1>little</e1> child around and you can always take the <e2>camera</e2> with you and take many picture of them
++(e1, e2)
+9f0a61055e1f449cb62f85d3d95c52bd.(1, 2).Nikon	this <e1>little</e1> <e2>camera</e2> has created a marriage between myself and nikon never knew i could love a digital camera so much
++(e1, e2)
+9f0a61055e1f449cb62f85d3d95c52bd.(1, 18).Nikon	this <e1>little</e1> camera has created a marriage between myself and nikon never knew i could love a digital <e2>camera</e2> so much
++(e1, e2)
+f8fa77a39d46ecc23ee6c2f2659dd3e5.(11, 12).Nikon	ooh and i dropped it and it still work fine this <e1>little</e1> <e2>camera</e2> has so many feature i have n 't even gotten to all of them yet
++(e1, e2)
+9a500297c21bf39ce8d23a80a2266c9f.(7, 10).Nikon	there are so many function in this <e1>little</e1> yet powerful <e2>camera</e2>
++(e1, e2)
+e389400b358904930d1a6caf7c8dd8e6.(11, 12).Nikon	overall the nikon 4300 is a very dependable robust and useful <e1>little</e1> <e2>camera</e2>
++(e1, e2)
+6ab5e8c4fc8cb5905e79f4c8ff6d9ff5.(14, 6).Nikon	autofocus feel exactly like my film <e1>camera</e1> while scene and manual mode add a <e2>little</e2> fun challenge to it all
++(e2, e1)
+9a0c2c401f7f0515a8b07827ed8550ab.(27, 7).Nikon	2 it takes a while for the <e1>camera</e1> to actually capture the photograph from the time you click the button and i have seen people becoming a <e2>little</e2> impatient waiting for the flash to glow
++(e2, e1)
+e1059b8f0b964b9d4a7371a1719ac5a7.(4, 5).Nikon	really happy with this <e1>little</e1> <e2>camera</e2>
++(e1, e2)
+e71bfa23d0bac20249b5f7a3754b3ca7.(19, 13).Nikon	after a lengthy and extensive journey for a feature-loaded high performance travel size <e1>camera</e1> i initially gravitated to this <e2>little</e2> gem because of the superior picture quality 4 mega pixel
++(e2, e1)
+6ab5e8c4fc8cb5905e79f4c8ff6d9ff5.(14, 16).Nikon	autofocus feel exactly like my film camera while scene and manual mode add a <e1>little</e1> fun <e2>challenge</e2> to it all
++(e1, e2)
+ce241be0dc19c920cb8070b418b49068.(7, 8).Nikon	the small size is perfect for my <e1>little</e1> <e2>hand</e2> but may perhaps be uncomfortable or awkward for a bigger person
++(e1, e2)
+d2ecbc0b6c5a83518582c7e8d313b9b7.(24, 27).Nikon	the same 4mp chip from the 4500 camera plus a 3x zoom with the ability to expand upon that with extenders great closeup mode <e1>long</e1> lasting rechargable <e2>battery</e2> etc etc
++(e1, e2)
+c258388ac50d5b84b13964b0049cfc7c.(14, 5).Nikon	it comes with a rechargable <e1>battery</e1> that does not seem to last all that <e2>long</e2> especially if you use the flash a lot
++(e2, e1)
+be4e9a19d2b204275ec3196e89ef4502.(2, 4).Nikon	it has <e1>many</e1> great <e2>feature</e2> and very few bad one
++(e1, e2)
+f8fa77a39d46ecc23ee6c2f2659dd3e5.(15, 16).Nikon	ooh and i dropped it and it still work fine this little camera has so <e1>many</e1> <e2>feature</e2> i have n 't even gotten to all of them yet
++(e1, e2)
+f4ed4ae3305445dd6ec6f73ce7ad7b7c.(2, 3).Nikon	operating its <e1>many</e1> <e2>feature</e2> is easy and often obvious i 'm no annie lebovitz but i was able to figure out most of its ability just messing around with it at a camera store
++(e1, e2)
+9a500297c21bf39ce8d23a80a2266c9f.(3, 4).Nikon	there are so <e1>many</e1> <e2>function</e2> in this little yet powerful camera
++(e1, e2)
+164dda298348d815567dec7d16e56e32.(30, 34).Nikon	recently bought this coolpix 4300 along with a 256mb ultra flash card as expected i happily found that quality of the picture are excellent with 3m-4m pixel fine combo and <e1>many</e1> of the user-friendly <e2>function</e2> are very similar to slr model and with added convenience of a digital camera that you can see picture immediately
++(e1, e2)
+9faf0a7bfc43d9a419ce8a897488d3e6.(19, 11).Nikon	the auto-focus performs well but i love having the 12 optional <e1>scene</e1> mode they are dummy-proof and correspond to <e2>many</e2> situation in which i would actually seek to use the camera
++(e2, e1)
+ef8b221188025f77306dd1fd16320e12.(18, 19).Nikon	great camera i have been using this for several month and got excellent result simple friendly usage in <e1>many</e1> <e2>scene</e2> indoor outdoor snow close up macro etc
++(e1, e2)
+f54837594a492a2e5cd420e057d57eb4.(9, 6).Nikon	the picture are absolutely amazing the <e1>camera</e1> capture the <e2>minutest</e2> of detail
++(e2, e1)
+2f83fe76d6c65089aa8744a484b1d5d3.(5, 6).Nikon	i 'm amazed at the <e1>photo</e1> <e2>quality</e2> print are indistinguishable from 35mm print
++(e1, e2)
+9a500297c21bf39ce8d23a80a2266c9f.(9, 10).Nikon	there are so many function in this little yet <e1>powerful</e1> <e2>camera</e2>
++(e1, e2)
+7e902b1c3bac0da57adc7cb4cce23d18.(26, 27).Nikon	its easy to use and the sheer fun of being able to use an array of nikon accessory like the telephoto and wide-angle lens is the <e1>proverbial</e1> <e2>icing</e2> on the cake
++(e1, e2)
+d2ecbc0b6c5a83518582c7e8d313b9b7.(26, 27).Nikon	the same 4mp chip from the 4500 camera plus a 3x zoom with the ability to expand upon that with extenders great closeup mode long lasting <e1>rechargable</e1> <e2>battery</e2> etc etc
++(e1, e2)
+c258388ac50d5b84b13964b0049cfc7c.(4, 5).Nikon	it comes with a <e1>rechargable</e1> <e2>battery</e2> that does not seem to last all that long especially if you use the flash a lot
++(e1, e2)
+28ce5a5d99f26c9f2dbe0be5134a0068.(9, 10).Nikon	comes with a 16 mb compact flash and one <e1>rechargable</e1> <e2>battery</e2> the charging unit included is fast and small
++(e1, e2)
+0a97bbb3a0da722d9e48e3c05e77a24c.(29, 30).Nikon	in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use small good for travel and provides excellent <e1>sharp</e1> <e2>image</e2>
++(e1, e2)
+7e902b1c3bac0da57adc7cb4cce23d18.(6, 7).Nikon	its easy to use and the <e1>sheer</e1> <e2>fun</e2> of being able to use an array of nikon accessory like the telephoto and wide-angle lens is the proverbial icing on the cake
++(e1, e2)
+a3c39ca74e64f9139dabb40cc958b72d.(10, 11).Nikon	this camera was affordable very easy to learn and produce <e1>spectacular</e1> <e2>image</e2>
++(e1, e2)
+22acb9431eff5025a15adbaf9c736917.(6, 3).Nikon	the compact digital <e1>camera</e1> is especially <e2>useful</e2> if you have little child around and you can always take the camera with you and take many picture of them
++(e2, e1)
+22acb9431eff5025a15adbaf9c736917.(6, 19).Nikon	the compact digital camera is especially <e1>useful</e1> if you have little child around and you can always take the <e2>camera</e2> with you and take many picture of them
++(e1, e2)
+e389400b358904930d1a6caf7c8dd8e6.(10, 12).Nikon	overall the nikon 4300 is a very dependable robust and <e1>useful</e1> little <e2>camera</e2>
++(e1, e2)
+164dda298348d815567dec7d16e56e32.(33, 34).Nikon	recently bought this coolpix 4300 along with a 256mb ultra flash card as expected i happily found that quality of the picture are excellent with 3m-4m pixel fine combo and many of the <e1>user-friendly</e1> <e2>function</e2> are very similar to slr model and with added convenience of a digital camera that you can see picture immediately
++(e1, e2)
+fa9bea2213c882ed1c6758c2c27a2af5.(3, 4).Nikon	this is a <e1>wonderful</e1> <e2>camera</e2>
++(e1, e2)

@@ -1,0 +1,31 @@
+{
+    "aa33d939f98b42cddc9a95271279c4a3": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "AM2L": [
+                1429
+            ], 
+            "WBFL": [
+                2811
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2215
+            ], 
+            "AM2F": [
+                2408
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "other tagging problem result ( i think ) from the nomad 's operating system ."
+    }
+}

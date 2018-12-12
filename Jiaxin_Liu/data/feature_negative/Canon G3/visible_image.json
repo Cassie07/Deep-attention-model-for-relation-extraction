@@ -1,0 +1,48 @@
+{
+    "dbec951619c24117174bfb3323091148": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            22
+        ], 
+        "(12, 22)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                221
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                3067
+            ], 
+            "M2": [
+                1448
+            ], 
+            "BM1L": [
+                1632
+            ], 
+            "WBO": [
+                2844, 
+                3062, 
+                501, 
+                917, 
+                1915, 
+                854
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "one little minor flaw with this camera is that the lens is visible in the viewfinder , but does not detract from the image at all ."
+    }
+}

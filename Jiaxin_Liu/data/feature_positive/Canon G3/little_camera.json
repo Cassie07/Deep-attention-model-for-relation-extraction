@@ -1,0 +1,163 @@
+{
+    "d5ff58c43fef03e404437a12b2520326": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i can 't write enough positive thing about this great little camera !"
+    }, 
+    "4f4ce92984a186b080eef02938290fa5": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            18
+        ], 
+        "(2, 18)": {
+            "WBF": [
+                2035
+            ], 
+            "AM2L": [
+                80
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1570
+            ], 
+            "WBO": [
+                2186, 
+                1260, 
+                1541, 
+                2844, 
+                1187, 
+                1951, 
+                525, 
+                4, 
+                2186, 
+                2522, 
+                253, 
+                1548
+            ], 
+            "WBL": [
+                2614
+            ], 
+            "AM2F": [
+                1548
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "just a little overview , powershot g3 is the flagship of canon 's powershot series and its an slr-like camera , its 4 megapixel and ( alsmost ) full manual control gives the picture a touch of brilliance ."
+    }, 
+    "dbec951619c24117174bfb3323091148": {
+        "(1, 6)": {
+            "WBF": [
+                1797
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                520
+            ], 
+            "WBO": [
+                1191
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "one little minor flaw with this camera is that the lens is visible in the viewfinder , but does not detract from the image at all ."
+    }, 
+    "dfb1e702c3280b5fd148ea2e3efce750": {
+        "(11, 23)": {
+            "WBF": [
+                1678
+            ], 
+            "BM1F": [
+                2883
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                348
+            ], 
+            "WBO": [
+                502, 
+                2842, 
+                1874, 
+                2886, 
+                381, 
+                839, 
+                2886, 
+                2944
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "the on-off button feel somewhat flimsy , and has an awkward , tiny little lock-out button that need to be depressed to turn on the camera ."
+    }
+}

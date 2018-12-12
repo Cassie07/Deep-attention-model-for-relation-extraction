@@ -1,0 +1,37 @@
+{
+    "8d1f6697eefabe40a2bed7c33818a32d": {
+        "(9, 10)": {
+            "AM2L": [
+                2644
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                858
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                101
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "12 ) big storage - my entire cd collection in one small device ( 5717 song , 491 album and counting ) !"
+    }
+}

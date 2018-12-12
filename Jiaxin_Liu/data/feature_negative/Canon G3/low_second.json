@@ -1,0 +1,54 @@
+{
+    "ca1eaed91c3e55f4cceab5acd302386c": {
+        "(6, 28)": {
+            "WBF": [
+                1644
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                1703
+            ], 
+            "M2": [
+                2494
+            ], 
+            "BM1L": [
+                1207
+            ], 
+            "WBO": [
+                253, 
+                3181, 
+                1915, 
+                2812, 
+                2844, 
+                2112, 
+                3124, 
+                2844, 
+                2570, 
+                3094, 
+                2196, 
+                501, 
+                200, 
+                2844, 
+                2570, 
+                1328, 
+                392, 
+                2359
+            ], 
+            "WBL": [
+                1151
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "the g3 had problem focusing in low light and would not take the picture when the shutter was pressed but after the shutter had been released a few second ."
+    }
+}

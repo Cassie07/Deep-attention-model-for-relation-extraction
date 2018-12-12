@@ -1,0 +1,103 @@
+{
+    "8fd7717f6f4b86db0002350fe4354721": {
+        "(15, 16)": {
+            "AM2L": [
+                1761
+            ], 
+            "BM1F": [
+                1829
+            ], 
+            "M1": [
+                1085
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2272
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            16, 
+            53
+        ], 
+        "(15, 53)": {
+            "WBF": [
+                961
+            ], 
+            "AM2L": [
+                1549
+            ], 
+            "BM1F": [
+                1829
+            ], 
+            "M1": [
+                1085
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2272, 
+                1761, 
+                890, 
+                4, 
+                2842, 
+                2011, 
+                2139, 
+                3181, 
+                2136, 
+                501, 
+                2886, 
+                1856, 
+                2783, 
+                3094, 
+                133, 
+                2886, 
+                2136, 
+                587, 
+                1761, 
+                2842, 
+                1429, 
+                1328, 
+                495, 
+                2842, 
+                1429, 
+                738, 
+                1859, 
+                5, 
+                1277, 
+                2886, 
+                3168, 
+                394, 
+                1468, 
+                267
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                496
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "when i 1st tried it i found that it had no problem playing the more expensive dvd - r medium disc 's that other player would play but to my surprise was able to play cheep medium that i had burned that i could n't get to work before in anything but the dvd burner itself that i had made the disc with ."
+    }
+}

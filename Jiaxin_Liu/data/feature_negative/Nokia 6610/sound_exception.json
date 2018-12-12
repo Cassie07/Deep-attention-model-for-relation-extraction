@@ -1,0 +1,38 @@
+{
+    "744f525296a4d9c08aa0fe2e19b27dba": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            11
+        ], 
+        "(5, 11)": {
+            "WBF": [
+                2260
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1075
+            ], 
+            "BM1L": [
+                1328
+            ], 
+            "WBO": [
+                253, 
+                2859
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "nokias have always had good sound quality and this is no exception ."
+    }
+}

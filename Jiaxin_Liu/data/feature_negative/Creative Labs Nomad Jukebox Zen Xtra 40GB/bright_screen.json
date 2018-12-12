@@ -1,0 +1,161 @@
+{
+    "4669d00c8621e9a0281e783c77782dd4": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            19
+        ], 
+        "(13, 19)": {
+            "WBF": [
+                436
+            ], 
+            "AM2L": [
+                2758
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                469
+            ], 
+            "M2": [
+                2479
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                358, 
+                3129
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1829
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the lcd is larger than the previous model , the nx , and has a bright blue backlight which illuminates the screen more successfully than the nx 's green backlight did ."
+    }, 
+    "26afbb728550c0df1149e771bc94d54b": {
+        "(18, 16)": {
+            "AM2L": [
+                985
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                724
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                469
+            ], 
+            "BM1L": [
+                1689
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }, 
+    "c8a04e62ab057c0a7bce58982ce6cae8": {
+        "(12, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                469
+            ], 
+            "WBO": [
+                3052, 
+                985, 
+                2886, 
+                2296, 
+                253, 
+                2844, 
+                436
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                1030
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the screen is very easy to read and the blue light is bright enough to read at night , but dim enough so it does n't blind you when you stare too long ."
+    }, 
+    "6d0ac44003c8f03b17f4e1adcc23e886": {
+        "(5, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1351
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                469
+            ], 
+            "WBO": [
+                1602
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the screen is large and bright and has all the info i need where i need it ."
+    }
+}

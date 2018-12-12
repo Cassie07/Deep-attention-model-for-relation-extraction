@@ -1,0 +1,192 @@
+{
+    "8121831049060e4e814eb90a284743c5": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            10
+        ], 
+        "(18, 10)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1064
+            ], 
+            "WBO": [
+                1313, 
+                2654, 
+                1724, 
+                2859
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }, 
+    "13ed9f0eb7cfb3f0871a1f60badfc088": {
+        "(14, 4)": {
+            "WBF": [
+                2725
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                2595, 
+                253, 
+                2139, 
+                1143, 
+                1724, 
+                2859
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "the combination of the price , storage size , and player feature makes this player the best on the market ."
+    }, 
+    "4eb5f2954876bf5f8cf65bf5ee5d832b": {
+        "(9, 2)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2016
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                697
+            ], 
+            "WBO": [
+                2672, 
+                2859, 
+                1788
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                503
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "considering the price and specs , this might be the best buy out there for a large memory mp3 player ."
+    }, 
+    "b9bfe35c56e22b2e41d54ff0d9f5e938": {
+        "location1": [
+            23
+        ], 
+        "location2": [
+            2
+        ], 
+        "(23, 2)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                4, 
+                2712, 
+                1634, 
+                2840, 
+                1055, 
+                2844, 
+                1707, 
+                1638, 
+                1536, 
+                1429, 
+                3094, 
+                133, 
+                2886, 
+                1277, 
+                2859, 
+                84, 
+                1825
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2061
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "for a price that 's still less than even the lowest level ipod i was able to get this 40gb monster , and the best part is it work as great as it was advertised to and then some ."
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "972c9a8ae7cdb01c2d55a7fe93e6ecd2": {
+        "location1": [
+            1, 
+            12
+        ], 
+        "location2": [
+            7
+        ], 
+        "(1, 7)": {
+            "WBF": [
+                1318
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2366
+            ], 
+            "WBO": [
+                1541, 
+                2844
+            ], 
+            "WBL": [
+                755
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(12, 7)": {
+            "WBF": [
+                3129
+            ], 
+            "AM2L": [
+                275
+            ], 
+            "BM1F": [
+                755
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1479
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                2840
+            ], 
+            "AM2F": [
+                581
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "my other gripe is the incredibly crappy remote , which is worse than other , cheaper apex unit ."
+    }
+}

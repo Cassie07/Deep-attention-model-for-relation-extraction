@@ -1,0 +1,95 @@
+{
+    "b1ebe13ded22c85b218f059ffd618f4a": {
+        "(0, 1)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                1689
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "good look"
+    }, 
+    "89ec4ff01b352ade745a12c65404dee0": {
+        "(6, 4)": {
+            "AM2L": [
+                1856
+            ], 
+            "WBFL": [
+                3052
+            ], 
+            "BM1F": [
+                691
+            ], 
+            "M1": [
+                1689
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                671
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "output through component connection look very good , on my non-hd tv ."
+    }, 
+    "1884b63b7e64eae77c5a882b7904a99b": {
+        "location1": [
+            8
+        ], 
+        "location2": [
+            7
+        ], 
+        "(8, 7)": {
+            "AM2L": [
+                450
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1689
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1113
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "easy to use , small form factor , and look good to boot ."
+    }
+}

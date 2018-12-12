@@ -1,0 +1,227 @@
+{
+    "62cf1a8d3b2e903f5a6f46e8d99bb3c2": {
+        "(14, 18)": {
+            "WBF": [
+                897
+            ], 
+            "AM2L": [
+                1896
+            ], 
+            "BM1F": [
+                2136
+            ], 
+            "M1": [
+                563
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                5
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                2011
+            ], 
+            "AM2F": [
+                1839
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "i have sent my ad2600 back to apex because it wo n't play certain disney and other dvd movie ( no disc message ) ."
+    }, 
+    "a3501130193708007cd28c5fd53b8965": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            19
+        ], 
+        "(9, 19)": {
+            "WBF": [
+                1040
+            ], 
+            "BM1F": [
+                2136
+            ], 
+            "M1": [
+                563
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                3158, 
+                1896, 
+                2215, 
+                1967, 
+                2844, 
+                2012
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "on 2 dvds so far it refuse to play certain episode with no problem on the others on the dvd ."
+    }, 
+    "9151bec746be1369933e0711724fabba": {
+        "(36, 4)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "BM1F": [
+                2136
+            ], 
+            "M1": [
+                961
+            ], 
+            "M2": [
+                563
+            ], 
+            "BM1L": [
+                3028
+            ], 
+            "WBO": [
+                501, 
+                1351, 
+                1945, 
+                2215, 
+                2760, 
+                304, 
+                9, 
+                1915, 
+                2330, 
+                130, 
+                961, 
+                39, 
+                2722, 
+                130, 
+                2063, 
+                2151, 
+                1468, 
+                130, 
+                1839, 
+                1060, 
+                2878, 
+                3102, 
+                2138, 
+                1545, 
+                62, 
+                1915, 
+                402, 
+                133
+            ], 
+            "WBL": [
+                146
+            ], 
+            "AM2F": [
+                2668
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(36, 16)": {
+            "WBF": [
+                39
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                961
+            ], 
+            "M2": [
+                563
+            ], 
+            "BM1L": [
+                2330
+            ], 
+            "WBO": [
+                2722, 
+                130, 
+                2063, 
+                2151, 
+                1468, 
+                130, 
+                1839, 
+                1060, 
+                2878, 
+                3102, 
+                2138, 
+                1545, 
+                62, 
+                1915, 
+                402, 
+                133
+            ], 
+            "WBL": [
+                146
+            ], 
+            "AM2F": [
+                2668
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the player usually play dvd 's , but has occasional problem such as : 1 ) not recognizing a dvd 2 ) stopping a particular point in a movie every time we played it 3 ) not being able to access certain special feature on a rental dvd .", 
+        "location2": [
+            4, 
+            16, 
+            42
+        ], 
+        "location1": [
+            36
+        ], 
+        "(36, 42)": {
+            "WBF": [
+                2668
+            ], 
+            "BM1F": [
+                146
+            ], 
+            "M1": [
+                563
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1143, 
+                1967
+            ], 
+            "WBL": [
+                2373
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }
+}

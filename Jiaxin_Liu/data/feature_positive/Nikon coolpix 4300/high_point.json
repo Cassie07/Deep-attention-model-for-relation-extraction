@@ -1,0 +1,37 @@
+{
+    "d70accb3661a2674ab2766a0dd695dae": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            17
+        ], 
+        "(15, 17)": {
+            "AM2L": [
+                2557
+            ], 
+            "WBFL": [
+                2260
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                2151
+            ], 
+            "BM1L": [
+                3087
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "in summary , i love this camera and would whole-heartedly recommend this to anyone wanting a high quality point and shoot camera in the medium price range ."
+    }
+}

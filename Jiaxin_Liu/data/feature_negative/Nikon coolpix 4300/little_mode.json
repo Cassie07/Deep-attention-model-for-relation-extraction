@@ -1,0 +1,43 @@
+{
+    "6ab5e8c4fc8cb5905e79f4c8ff6d9ff5": {
+        "(14, 11)": {
+            "WBF": [
+                172
+            ], 
+            "AM2L": [
+                566
+            ], 
+            "BM1F": [
+                1731
+            ], 
+            "M1": [
+                1814
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1251
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "autofocus feel exactly like my film camera while scene and manual mode add a little fun challenge to it all ."
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            34
+        ], 
+        "location2": [
+            48
+        ], 
+        "(34, 48)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                715
+            ], 
+            "WBO": [
+                3018, 
+                200, 
+                1743, 
+                2844, 
+                2484, 
+                502, 
+                1313, 
+                2654, 
+                253, 
+                1551
+            ], 
+            "WBL": [
+                1737
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            38
+        ], 
+        "(13, 38)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                343
+            ], 
+            "WBO": [
+                3018, 
+                253, 
+                2976, 
+                1143, 
+                2631, 
+                2842, 
+                1541, 
+                2583, 
+                2886, 
+                2976, 
+                253, 
+                3018, 
+                253, 
+                130, 
+                1313, 
+                2654, 
+                3129, 
+                1541, 
+                221, 
+                2842, 
+                1746
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) ."
+    }, 
+    "aa3b4b93145f716321721fa859b6e463": {
+        "(7, 4)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2435
+            ], 
+            "WBO": [
+                2628
+            ], 
+            "WBL": [
+                2628
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            4, 
+            18
+        ], 
+        "(7, 18)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2628
+            ], 
+            "BM1F": [
+                2628
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3203, 
+                522, 
+                1055, 
+                2432, 
+                2844, 
+                553, 
+                881
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the cd ripping to mp3 is so easy , and you can even rip the cd directly to the mp3 player , so it wo n't take up space on your pc hard drive ."
+    }
+}

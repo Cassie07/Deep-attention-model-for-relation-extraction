@@ -1,0 +1,155 @@
+{
+    "0c497fa3be9389b212b112840b0bb06e": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            19
+        ], 
+        "(2, 19)": {
+            "WBF": [
+                1627
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                3062
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBO": [
+                769, 
+                1241, 
+                2844, 
+                1977, 
+                2417, 
+                1541, 
+                2842, 
+                1112, 
+                2842, 
+                2844, 
+                1632, 
+                2304, 
+                917
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "about the only legitimate criticsm from the online review is that fact that the lens really does obstruct the viewfinder ."
+    }, 
+    "aa040e2aac44669936f89ea50c0ca0fe": {
+        "(1, 36)": {
+            "WBF": [
+                2952
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                3062
+            ], 
+            "WBO": [
+                1797, 
+                1544, 
+                1429, 
+                1355, 
+                3158, 
+                2844, 
+                520, 
+                295, 
+                2844, 
+                1632, 
+                527, 
+                1545, 
+                1541, 
+                1915, 
+                3052, 
+                2626, 
+                253, 
+                522, 
+                643, 
+                1952, 
+                2896, 
+                984, 
+                253, 
+                2844, 
+                1632, 
+                1549, 
+                1545, 
+                2062, 
+                1939, 
+                2844, 
+                3058
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            36
+        ], 
+        "sentence": "the only two minor issue i have with the camera are the lens cap ( it is not very snug and can come off too easily ) and the lens itself ( it partially obstructs the view through the viewfinder but not view through the lcd ) ."
+    }, 
+    "3f56f9123b8ffd9edf96d25020e6c445": {
+        "(1, 5)": {
+            "WBF": [
+                940
+            ], 
+            "AM2L": [
+                2606
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                3062
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "the only drawback is the viewfinder is slightly blocked by the lens ."
+    }
+}

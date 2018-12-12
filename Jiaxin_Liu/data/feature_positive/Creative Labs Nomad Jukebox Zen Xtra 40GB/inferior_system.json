@@ -1,0 +1,37 @@
+{
+    "913332dbee7c09d79b4e2d89d50983e3": {
+        "(22, 24)": {
+            "AM2L": [
+                1429
+            ], 
+            "WBFL": [
+                1987
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1490
+            ], 
+            "M2": [
+                2802
+            ], 
+            "BM1L": [
+                817
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "had there been strange noise , or obvious defect , i would have accepted a replacement , but this is clearly from a defective and inferior operating system and i for one do not intend on waiting for patch ."
+    }
+}

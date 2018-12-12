@@ -1,0 +1,31 @@
+{
+    "80bbb11678af660f0125fc0dd5f8324c": {
+        "(0, 1)": {
+            "AM2L": [
+                352
+            ], 
+            "M1": [
+                2583
+            ], 
+            "M2": [
+                615
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                502
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "simple click button , back button volume and display are very easy to read , access and use ."
+    }
+}

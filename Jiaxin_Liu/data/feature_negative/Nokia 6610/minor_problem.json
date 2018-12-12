@@ -1,0 +1,57 @@
+{
+    "c67d6bcd1ecc6effe34a9f8354eddaa0": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            24
+        ], 
+        "(5, 24)": {
+            "WBF": [
+                1475
+            ], 
+            "AM2L": [
+                2853
+            ], 
+            "BM1F": [
+                1151
+            ], 
+            "M1": [
+                1797
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                501, 
+                1978, 
+                386, 
+                1545, 
+                1595, 
+                2861, 
+                1143, 
+                438, 
+                253, 
+                1387, 
+                2676, 
+                1527, 
+                501, 
+                2850, 
+                295
+            ], 
+            "WBL": [
+                1151
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the phone has a few minor inconvenience , but only because it lack those feature , bluetooth and high spend internet , but there are very few problem with thing that you expected this phone to do ."
+    }
+}

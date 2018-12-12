@@ -1,0 +1,88 @@
+{
+    "26afbb728550c0df1149e771bc94d54b": {
+        "(25, 33)": {
+            "WBF": [
+                379
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2381
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1753, 
+                130, 
+                1722, 
+                190
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                412
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            25
+        ], 
+        "location2": [
+            33
+        ], 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }, 
+    "65b5c536d6d91c394bc8b7ba532235ab": {
+        "(2, 14)": {
+            "WBF": [
+                379
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                2381
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                3211
+            ], 
+            "WBO": [
+                3094, 
+                2844, 
+                811, 
+                1113, 
+                1468, 
+                1856, 
+                2251, 
+                1951
+            ], 
+            "WBL": [
+                2024
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "zennx 's replaceable battery was the deciding factor in my purchase of zennx over ipod ."
+    }
+}

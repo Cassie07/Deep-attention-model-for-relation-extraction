@@ -1,0 +1,70 @@
+{
+    "0fd1a39fbd9bf7572e59b5af4057aeba": {
+        "(6, 11)": {
+            "WBF": [
+                1055
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                1172
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "WBO": [
+                1212
+            ], 
+            "WBL": [
+                2615
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6, 
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                1172
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the button on the phone are small , even for my small fingertip , but you get used to them rather quickly ."
+    }
+}

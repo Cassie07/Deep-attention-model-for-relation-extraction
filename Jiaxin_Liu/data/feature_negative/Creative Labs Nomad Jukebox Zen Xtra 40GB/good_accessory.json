@@ -1,0 +1,75 @@
+{
+    "8448fda5701874e7c112eea37250d87a": {
+        "(3, 4)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                150
+            ], 
+            "BM1L": [
+                1595
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2859
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "5 ) lack of good accessory - this is more of an oversight of creative 's marketing ."
+    }, 
+    "8a31ba51febce8f3d665f6e34835eb2d": {
+        "(24, 20)": {
+            "WBF": [
+                3203
+            ], 
+            "BM1F": [
+                1978
+            ], 
+            "M1": [
+                150
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1874
+            ], 
+            "WBL": [
+                1074
+            ], 
+            "AM2F": [
+                1366
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "the free ( i didnt know they still did that ) carrying case is really protective , and to me its the only accessory you need ( except good headphone ) ."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "a0fdee29f22fcfa33ef66cdb8b74405c": {
+        "(11, 26)": {
+            "WBF": [
+                2840
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                171
+            ], 
+            "BM1L": [
+                2814
+            ], 
+            "WBO": [
+                39, 
+                1998, 
+                62, 
+                1422, 
+                316, 
+                1832, 
+                2886, 
+                1249, 
+                2321, 
+                3053, 
+                2844
+            ], 
+            "WBL": [
+                139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "the battery stay charged for a long time , and takes no more than 2 or 3 hour at most to fully recharge via the included ac adapter ."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "2bf6cfc96b5bc5542cd4ad34261974e3": {
+        "(1, 2)": {
+            "AM2L": [
+                221
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                715
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the other control are all very easy to use ."
+    }
+}

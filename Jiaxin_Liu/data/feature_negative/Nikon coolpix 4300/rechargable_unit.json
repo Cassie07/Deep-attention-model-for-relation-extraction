@@ -1,0 +1,43 @@
+{
+    "28ce5a5d99f26c9f2dbe0be5134a0068": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            13
+        ], 
+        "(9, 13)": {
+            "WBF": [
+                379
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                2320
+            ], 
+            "M2": [
+                2987
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                577
+            ], 
+            "AM2F": [
+                1474
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "comes with a 16 mb compact flash and one rechargable battery the charging unit , included , is fast and small ."
+    }
+}

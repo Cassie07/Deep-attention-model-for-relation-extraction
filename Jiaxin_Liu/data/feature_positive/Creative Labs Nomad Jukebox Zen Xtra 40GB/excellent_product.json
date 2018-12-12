@@ -1,0 +1,69 @@
+{
+    "a0025c0db7ea0540259cd3b1b90d7fcb": {
+        "(3, 11)": {
+            "WBF": [
+                304
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                1973, 
+                3181, 
+                2789, 
+                1241
+            ], 
+            "WBL": [
+                765
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "the sound is excellent as one would suspect from a creative product ."
+    }, 
+    "f6bc4fd24b9be00f5b099c30cab47b22": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            6
+        ], 
+        "(4, 6)": {
+            "WBFL": [
+                765
+            ], 
+            "BM1F": [
+                260
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all-in-all , this is another excellent creative product ."
+    }
+}

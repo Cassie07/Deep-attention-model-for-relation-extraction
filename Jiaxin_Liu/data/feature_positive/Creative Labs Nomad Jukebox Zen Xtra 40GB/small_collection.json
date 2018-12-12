@@ -1,0 +1,72 @@
+{
+    "8d1f6697eefabe40a2bed7c33818a32d": {
+        "(9, 6)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                101
+            ], 
+            "BM1F": [
+                553
+            ], 
+            "M1": [
+                633
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                1036
+            ], 
+            "WBO": [
+                1973
+            ], 
+            "WBL": [
+                1973
+            ], 
+            "AM2F": [
+                858
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "12 ) big storage - my entire cd collection in one small device ( 5717 song , 491 album and counting ) !"
+    }, 
+    "dd00a38d580f6f271c19d5bf9766fffb": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            19
+        ], 
+        "(18, 19)": {
+            "BM1F": [
+                1998
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                633
+            ], 
+            "BM1L": [
+                1602
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "2 ) the player user interface ( ui ) is intuitive to use , and allows easy navigation of a large or small collection ."
+    }
+}

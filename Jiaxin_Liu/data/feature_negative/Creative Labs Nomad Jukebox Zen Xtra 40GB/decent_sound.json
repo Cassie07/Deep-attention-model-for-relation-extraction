@@ -1,0 +1,86 @@
+{
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "(12, 28)": {
+            "WBF": [
+                2595
+            ], 
+            "AM2L": [
+                1591
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                808
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                442
+            ], 
+            "WBO": [
+                253, 
+                3112, 
+                130, 
+                2356, 
+                1866, 
+                2802, 
+                2842, 
+                547, 
+                372, 
+                1967, 
+                1435, 
+                2810
+            ], 
+            "WBL": [
+                1072
+            ], 
+            "AM2F": [
+                3142
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "18776b75386e5e4b1a8d94034da05d2b": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            1
+        ], 
+        "(2, 1)": {
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                808
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it sound decent , but i would estimate you get maybe 80 % of the quality that you would from a true line out jack ."
+    }
+}

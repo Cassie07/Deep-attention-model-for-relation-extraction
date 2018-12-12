@@ -1,0 +1,136 @@
+{
+    "22acb9431eff5025a15adbaf9c736917": {
+        "(10, 25)": {
+            "WBF": [
+                592
+            ], 
+            "AM2L": [
+                2847
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                3203
+            ], 
+            "WBO": [
+                298, 
+                253, 
+                3203, 
+                522, 
+                238, 
+                2812, 
+                2844, 
+                520, 
+                3158, 
+                3203, 
+                253
+            ], 
+            "WBL": [
+                1737
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "the compact digital camera is especially useful if you have little child around and you can always take the camera with you and take many picture of them ."
+    }, 
+    "99ff835b6afc80eb98a8e6d0778a550c": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            1
+        ], 
+        "(9, 1)": {
+            "WBF": [
+                2813
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1669
+            ], 
+            "WBO": [
+                1468, 
+                251, 
+                1488, 
+                2530
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                952
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "1 . picture taken in an indoor setting are a little dull and rarely hazy if you tend to take photographs from a distance ."
+    }, 
+    "e71bfa23d0bac20249b5f7a3754b3ca7": {
+        "location1": [
+            19
+        ], 
+        "location2": [
+            25
+        ], 
+        "(19, 25)": {
+            "WBF": [
+                1270
+            ], 
+            "AM2L": [
+                80
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                386, 
+                1951
+            ], 
+            "WBL": [
+                2771
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "after a lengthy and extensive journey for a feature-loaded , high performance , travel size camera , i initially gravitated to this little gem because of the superior picture quality 4 mega pixel ."
+    }
+}

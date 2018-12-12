@@ -1,0 +1,85 @@
+{
+    "9b759b22613ccb3d5a5909c5cd771409": {
+        "(2, 13)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                578
+            ], 
+            "BM1L": [
+                2527
+            ], 
+            "WBO": [
+                1134, 
+                304, 
+                1429, 
+                522, 
+                2831, 
+                1143, 
+                3168
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2431
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(27, 13)": {
+            "WBF": [
+                2431
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                578
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1648
+            ], 
+            "WBO": [
+                295, 
+                1387, 
+                2260, 
+                1441, 
+                3203, 
+                503, 
+                2847, 
+                1241, 
+                2804, 
+                253
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            2, 
+            27
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "service is great as far as i can tell , feature work like a charm , ringtones are high quality if you buy them from t-mobile and aim is great ."
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "f33e57d6d1b0be40187d83879a82c9ea": {
+        "(2, 3)": {
+            "AM2L": [
+                1158
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                531
+            ], 
+            "BM1L": [
+                62
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3, 
+            10
+        ], 
+        "(2, 10)": {
+            "WBF": [
+                531
+            ], 
+            "AM2L": [
+                1792
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                531
+            ], 
+            "BM1L": [
+                62
+            ], 
+            "WBO": [
+                253, 
+                1158, 
+                2631, 
+                493
+            ], 
+            "WBL": [
+                2098
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "3 . the remote capture and fileviewer software bundled for photo capture is mind-blowing ."
+    }
+}

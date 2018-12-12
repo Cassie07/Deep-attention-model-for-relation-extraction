@@ -1,0 +1,84 @@
+{
+    "d7971a11f5508d7b68fd3dc153dd2301": {
+        "(15, 23)": {
+            "WBF": [
+                1842
+            ], 
+            "BM1F": [
+                264
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                2139, 
+                316, 
+                2842, 
+                2595
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "well surely this is a product that i recommend someone in getting rather than any other mp3 player ( at that size and the price ) ."
+    }, 
+    "ead02770ba3fff710bbb69f23f20558b": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            7
+        ], 
+        "(15, 7)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                287
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                130, 
+                2383, 
+                379, 
+                1570
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                380
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the zennx will keep running for the price of a replacement battery , just like any other battery-powered appliance ."
+    }
+}

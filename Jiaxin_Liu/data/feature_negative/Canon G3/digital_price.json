@@ -1,0 +1,165 @@
+{
+    "07b3bdbafaec9f6df8f50960a8c49f11": {
+        "(14, 19)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1180
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                316
+            ], 
+            "WBL": [
+                2306
+            ], 
+            "AM2F": [
+                2850
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "i recommend unreservedly the powershot g3 to any potential buyer looking for a first-class digital camera at a reasonable price - there is no better camera out there - period !"
+    }, 
+    "dd71767481d19a9a0e0a0368b626b97e": {
+        "(7, 14)": {
+            "WBF": [
+                520
+            ], 
+            "BM1F": [
+                413
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2016, 
+                2850, 
+                2888
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                2151
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "simply , the canon g3 is the best digital camera out there today at this price point ."
+    }, 
+    "5d8b5507ce45f152c58e301e745b132e": {
+        "(9, 18)": {
+            "WBF": [
+                2098
+            ], 
+            "BM1F": [
+                413
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3203, 
+                3, 
+                1298, 
+                2886, 
+                1277
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "very comfortable camera , easy to use , and the best digital photo you 're going to get at this price ."
+    }, 
+    "9912ee61adbc16ba2940f26778c640d0": {
+        "(11, 1)": {
+            "WBF": [
+                946
+            ], 
+            "AM2L": [
+                777
+            ], 
+            "BM1F": [
+                2317
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                875
+            ], 
+            "WBO": [
+                1355, 
+                1718, 
+                2844, 
+                1260, 
+                2844, 
+                413
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "recent price drop have made the g3 the best bargain in digital camera currently available ."
+    }
+}

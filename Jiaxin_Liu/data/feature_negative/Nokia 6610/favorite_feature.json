@@ -1,0 +1,69 @@
+{
+    "1e497d003ead8f158733c4abb51c307b": {
+        "(1, 2)": {
+            "AM2L": [
+                2850
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1141
+            ], 
+            "M2": [
+                1143
+            ], 
+            "AM2F": [
+                237
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "my favorite feature , although there are many , are the speaker phone , the radio and the infrared ."
+    }, 
+    "60918d91db20f0758f77fc85122e79da": {
+        "(8, 6)": {
+            "AM2L": [
+                2844
+            ], 
+            "WBFL": [
+                1856
+            ], 
+            "BM1F": [
+                787
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1141
+            ], 
+            "BM1L": [
+                1669
+            ], 
+            "AM2F": [
+                402
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "it has lot of little cute feature , my favorite being the game and the pim ( personal information manager -- i.e . organizer ) , and the radio !"
+    }
+}

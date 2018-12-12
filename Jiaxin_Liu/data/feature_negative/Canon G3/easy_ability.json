@@ -1,0 +1,90 @@
+{
+    "f4d33ef7024c0c93baef74d60978635e": {
+        "(13, 17)": {
+            "WBF": [
+                2151
+            ], 
+            "AM2L": [
+                3115
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                132
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                2557
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "this is the perfect camera for a photo hobbiest who wants to have easy point and shoot ability as well ."
+    }, 
+    "4a44a69cb955602ceffa932a795dd6aa": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            16
+        ], 
+        "(5, 16)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                520
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                132
+            ], 
+            "BM1L": [
+                1718
+            ], 
+            "WBO": [
+                3018, 
+                3052, 
+                1195, 
+                253, 
+                2184, 
+                1143, 
+                2886
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "bottom line , well made camera , easy to use , very flexible and powerful feature to include the ability to use external flash and lense / filter choice ."
+    }
+}

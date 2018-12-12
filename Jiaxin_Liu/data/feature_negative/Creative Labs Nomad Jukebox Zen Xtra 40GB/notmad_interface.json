@@ -1,0 +1,54 @@
+{
+    "eb88968921d7cb163079768a48fd733a": {
+        "(18, 2)": {
+            "WBF": [
+                2772
+            ], 
+            "AM2L": [
+                386
+            ], 
+            "BM1F": [
+                2631
+            ], 
+            "M1": [
+                1522
+            ], 
+            "M2": [
+                1924
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3094, 
+                3052, 
+                985, 
+                2886, 
+                3018, 
+                501, 
+                1429, 
+                3119, 
+                207, 
+                253, 
+                1302, 
+                2340
+            ], 
+            "WBL": [
+                4
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the software interface supplied was very easy to use but i went ahead and got red chair 's `` notmad `` software because of some advanced feature i wanted ."
+    }
+}

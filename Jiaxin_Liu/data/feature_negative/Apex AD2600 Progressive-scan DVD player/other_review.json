@@ -1,0 +1,72 @@
+{
+    "5af90fdafd59b525226aefa2ffc9fd00": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            19
+        ], 
+        "(18, 19)": {
+            "AM2L": [
+                2855
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2417
+            ], 
+            "BM1L": [
+                2299
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i read in consumer report that apex is a reliable brand , but with my experience and reading the other review , i think i will be doing a little more homework before considering another apex product ."
+    }, 
+    "554c4ad0dd6259a9c61e4817388e8064": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            23
+        ], 
+        "(22, 23)": {
+            "AM2L": [
+                2637
+            ], 
+            "BM1F": [
+                2296
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2417
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the unit seems to play all format that i have put in it ( jpeg , kodak pic 's and dvd-r ) i have read other review and some good and soom not so good , but my feeling at this time is `` two thumb up `` !"
+    }
+}

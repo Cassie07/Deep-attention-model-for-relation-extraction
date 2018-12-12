@@ -1,0 +1,39 @@
+{
+    "814a355a03cfe25a41d31293be549801": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            11
+        ], 
+        "(1, 11)": {
+            "WBF": [
+                2399
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                358
+            ], 
+            "WBO": [
+                2479, 
+                1541, 
+                985, 
+                2886, 
+                2296, 
+                253
+            ], 
+            "WBL": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the high resolution screen is easy to read and has a backlight ."
+    }
+}

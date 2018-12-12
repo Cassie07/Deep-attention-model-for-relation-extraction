@@ -1,0 +1,40 @@
+{
+    "68a8302a084952a7e1cf8fe9f3f14b4e": {
+        "(13, 17)": {
+            "WBF": [
+                2194
+            ], 
+            "BM1F": [
+                3115
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2141
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBO": [
+                1864
+            ], 
+            "WBL": [
+                1996
+            ], 
+            "AM2F": [
+                1054
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "you of course have some good customization option with the unit as well ( sound presets , navigating option , playlist , etc ) ."
+    }
+}

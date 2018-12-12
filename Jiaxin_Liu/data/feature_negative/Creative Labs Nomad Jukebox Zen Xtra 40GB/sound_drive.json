@@ -1,0 +1,121 @@
+{
+    "df460eaf582c2debf712f5605d908023": {
+        "location1": [
+            47
+        ], 
+        "location2": [
+            18
+        ], 
+        "(47, 18)": {
+            "WBF": [
+                215
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1343
+            ], 
+            "M1": [
+                943
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2166
+            ], 
+            "WBO": [
+                1973, 
+                1967, 
+                3129, 
+                1429, 
+                522, 
+                5, 
+                760, 
+                1208, 
+                1998, 
+                316, 
+                3177, 
+                130, 
+                3052, 
+                1085, 
+                1635, 
+                1468, 
+                655, 
+                1881, 
+                2886, 
+                503, 
+                2221, 
+                1241, 
+                201, 
+                1429, 
+                1355
+            ], 
+            "WBL": [
+                325
+            ], 
+            "AM2F": [
+                533
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }, 
+    "3bf21a4b29d090cbd158c4195701fcd2": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            20
+        ], 
+        "(2, 20)": {
+            "WBF": [
+                127
+            ], 
+            "AM2L": [
+                1364
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                943
+            ], 
+            "BM1L": [
+                9
+            ], 
+            "WBO": [
+                2577, 
+                2289, 
+                383, 
+                1536, 
+                4, 
+                3002, 
+                2289, 
+                253, 
+                1300, 
+                2182, 
+                2021, 
+                223, 
+                2844, 
+                3210
+            ], 
+            "WBL": [
+                2886
+            ], 
+            "AM2F": [
+                1602
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "1 ) great sound ( > 98db signal-to-noise ratio beat ipod 's `` unspecified `` ratio ) and good power output allow the zen xtra to drive large head-phones as well as external speaker ."
+    }
+}

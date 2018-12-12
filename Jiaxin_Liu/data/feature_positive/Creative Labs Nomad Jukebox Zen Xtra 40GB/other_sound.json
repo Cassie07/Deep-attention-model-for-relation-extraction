@@ -1,0 +1,82 @@
+{
+    "9fab3fa1513794381fb4939e464dcc56": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            2
+        ], 
+        "(11, 2)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                1351
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1179
+            ], 
+            "WBO": [
+                1541, 
+                1963, 
+                501, 
+                304, 
+                316
+            ], 
+            "WBL": [
+                1973
+            ], 
+            "AM2F": [
+                2418
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "first , the sound quality is okay , but ( as at least one other reviewer has mentioned ) the eax can cause audio interference after about 30 minute ."
+    }, 
+    "e31dd62f55c1c30d4c665bd6ad5606e1": {
+        "(13, 14)": {
+            "AM2L": [
+                2221
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                3172
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                427
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the software is not good either and the driver has trouble working with other sound blaster product , which is very dumb ."
+    }
+}

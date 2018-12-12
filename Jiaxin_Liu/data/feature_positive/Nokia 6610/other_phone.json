@@ -1,0 +1,350 @@
+{
+    "238d0351c8c8c466d81f67763e3871b1": {
+        "(22, 5)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                2747
+            ], 
+            "WBO": [
+                2583, 
+                2886, 
+                3018, 
+                253, 
+                848, 
+                1548, 
+                828, 
+                283, 
+                2859, 
+                1669, 
+                1326, 
+                1541, 
+                304
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                1900
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "in true nokia style , the phone is simple to use and despite its delicate appearance , this little guy is as durable as other nokias i have owned ."
+    }, 
+    "0640603a2170d71444627f4f433fd0bd": {
+        "(8, 15)": {
+            "WBF": [
+                2417
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                2454
+            ], 
+            "WBO": [
+                134, 
+                2844, 
+                1143
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(8, 20)": {
+            "WBF": [
+                2417
+            ], 
+            "AM2L": [
+                3170
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                2454
+            ], 
+            "WBO": [
+                134, 
+                2844, 
+                1143, 
+                1951, 
+                2859, 
+                2097, 
+                1545, 
+                1541
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                1793
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            15, 
+            20
+        ], 
+        "sentence": "there is much which has been said in other review about the feature of this phone , it is a great phone , mine worked without any problem right out of the box ."
+    }, 
+    "5951baa50c5670e7c4fcac86438fba32": {
+        "(1, 3)": {
+            "AM2L": [
+                2844
+            ], 
+            "WBFL": [
+                635
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2097
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "no other color phone has the combination of feature that the 6610 offer ."
+    }, 
+    "8b06ee9536157bdc30f89af9097efd4e": {
+        "(4, 1)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                1538
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2011
+            ], 
+            "WBO": [
+                1737
+            ], 
+            "WBL": [
+                1737
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this phone has many other feature , ir , ; just to name one , the feature above i view as the most beneficial ."
+    }, 
+    "437957753d095bc51aec7470946afeac": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            7
+        ], 
+        "(0, 7)": {
+            "WBF": [
+                2840
+            ], 
+            "AM2L": [
+                2861
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2097
+            ], 
+            "WBO": [
+                2842, 
+                2859, 
+                1541
+            ], 
+            "WBL": [
+                2083
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "other than that , this is a perfect phone for those of us with no patience for flip ."
+    }, 
+    "b7fe89c7512fb83bb17ebeaa6b53d631": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            9
+        ], 
+        "(7, 9)": {
+            "WBFL": [
+                1321
+            ], 
+            "BM1F": [
+                1241
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                2112
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it receives very nice mms picture from other gsm phone ."
+    }, 
+    "bc5f1642b16101e4228c81997a833126": {
+        "(13, 14)": {
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                3126
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                2126
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "i am able to carry it close to my body , in place where other phone are not so easily concealed ."
+    }, 
+    "38ea99941efb67acbdadb452537a05bc": {
+        "(14, 11)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2202
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "unfortunately , the 6610 does not offer voice dialing like my previous phone , but the other feature it pack outweighs this shortcoming ."
+    }
+}

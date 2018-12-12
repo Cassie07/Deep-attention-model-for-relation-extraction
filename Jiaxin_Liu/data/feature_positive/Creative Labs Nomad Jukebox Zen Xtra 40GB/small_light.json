@@ -1,0 +1,107 @@
+{
+    "2c92d650e105f7df5d4390b5bddf0006": {
+        "(2, 3)": {
+            "AM2L": [
+                1886
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "it 's small , light and nice looking and the display is decent as well ."
+    }, 
+    "381e0bc5add64324e7dea05c1857140f": {
+        "(7, 12)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                2270
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                2500
+            ], 
+            "WBO": [
+                1752
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "it look very cool , and seems quite small to me and very light ."
+    }, 
+    "046321e6f46dfb8659079eb3d885696d": {
+        "(13, 15)": {
+            "AM2L": [
+                402
+            ], 
+            "WBFL": [
+                253
+            ], 
+            "BM1F": [
+                2270
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                2712
+            ], 
+            "AM2F": [
+                848
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "other plus : changable battery , load of presets for environment , decent construction , still quite small and light despite being slightly bigger than an ipod ."
+    }
+}

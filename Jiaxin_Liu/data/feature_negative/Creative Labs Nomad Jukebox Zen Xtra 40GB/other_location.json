@@ -1,0 +1,44 @@
+{
+    "45609991a6c8a115b87b71d4c3620b77": {
+        "(10, 1)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2642
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1676
+            ], 
+            "M2": [
+                2011
+            ], 
+            "WBO": [
+                3039, 
+                502, 
+                1967, 
+                1973, 
+                2573
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the location of various button on one side or the other is somewhat illogical"
+    }
+}

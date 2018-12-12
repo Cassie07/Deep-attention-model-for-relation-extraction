@@ -1,0 +1,42 @@
+{
+    "2b1f02e9b598b4335a04065124706081": {
+        "(4, 14)": {
+            "WBF": [
+                2631
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1924
+            ], 
+            "M2": [
+                1466
+            ], 
+            "BM1L": [
+                503
+            ], 
+            "WBO": [
+                130, 
+                3110, 
+                205, 
+                253, 
+                1225, 
+                2842
+            ], 
+            "WBL": [
+                3040
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "i did buy the notmad software a week ago and found that a vast improvement ."
+    }
+}

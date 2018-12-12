@@ -1,0 +1,72 @@
+{
+    "6678ea63baf21e42ca34ff9c60e47c7c": {
+        "(27, 24)": {
+            "WBF": [
+                295
+            ], 
+            "BM1F": [
+                2806
+            ], 
+            "M1": [
+                288
+            ], 
+            "M2": [
+                3021
+            ], 
+            "BM1L": [
+                2011
+            ], 
+            "WBO": [
+                2270
+            ], 
+            "WBL": [
+                2270
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "the gprs connection is sometimes slow , and writing instant message with the included aol instant messenger software is a pain , but the other t-zones application are quite useful ."
+    }, 
+    "bc2579b51229368645d63774f91960e1": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            15
+        ], 
+        "(14, 15)": {
+            "AM2L": [
+                720
+            ], 
+            "BM1F": [
+                2642
+            ], 
+            "M1": [
+                3021
+            ], 
+            "M2": [
+                288
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it also has a stock tracking app built in ( also useless ) and a somewhat useful application which convert all type of metric ( currency , length , area , etc ) ."
+    }
+}

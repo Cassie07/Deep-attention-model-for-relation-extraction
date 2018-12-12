@@ -1,0 +1,132 @@
+{
+    "c7593f31f905682ecd393eb33a006c37": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            1
+        ], 
+        "(14, 1)": {
+            "WBF": [
+                3026
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                763
+            ], 
+            "M1": [
+                2141
+            ], 
+            "M2": [
+                985
+            ], 
+            "WBO": [
+                2844, 
+                1474, 
+                2631, 
+                2886, 
+                1795, 
+                1544, 
+                62, 
+                3094, 
+                1859
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "creating playlist using the included software to minimize issue 3 was n't as easy as i would have liked ."
+    }, 
+    "05b005a587509a9b418bc7b414f03e1b": {
+        "(7, 13)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2204
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2141
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1863, 
+                522
+            ], 
+            "WBL": [
+                1079
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "pro : huge storage capacity for the price , easy to navigate , can modify existing playlist on the fly , has a removable battery"
+    }, 
+    "00b26e308a4b8730247f6846646d008a": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            16
+        ], 
+        "(10, 16)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2760
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2141
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                3018, 
+                1967
+            ], 
+            "WBL": [
+                1199
+            ], 
+            "AM2F": [
+                764
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "its far more difficult to select song and has no easy to use on the fly playlist creation such as the new ipod not to mention it does n't sinc with contact list , phone number , address book , ect . like the ipod ( which eliminated my need for any kind of palm device ) ."
+    }
+}

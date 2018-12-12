@@ -1,0 +1,37 @@
+{
+    "ac4ab040f5068449f5d661c742ded24a": {
+        "(3, 5)": {
+            "AM2L": [
+                1429
+            ], 
+            "WBFL": [
+                875
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this is my first digital camera and i can say that i am quite impressed with the feature that it has ."
+    }
+}

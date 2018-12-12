@@ -1,0 +1,83 @@
+{
+    "97224a9d11f9869b7bb37913f20d0e1d": {
+        "(2, 3)": {
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                2812
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1716
+            ], 
+            "BM1L": [
+                2852
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2564
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "they take excellent macro shot as well ."
+    }, 
+    "ef8b221188025f77306dd1fd16320e12": {
+        "(12, 25)": {
+            "WBF": [
+                2408
+            ], 
+            "BM1F": [
+                1302
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1716
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                2583, 
+                1239, 
+                3016, 
+                1468, 
+                1737, 
+                2474, 
+                1488, 
+                2017, 
+                2625
+            ], 
+            "WBL": [
+                3006
+            ], 
+            "AM2F": [
+                1054
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "great camera , i have been using this for several month and got excellent result , simple friendly usage , in many scene indoor , outdoor , snow , close up macro etc ."
+    }
+}

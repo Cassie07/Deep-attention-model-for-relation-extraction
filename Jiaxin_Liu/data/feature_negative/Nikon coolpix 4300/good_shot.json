@@ -1,0 +1,128 @@
+{
+    "d4954af171cda06cc040755bc979e934": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            3
+        ], 
+        "(11, 3)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                72
+            ], 
+            "BM1F": [
+                1488
+            ], 
+            "M1": [
+                2564
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                340
+            ], 
+            "WBO": [
+                130, 
+                1188, 
+                295, 
+                1915
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "on average , indoor shot with a flash are not quite as good as 35mm ."
+    }, 
+    "13dec75bed7e631821be24ba46df1b44": {
+        "(3, 7)": {
+            "WBF": [
+                1030
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2564
+            ], 
+            "BM1L": [
+                332
+            ], 
+            "WBO": [
+                1212
+            ], 
+            "WBL": [
+                1832
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the auto-mode is good enough for most shot but the 4300 also boast 12 versatile scene mode as well as a manual mode though i admit i have n't played with it too much on manual ."
+    }, 
+    "42f0ce4c366e69f992de1c95467b18e7": {
+        "(11, 8)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1488
+            ], 
+            "M1": [
+                2564
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3052
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2245
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the daylight picture are brilliant and the indoor shot are very good provided that your subject is no more than about 8 foot away ."
+    }
+}

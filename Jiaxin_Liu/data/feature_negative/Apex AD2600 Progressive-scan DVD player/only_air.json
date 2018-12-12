@@ -1,0 +1,59 @@
+{
+    "5a3288ba1d03d602b3367a0c74ac0315": {
+        "(1, 31)": {
+            "WBF": [
+                2853
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                212
+            ], 
+            "WBO": [
+                1429, 
+                863, 
+                1086, 
+                3094, 
+                130, 
+                2215, 
+                1951, 
+                2844, 
+                2139, 
+                1234, 
+                3130, 
+                2140, 
+                3129, 
+                1429, 
+                3094, 
+                133, 
+                2886, 
+                613, 
+                507, 
+                1984, 
+                1545, 
+                3006, 
+                253, 
+                434, 
+                1545, 
+                2016
+            ], 
+            "WBL": [
+                524
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            31
+        ], 
+        "sentence": "the only thing i did experience was a problem of the player freezing while playing , which i was able to clear by opening it up and blowing it out with `` canned air . ``"
+    }
+}

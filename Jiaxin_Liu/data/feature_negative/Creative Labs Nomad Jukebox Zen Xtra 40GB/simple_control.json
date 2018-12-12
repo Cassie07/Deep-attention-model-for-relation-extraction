@@ -1,0 +1,80 @@
+{
+    "44113db332ebb2a7be2326e83dd6db5a": {
+        "(7, 1)": {
+            "WBF": [
+                1967
+            ], 
+            "AM2L": [
+                1874
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                2583
+            ], 
+            "WBO": [
+                2844, 
+                2139
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                1896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the control on the player are very simple , no need for a manual ."
+    }, 
+    "a38439d7c15e4548fd748f4b11dd2e65": {
+        "(7, 1)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1973
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                2583
+            ], 
+            "WBO": [
+                1848, 
+                1490
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1536
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "- the control are much inferior to the simple ipod one ."
+    }
+}

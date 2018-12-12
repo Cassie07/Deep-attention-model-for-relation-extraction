@@ -1,0 +1,192 @@
+{
+    "744f525296a4d9c08aa0fe2e19b27dba": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            6
+        ], 
+        "(4, 6)": {
+            "AM2L": [
+                2859
+            ], 
+            "WBFL": [
+                2654
+            ], 
+            "BM1F": [
+                1328
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                238
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "nokias have always had good sound quality and this is no exception ."
+    }, 
+    "5f632c925abff8ea973237469d07a2aa": {
+        "(5, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                3072
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3052
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5, 
+            24
+        ], 
+        "location2": [
+            2
+        ], 
+        "(24, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                408
+            ], 
+            "BM1F": [
+                3072
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3052, 
+                1300, 
+                253, 
+                1545, 
+                1278, 
+                1313, 
+                2319, 
+                2842, 
+                1541, 
+                1468, 
+                2126, 
+                3126, 
+                3203, 
+                1277, 
+                2804, 
+                747, 
+                3129, 
+                1541
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                2496
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the voice quality is very good , and it gets great reception ( that is , in place where you get t-mobile coverage , which is not that good ; see below ) ."
+    }, 
+    "74ab0cc3f6e22fc34b2fa57efbcb6936": {
+        "(16, 17)": {
+            "BM1F": [
+                2952
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1998
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "this phone is great as a whole and is not like others with one or two good quality ."
+    }, 
+    "867e0d28796d18caa886b83e1e446570": {
+        "(9, 11)": {
+            "AM2L": [
+                251
+            ], 
+            "WBFL": [
+                2654
+            ], 
+            "BM1F": [
+                3120
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1143
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "while i had the phone , the positive feature were : good sound quality and an excellent fm phone and earpiece ."
+    }
+}

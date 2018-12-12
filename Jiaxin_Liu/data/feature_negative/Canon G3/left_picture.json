@@ -1,0 +1,43 @@
+{
+    "147a916c1effce3110d2582e4b8b49a5": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            15
+        ], 
+        "(11, 15)": {
+            "WBF": [
+                730
+            ], 
+            "AM2L": [
+                26
+            ], 
+            "BM1F": [
+                457
+            ], 
+            "M1": [
+                1625
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1951
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                134
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "when you look through the viewfinder ( not the lcd ) the bottom left corner of the picture ( about 15 % ) is blocked by the lens ."
+    }
+}

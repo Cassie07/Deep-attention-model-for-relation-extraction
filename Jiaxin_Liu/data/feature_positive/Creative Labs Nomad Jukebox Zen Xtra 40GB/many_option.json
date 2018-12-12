@@ -1,0 +1,37 @@
+{
+    "370f2f08bb8ba98db88f94c031ba3f60": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                2611
+            ], 
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                1996
+            ], 
+            "BM1L": [
+                233
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the player is fast and sound great , it also has many option like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium ."
+    }
+}

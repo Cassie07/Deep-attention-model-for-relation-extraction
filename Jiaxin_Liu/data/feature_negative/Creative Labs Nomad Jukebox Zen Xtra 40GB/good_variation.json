@@ -1,0 +1,43 @@
+{
+    "a35aae065a501637e0500caa8560e498": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            20
+        ], 
+        "(15, 20)": {
+            "WBF": [
+                3203
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2199
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                3037
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                522
+            ], 
+            "WBL": [
+                869
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "with eax on , you can modify your sound , with 4 different presets , which is pretty good , you can get different variation with it ."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "dfeaf50d5e3cca7bf889853664f868cd": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            18
+        ], 
+        "(10, 18)": {
+            "WBF": [
+                2132
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                730
+            ], 
+            "BM1L": [
+                2016
+            ], 
+            "WBO": [
+                253, 
+                2259, 
+                2637, 
+                2446
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "cheap construction - they should have made the player out of hard plastic and put some rubber on the corner ."
+    }
+}

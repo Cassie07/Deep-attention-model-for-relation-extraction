@@ -1,0 +1,73 @@
+{
+    "ab5381ff92d93f31f37a3da98c2c14a6": {
+        "(7, 13)": {
+            "WBF": [
+                1906
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                1738
+            ], 
+            "BM1L": [
+                297
+            ], 
+            "WBO": [
+                875, 
+                520
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "all-in-all , i believe this is arguably the best non-slr digital camera on the market ."
+    }, 
+    "cb31f35d3c35ce640d8c859b871da89a": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            8
+        ], 
+        "(4, 8)": {
+            "WBF": [
+                520
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                1738
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1967
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "overall it is the best camera on the market ."
+    }
+}

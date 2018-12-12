@@ -1,0 +1,49 @@
+{
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            21
+        ], 
+        "(10, 21)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                1536
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1275
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                1566, 
+                1355, 
+                2844, 
+                413, 
+                2654, 
+                2260, 
+                1951
+            ], 
+            "WBL": [
+                60
+            ], 
+            "AM2F": [
+                1567
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }
+}

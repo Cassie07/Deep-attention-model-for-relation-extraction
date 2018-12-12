@@ -1,0 +1,45 @@
+{
+    "b6ad3734805d45028aacb33df91f1f38": {
+        "(17, 30)": {
+            "WBF": [
+                805
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                2238
+            ], 
+            "BM1L": [
+                2304
+            ], 
+            "WBO": [
+                2886, 
+                1752, 
+                994, 
+                2844, 
+                541, 
+                1541, 
+                2746, 
+                253, 
+                1955
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "people also have complained about the case not having a window , but that 's not really a big deal to me either -- the case is sturdy and offer very good protection ."
+    }
+}

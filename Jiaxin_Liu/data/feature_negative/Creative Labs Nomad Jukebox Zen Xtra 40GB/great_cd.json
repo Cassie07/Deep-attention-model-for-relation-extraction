@@ -1,0 +1,124 @@
+{
+    "8eb5d2fca4a827e8e326a4df00c9b809": {
+        "(20, 13)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                2883
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                553
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                633
+            ], 
+            "WBO": [
+                3145, 
+                221, 
+                1181
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1669
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            20
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the memory will hold an amazing amount of song , my entire collection of cd 's will all fit on this great little tiny piece of digital fun ."
+    }, 
+    "97c7ba01b8d251276d4c9b11594e1473": {
+        "(11, 20)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1998
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                553
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                539, 
+                2859, 
+                298, 
+                1513, 
+                1951
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(11, 5)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                539
+            ], 
+            "BM1F": [
+                1132
+            ], 
+            "M1": [
+                553
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                253, 
+                1545
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            5, 
+            20
+        ], 
+        "sentence": "the sound quality is fantastic ( cd quality ) and it is really great to carry this around instead of stack of cd 's or tape !"
+    }
+}

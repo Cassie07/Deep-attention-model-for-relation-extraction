@@ -1,0 +1,142 @@
+{
+    "8d1f6697eefabe40a2bed7c33818a32d": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            6
+        ], 
+        "(4, 6)": {
+            "AM2L": [
+                1973
+            ], 
+            "WBFL": [
+                553
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                633
+            ], 
+            "BM1L": [
+                2725
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "12 ) big storage - my entire cd collection in one small device ( 5717 song , 491 album and counting ) !"
+    }, 
+    "3e72e9cc6e251da6798a2e9e66feb5b3": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            9
+        ], 
+        "(7, 9)": {
+            "AM2L": [
+                1967
+            ], 
+            "WBFL": [
+                553
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                633
+            ], 
+            "BM1L": [
+                1933
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "1 . i achieved my basic objective ; my entire cd collection is on a portable device with lot of room to store more ."
+    }, 
+    "8eb5d2fca4a827e8e326a4df00c9b809": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                553
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                633
+            ], 
+            "BM1L": [
+                2644
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the memory will hold an amazing amount of song , my entire collection of cd 's will all fit on this great little tiny piece of digital fun ."
+    }, 
+    "39e04a3877da6e2dd43afd9b1587c5f3": {
+        "(6, 7)": {
+            "AM2L": [
+                1853
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                633
+            ], 
+            "BM1L": [
+                1674
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "huge storage space , i loaded my entire collection of music , which isnt that much , 400 song , and still have 26 gb , out of the 28 provided to you ."
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "d36bdc5dfa57c2ffcd3b26042b66d2e6": {
+        "location1": [
+            7, 
+            19
+        ], 
+        "location2": [
+            9
+        ], 
+        "(19, 9)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                3124
+            ], 
+            "BM1F": [
+                584
+            ], 
+            "M1": [
+                675
+            ], 
+            "M2": [
+                1886
+            ], 
+            "BM1L": [
+                1886
+            ], 
+            "WBO": [
+                233, 
+                924, 
+                304, 
+                130, 
+                2275, 
+                3129
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(7, 9)": {
+            "AM2L": [
+                233
+            ], 
+            "WBFL": [
+                584
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                675
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "sound - excellent polyphonic ringing tone are very nice ( check con ) it also double as a radio , which is a nice feature when you are bored ."
+    }
+}

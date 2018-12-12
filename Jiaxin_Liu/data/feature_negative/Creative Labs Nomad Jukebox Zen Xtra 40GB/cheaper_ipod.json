@@ -1,0 +1,83 @@
+{
+    "10daff17b8c852005892b07d4f5707d4": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            16
+        ], 
+        "(6, 16)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                581
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                1468, 
+                1856, 
+                1990, 
+                130, 
+                415, 
+                595
+            ], 
+            "WBL": [
+                251
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "to keep it short , this is cheaper , and in my opinion a better choice than an ipod ."
+    }, 
+    "00678fc65cf74c7bbfb5bf91f2796a34": {
+        "location1": [
+            23
+        ], 
+        "location2": [
+            27
+        ], 
+        "(23, 27)": {
+            "WBF": [
+                2840
+            ], 
+            "AM2L": [
+                1072
+            ], 
+            "BM1F": [
+                41
+            ], 
+            "M1": [
+                581
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2204
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                84
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound is excellent , the battery life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent ."
+    }
+}

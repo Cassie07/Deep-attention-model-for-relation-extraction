@@ -1,0 +1,40 @@
+{
+    "86b3450ce22023f2c9edfbb1431b515e": {
+        "(0, 8)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                522
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                1252
+            ], 
+            "WBO": [
+                1059, 
+                1241, 
+                2844, 
+                1448
+            ], 
+            "WBL": [
+                635
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "best camera ever . from the image quality , color , function , i can say almost everything ."
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "4283cf0438864dd7aa4566ca679cc53b": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            22
+        ], 
+        "(15, 22)": {
+            "WBF": [
+                2112
+            ], 
+            "AM2L": [
+                1155
+            ], 
+            "BM1F": [
+                2814
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                3110
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                3200, 
+                917, 
+                1859
+            ], 
+            "WBL": [
+                2812
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i highly recommend this camera to anyone looking for a good digital camera that takes great picture yet does n't take week to figure out how to operate ."
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "2462352e4d26f43439fa478ab33dff17": {
+        "(34, 37)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                1896
+            ], 
+            "BM1F": [
+                1054
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2775
+            ], 
+            "BM1L": [
+                1054
+            ], 
+            "WBO": [
+                1977
+            ], 
+            "WBL": [
+                1977
+            ], 
+            "AM2F": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            34
+        ], 
+        "location2": [
+            37
+        ], 
+        "sentence": "after i had it a couple week , it got into a state where it could never find the device , no matter how often i rebooted my pc , reset the device , reloaded driver , etc , etc . creative 's online support was no help at all ."
+    }, 
+    "b53d62b6c1ff43f2a9f455b5b47ac453": {
+        "(0, 3)": {
+            "WBF": [
+                1594
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2775
+            ], 
+            "WBO": [
+                781
+            ], 
+            "WBL": [
+                781
+            ], 
+            "AM2F": [
+                3109
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "creative lab customer support website is useless ."
+    }, 
+    "ea590102fe54b3305e3c92c7f680c4d9": {
+        "(0, 9)": {
+            "WBF": [
+                3210
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2775
+            ], 
+            "WBO": [
+                1146, 
+                2762, 
+                1241, 
+                703, 
+                2260
+            ], 
+            "WBL": [
+                2221
+            ], 
+            "AM2F": [
+                872
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "creative zen feedback suffers from construction quality , poor product support , difficulty of using the scroll wheel and reasonably consistent feedback about problem with the headphone jack ."
+    }, 
+    "9962a0395a42bef512fbadba4dcc1ee1": {
+        "(2, 5)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                2989
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2775
+            ], 
+            "BM1L": [
+                1146
+            ], 
+            "WBO": [
+                2221
+            ], 
+            "WBL": [
+                2221
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "feedback on creative 's product support is universally poor ; this is not limited to the zen , it applies to all the company 's product ."
+    }, 
+    "8b9a6cd9df31ff13ae9cf191b5e2455f": {
+        "(5, 7)": {
+            "AM2L": [
+                1545
+            ], 
+            "WBFL": [
+                2825
+            ], 
+            "BM1F": [
+                1006
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2775
+            ], 
+            "BM1L": [
+                231
+            ], 
+            "AM2F": [
+                134
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "but i 've already emailed creative tech support about it , and gotten timely response - they will fix it for me if necessary .. ."
+    }
+}

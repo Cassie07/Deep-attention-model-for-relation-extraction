@@ -1,0 +1,128 @@
+{
+    "c70fb67c5efeb4037aa2b2f54e618a66": {
+        "(3, 1)": {
+            "AM2L": [
+                2598
+            ], 
+            "WBFL": [
+                2136
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                346
+            ], 
+            "AM2F": [
+                1881
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1, 
+            18
+        ], 
+        "(3, 18)": {
+            "WBF": [
+                1881
+            ], 
+            "AM2L": [
+                1528
+            ], 
+            "BM1F": [
+                2136
+            ], 
+            "M1": [
+                346
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                1853
+            ], 
+            "WBO": [
+                2598, 
+                1055, 
+                1441, 
+                2957, 
+                2448, 
+                1212, 
+                130, 
+                423, 
+                2628, 
+                3203, 
+                522
+            ], 
+            "WBL": [
+                2886
+            ], 
+            "AM2F": [
+                3160
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the music play awesome , never skip , even if u run for a bit , so you can listen to music without interruption ."
+    }, 
+    "25da27d72af155af06e6c5874f503ef7": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            20
+        ], 
+        "(5, 20)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                68
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                346
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                378, 
+                1643, 
+                1541, 
+                1978, 
+                103, 
+                113, 
+                1422, 
+                253, 
+                2842, 
+                1541, 
+                386
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "once again , the sound is awesome , the batterly life is only 6-8 hour , and that is because all my music is 320 kbps which does affect the battery life ."
+    }
+}

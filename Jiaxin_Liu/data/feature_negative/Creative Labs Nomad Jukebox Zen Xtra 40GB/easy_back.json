@@ -1,0 +1,92 @@
+{
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(34, 23)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                352
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                2083, 
+                1136, 
+                304, 
+                1378, 
+                1468, 
+                1853, 
+                2916
+            ], 
+            "WBL": [
+                295
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            34
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "80bbb11678af660f0125fc0dd5f8324c": {
+        "(10, 3)": {
+            "WBF": [
+                502
+            ], 
+            "AM2L": [
+                2296
+            ], 
+            "BM1F": [
+                502
+            ], 
+            "M1": [
+                352
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                615
+            ], 
+            "WBO": [
+                3074, 
+                253, 
+                898
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "simple click button , back button volume and display are very easy to read , access and use ."
+    }
+}

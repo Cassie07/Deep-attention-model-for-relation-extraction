@@ -1,0 +1,43 @@
+{
+    "65037ef283c79017feb83dc35b38876e": {
+        "(11, 16)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                549
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                3000
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                1548
+            ], 
+            "AM2F": [
+                3145
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the catch with the canon g3 camera , ( and perhaps all of digital camera ) is that its unresponsiveness will cause you to miss precious shot ."
+    }
+}

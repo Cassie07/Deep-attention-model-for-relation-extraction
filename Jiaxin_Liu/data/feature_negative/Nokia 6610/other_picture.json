@@ -1,0 +1,78 @@
+{
+    "7c8f3f41daa8a96742203572b5b47386": {
+        "(8, 5)": {
+            "WBF": [
+                2541
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                579
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1776
+            ], 
+            "WBO": [
+                1054
+            ], 
+            "WBL": [
+                1054
+            ], 
+            "AM2F": [
+                1890
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "the mobile text messaging , chat , picture sharing etc . other nicities , that you would enjoy ."
+    }, 
+    "b7fe89c7512fb83bb17ebeaa6b53d631": {
+        "(7, 5)": {
+            "AM2L": [
+                2097
+            ], 
+            "WBFL": [
+                1241
+            ], 
+            "BM1F": [
+                1811
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1886
+            ], 
+            "AM2F": [
+                1321
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "it receives very nice mms picture from other gsm phone ."
+    }
+}

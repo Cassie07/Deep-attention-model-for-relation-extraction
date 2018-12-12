@@ -1,0 +1,51 @@
+{
+    "21250d9726c5df5ab8b704a872ef5d69": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            24
+        ], 
+        "(5, 24)": {
+            "WBF": [
+                2305
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2150
+            ], 
+            "BM1L": [
+                411
+            ], 
+            "WBO": [
+                1973, 
+                402, 
+                1570, 
+                1212, 
+                283, 
+                3204, 
+                2056, 
+                3163, 
+                1859, 
+                5, 
+                381, 
+                489, 
+                3158, 
+                2859, 
+                2097
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this is a benefit for many reason ; one being just for appearance , your pant wo n't be bulging with this phone in your pocket ."
+    }
+}

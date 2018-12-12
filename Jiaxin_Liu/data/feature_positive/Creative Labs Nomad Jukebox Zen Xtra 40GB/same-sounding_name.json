@@ -1,0 +1,37 @@
+{
+    "f6d65be6923c9fe3a8774db12bb405c2": {
+        "(11, 12)": {
+            "AM2L": [
+                2852
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2458
+            ], 
+            "M2": [
+                1860
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "they have a whole bunch of device that all have the same-sounding name ( and they are long ) ."
+    }
+}

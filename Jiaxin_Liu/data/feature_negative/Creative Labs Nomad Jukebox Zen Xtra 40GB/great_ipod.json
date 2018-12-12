@@ -1,0 +1,279 @@
+{
+    "c17dc1715e1475263f7052f45d238a95": {
+        "(3, 11)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2615
+            ], 
+            "WBO": [
+                1634, 
+                1085, 
+                2840, 
+                286
+            ], 
+            "WBL": [
+                2032
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "overall : small , sound great , and less expensive than apple 's overpriced ipod !"
+    }, 
+    "b9bfe35c56e22b2e41d54ff0d9f5e938": {
+        "location1": [
+            29
+        ], 
+        "location2": [
+            12
+        ], 
+        "(29, 12)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1638
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1707
+            ], 
+            "WBO": [
+                3094, 
+                133, 
+                2886, 
+                1277, 
+                2859, 
+                84, 
+                1825, 
+                253, 
+                2844, 
+                413, 
+                2061, 
+                1541, 
+                1545
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "for a price that 's still less than even the lowest level ipod i was able to get this 40gb monster , and the best part is it work as great as it was advertised to and then some ."
+    }, 
+    "867804e0f600290b55597fc61d92689b": {
+        "(0, 6)": {
+            "WBF": [
+                3035
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1536
+            ], 
+            "WBO": [
+                84, 
+                3075
+            ], 
+            "WBL": [
+                1268
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "- great value 40gb vs 10 gb ipod for the price"
+    }, 
+    "8121831049060e4e814eb90a284743c5": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            7
+        ], 
+        "(12, 7)": {
+            "WBF": [
+                1064
+            ], 
+            "AM2L": [
+                1724
+            ], 
+            "BM1F": [
+                833
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                294
+            ], 
+            "WBO": [
+                1300
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }, 
+    "5e3b041ac6b9ad8129dd2adbb704bd4e": {
+        "(7, 5)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "the price compared to the ipod is great ."
+    }, 
+    "4147498480996841498df2bb40d27af6": {
+        "(10, 14)": {
+            "WBF": [
+                190
+            ], 
+            "AM2L": [
+                379
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2024
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "5 ) the cheap , user-replaceable battery ( $ 50 from creative ) is a great advantage over the ipod 's battery which cost $ 100 to replace ."
+    }, 
+    "3bf21a4b29d090cbd158c4195701fcd2": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            7
+        ], 
+        "(1, 7)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                3002
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1536
+            ], 
+            "WBO": [
+                127, 
+                2577
+            ], 
+            "WBL": [
+                383
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "1 ) great sound ( > 98db signal-to-noise ratio beat ipod 's `` unspecified `` ratio ) and good power output allow the zen xtra to drive large head-phones as well as external speaker ."
+    }
+}

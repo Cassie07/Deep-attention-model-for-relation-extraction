@@ -1,0 +1,49 @@
+{
+    "c70fb67c5efeb4037aa2b2f54e618a66": {
+        "(3, 20)": {
+            "WBF": [
+                1881
+            ], 
+            "BM1F": [
+                2136
+            ], 
+            "M1": [
+                346
+            ], 
+            "M2": [
+                1528
+            ], 
+            "BM1L": [
+                1853
+            ], 
+            "WBO": [
+                2598, 
+                1055, 
+                1441, 
+                2957, 
+                2448, 
+                1212, 
+                130, 
+                423, 
+                2628, 
+                3203, 
+                522, 
+                1662, 
+                2886
+            ], 
+            "WBL": [
+                3160
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "the music play awesome , never skip , even if u run for a bit , so you can listen to music without interruption ."
+    }
+}

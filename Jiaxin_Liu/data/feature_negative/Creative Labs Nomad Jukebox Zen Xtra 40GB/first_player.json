@@ -1,0 +1,292 @@
+{
+    "7967db31bc77438a94a846ddeb630669": {
+        "(19, 27)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                627
+            ], 
+            "BM1F": [
+                1638
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2952
+            ], 
+            "WBO": [
+                1541, 
+                2158, 
+                1515, 
+                1529
+            ], 
+            "WBL": [
+                2025
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "dcec7d045bb56bb23bf6af62e977a87c": {
+        "(0, 9)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                2139
+            ], 
+            "WBO": [
+                1, 
+                2698, 
+                1952, 
+                507, 
+                2470
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1348
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "first i 'll start off by saying that this player hardware is pretty good .. ."
+    }, 
+    "f36365781e2d87d761d5f6c5b23a90ab": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            7
+        ], 
+        "(13, 7)": {
+            "WBF": [
+                1328
+            ], 
+            "BM1F": [
+                1842
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1179
+            ], 
+            "BM1L": [
+                765
+            ], 
+            "WBO": [
+                2631, 
+                2215
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2126
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "in fact , each of my creative mp3 player had software problem in the first place ."
+    }, 
+    "074a0ef9795ec5883cc9095904d96eb4": {
+        "(0, 11)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                917
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                2139
+            ], 
+            "WBO": [
+                675, 
+                130, 
+                2809, 
+                490, 
+                1915, 
+                2844, 
+                1832
+            ], 
+            "WBL": [
+                1691
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "first , the con ... a tad bulky ... not the most asthetic looking player ... and does n't support a folder stucture ."
+    }, 
+    "077dde571fccc3e9a8613d40d0259dad": {
+        "(12, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1758
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1179
+            ], 
+            "WBO": [
+                1915, 
+                2146, 
+                253, 
+                2136, 
+                1874, 
+                2886, 
+                1505
+            ], 
+            "WBL": [
+                1093
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            1, 
+            32
+        ], 
+        "(12, 32)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                938
+            ], 
+            "BM1F": [
+                1093
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1901
+            ], 
+            "WBO": [
+                1758, 
+                2886, 
+                2916, 
+                1156, 
+                253, 
+                1429, 
+                1328, 
+                2886, 
+                381, 
+                2069, 
+                304, 
+                1429, 
+                3094, 
+                3020, 
+                2886, 
+                3154
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "1 ) player is not plug and play - need to install nomad explorer first and mediasource to transfer file and i had to be patient as i was used to winxp detecting the player and dragging and dropping the music file into it ."
+    }, 
+    "fa3ed2bde213bd0078bffda62730ce6c": {
+        "(0, 4)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2654
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                2139
+            ], 
+            "WBO": [
+                221
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "first of all the player 's sound quality is superior to the ipod ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "b1faecc5dd56946295f5940b7205af66": {
+        "(2, 3)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1370
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i have excellent hearing but the volume level on this phone is especially quiet ."
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(42, 40)": {
+            "AM2L": [
+                253
+            ], 
+            "WBFL": [
+                502
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2484
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1743
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            42
+        ], 
+        "location2": [
+            40
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "a7a2a63d634d00419baf9b30a158cbe5": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            1
+        ], 
+        "(9, 1)": {
+            "WBF": [
+                3123
+            ], 
+            "AM2L": [
+                1752
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2484
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                1541, 
+                985, 
+                2886, 
+                3018
+            ], 
+            "WBL": [
+                3168
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the scroll wheel is easy to use and work great for me , however many have complained that the wheel is cumbersome and difficult to operate ."
+    }
+}

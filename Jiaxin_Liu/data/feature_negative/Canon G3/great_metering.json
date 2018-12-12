@@ -1,0 +1,43 @@
+{
+    "493500669cab1a2ef28578fd9b1d5279": {
+        "(2, 7)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                165
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1782
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2794
+            ], 
+            "WBL": [
+                2683
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "it 's great to switch to spot metering and actually see it working on the lcd screen ."
+    }
+}

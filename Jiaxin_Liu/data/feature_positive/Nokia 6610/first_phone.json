@@ -1,0 +1,116 @@
+{
+    "b89efe0de0fd797ce86e413b78bcc046": {
+        "(1, 6)": {
+            "WBF": [
+                1892
+            ], 
+            "AM2L": [
+                2259
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                2097
+            ], 
+            "WBO": [
+                1429
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the first night i got this phone i put it next to me when i went to bed just to listen to my favorite music station and the handset itself doesnt weight anything its too light and feel so comfy with it ."
+    }, 
+    "6fe554bb692034563c238b99119b81ec": {
+        "(3, 5)": {
+            "AM2L": [
+                1429
+            ], 
+            "WBFL": [
+                1909
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                3094
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "nokia was my first nonflip phone , and i 'm glad i decided to go with them ."
+    }, 
+    "2444c9bfc1b6cb142560eb1ebb714654": {
+        "(7, 4)": {
+            "WBF": [
+                1967
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1179
+            ], 
+            "BM1L": [
+                2946
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2853
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "when i turned the phone on , the first thing that hit me is how good the screen is ."
+    }
+}

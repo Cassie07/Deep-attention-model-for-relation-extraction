@@ -1,0 +1,84 @@
+{
+    "f047713fd7ebf2002c5bc05f4ab2df80": {
+        "location1": [
+            7, 
+            13
+        ], 
+        "location2": [
+            19
+        ], 
+        "(7, 19)": {
+            "WBF": [
+                2631
+            ], 
+            "AM2L": [
+                1550
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2734
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBO": [
+                501, 
+                1429, 
+                165, 
+                1165, 
+                765, 
+                1758, 
+                2006, 
+                2886
+            ], 
+            "WBL": [
+                2637
+            ], 
+            "AM2F": [
+                2024
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(13, 19)": {
+            "WBF": [
+                1758
+            ], 
+            "AM2L": [
+                1550
+            ], 
+            "BM1F": [
+                1165
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2734
+            ], 
+            "BM1L": [
+                165
+            ], 
+            "WBO": [
+                2006, 
+                2886
+            ], 
+            "WBL": [
+                2637
+            ], 
+            "AM2F": [
+                2024
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "a lot of people complain about the creative software , but i actually find creative mediasource organizer to have some strength over itunes ."
+    }
+}

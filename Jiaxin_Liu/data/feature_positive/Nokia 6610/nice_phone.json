@@ -1,0 +1,143 @@
+{
+    "58e7e474b8ea3dcf3293853aae627fc1": {
+        "(9, 6)": {
+            "WBF": [
+                1548
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1669
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1886
+            ], 
+            "BM1L": [
+                1313
+            ], 
+            "WBO": [
+                1302
+            ], 
+            "WBL": [
+                1302
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this really is a great little phone ; its got nice feature , a beatiful screen , great ergonomics , and its tiny !"
+    }, 
+    "b7fe89c7512fb83bb17ebeaa6b53d631": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            9
+        ], 
+        "(3, 9)": {
+            "WBF": [
+                1811
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                2315
+            ], 
+            "WBO": [
+                2112, 
+                1241
+            ], 
+            "WBL": [
+                1321
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it receives very nice mms picture from other gsm phone ."
+    }, 
+    "105924e46523168dd9a09a96a05d6a46": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "AM2L": [
+                653
+            ], 
+            "WBFL": [
+                1669
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                2097
+            ], 
+            "AM2F": [
+                1644
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "nice little phone ... light compact . ."
+    }, 
+    "907a71d6c58acc8a9c22afee0469cda1": {
+        "(4, 5)": {
+            "AM2L": [
+                2850
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this is a very nice phone , but there is no warranty on it ."
+    }
+}

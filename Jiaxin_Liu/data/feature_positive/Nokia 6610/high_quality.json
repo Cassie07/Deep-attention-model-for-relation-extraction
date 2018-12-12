@@ -1,0 +1,37 @@
+{
+    "9b759b22613ccb3d5a5909c5cd771409": {
+        "(16, 17)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                2431
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1441
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "service is great as far as i can tell , feature work like a charm , ringtones are high quality if you buy them from t-mobile and aim is great ."
+    }
+}

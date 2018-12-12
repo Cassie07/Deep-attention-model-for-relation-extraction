@@ -1,0 +1,43 @@
+{
+    "2155dae2420356df58f64bd1e973732d": {
+        "(16, 19)": {
+            "WBF": [
+                3168
+            ], 
+            "AM2L": [
+                1660
+            ], 
+            "BM1F": [
+                3006
+            ], 
+            "M1": [
+                918
+            ], 
+            "M2": [
+                1844
+            ], 
+            "BM1L": [
+                1641
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "d ) software is another great misfortune -- hard to operate , crash frequently , screwed my music library up , doesnt work with mp4s , the list goes on and on"
+    }
+}

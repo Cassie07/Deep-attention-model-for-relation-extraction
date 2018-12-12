@@ -1,0 +1,51 @@
+{
+    "c8a04e62ab057c0a7bce58982ce6cae8": {
+        "(4, 17)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                876
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1892
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2296, 
+                253, 
+                2844, 
+                436, 
+                1644, 
+                1541, 
+                469, 
+                1030, 
+                2886
+            ], 
+            "WBL": [
+                316
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "the screen is very easy to read and the blue light is bright enough to read at night , but dim enough so it does n't blind you when you stare too long ."
+    }
+}

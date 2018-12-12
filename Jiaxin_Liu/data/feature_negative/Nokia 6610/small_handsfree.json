@@ -1,0 +1,55 @@
+{
+    "f18154e30404fb3775505cae4d99fcb0": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            22
+        ], 
+        "(5, 22)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                2809
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                1336
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1404, 
+                2886, 
+                3204, 
+                972, 
+                3158, 
+                3204, 
+                2566, 
+                501, 
+                2842, 
+                1541, 
+                2636, 
+                3158, 
+                2844
+            ], 
+            "WBL": [
+                645
+            ], 
+            "AM2F": [
+                974
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it is just a tad small to hold to your ear with your shoulder , but that is solved with the very comfortable handsfree ear-piece which is included ."
+    }
+}

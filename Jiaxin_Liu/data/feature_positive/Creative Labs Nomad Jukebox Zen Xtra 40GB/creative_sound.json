@@ -1,0 +1,292 @@
+{
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(4, 9)": {
+            "WBF": [
+                1267
+            ], 
+            "AM2L": [
+                1313
+            ], 
+            "BM1F": [
+                316
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1238
+            ], 
+            "WBO": [
+                2859
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "a0025c0db7ea0540259cd3b1b90d7fcb": {
+        "(10, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                765
+            ], 
+            "WBO": [
+                1072, 
+                304, 
+                1973, 
+                3181, 
+                2789
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the sound is excellent as one would suspect from a creative product ."
+    }, 
+    "a44b72ed937e77df7cb07d76f90f6978": {
+        "(9, 0)": {
+            "WBF": [
+                2260
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                765
+            ], 
+            "WBO": [
+                1967, 
+                2859, 
+                1541, 
+                245, 
+                304
+            ], 
+            "WBL": [
+                221
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "sound quality on this is amazing , as with all creative product ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "(43, 28)": {
+            "WBF": [
+                3142
+            ], 
+            "AM2L": [
+                392
+            ], 
+            "BM1F": [
+                1072
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1591, 
+                2886, 
+                381, 
+                415, 
+                2840, 
+                1536, 
+                1915, 
+                2785, 
+                697, 
+                2844, 
+                1929
+            ], 
+            "WBL": [
+                3196
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            43
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "(7, 17)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                2013
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                386
+            ], 
+            "WBO": [
+                2139, 
+                295, 
+                3052, 
+                1300, 
+                253, 
+                1355
+            ], 
+            "WBL": [
+                413
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            16
+        ], 
+        "(10, 16)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                1566, 
+                1355
+            ], 
+            "WBL": [
+                413
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }, 
+    "d6255391e01cbaa0b68fdb9cf3e4e183": {
+        "(0, 3)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2654
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2079
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "creative are * the * sound people for computer , i can 't understand why eax would introduce static ."
+    }
+}

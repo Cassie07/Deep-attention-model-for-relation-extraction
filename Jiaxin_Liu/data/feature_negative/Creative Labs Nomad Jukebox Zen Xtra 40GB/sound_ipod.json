@@ -1,0 +1,493 @@
+{
+    "c17dc1715e1475263f7052f45d238a95": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            11
+        ], 
+        "(2, 11)": {
+            "WBF": [
+                1313
+            ], 
+            "BM1F": [
+                2615
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2025
+            ], 
+            "WBO": [
+                253, 
+                1634, 
+                1085, 
+                2840, 
+                286
+            ], 
+            "WBL": [
+                2032
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "overall : small , sound great , and less expensive than apple 's overpriced ipod !"
+    }, 
+    "26afbb728550c0df1149e771bc94d54b": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            33
+        ], 
+        "(1, 33)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1536
+            ], 
+            "WBO": [
+                1541, 
+                1072, 
+                253, 
+                1429, 
+                2, 
+                1257, 
+                3158, 
+                2842, 
+                2742, 
+                2844, 
+                2987, 
+                1689, 
+                724, 
+                2479, 
+                1541, 
+                469, 
+                253, 
+                985, 
+                2886, 
+                2296, 
+                253, 
+                2844, 
+                2381, 
+                379, 
+                1753, 
+                130, 
+                1722, 
+                190
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                412
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }, 
+    "a41a3006363fa471b7f43d1b0173295a": {
+        "(0, 11)": {
+            "WBF": [
+                1076
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1536
+            ], 
+            "WBO": [
+                2862, 
+                1429, 
+                522, 
+                5, 
+                2304, 
+                657, 
+                1545
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "sound : exceptional , though i can 't really compare it to the ipod ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "(28, 35)": {
+            "WBF": [
+                3142
+            ], 
+            "AM2L": [
+                2785
+            ], 
+            "BM1F": [
+                1072
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1591, 
+                2886, 
+                381
+            ], 
+            "WBL": [
+                2840
+            ], 
+            "AM2F": [
+                1915
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            28
+        ], 
+        "location2": [
+            35
+        ], 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "(16, 23)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                833
+            ], 
+            "BM1F": [
+                413
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1951, 
+                2851, 
+                60
+            ], 
+            "WBL": [
+                1567
+            ], 
+            "AM2F": [
+                294
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }, 
+    "f744e4fb9058b980763743190fc727d9": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            8
+        ], 
+        "(4, 8)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2771
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                442
+            ], 
+            "WBO": [
+                2840
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1425
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the zx boast superior sound quality than the ipod , however it compromise a bit of the unit 's size in doing so ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "(48, 59)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2834
+            ], 
+            "WBO": [
+                658, 
+                3158, 
+                2844, 
+                3041, 
+                2771, 
+                131, 
+                1219
+            ], 
+            "WBL": [
+                286
+            ], 
+            "AM2F": [
+                3015
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            48
+        ], 
+        "location2": [
+            59
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "00678fc65cf74c7bbfb5bf91f2796a34": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            27
+        ], 
+        "(1, 27)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1072
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1536
+            ], 
+            "WBO": [
+                1072, 
+                2844, 
+                379, 
+                1643, 
+                1541, 
+                1072, 
+                2844, 
+                1112, 
+                2842, 
+                2844, 
+                379, 
+                1541, 
+                2379, 
+                1541, 
+                1072, 
+                253, 
+                1164, 
+                2844, 
+                2204, 
+                41, 
+                581, 
+                2840
+            ], 
+            "WBL": [
+                84
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound is excellent , the battery life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent ."
+    }, 
+    "8121831049060e4e814eb90a284743c5": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            7
+        ], 
+        "(13, 7)": {
+            "WBF": [
+                1064
+            ], 
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                833
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                294
+            ], 
+            "WBO": [
+                1300, 
+                2204
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                1724
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }, 
+    "fa3ed2bde213bd0078bffda62730ce6c": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            12
+        ], 
+        "(6, 12)": {
+            "WBF": [
+                2260
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "WBO": [
+                1541, 
+                2771
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "first of all the player 's sound quality is superior to the ipod ."
+    }, 
+    "3bf21a4b29d090cbd158c4195701fcd2": {
+        "(2, 7)": {
+            "WBF": [
+                127
+            ], 
+            "AM2L": [
+                3002
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                9
+            ], 
+            "WBO": [
+                2577
+            ], 
+            "WBL": [
+                383
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "1 ) great sound ( > 98db signal-to-noise ratio beat ipod 's `` unspecified `` ratio ) and good power output allow the zen xtra to drive large head-phones as well as external speaker ."
+    }
+}

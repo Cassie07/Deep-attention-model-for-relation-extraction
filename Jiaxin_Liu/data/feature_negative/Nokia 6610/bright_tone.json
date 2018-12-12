@@ -1,0 +1,43 @@
+{
+    "2fcb297b562e0085ac2b38a1e5132982": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            6
+        ], 
+        "(3, 6)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2993
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                469
+            ], 
+            "M2": [
+                2895
+            ], 
+            "BM1L": [
+                2479
+            ], 
+            "WBO": [
+                2428
+            ], 
+            "WBL": [
+                2428
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the screen is bright and ring tone are unlimited ."
+    }
+}

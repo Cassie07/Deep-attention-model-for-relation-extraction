@@ -1,0 +1,40 @@
+{
+    "44319df7de849e736c4e09bf62fef41e": {
+        "(6, 1)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1753
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                2850
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                568
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this mean that there is a good chance that this phone will not break easily like typical american phone ."
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "ec45f347a448e896c123cf2716a5bcba": {
+        "(11, 4)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                982
+            ], 
+            "BM1L": [
+                1854
+            ], 
+            "WBO": [
+                130, 
+                415, 
+                1159
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "compared to musicmatch , the software has a better filing system and easier to use ."
+    }, 
+    "241e92f11d46769e40d74aa4b77795f6": {
+        "(15, 3)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2006
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                982
+            ], 
+            "BM1L": [
+                1882
+            ], 
+            "WBO": [
+                2551, 
+                3158, 
+                2844, 
+                1901, 
+                3210, 
+                3194, 
+                738, 
+                1859
+            ], 
+            "WBL": [
+                381
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the new organizer software that ship with the nomad zen xtra could n't be easier to use ."
+    }
+}

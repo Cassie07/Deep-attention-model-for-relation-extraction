@@ -1,0 +1,37 @@
+{
+    "92198989402e17a45ecbf5ef78c65e91": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            16
+        ], 
+        "(17, 16)": {
+            "AM2L": [
+                2725
+            ], 
+            "BM1F": [
+                2325
+            ], 
+            "M1": [
+                2285
+            ], 
+            "M2": [
+                2368
+            ], 
+            "BM1L": [
+                1136
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                379
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hour ) , very fast recharges rate , removable battery , storage size , nice screen , firmware update , and great price ."
+    }
+}

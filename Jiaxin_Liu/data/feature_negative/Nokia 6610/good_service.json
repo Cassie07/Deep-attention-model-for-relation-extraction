@@ -1,0 +1,37 @@
+{
+    "d1de0c348ee15ec5bcf5d444ff8a78d8": {
+        "(6, 1)": {
+            "WBF": [
+                1241
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2527
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                2804
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the service from t-mobile is very good too ."
+    }
+}

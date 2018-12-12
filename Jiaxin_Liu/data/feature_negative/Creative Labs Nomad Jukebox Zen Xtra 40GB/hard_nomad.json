@@ -1,0 +1,155 @@
+{
+    "df460eaf582c2debf712f5605d908023": {
+        "(17, 5)": {
+            "WBF": [
+                3145
+            ], 
+            "AM2L": [
+                215
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1901
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                1752
+            ], 
+            "WBO": [
+                1468, 
+                2844, 
+                1685, 
+                2448, 
+                381, 
+                316, 
+                413, 
+                130
+            ], 
+            "WBL": [
+                2166
+            ], 
+            "AM2F": [
+                943
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }, 
+    "ca693a4c5df2c07f651e149646f822a6": {
+        "(11, 31)": {
+            "WBF": [
+                896
+            ], 
+            "BM1F": [
+                177
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                1901
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBO": [
+                2628, 
+                1545, 
+                226, 
+                3203, 
+                2886, 
+                2585, 
+                937, 
+                253, 
+                946, 
+                1156, 
+                1241, 
+                3151, 
+                1093, 
+                2886, 
+                130, 
+                1208
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            31
+        ], 
+        "sentence": "transfer through window explorer - window recognizes the jukebox as an additional hard disk , so it allows you to simply drag and drop file from window explorer to a folder for the nomad ."
+    }, 
+    "9b738839dfbee4e8db71a1dba60aa00b": {
+        "(23, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1277
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1901
+            ], 
+            "M2": [
+                1343
+            ], 
+            "WBO": [
+                1915, 
+                2958, 
+                1545, 
+                1541, 
+                1915, 
+                2842, 
+                419, 
+                1545, 
+                646, 
+                1181, 
+                1468, 
+                1856, 
+                2150, 
+                1998, 
+                1374, 
+                253, 
+                2844, 
+                715
+            ], 
+            "WBL": [
+                1915
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the nomad is not ugly , it is not that big , it comfortably fit in my pocket , or heavy , and the control are not hard to get used to ."
+    }
+}

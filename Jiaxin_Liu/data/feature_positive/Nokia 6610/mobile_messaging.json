@@ -1,0 +1,34 @@
+{
+    "7c8f3f41daa8a96742203572b5b47386": {
+        "(1, 3)": {
+            "AM2L": [
+                2112
+            ], 
+            "WBFL": [
+                2839
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1813
+            ], 
+            "M2": [
+                1776
+            ], 
+            "AM2F": [
+                579
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the mobile text messaging , chat , picture sharing etc . other nicities , that you would enjoy ."
+    }
+}

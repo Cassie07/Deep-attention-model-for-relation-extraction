@@ -1,0 +1,43 @@
+{
+    "2f8f641471bc4a57cee5c14765184d56": {
+        "(4, 7)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1480
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                1217
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1114
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the sound is indeed excellent and the form factore is not bad ( but still rather larger than i had expected ) .. ."
+    }
+}

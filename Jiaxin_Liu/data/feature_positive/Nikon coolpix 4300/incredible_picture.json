@@ -1,0 +1,64 @@
+{
+    "bc5b775fbaf3738d15534b70ed290f17": {
+        "(11, 12)": {
+            "BM1F": [
+                2814
+            ], 
+            "M1": [
+                1478
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1893
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            3, 
+            12
+        ], 
+        "(11, 3)": {
+            "WBF": [
+                1429
+            ], 
+            "BM1F": [
+                116
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1478
+            ], 
+            "BM1L": [
+                1868
+            ], 
+            "WBO": [
+                1355, 
+                1225, 
+                2842, 
+                2859
+            ], 
+            "WBL": [
+                2814
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "after nearly 800 picture i have found that this nikon takes incredible picture ."
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "7d7d4d07552660b8043027100c94a48d": {
+        "(3, 16)": {
+            "WBF": [
+                1251
+            ], 
+            "AM2L": [
+                721
+            ], 
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                589
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2742, 
+                1648, 
+                1829, 
+                2895, 
+                3084, 
+                2480, 
+                2718, 
+                618, 
+                214
+            ], 
+            "WBL": [
+                288
+            ], 
+            "AM2F": [
+                775
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(7, 16)": {
+            "WBF": [
+                2895
+            ], 
+            "AM2L": [
+                721
+            ], 
+            "BM1F": [
+                1648
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                589
+            ], 
+            "BM1L": [
+                2742
+            ], 
+            "WBO": [
+                3084, 
+                2480, 
+                2718, 
+                618, 
+                214
+            ], 
+            "WBL": [
+                288
+            ], 
+            "AM2F": [
+                775
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3, 
+            7
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "additionally , it has more fun stuff like more tone , wallpaper , screensaver , stop clock , alarm , java application ( chess , currency converter etc . )"
+    }
+}

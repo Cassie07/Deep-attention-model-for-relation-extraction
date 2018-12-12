@@ -1,0 +1,85 @@
+{
+    "80a2e096524056f7ac5d85b13f7b69fe": {
+        "(36, 29)": {
+            "WBF": [
+                1581
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1151
+            ], 
+            "BM1L": [
+                1058
+            ], 
+            "WBO": [
+                352, 
+                1468, 
+                200
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1820
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(36, 18)": {
+            "WBF": [
+                3145
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1151
+            ], 
+            "BM1L": [
+                1839
+            ], 
+            "WBO": [
+                1233, 
+                501, 
+                2844, 
+                961, 
+                2712, 
+                2136, 
+                253, 
+                1058, 
+                2844, 
+                2112, 
+                1581, 
+                352, 
+                1468, 
+                200
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1820
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            36
+        ], 
+        "location2": [
+            18, 
+            29
+        ], 
+        "sentence": "but about 25 % of dvd 's i 've played on ithave a problem , when watching a movie the picture will freeze , but the dvd still play , and eventualy the picture kick back in after skipping a few moment ."
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "ee31d7df41f71e9ae037cdf06e1512c9": {
+        "(26, 28)": {
+            "WBFL": [
+                553
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2166
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            26
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "to my ear , a 160 kbps wma file sound just as good as the source cd , and the zen xtra sound just as good as a portable cd player ."
+    }, 
+    "53c7c4556903767966dbc5683f8b126b": {
+        "(2, 3)": {
+            "AM2L": [
+                2565
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2166
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "as a portable player , it should feel a bit more durable ."
+    }, 
+    "5752d425fd230241f15f09a3ca7c1c62": {
+        "(12, 14)": {
+            "AM2L": [
+                377
+            ], 
+            "WBFL": [
+                553
+            ], 
+            "BM1F": [
+                2583
+            ], 
+            "M1": [
+                2166
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "i was unable achieve a sound quality on par with my simple portable cd player with `` bass boost . ``"
+    }
+}

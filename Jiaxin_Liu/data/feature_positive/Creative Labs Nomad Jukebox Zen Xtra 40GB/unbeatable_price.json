@@ -1,0 +1,60 @@
+{
+    "25d13607a3d0abce285789e09dc8ffa6": {
+        "(4, 5)": {
+            "BM1F": [
+                2221
+            ], 
+            "M1": [
+                2966
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                1313
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "bottom line ... great product , unbeatable price ."
+    }, 
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            19
+        ], 
+        "(18, 19)": {
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                2966
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }
+}

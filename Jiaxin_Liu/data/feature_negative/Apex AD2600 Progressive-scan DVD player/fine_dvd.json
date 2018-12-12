@@ -1,0 +1,113 @@
+{
+    "542d552b6a80169971106c0493d88457": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            16
+        ], 
+        "(12, 16)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                1978
+            ], 
+            "BM1F": [
+                2138
+            ], 
+            "M1": [
+                1168
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                553
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "when i hooked it up it only produced sound - a cd played fine , but with a dvd i only got the audio - no picture !"
+    }, 
+    "74f5e24e9641d9668bffdc61cfcfa718": {
+        "(4, 1)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                961
+            ], 
+            "M2": [
+                1168
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the dvd player is fine ."
+    }, 
+    "01bd9627b997fb43d6e384241050849a": {
+        "(12, 4)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                961
+            ], 
+            "M2": [
+                1168
+            ], 
+            "BM1L": [
+                3136
+            ], 
+            "WBO": [
+                1351, 
+                130, 
+                2600, 
+                845
+            ], 
+            "WBL": [
+                3168
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "as a whole , the dvd player has a sleek design and work fine ."
+    }
+}

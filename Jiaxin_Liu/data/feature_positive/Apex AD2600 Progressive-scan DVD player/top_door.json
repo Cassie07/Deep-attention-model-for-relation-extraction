@@ -1,0 +1,43 @@
+{
+    "625d471844b0c4831e1c2656db644042": {
+        "(6, 2)": {
+            "WBF": [
+                3181
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                961
+            ], 
+            "M1": [
+                923
+            ], 
+            "M2": [
+                2898
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2477
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the dvd door would scratch the top of the disc every time it closed ."
+    }
+}

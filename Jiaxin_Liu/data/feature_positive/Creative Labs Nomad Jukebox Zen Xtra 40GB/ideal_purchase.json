@@ -1,0 +1,31 @@
+{
+    "995acd474024ab5500649725d2b02aae": {
+        "(4, 5)": {
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1437
+            ], 
+            "M2": [
+                2251
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this player is an ideal purchase ."
+    }
+}

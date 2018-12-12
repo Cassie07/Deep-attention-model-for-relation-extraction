@@ -1,0 +1,124 @@
+{
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            34
+        ], 
+        "location2": [
+            40
+        ], 
+        "(34, 40)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1313
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2484
+            ], 
+            "BM1L": [
+                715
+            ], 
+            "WBO": [
+                3018, 
+                200
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                502
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "a7a2a63d634d00419baf9b30a158cbe5": {
+        "(4, 1)": {
+            "WBF": [
+                3123
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2484
+            ], 
+            "M2": [
+                985
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the scroll wheel is easy to use and work great for me , however many have complained that the wheel is cumbersome and difficult to operate ."
+    }, 
+    "3ecab0f0f7b012bc1f10a6dda17f52bd": {
+        "(0, 15)": {
+            "WBF": [
+                1030
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2484
+            ], 
+            "WBO": [
+                2886, 
+                1863, 
+                2867, 
+                237, 
+                1429, 
+                0, 
+                2191, 
+                130, 
+                2745, 
+                502, 
+                412
+            ], 
+            "WBL": [
+                2871
+            ], 
+            "AM2F": [
+                2258
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "easy enough to navigate through , although i 'd prefer a sturdier button besides the thumbwheel scroll / pushbutton ."
+    }
+}

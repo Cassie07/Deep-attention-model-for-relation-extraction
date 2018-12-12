@@ -1,0 +1,52 @@
+{
+    "4fb852ec14462e823ccc18ab597d17b6": {
+        "(32, 15)": {
+            "WBF": [
+                501
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                1388
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                1545, 
+                1541, 
+                824, 
+                3172, 
+                2016, 
+                1848, 
+                415, 
+                2840, 
+                3121, 
+                1429, 
+                3181, 
+                1081, 
+                1241
+            ], 
+            "WBL": [
+                1085
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            32
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "i did not want to have high expectation for this apex player because of the price but it is definitely working out much better than what i would expect from an expensive high-end player ."
+    }
+}

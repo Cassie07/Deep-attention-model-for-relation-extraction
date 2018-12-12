@@ -1,0 +1,66 @@
+{
+    "d4aea072a4d82c259b1c6322dc4b650a": {
+        "(17, 19)": {
+            "WBFL": [
+                1143
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2529
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "it 's very sleek looking with a very good front panel button layout , and it has a great feature set ."
+    }, 
+    "9f50c25f5f7fb84cc8995a85ac62697d": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            9
+        ], 
+        "(7, 9)": {
+            "AM2L": [
+                3158
+            ], 
+            "WBFL": [
+                3124
+            ], 
+            "BM1F": [
+                3094
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2529
+            ], 
+            "BM1L": [
+                2112
+            ], 
+            "AM2F": [
+                3006
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "received apex dvd and the picture was great when set up with s connector ."
+    }
+}

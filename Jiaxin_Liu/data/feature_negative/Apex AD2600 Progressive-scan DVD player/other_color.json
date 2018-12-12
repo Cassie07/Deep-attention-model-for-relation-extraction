@@ -1,0 +1,50 @@
+{
+    "52dcfd70b988f7387128d0690c5725e0": {
+        "(1, 16)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                2024
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                635
+            ], 
+            "WBO": [
+                1429, 
+                912, 
+                1859, 
+                5, 
+                1648, 
+                134, 
+                2859, 
+                53, 
+                1541, 
+                2842, 
+                1545
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1689
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the other thing i do n't like about this 2600 is that it makes the color look over saturated ."
+    }
+}

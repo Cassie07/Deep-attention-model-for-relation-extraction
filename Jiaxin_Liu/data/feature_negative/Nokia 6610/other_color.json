@@ -1,0 +1,34 @@
+{
+    "5951baa50c5670e7c4fcac86438fba32": {
+        "(1, 2)": {
+            "AM2L": [
+                1351
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                635
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "no other color phone has the combination of feature that the 6610 offer ."
+    }
+}

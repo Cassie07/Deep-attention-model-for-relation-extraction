@@ -1,0 +1,70 @@
+{
+    "554c4ad0dd6259a9c61e4817388e8064": {
+        "(26, 28)": {
+            "AM2L": [
+                2628
+            ], 
+            "WBFL": [
+                253
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2646
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "AM2F": [
+                1915
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(31, 28)": {
+            "WBF": [
+                1915
+            ], 
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2646
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1300
+            ], 
+            "WBO": [
+                2628
+            ], 
+            "WBL": [
+                2628
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            26, 
+            31
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "the unit seems to play all format that i have put in it ( jpeg , kodak pic 's and dvd-r ) i have read other review and some good and soom not so good , but my feeling at this time is `` two thumb up `` !"
+    }
+}

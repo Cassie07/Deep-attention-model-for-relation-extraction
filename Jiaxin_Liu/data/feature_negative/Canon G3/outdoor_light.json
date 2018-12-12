@@ -1,0 +1,43 @@
+{
+    "4af1a9d196ac9035aeb134474256ef16": {
+        "(3, 8)": {
+            "WBF": [
+                2098
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2897
+            ], 
+            "M1": [
+                2017
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "when i took outdoor photo with plenty of light and the object were n't moving , the photo were awesome ."
+    }
+}

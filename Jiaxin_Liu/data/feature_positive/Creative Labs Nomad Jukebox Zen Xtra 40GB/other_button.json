@@ -1,0 +1,76 @@
+{
+    "2e9c5b1a86f4dbb60d971706c9a6303a": {
+        "(1, 2)": {
+            "AM2L": [
+                2199
+            ], 
+            "BM1F": [
+                221
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                502
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "all other button are pretty sensitive to touch and work well ."
+    }, 
+    "45609991a6c8a115b87b71d4c3620b77": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            4
+        ], 
+        "(10, 4)": {
+            "WBF": [
+                1967
+            ], 
+            "AM2L": [
+                2642
+            ], 
+            "BM1F": [
+                3039
+            ], 
+            "M1": [
+                502
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                1973, 
+                2573
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the location of various button on one side or the other is somewhat illogical"
+    }
+}

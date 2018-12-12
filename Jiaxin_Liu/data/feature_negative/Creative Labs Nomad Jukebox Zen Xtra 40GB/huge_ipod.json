@@ -1,0 +1,57 @@
+{
+    "bb25f76c14b817eebcf952611ddb3014": {
+        "(28, 9)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                1426
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                1429, 
+                1355, 
+                1303, 
+                3018, 
+                2886, 
+                2847, 
+                253, 
+                1055, 
+                316, 
+                2844, 
+                400, 
+                863, 
+                1915, 
+                2855, 
+                3181
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                868
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            28
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the control are somewhat harder to use than the ipod , but i have gotten use to them , and even at the beginning did not think would justify the huge difference in price ."
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "bf6a7e1803fcb60ab4e76c2f4119489b": {
+        "(10, 12)": {
+            "WBFL": [
+                1162
+            ], 
+            "BM1F": [
+                2840
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                4
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "first and foremost , it will take better pic 's than most film camera 's ."
+    }, 
+    "ca42696d0e457f98f2255b29dfa3f6dc": {
+        "(7, 15)": {
+            "WBF": [
+                2105
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                1448, 
+                1551, 
+                1059, 
+                2501
+            ], 
+            "WBL": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "but at least youre starting with the most photorealistic image ive ever seen from a camera ."
+    }, 
+    "68f771352d0e49722a16c9efbc7c8342": {
+        "(5, 7)": {
+            "AM2L": [
+                2271
+            ], 
+            "WBFL": [
+                875
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                940
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "battery life , the drawback to most digital camera , to quote k. reef ."
+    }
+}

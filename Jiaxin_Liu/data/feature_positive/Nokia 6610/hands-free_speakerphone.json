@@ -1,0 +1,34 @@
+{
+    "cd4327cb2d23f487b5853995261ec659": {
+        "(1, 2)": {
+            "AM2L": [
+                2270
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1334
+            ], 
+            "M2": [
+                2666
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the hands-free speakerphone is quite powerful ( like the motorola phone , i used to own ) ."
+    }
+}

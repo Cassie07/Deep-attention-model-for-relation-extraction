@@ -1,0 +1,100 @@
+{
+    "00678fc65cf74c7bbfb5bf91f2796a34": {
+        "location1": [
+            26
+        ], 
+        "location2": [
+            5, 
+            13
+        ], 
+        "(26, 5)": {
+            "WBF": [
+                1643
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                84
+            ], 
+            "BM1L": [
+                1072
+            ], 
+            "WBO": [
+                1541, 
+                1072, 
+                2844, 
+                1112, 
+                2842, 
+                2844, 
+                379, 
+                1541, 
+                2379, 
+                1541, 
+                1072, 
+                253, 
+                1164, 
+                2844, 
+                2204, 
+                41, 
+                581
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1536
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(26, 13)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                84
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                2379, 
+                1541, 
+                1072, 
+                253, 
+                1164, 
+                2844, 
+                2204, 
+                41, 
+                581
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1536
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the sound is excellent , the battery life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent ."
+    }
+}

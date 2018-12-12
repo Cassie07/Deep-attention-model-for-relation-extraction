@@ -1,0 +1,84 @@
+{
+    "9182663809b6095073a7d5f7266c9609": {
+        "(11, 6)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2016
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "so once i worked out the problem with the software this mp3 player is worth the money it cost ."
+    }, 
+    "f36365781e2d87d761d5f6c5b23a90ab": {
+        "(6, 10)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                1328
+            ], 
+            "WBL": [
+                2631
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "in fact , each of my creative mp3 player had software problem in the first place ."
+    }
+}

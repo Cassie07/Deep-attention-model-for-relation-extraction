@@ -1,0 +1,44 @@
+{
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "(12, 24)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1738
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                1355, 
+                2844, 
+                413, 
+                2654, 
+                2260, 
+                1951, 
+                264, 
+                2139
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }
+}

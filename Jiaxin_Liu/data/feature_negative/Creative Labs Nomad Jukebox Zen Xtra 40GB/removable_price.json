@@ -1,0 +1,88 @@
+{
+    "92198989402e17a45ecbf5ef78c65e91": {
+        "(17, 27)": {
+            "WBF": [
+                379
+            ], 
+            "BM1F": [
+                2285
+            ], 
+            "M1": [
+                2368
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                2325
+            ], 
+            "WBO": [
+                2725, 
+                2595, 
+                1886, 
+                2479, 
+                1178, 
+                3008
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hour ) , very fast recharges rate , removable battery , storage size , nice screen , firmware update , and great price ."
+    }, 
+    "05b005a587509a9b418bc7b414f03e1b": {
+        "(19, 6)": {
+            "WBF": [
+                985
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                2368
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                2886, 
+                1863, 
+                522, 
+                1818, 
+                1079, 
+                2141, 
+                1967, 
+                2844, 
+                1199
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                379
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "pro : huge storage capacity for the price , easy to navigate , can modify existing playlist on the fly , has a removable battery"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "79fdc99cd2e5ba077ab8625e5ec1d969": {
+        "(6, 4)": {
+            "WBFL": [
+                1998
+            ], 
+            "BM1F": [
+                515
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1486
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "AM2F": [
+                2431
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "- no option for caller-id picture or individualized ringtones ."
+    }
+}

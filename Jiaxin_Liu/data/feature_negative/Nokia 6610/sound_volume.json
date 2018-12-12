@@ -1,0 +1,121 @@
+{
+    "e8e469c6ce127a2b8e862966b0c3685e": {
+        "(9, 10)": {
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                3074
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the headset that comes with the phone has good sound volume but it hurt the ear like you can not imagine !"
+    }, 
+    "00f4f2006de708c2e8e1b5f70f053974": {
+        "(7, 12)": {
+            "WBF": [
+                1915
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                905
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                3074
+            ], 
+            "BM1L": [
+                1389
+            ], 
+            "WBO": [
+                2886
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                917
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "i do here a constant high-pitched distorted sound , not to mention the volume does not seem to be loud enough ."
+    }, 
+    "6f9adbe48884c146062517217a8d680d": {
+        "(3, 10)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                1548
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                3074
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "WBO": [
+                1541, 
+                1313, 
+                2944
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1441
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the phone 's sound quality is great ( turn up the volume if its too quiet , people , this thing will get loud ) i dont have any complaint about this phone and the only thing that i miss from my 8290 is voice dialing ."
+    }
+}

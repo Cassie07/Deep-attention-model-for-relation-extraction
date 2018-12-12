@@ -1,0 +1,134 @@
+{
+    "60f14cbc1a1f1fba8df34fb32d3b3aa8": {
+        "sentence": "since battery do run out on everything , this will also be a big money-saver since ipod , irivers , rca , dell , all have built-in battery that need to be replaced by a technician ( apple charge 100 bone for the battery replacement ) .", 
+        "(12, 37)": {
+            "WBF": [
+                1823
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                381
+            ], 
+            "WBO": [
+                2587, 
+                1536, 
+                1539, 
+                2292, 
+                833, 
+                221, 
+                1355, 
+                488, 
+                379, 
+                2842, 
+                1874, 
+                2886, 
+                381, 
+                2382, 
+                507, 
+                130, 
+                2827, 
+                286, 
+                574, 
+                13, 
+                445
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2383
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location2": [
+            1, 
+            22, 
+            37
+        ], 
+        "(12, 22)": {
+            "WBF": [
+                1823
+            ], 
+            "AM2L": [
+                1874
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                381
+            ], 
+            "WBO": [
+                2587, 
+                1536, 
+                1539, 
+                2292, 
+                833, 
+                221
+            ], 
+            "WBL": [
+                488
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "(12, 1)": {
+            "WBF": [
+                912
+            ], 
+            "AM2L": [
+                2587
+            ], 
+            "BM1F": [
+                2587
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                419
+            ], 
+            "WBO": [
+                2448, 
+                2016, 
+                1967, 
+                1064, 
+                2859, 
+                3145, 
+                233
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1823
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }
+    }
+}

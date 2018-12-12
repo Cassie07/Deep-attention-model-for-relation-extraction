@@ -1,0 +1,55 @@
+{
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "(38, 18)": {
+            "WBF": [
+                2631
+            ], 
+            "BM1F": [
+                2976
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                2842, 
+                1541, 
+                2583, 
+                2886, 
+                2976, 
+                253, 
+                3018, 
+                253, 
+                130, 
+                1313, 
+                2654, 
+                3129, 
+                1541, 
+                221, 
+                2842, 
+                1746
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            38
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) ."
+    }
+}

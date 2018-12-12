@@ -1,0 +1,164 @@
+{
+    "b7a4b4086ff6f9e114fd0bbca4c9e6cc": {
+        "location1": [
+            25
+        ], 
+        "location2": [
+            28
+        ], 
+        "(25, 28)": {
+            "WBF": [
+                1328
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                6
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "overall , i 'm giving this 5 star as i 've seen nothing of the problem people have repeatedly cried havoc over , but as i 've only had the player for a while i leave room for doubt if the headphone jack , hissing , or scroll wheel problem show up with me too ."
+    }, 
+    "c88fd1bd55cbc6db568d9d4bfcf9d80b": {
+        "(1, 10)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3151
+            ], 
+            "BM1F": [
+                1915
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "WBO": [
+                1545, 
+                1829, 
+                197, 
+                501, 
+                1548
+            ], 
+            "WBL": [
+                415
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "not only is it more affordable , but its a better player for window , which is what i have ."
+    }, 
+    "93b83dad8de467af70db727ec3d5cebc": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            28
+        ], 
+        "(20, 28)": {
+            "WBF": [
+                1298
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                246
+            ], 
+            "WBO": [
+                2886, 
+                2071, 
+                64, 
+                1212
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the creative lab zen xtra has all the feature the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player ."
+    }, 
+    "eb5f7f84fb72e7589f2fbebf5436ab11": {
+        "(9, 5)": {
+            "WBF": [
+                2859
+            ], 
+            "AM2L": [
+                2234
+            ], 
+            "BM1F": [
+                1842
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                2011
+            ], 
+            "WBO": [
+                2853
+            ], 
+            "WBL": [
+                3145
+            ], 
+            "AM2F": [
+                3168
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "unlike my 3 other mp3 player , this thing will only work properly if you have id3 tag on all of your track ."
+    }
+}

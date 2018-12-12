@@ -1,0 +1,189 @@
+{
+    "44d22a9ad796160bb6beb7100f6b8152": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            26
+        ], 
+        "(15, 26)": {
+            "WBF": [
+                3176
+            ], 
+            "AM2L": [
+                3036
+            ], 
+            "BM1F": [
+                2644
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1574
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                2840, 
+                3160, 
+                1545, 
+                1429, 
+                1014, 
+                1856, 
+                2644
+            ], 
+            "WBL": [
+                33
+            ], 
+            "AM2F": [
+                3160
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the environmental audio , however , is almost completely useless and has made most of my song sound worse than without it ( i encode my song at 192-256 kbps without variable bit rate . )"
+    }, 
+    "25da27d72af155af06e6c5874f503ef7": {
+        "(3, 23)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                917
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1574
+            ], 
+            "BM1L": [
+                201
+            ], 
+            "WBO": [
+                346, 
+                2844, 
+                378, 
+                1643, 
+                1541, 
+                1978, 
+                103, 
+                113, 
+                1422, 
+                253, 
+                2842, 
+                1541, 
+                386, 
+                221, 
+                1856, 
+                1853
+            ], 
+            "WBL": [
+                68
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "once again , the sound is awesome , the batterly life is only 6-8 hour , and that is because all my music is 320 kbps which does affect the battery life ."
+    }, 
+    "ee31d7df41f71e9ae037cdf06e1512c9": {
+        "(8, 5)": {
+            "WBF": [
+                3162
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                30
+            ], 
+            "M1": [
+                1574
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1156
+            ], 
+            "WBL": [
+                1156
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8, 
+            20
+        ], 
+        "location2": [
+            5
+        ], 
+        "(20, 5)": {
+            "WBF": [
+                3162
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                30
+            ], 
+            "M1": [
+                1574
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1156, 
+                2654, 
+                1570, 
+                304, 
+                1300, 
+                304, 
+                2844, 
+                2658, 
+                553, 
+                253, 
+                2844
+            ], 
+            "WBL": [
+                3194
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "to my ear , a 160 kbps wma file sound just as good as the source cd , and the zen xtra sound just as good as a portable cd player ."
+    }
+}

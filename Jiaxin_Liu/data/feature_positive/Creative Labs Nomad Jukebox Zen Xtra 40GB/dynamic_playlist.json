@@ -1,0 +1,34 @@
+{
+    "77d109e2cb75e81b27de5ba3fb01ee7b": {
+        "(1, 2)": {
+            "AM2L": [
+                2140
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                967
+            ], 
+            "M2": [
+                2141
+            ], 
+            "AM2F": [
+                1926
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the dynamic playlist ( `` now playing `` , i belive creative call it ) feel very awkward at time and some menus simply take to long to get to and operate .. ."
+    }
+}

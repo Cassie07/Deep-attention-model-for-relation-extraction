@@ -1,0 +1,37 @@
+{
+    "033b35286cae2ac0ec2fc080f51e500c": {
+        "(11, 10)": {
+            "AM2L": [
+                1669
+            ], 
+            "BM1F": [
+                501
+            ], 
+            "M1": [
+                1920
+            ], 
+            "M2": [
+                2523
+            ], 
+            "BM1L": [
+                2862
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "there are a couple thing i didnt like though but nothing serious : a little larger than other mp3s but still light , the software takes some time to get used to ( maybe 10-15 min ) , and this thing would definitely be destroyed with one fall ."
+    }
+}

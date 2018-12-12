@@ -1,0 +1,89 @@
+{
+    "e71bfa23d0bac20249b5f7a3754b3ca7": {
+        "(9, 25)": {
+            "WBF": [
+                2085
+            ], 
+            "AM2L": [
+                80
+            ], 
+            "BM1F": [
+                1144
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2923, 
+                2595, 
+                520, 
+                1429, 
+                1496, 
+                1312, 
+                2886, 
+                2859, 
+                1669, 
+                1270, 
+                386, 
+                1951
+            ], 
+            "WBL": [
+                2771
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "after a lengthy and extensive journey for a feature-loaded , high performance , travel size camera , i initially gravitated to this little gem because of the superior picture quality 4 mega pixel ."
+    }, 
+    "e0a2186c7537ef86190504d475e55254": {
+        "(9, 11)": {
+            "AM2L": [
+                2878
+            ], 
+            "WBFL": [
+                2260
+            ], 
+            "BM1F": [
+                1303
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "AM2F": [
+                1060
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "i selected the 4300 right away and have gotten high quality picture every time ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "656e72834c7ff8e049c4a59974414993": {
+        "(29, 30)": {
+            "AM2L": [
+                183
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                1996
+            ], 
+            "BM1L": [
+                189
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "i 'd highly recommend this camera for anyone who is looking for excellent quality picture and a combination of ease of use and the flexibility to get advanced with many option to adjust if you like ."
+    }
+}

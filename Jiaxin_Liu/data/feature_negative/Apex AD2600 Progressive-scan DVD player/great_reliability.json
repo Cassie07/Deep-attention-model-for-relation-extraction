@@ -1,0 +1,31 @@
+{
+    "861504db448efd462039eef3646bd387": {
+        "(0, 4)": {
+            "WBF": [
+                1143
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2360
+            ], 
+            "WBO": [
+                1660
+            ], 
+            "WBL": [
+                2157
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "great feature list , poor reliability ."
+    }
+}

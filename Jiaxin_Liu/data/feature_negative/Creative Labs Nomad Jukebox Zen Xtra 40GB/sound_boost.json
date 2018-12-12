@@ -1,0 +1,44 @@
+{
+    "5752d425fd230241f15f09a3ca7c1c62": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            17
+        ], 
+        "(5, 17)": {
+            "WBF": [
+                2260
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                449
+            ], 
+            "BM1L": [
+                157
+            ], 
+            "WBO": [
+                1967, 
+                2057, 
+                3158, 
+                1856, 
+                2583, 
+                2166, 
+                553, 
+                2139
+            ], 
+            "WBL": [
+                377
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i was unable achieve a sound quality on par with my simple portable cd player with `` bass boost . ``"
+    }
+}

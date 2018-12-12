@@ -1,0 +1,38 @@
+{
+    "c63b814a0a679b601fcf858056f31723": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            0
+        ], 
+        "(6, 0)": {
+            "WBF": [
+                1699
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "M1": [
+                2666
+            ], 
+            "M2": [
+                1886
+            ], 
+            "WBO": [
+                253, 
+                613
+            ], 
+            "WBL": [
+                2637
+            ], 
+            "AM2F": [
+                1100
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "speakerphone - loud and clear has some nice extra feature like currency converter and a stopwatch ."
+    }
+}

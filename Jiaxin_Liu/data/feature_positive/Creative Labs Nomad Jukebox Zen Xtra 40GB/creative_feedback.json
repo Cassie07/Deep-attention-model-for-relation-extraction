@@ -1,0 +1,101 @@
+{
+    "ea590102fe54b3305e3c92c7f680c4d9": {
+        "(0, 19)": {
+            "WBF": [
+                3210
+            ], 
+            "AM2L": [
+                2215
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1146
+            ], 
+            "WBO": [
+                1146, 
+                2762, 
+                1241, 
+                703, 
+                2260, 
+                2157, 
+                2221, 
+                2775, 
+                872, 
+                1951, 
+                3026, 
+                2844, 
+                2484, 
+                3123, 
+                253
+            ], 
+            "WBL": [
+                698
+            ], 
+            "AM2F": [
+                134
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2, 
+            19
+        ], 
+        "(0, 2)": {
+            "AM2L": [
+                1241
+            ], 
+            "WBFL": [
+                3210
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1146
+            ], 
+            "AM2F": [
+                2762
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "creative zen feedback suffers from construction quality , poor product support , difficulty of using the scroll wheel and reasonably consistent feedback about problem with the headphone jack ."
+    }, 
+    "9962a0395a42bef512fbadba4dcc1ee1": {
+        "(2, 0)": {
+            "AM2L": [
+                2221
+            ], 
+            "WBFL": [
+                1967
+            ], 
+            "M1": [
+                1146
+            ], 
+            "M2": [
+                765
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "feedback on creative 's product support is universally poor ; this is not limited to the zen , it applies to all the company 's product ."
+    }
+}

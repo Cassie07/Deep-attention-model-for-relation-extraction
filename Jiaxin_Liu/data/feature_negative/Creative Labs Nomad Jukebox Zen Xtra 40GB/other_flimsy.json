@@ -1,0 +1,81 @@
+{
+    "cef7009c693118f1f13f7521c361b2de": {
+        "(22, 31)": {
+            "WBF": [
+                2418
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1196
+            ], 
+            "BM1L": [
+                386
+            ], 
+            "WBO": [
+                1355, 
+                2153, 
+                2016, 
+                2844, 
+                703
+            ], 
+            "WBL": [
+                2199
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13, 
+            22
+        ], 
+        "location2": [
+            31
+        ], 
+        "(13, 31)": {
+            "WBF": [
+                3100
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1196
+            ], 
+            "BM1L": [
+                1998
+            ], 
+            "WBO": [
+                1468, 
+                2844, 
+                1885, 
+                103, 
+                1827, 
+                386, 
+                304, 
+                2011, 
+                2418, 
+                1355, 
+                2153, 
+                2016, 
+                2844, 
+                703
+            ], 
+            "WBL": [
+                2199
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i fully expect it to go bad again in the same or some other way in the next 6 month because , as other reviewer have pointed out , the construction is pretty flimsy ."
+    }
+}

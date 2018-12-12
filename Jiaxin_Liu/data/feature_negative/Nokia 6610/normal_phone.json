@@ -1,0 +1,51 @@
+{
+    "c9d0d998766ff632aa6c28c85f4926f0": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            26
+        ], 
+        "(13, 26)": {
+            "WBF": [
+                2275
+            ], 
+            "AM2L": [
+                2275
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1912
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBO": [
+                501, 
+                304, 
+                1685, 
+                304, 
+                2844, 
+                2703, 
+                295, 
+                648, 
+                1468
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this radio receives fairly decent reception but not nearly as good as a normal radio , but as long as the station are coming in clearly the phone 's radio should work perfectly ."
+    }
+}

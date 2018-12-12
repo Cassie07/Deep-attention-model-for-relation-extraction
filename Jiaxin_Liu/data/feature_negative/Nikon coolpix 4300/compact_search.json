@@ -1,0 +1,47 @@
+{
+    "2d3d3d47aa5812c5767bcd8d62c2bc24": {
+        "(7, 16)": {
+            "WBF": [
+                2768
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2615
+            ], 
+            "M1": [
+                653
+            ], 
+            "M2": [
+                2488
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2399, 
+                875, 
+                520, 
+                3203, 
+                522
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "if you 're looking for a small , compact , super resolution digital camera , you can end your search with the nikon 4300 !"
+    }
+}

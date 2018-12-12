@@ -1,0 +1,43 @@
+{
+    "046321e6f46dfb8659079eb3d885696d": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            4
+        ], 
+        "(9, 4)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2712
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1673
+            ], 
+            "M2": [
+                808
+            ], 
+            "BM1L": [
+                569
+            ], 
+            "WBO": [
+                2194
+            ], 
+            "WBL": [
+                1037
+            ], 
+            "AM2F": [
+                703
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "other plus : changable battery , load of presets for environment , decent construction , still quite small and light despite being slightly bigger than an ipod ."
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "62e789092dd8cdbdc780fb92af24cb33": {
+        "(3, 4)": {
+            "AM2L": [
+                705
+            ], 
+            "BM1F": [
+                2932
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                2878
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "i have tried several time to contact apex digital through their on-line support site and their telephone line , but they wo n't answer my email and their telephone line is always busy ."
+    }, 
+    "be4b7903a9d098dd895e2eb70527204a": {
+        "(4, 24)": {
+            "WBF": [
+                869
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                2878
+            ], 
+            "BM1L": [
+                1339
+            ], 
+            "WBO": [
+                961, 
+                4, 
+                253, 
+                1946, 
+                1441, 
+                3102, 
+                1576, 
+                2941, 
+                2639, 
+                1545, 
+                3145, 
+                3168, 
+                3124, 
+                1545, 
+                863, 
+                1915
+            ], 
+            "WBL": [
+                1973
+            ], 
+            "AM2F": [
+                394
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "this has happened with several different dvd 's and occasionally if we keep trying something , it will work when it did not work one time before ."
+    }, 
+    "4e76cc39ae9044560ecd410fbbf8ce76": {
+        "(9, 10)": {
+            "AM2L": [
+                801
+            ], 
+            "BM1F": [
+                3110
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                2878
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "i tried calling the support number for a week , several time a day , and always got a busy signal ."
+    }
+}

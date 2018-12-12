@@ -1,0 +1,37 @@
+{
+    "a05eeda6733206f3896d450dd927f8fe": {
+        "(5, 6)": {
+            "AM2L": [
+                1351
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1889
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1899
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this is one of the nicest phone nokia has made ."
+    }
+}

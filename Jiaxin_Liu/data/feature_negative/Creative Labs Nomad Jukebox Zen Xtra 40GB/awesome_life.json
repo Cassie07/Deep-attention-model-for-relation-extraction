@@ -1,0 +1,89 @@
+{
+    "25da27d72af155af06e6c5874f503ef7": {
+        "(5, 29)": {
+            "WBF": [
+                2844
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                346
+            ], 
+            "M2": [
+                1643
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                378, 
+                1643, 
+                1541, 
+                1978, 
+                103, 
+                113, 
+                1422, 
+                253, 
+                2842, 
+                1541, 
+                386, 
+                221, 
+                1856, 
+                1853, 
+                1541, 
+                68, 
+                1574, 
+                3129, 
+                917, 
+                194
+            ], 
+            "WBL": [
+                379
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            8, 
+            29
+        ], 
+        "(5, 8)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                1978
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                346
+            ], 
+            "M2": [
+                1643
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                378
+            ], 
+            "WBL": [
+                378
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "once again , the sound is awesome , the batterly life is only 6-8 hour , and that is because all my music is 320 kbps which does affect the battery life ."
+    }
+}

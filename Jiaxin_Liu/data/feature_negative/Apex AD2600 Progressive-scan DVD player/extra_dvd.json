@@ -1,0 +1,70 @@
+{
+    "9bda6f3b3d54d3179789e2d0c3aa99fa": {
+        "(11, 16)": {
+            "WBF": [
+                1143
+            ], 
+            "AM2L": [
+                522
+            ], 
+            "BM1F": [
+                535
+            ], 
+            "M1": [
+                1100
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                961
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            13, 
+            16
+        ], 
+        "(11, 13)": {
+            "AM2L": [
+                2859
+            ], 
+            "WBFL": [
+                1143
+            ], 
+            "BM1F": [
+                535
+            ], 
+            "M1": [
+                1100
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "for example , i tried playing my new `` pirate of the carribean `` extra feature dvd , but this dvd player can not read it ."
+    }
+}

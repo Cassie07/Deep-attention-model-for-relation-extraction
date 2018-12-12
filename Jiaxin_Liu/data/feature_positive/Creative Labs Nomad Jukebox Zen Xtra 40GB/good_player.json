@@ -1,0 +1,989 @@
+{
+    "891f63e1c470263e3ffad09e6a6969b0": {
+        "(11, 8)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                2199
+            ], 
+            "WBL": [
+                2199
+            ], 
+            "AM2F": [
+                1971
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "on the positive side , the sound of the player is pretty good , once you have everything configured ."
+    }, 
+    "d2a9bfb1e9ed4d4734bd522814d495e6": {
+        "(20, 15)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                62
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2167
+            ], 
+            "WBO": [
+                2408
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "although the sound-quality is good , it takes more than good sound on a portable-mp 3 player to result in a good product .", 
+        "(9, 15)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                2408
+            ], 
+            "BM1F": [
+                2840
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1829
+            ], 
+            "WBO": [
+                1967, 
+                130
+            ], 
+            "WBL": [
+                62
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location2": [
+            15
+        ], 
+        "location1": [
+            4, 
+            9, 
+            20
+        ], 
+        "(4, 15)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                2408
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2655
+            ], 
+            "WBO": [
+                2814, 
+                1829, 
+                2840, 
+                1300, 
+                2654, 
+                1967, 
+                130
+            ], 
+            "WBL": [
+                62
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }, 
+    "3fd077cfdb53680671d6b273e8b56c20": {
+        "(1, 2)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be ."
+    }, 
+    "e74da56b82a743addc4bc80ccd353906": {
+        "(5, 6)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2862
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this thing seriously is a good player though ."
+    }, 
+    "2372fb6a2b84de05a3b0daa7c5597402": {
+        "(4, 7)": {
+            "WBF": [
+                485
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1689
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                644
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "7 ) chic look and good build - the player comes in a compact form with a metal face plate ."
+    }, 
+    "53300d7a7dd55e15a9b1ca34d833f210": {
+        "(5, 3)": {
+            "AM2L": [
+                2595
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2560
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "in short , this player is good at size , value , hardware design but really bad at its software"
+    }, 
+    "aa755efa485b6b2983cdb9916e3def2b": {
+        "(8, 5)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                221
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                644
+            ], 
+            "WBO": [
+                1915
+            ], 
+            "WBL": [
+                1915
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "the software , which comes with player is not good at all ."
+    }, 
+    "937380945b7a721b7403148d0d455e73": {
+        "(8, 10)": {
+            "AM2L": [
+                2844
+            ], 
+            "WBFL": [
+                1842
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the nomad jukebox zen xtra is a very good mp3 player but the software is it gets hurt ."
+    }, 
+    "dcec7d045bb56bb23bf6af62e977a87c": {
+        "(13, 9)": {
+            "WBF": [
+                1348
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                2199
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "first i 'll start off by saying that this player hardware is pretty good .. ."
+    }, 
+    "2e3f4a9da60918bdc961149cf8e14d7f": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            17
+        ], 
+        "(11, 17)": {
+            "WBF": [
+                159
+            ], 
+            "BM1F": [
+                858
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2011
+            ], 
+            "WBO": [
+                1212, 
+                130
+            ], 
+            "WBL": [
+                372
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "11 ) minimal pause between song - less than that on other device - good achievement for a hard-drive based player"
+    }, 
+    "ee31d7df41f71e9ae037cdf06e1512c9": {
+        "(23, 28)": {
+            "WBF": [
+                304
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1570
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                553
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(11, 28)": {
+            "WBF": [
+                304
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1570
+            ], 
+            "WBO": [
+                2844, 
+                2658, 
+                553, 
+                253, 
+                2844, 
+                3210, 
+                3194, 
+                2654, 
+                1570, 
+                304, 
+                1300, 
+                304, 
+                130
+            ], 
+            "WBL": [
+                553
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11, 
+            23
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "to my ear , a 160 kbps wma file sound just as good as the source cd , and the zen xtra sound just as good as a portable cd player ."
+    }, 
+    "042d659e2571a54ac6dd267df5c94471": {
+        "(22, 25)": {
+            "WBF": [
+                1967
+            ], 
+            "BM1F": [
+                2656
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2863
+            ], 
+            "WBO": [
+                2011
+            ], 
+            "WBL": [
+                2011
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "i must have differing preference than others here , as i prefer the supplied earbuds to the sony 's that i thought sounded good on other player ."
+    }, 
+    "cbfc89f77439980882d812d4eb68bc5b": {
+        "(11, 1)": {
+            "WBF": [
+                4
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                2631, 
+                1541, 
+                3052, 
+                985, 
+                2886, 
+                3018
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the player 's software is very easy to use and very good ."
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "(12, 9)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                1842
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                765
+            ], 
+            "WBO": [
+                3052
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(12, 21)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                1355, 
+                2844, 
+                413, 
+                2654, 
+                2260
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            9, 
+            21
+        ], 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "4609198e9495aeb97d0e1704b1f11136": {
+        "sentence": "much cheaper than i-pod good looking player ( beautiful blue back-lit screen ) if you 've read about the player , some have complained about the lack of a viewing hole for the face when the case is on , but this is good because the face does n't get damaged / scratched fast transfer rate", 
+        "location2": [
+            6, 
+            17
+        ], 
+        "location1": [
+            4, 
+            39
+        ], 
+        "(4, 6)": {
+            "AM2L": [
+                436
+            ], 
+            "WBFL": [
+                1691
+            ], 
+            "BM1F": [
+                1431
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "AM2F": [
+                385
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(39, 6)": {
+            "WBF": [
+                385
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1691
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1300
+            ], 
+            "WBO": [
+                436, 
+                353, 
+                2479, 
+                1441, 
+                3203, 
+                6, 
+                2296, 
+                134, 
+                2844, 
+                2139, 
+                2637, 
+                1355, 
+                665, 
+                134, 
+                2844, 
+                1595, 
+                1951, 
+                130, 
+                3063, 
+                1407, 
+                1212, 
+                2844, 
+                1110, 
+                3124, 
+                2844, 
+                541, 
+                1541, 
+                1967, 
+                501
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                386
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(39, 17)": {
+            "WBF": [
+                2637
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBO": [
+                1355, 
+                665, 
+                134, 
+                2844, 
+                1595, 
+                1951, 
+                130, 
+                3063, 
+                1407, 
+                1212, 
+                2844, 
+                1110, 
+                3124, 
+                2844, 
+                541, 
+                1541, 
+                1967, 
+                501
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                386
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(4, 17)": {
+            "WBF": [
+                1691
+            ], 
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                1431
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                2139, 
+                385, 
+                436, 
+                353, 
+                2479, 
+                1441, 
+                3203, 
+                6, 
+                2296
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2637
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }, 
+    "98403a16cdeed60e2113243a13b306bf": {
+        "(15, 16)": {
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            6, 
+            16
+        ], 
+        "(15, 6)": {
+            "WBF": [
+                1549
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                3026
+            ], 
+            "WBO": [
+                253, 
+                1429, 
+                1147, 
+                1545, 
+                1541
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have no problem using the player itself and i feel it is a very good player ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(10, 49)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                2893
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                2844, 
+                2479, 
+                1541, 
+                2304, 
+                419, 
+                253, 
+                2844, 
+                436, 
+                1644, 
+                1468, 
+                2844, 
+                352, 
+                1541, 
+                2083, 
+                1136, 
+                304, 
+                1378, 
+                1468, 
+                1853, 
+                2916, 
+                715, 
+                295, 
+                985, 
+                2886, 
+                3018, 
+                200, 
+                1743, 
+                2844, 
+                2484, 
+                502, 
+                1313, 
+                2654, 
+                253, 
+                1551, 
+                1369
+            ], 
+            "WBL": [
+                1842
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            49
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

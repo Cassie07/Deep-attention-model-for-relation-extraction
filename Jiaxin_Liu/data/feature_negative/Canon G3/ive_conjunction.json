@@ -1,0 +1,54 @@
+{
+    "8cff8b3bb4b722f290108da2b2fcc548": {
+        "(35, 19)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                2501
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                688
+            ], 
+            "M2": [
+                1551
+            ], 
+            "BM1L": [
+                1260
+            ], 
+            "WBO": [
+                1856, 
+                2223, 
+                1188, 
+                2802, 
+                253, 
+                522, 
+                984, 
+                2259, 
+                3006, 
+                3158, 
+                2844, 
+                520
+            ], 
+            "WBL": [
+                386
+            ], 
+            "AM2F": [
+                1881
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "i am stunned and amazed at the quality of the raw image i am getting from this g3 ( in conjunction with my professional flash system ) , and can easily put up with the camera limitation , because ive never seen anything better within its resolution limit ."
+    }
+}

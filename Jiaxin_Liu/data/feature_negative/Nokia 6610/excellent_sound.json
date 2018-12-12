@@ -1,0 +1,136 @@
+{
+    "e5530a413b6c717bbc2f6d1ede7c1ead": {
+        "(0, 1)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                1072
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                2654
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "- excellent sound quality"
+    }, 
+    "37a84a72000588d4bc0ae8bef4295a66": {
+        "(4, 1)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                1749
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1072
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                1074
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the sound quality is excellent , except , maybe a * tad * too quiet at time when there are quieter talker on the other end of the line ."
+    }, 
+    "d36bdc5dfa57c2ffcd3b26042b66d2e6": {
+        "(1, 0)": {
+            "AM2L": [
+                2430
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1072
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2156
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "sound - excellent polyphonic ringing tone are very nice ( check con ) it also double as a radio , which is a nice feature when you are bored ."
+    }, 
+    "867e0d28796d18caa886b83e1e446570": {
+        "(14, 10)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2097
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                3120
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                1201
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "while i had the phone , the positive feature were : good sound quality and an excellent fm phone and earpiece ."
+    }
+}

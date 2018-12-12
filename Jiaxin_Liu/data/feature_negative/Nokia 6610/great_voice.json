@@ -1,0 +1,110 @@
+{
+    "6f9adbe48884c146062517217a8d680d": {
+        "(6, 40)": {
+            "WBF": [
+                2944
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                3072
+            ], 
+            "BM1L": [
+                2260
+            ], 
+            "WBO": [
+                3006, 
+                2844, 
+                3074, 
+                1441, 
+                1548, 
+                2896, 
+                2264, 
+                2079, 
+                2859, 
+                2853, 
+                3145, 
+                1277, 
+                1699, 
+                1429, 
+                922, 
+                1355, 
+                264, 
+                666, 
+                134, 
+                2859, 
+                2097, 
+                253, 
+                2844, 
+                1978, 
+                2853, 
+                2842, 
+                1429, 
+                1804, 
+                1241, 
+                1856
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                861
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            40
+        ], 
+        "sentence": "the phone 's sound quality is great ( turn up the volume if its too quiet , people , this thing will get loud ) i dont have any complaint about this phone and the only thing that i miss from my 8290 is voice dialing ."
+    }, 
+    "5f632c925abff8ea973237469d07a2aa": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            1
+        ], 
+        "(9, 1)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3072
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                1541, 
+                3052, 
+                1300, 
+                253
+            ], 
+            "WBL": [
+                1278
+            ], 
+            "AM2F": [
+                2319
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the voice quality is very good , and it gets great reception ( that is , in place where you get t-mobile coverage , which is not that good ; see below ) ."
+    }
+}

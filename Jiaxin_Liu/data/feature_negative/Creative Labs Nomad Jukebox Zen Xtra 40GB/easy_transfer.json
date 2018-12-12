@@ -1,0 +1,113 @@
+{
+    "4654812eec1f697a9f4ce1e9c75d2a2c": {
+        "(6, 3)": {
+            "WBF": [
+                295
+            ], 
+            "BM1F": [
+                1156
+            ], 
+            "M1": [
+                2916
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1136
+            ], 
+            "WBL": [
+                1136
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "oh ... and file transfer are fast & easy ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(34, 31)": {
+            "WBF": [
+                715
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                1853
+            ], 
+            "M1": [
+                2916
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                295
+            ], 
+            "WBL": [
+                295
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            34
+        ], 
+        "location2": [
+            31
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "f83b389776371cf0534e0ea8cee0774f": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            4
+        ], 
+        "(2, 4)": {
+            "AM2L": [
+                253
+            ], 
+            "WBFL": [
+                2886
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2916
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "AM2F": [
+                2201
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it 's easy to transfer , preview , and organize file ."
+    }
+}

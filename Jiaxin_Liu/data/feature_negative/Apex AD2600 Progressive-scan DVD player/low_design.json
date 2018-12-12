@@ -1,0 +1,43 @@
+{
+    "0a3d6bf18633218545bbb81dd93b8f68": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            6
+        ], 
+        "(2, 6)": {
+            "WBF": [
+                2224
+            ], 
+            "AM2L": [
+                1886
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                1703
+            ], 
+            "M2": [
+                845
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2660
+            ], 
+            "WBL": [
+                2467
+            ], 
+            "AM2F": [
+                1689
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it 's low profile , space saving design look nice ."
+    }
+}

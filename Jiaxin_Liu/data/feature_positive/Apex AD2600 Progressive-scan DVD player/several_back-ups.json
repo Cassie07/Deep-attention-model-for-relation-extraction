@@ -1,0 +1,37 @@
+{
+    "cb2481936526033884407b90cc7ee91a": {
+        "(4, 5)": {
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                1718
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                356
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "for instance , i made several back-ups of my dvd movie using dvd-r ( w ) and + r ( w ) and it play the dvds ."
+    }
+}

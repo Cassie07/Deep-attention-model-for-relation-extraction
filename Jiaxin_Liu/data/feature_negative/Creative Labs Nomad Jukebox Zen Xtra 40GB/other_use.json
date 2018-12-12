@@ -1,0 +1,137 @@
+{
+    "2bf6cfc96b5bc5542cd4ad34261974e3": {
+        "(1, 8)": {
+            "WBF": [
+                715
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                3018
+            ], 
+            "WBO": [
+                295, 
+                221, 
+                3052
+            ], 
+            "WBL": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the other control are all very easy to use ."
+    }, 
+    "baf85a0b553ca7fd741513aae4904839": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            36
+        ], 
+        "(11, 36)": {
+            "WBF": [
+                2079
+            ], 
+            "BM1F": [
+                1737
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                3018
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                3135, 
+                1355, 
+                2178, 
+                1381, 
+                3135, 
+                1355, 
+                1328, 
+                2844, 
+                2457, 
+                1086, 
+                2842, 
+                2844, 
+                2221, 
+                1541, 
+                818, 
+                846, 
+                253, 
+                3145, 
+                1915, 
+                1404, 
+                3006
+            ], 
+            "WBL": [
+                1912
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i 'm convinced by my own experience and that of many other people who have posted here who have had the same experience that the product is defectively designed , and will not hold up to normal use ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "location1": [
+            42
+        ], 
+        "location2": [
+            32
+        ], 
+        "(42, 32)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                221
+            ], 
+            "BM1F": [
+                3203
+            ], 
+            "M1": [
+                3018
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                2631
+            ], 
+            "WBO": [
+                2432, 
+                1998, 
+                545, 
+                3204, 
+                1853, 
+                765
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                655
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

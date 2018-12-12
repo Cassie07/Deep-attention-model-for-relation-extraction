@@ -1,0 +1,453 @@
+{
+    "29d2614f705ec8f146e4eddeb3c87bcf": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            17
+        ], 
+        "(11, 17)": {
+            "WBF": [
+                62
+            ], 
+            "AM2L": [
+                2294
+            ], 
+            "BM1F": [
+                2897
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                3172, 
+                801
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "finally , amazon 's free shipping is really getting good , it took only 3 working day for the player to reach me !"
+    }, 
+    "a8ace68534381de6693b2cd4a413efea": {
+        "(3, 20)": {
+            "WBF": [
+                75
+            ], 
+            "BM1F": [
+                3094
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                128, 
+                200, 
+                2308, 
+                3158, 
+                1230, 
+                2552, 
+                253, 
+                1896, 
+                2823, 
+                2628, 
+                2025, 
+                1545, 
+                1541
+            ], 
+            "WBL": [
+                808
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "also , it was only $ 39.99 ( after rebate ) with free shipping and no tax so overall it is a decent player ."
+    }, 
+    "c6b55dc63ae357379b1ceebd32e4b39a": {
+        "(4, 7)": {
+            "WBF": [
+                3020
+            ], 
+            "AM2L": [
+                1151
+            ], 
+            "BM1F": [
+                6
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                3102
+            ], 
+            "WBO": [
+                2859
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "so far , we 've only used this player a few time to watch movie and it has worked fine ."
+    }, 
+    "5a3288ba1d03d602b3367a0c74ac0315": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            11
+        ], 
+        "(1, 11)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                3130
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "WBO": [
+                1429, 
+                863, 
+                1086, 
+                3094, 
+                130, 
+                2215
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1234
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the only thing i did experience was a problem of the player freezing while playing , which i was able to clear by opening it up and blowing it out with `` canned air . ``"
+    }, 
+    "8ba70e597cfc6e241555d687623ddb4e": {
+        "(3, 16)": {
+            "WBF": [
+                2500
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                176
+            ], 
+            "WBO": [
+                2886, 
+                3168, 
+                1441, 
+                3203, 
+                3, 
+                134, 
+                1182, 
+                1211, 
+                343
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                237
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "in addition , it only seems to work if you 're about five foot away from the player , although that may have been just the battery that came with it ."
+    }, 
+    "256a16fc9dc0e71824538ba5f5652a2a": {
+        "(3, 7)": {
+            "WBF": [
+                3020
+            ], 
+            "AM2L": [
+                134
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                2859
+            ], 
+            "WBL": [
+                961
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            7, 
+            33
+        ], 
+        "(3, 33)": {
+            "WBF": [
+                3020
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                2859, 
+                961, 
+                2139, 
+                1212, 
+                134, 
+                39, 
+                1422, 
+                2530, 
+                1545, 
+                3006, 
+                1212, 
+                1856, 
+                1819, 
+                1212, 
+                598, 
+                501, 
+                2842, 
+                3094, 
+                1685, 
+                1030, 
+                1212, 
+                1752, 
+                2886, 
+                1165, 
+                2215, 
+                3158
+            ], 
+            "WBL": [
+                961
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "granted , i have only used this dvd player for about 2 hour setting it up for my mom for christmas , but that was long enough for me to find problem with this dvd player ."
+    }, 
+    "7f8064a47247d5d7c3d9f96b0cb56d24": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            11
+        ], 
+        "(7, 11)": {
+            "WBF": [
+                738
+            ], 
+            "AM2L": [
+                1847
+            ], 
+            "BM1F": [
+                1915
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                2859
+            ], 
+            "WBL": [
+                961
+            ], 
+            "AM2F": [
+                2136
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i was surprised to find that not only could this dvd player play mpeg2 format which allowed me to stack 2 movie on a dvd , but it also was able to play vob file which i created with smart ripper ."
+    }, 
+    "ef8c9c3238c0997f0a50179e0167afa6": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            18
+        ], 
+        "(0, 18)": {
+            "WBF": [
+                2038
+            ], 
+            "AM2L": [
+                1393
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "WBO": [
+                1545, 
+                134, 
+                2952, 
+                3110, 
+                2628, 
+                1429, 
+                1081, 
+                3102, 
+                3, 
+                1691, 
+                316, 
+                1279, 
+                260, 
+                2229
+            ], 
+            "WBL": [
+                961
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "only owned it about two week so i expect we 're looking at getting another progressive scan dvd player of higher quality very soon ."
+    }, 
+    "37f15e561ae7ac9028bbedac55bbb567": {
+        "(6, 17)": {
+            "WBF": [
+                130
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1543, 
+                1471, 
+                501, 
+                1429, 
+                3094, 
+                2242, 
+                3188
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3181
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "at first i thought it is only a isolated incident , but i was proven wrong when the player would not read my `` alias `` dvds as well ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "9151bec746be1369933e0711724fabba": {
+        "(37, 38)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                563
+            ], 
+            "M1": [
+                2668
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                146
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            37
+        ], 
+        "location2": [
+            38
+        ], 
+        "sentence": "the player usually play dvd 's , but has occasional problem such as : 1 ) not recognizing a dvd 2 ) stopping a particular point in a movie every time we played it 3 ) not being able to access certain special feature on a rental dvd ."
+    }
+}

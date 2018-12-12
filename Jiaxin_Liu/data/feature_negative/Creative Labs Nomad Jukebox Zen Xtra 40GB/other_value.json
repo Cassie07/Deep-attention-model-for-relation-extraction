@@ -1,0 +1,44 @@
+{
+    "f685a3a0947843463825e1bb031ce248": {
+        "(2, 8)": {
+            "WBF": [
+                1616
+            ], 
+            "AM2L": [
+                1268
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                3035
+            ], 
+            "BM1L": [
+                658
+            ], 
+            "WBO": [
+                1361, 
+                1842
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2080
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "compared to other leading hdd mp3 player , the value per gb is the top ."
+    }
+}

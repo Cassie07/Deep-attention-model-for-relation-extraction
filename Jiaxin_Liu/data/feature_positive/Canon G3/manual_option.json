@@ -1,0 +1,142 @@
+{
+    "e2aef133b34cdd27cfe0ae786a800c64": {
+        "location1": [
+            24
+        ], 
+        "location2": [
+            25
+        ], 
+        "(24, 25)": {
+            "AM2L": [
+                2861
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1731
+            ], 
+            "M2": [
+                1996
+            ], 
+            "BM1L": [
+                2280
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the g3 has most if not all of the feature that you would want from a semi-pro / pro slr with a good range of manual option for those who know something about photography ."
+    }, 
+    "075cbfa6d23b531fc7100bc9ad7dcd00": {
+        "(1, 24)": {
+            "WBF": [
+                1814
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1731
+            ], 
+            "M2": [
+                1996
+            ], 
+            "WBO": [
+                1541, 
+                985, 
+                2886, 
+                3018, 
+                3158, 
+                1136, 
+                146, 
+                1212, 
+                2844, 
+                2505, 
+                1951, 
+                2570, 
+                2674, 
+                253, 
+                274, 
+                3160, 
+                1357, 
+                2886, 
+                1250
+            ], 
+            "WBL": [
+                1773
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "the manual mode is easy to use with fast access for the selection of shutter speed and aperture without having to fumble through menu option ."
+    }, 
+    "41d67c7360f1eaff9b82be88ea00f3d7": {
+        "(29, 10)": {
+            "WBF": [
+                2570
+            ], 
+            "AM2L": [
+                2355
+            ], 
+            "BM1F": [
+                185
+            ], 
+            "M1": [
+                1996
+            ], 
+            "M2": [
+                1731
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2212, 
+                273, 
+                2212, 
+                1644, 
+                1782, 
+                185, 
+                1054, 
+                501, 
+                221, 
+                715, 
+                295, 
+                3115, 
+                2863, 
+                2016, 
+                253
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "i have yet to try using all of the adjustment option : shutter priority , aperature priority , light metering adjustment , etc . , but all control are well thought out and and the manual is relatively clear ."
+    }
+}

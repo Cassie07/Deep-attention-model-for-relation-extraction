@@ -1,0 +1,177 @@
+{
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(11, 12)": {
+            "AM2L": [
+                379
+            ], 
+            "BM1F": [
+                2260
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1685
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "93b83dad8de467af70db727ec3d5cebc": {
+        "location1": [
+            27
+        ], 
+        "location2": [
+            8
+        ], 
+        "(27, 8)": {
+            "WBF": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBO": [
+                1431, 
+                1351, 
+                253, 
+                1441, 
+                3203, 
+                1277, 
+                1441, 
+                1241, 
+                246, 
+                3204, 
+                1978, 
+                1298, 
+                2886, 
+                2071, 
+                64
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the creative lab zen xtra has all the feature the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player ."
+    }, 
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "(5, 18)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                2842, 
+                433, 
+                2844, 
+                1431, 
+                343, 
+                3158, 
+                985, 
+                2886, 
+                3018
+            ], 
+            "WBL": [
+                2976
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5, 
+            29
+        ], 
+        "location2": [
+            18
+        ], 
+        "(29, 18)": {
+            "WBF": [
+                2631
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                2976
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                2842, 
+                1541, 
+                2583, 
+                2886, 
+                2976, 
+                253, 
+                3018
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) ."
+    }
+}

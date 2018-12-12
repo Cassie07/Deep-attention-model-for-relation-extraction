@@ -1,0 +1,43 @@
+{
+    "9947e0d4813586c77a652fb805fbac2e": {
+        "(40, 37)": {
+            "WBF": [
+                1967
+            ], 
+            "AM2L": [
+                798
+            ], 
+            "BM1F": [
+                1846
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                2351
+            ], 
+            "BM1L": [
+                2136
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                554
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            40
+        ], 
+        "location2": [
+            37
+        ], 
+        "sentence": "the fact that this model would play jpeg slideshows was a big plus for me as a visual artist , and i discovered by accident ( it is not mentioned anywhere in the literature ) that it will play mpeg1 file on a regular cd-r data disk without vcd formatting ."
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "2c92d650e105f7df5d4390b5bddf0006": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            9
+        ], 
+        "(2, 9)": {
+            "WBF": [
+                1644
+            ], 
+            "AM2L": [
+                808
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                898
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                253, 
+                1886, 
+                1691
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it 's small , light and nice looking and the display is decent as well ."
+    }
+}

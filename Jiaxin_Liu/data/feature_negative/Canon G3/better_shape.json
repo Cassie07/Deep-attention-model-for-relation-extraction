@@ -1,0 +1,52 @@
+{
+    "b39d64cf16678723054310d16f83cb20": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            2
+        ], 
+        "(16, 2)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2540
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                80
+            ], 
+            "WBO": [
+                2859, 
+                858, 
+                1541, 
+                130, 
+                1669, 
+                2685, 
+                3160, 
+                1695, 
+                2844, 
+                3112
+            ], 
+            "WBL": [
+                1753
+            ], 
+            "AM2F": [
+                363
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "4 . the shape of this device is a little squarer , without losing the weight which mean better balance and less shaking while clicking ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "0bc7e90c6f8562629f5338ddab065f25": {
+        "(2, 7)": {
+            "WBF": [
+                2631
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1532
+            ], 
+            "BM1L": [
+                1425
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                2301
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "however , the creative software is not real intuitive ."
+    }
+}

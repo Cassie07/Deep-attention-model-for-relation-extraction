@@ -1,0 +1,69 @@
+{
+    "15a7c1725a6f3133066f8d0f949ee8de": {
+        "(0, 4)": {
+            "WBF": [
+                9
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                150
+            ], 
+            "WBO": [
+                2215
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "AM2F": [
+                3200
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "only 1 problem , no accessory ... yet ."
+    }, 
+    "8a31ba51febce8f3d665f6e34835eb2d": {
+        "(19, 20)": {
+            "AM2L": [
+                1874
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                150
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "the free ( i didnt know they still did that ) carrying case is really protective , and to me its the only accessory you need ( except good headphone ) ."
+    }
+}

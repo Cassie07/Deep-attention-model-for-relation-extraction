@@ -1,0 +1,37 @@
+{
+    "009a83596167fefb74ee4f99f3da73be": {
+        "(10, 12)": {
+            "AM2L": [
+                1541
+            ], 
+            "WBFL": [
+                359
+            ], 
+            "BM1F": [
+                1604
+            ], 
+            "M1": [
+                1927
+            ], 
+            "M2": [
+                2479
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "the xtra improves upon the zen nx with a larger , now-blue backlit screen , which is infinitely better ."
+    }
+}

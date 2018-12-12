@@ -1,0 +1,47 @@
+{
+    "dc93b572e66d7cee8d1301ab1059f27f": {
+        "(18, 9)": {
+            "WBF": [
+                2527
+            ], 
+            "AM2L": [
+                477
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1527
+            ], 
+            "M2": [
+                2301
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                1541, 
+                2842, 
+                1545, 
+                917, 
+                1915
+            ], 
+            "WBL": [
+                1809
+            ], 
+            "AM2F": [
+                1052
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the only problem that i have found with the internet service is that it does not access mls ( real estate broker software ) very well at all ."
+    }
+}

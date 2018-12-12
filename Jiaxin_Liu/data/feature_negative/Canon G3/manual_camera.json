@@ -1,0 +1,94 @@
+{
+    "4f4ce92984a186b080eef02938290fa5": {
+        "location1": [
+            25
+        ], 
+        "location2": [
+            18
+        ], 
+        "(25, 18)": {
+            "WBF": [
+                1548
+            ], 
+            "AM2L": [
+                1287
+            ], 
+            "BM1F": [
+                2614
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1731
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBO": [
+                80, 
+                1765, 
+                253
+            ], 
+            "WBL": [
+                1248
+            ], 
+            "AM2F": [
+                715
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "just a little overview , powershot g3 is the flagship of canon 's powershot series and its an slr-like camera , its 4 megapixel and ( alsmost ) full manual control gives the picture a touch of brilliance ."
+    }, 
+    "1f8107d369d0a9aff676c54f789d4256": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            1
+        ], 
+        "(20, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1731
+            ], 
+            "WBO": [
+                130, 
+                942, 
+                2886, 
+                1985, 
+                1468, 
+                338, 
+                501, 
+                233, 
+                1287, 
+                2930, 
+                1194, 
+                1468, 
+                274, 
+                2212, 
+                2570
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                1814
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the camera is a dream to operate in automode , but also gives tremendous flexibility in aperture priority , shutter priority , and manual mode ."
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "f53180de30a7308dfce4f7c6df47edae": {
+        "(4, 15)": {
+            "WBF": [
+                507
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                2379
+            ], 
+            "M2": [
+                286
+            ], 
+            "BM1L": [
+                379
+            ], 
+            "WBO": [
+                2844, 
+                3023, 
+                386, 
+                765, 
+                1518, 
+                1545, 
+                2886
+            ], 
+            "WBL": [
+                2992
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "first , the battery is replacable by the user , because creative intended it to be - unlike apple with the ipod ."
+    }
+}

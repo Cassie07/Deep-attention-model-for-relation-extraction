@@ -1,0 +1,147 @@
+{
+    "d3ce1590bf181d8757fe6b288af73a66": {
+        "(6, 3)": {
+            "WBF": [
+                3158
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                666
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                2859
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i have no complaint with this mp3 player ."
+    }, 
+    "07c7902d501403f2cfb77c7bc163b9a5": {
+        "(18, 2)": {
+            "WBF": [
+                3181
+            ], 
+            "AM2L": [
+                912
+            ], 
+            "BM1F": [
+                1978
+            ], 
+            "M1": [
+                666
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                381, 
+                2842, 
+                3203, 
+                1874, 
+                1435, 
+                2810, 
+                2842, 
+                2814, 
+                130, 
+                3130, 
+                2886, 
+                912
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                1156
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "my only complaint would be that you need id3 tag & that takes a while to do if your mp3 file do n't have them ."
+    }, 
+    "6907bb010dae76e44e07aab7d20e448a": {
+        "(24, 5)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                666
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                1429, 
+                2332, 
+                2859, 
+                2886, 
+                266, 
+                3135, 
+                3088, 
+                2260, 
+                2024, 
+                283, 
+                233, 
+                266, 
+                3135, 
+                3088, 
+                130
+            ], 
+            "WBL": [
+                372
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "so far i have no complaint and i recommend this to anyone who wants quality over appearance , also anyone who wants a harddrive based mp3 player and wants to pay next to nothing ."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "0774bbf5a1f65c236eec818161d3b56d": {
+        "(21, 22)": {
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                2155
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2828
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "this is a very light phone - a little less than 3 oz , with long battery life ( not as long as the new polymer technology ) ."
+    }
+}

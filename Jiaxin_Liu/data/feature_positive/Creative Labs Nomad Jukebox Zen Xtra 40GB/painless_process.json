@@ -1,0 +1,37 @@
+{
+    "83c0f79f8710192a88e6b91256723401": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            23
+        ], 
+        "(22, 23)": {
+            "AM2L": [
+                3115
+            ], 
+            "BM1F": [
+                1122
+            ], 
+            "M1": [
+                2050
+            ], 
+            "M2": [
+                2216
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the unit itself did lock up a few time and i had to hit the reset button but that was a fairly painless process as well ."
+    }
+}

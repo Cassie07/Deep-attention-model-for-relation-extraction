@@ -1,0 +1,124 @@
+{
+    "074a0ef9795ec5883cc9095904d96eb4": {
+        "(8, 11)": {
+            "WBF": [
+                313
+            ], 
+            "AM2L": [
+                917
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "WBO": [
+                1691
+            ], 
+            "WBL": [
+                1691
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "first , the con ... a tad bulky ... not the most asthetic looking player ... and does n't support a folder stucture ."
+    }, 
+    "3d060f3950f61d0bcf49f47833b88c09": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            13
+        ], 
+        "(3, 13)": {
+            "WBF": [
+                1722
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1973
+            ], 
+            "WBO": [
+                2853, 
+                2842, 
+                1429, 
+                3094, 
+                903, 
+                3158
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the one and most major thing that i was dissapointed with , in this player , is the battery life ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(5, 7)": {
+            "AM2L": [
+                1854
+            ], 
+            "WBFL": [
+                1842
+            ], 
+            "BM1F": [
+                507
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                3020
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

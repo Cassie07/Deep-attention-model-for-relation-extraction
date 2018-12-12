@@ -1,0 +1,34 @@
+{
+    "67b82e06f82e9130f9d542e0ab393f06": {
+        "(4, 5)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1722
+            ], 
+            "M2": [
+                845
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1191
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this camera has a major design flaw ."
+    }
+}

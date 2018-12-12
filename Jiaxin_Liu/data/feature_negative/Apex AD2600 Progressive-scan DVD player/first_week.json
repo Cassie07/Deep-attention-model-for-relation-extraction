@@ -1,0 +1,37 @@
+{
+    "d460f81b43998cfb748cde2be9836aec": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            4
+        ], 
+        "(2, 4)": {
+            "AM2L": [
+                2139
+            ], 
+            "WBFL": [
+                1151
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                3110
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "AM2F": [
+                2859
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "for the first few week , this player was everything i expected it to be , an affordable multi-format dvd player with a stylish slim case as advertised ."
+    }
+}

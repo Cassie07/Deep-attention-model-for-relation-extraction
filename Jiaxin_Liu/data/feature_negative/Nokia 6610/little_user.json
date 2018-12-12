@@ -1,0 +1,41 @@
+{
+    "25b1cc0cda02ef1722164f8b75bb7712": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            6
+        ], 
+        "(12, 6)": {
+            "WBF": [
+                1522
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3023
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                2842, 
+                1429
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1476
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "there are some feature in the user interface that i find a little inconvenient ."
+    }
+}

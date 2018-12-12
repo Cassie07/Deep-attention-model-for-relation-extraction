@@ -1,0 +1,76 @@
+{
+    "68a8302a084952a7e1cf8fe9f3f14b4e": {
+        "(5, 7)": {
+            "AM2L": [
+                2844
+            ], 
+            "WBFL": [
+                784
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1996
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            7, 
+            16
+        ], 
+        "(5, 16)": {
+            "WBF": [
+                784
+            ], 
+            "AM2L": [
+                1054
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1996
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                1996, 
+                3158, 
+                2844, 
+                2987, 
+                304, 
+                3115, 
+                2654
+            ], 
+            "WBL": [
+                1864
+            ], 
+            "AM2F": [
+                2141
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "you of course have some good customization option with the unit as well ( sound presets , navigating option , playlist , etc ) ."
+    }
+}

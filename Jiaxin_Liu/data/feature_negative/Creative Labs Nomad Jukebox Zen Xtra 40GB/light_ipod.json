@@ -1,0 +1,103 @@
+{
+    "f44741557e15a6d5aa4732d78cf51b01": {
+        "(10, 13)": {
+            "WBF": [
+                304
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(6, 13)": {
+            "WBF": [
+                501
+            ], 
+            "BM1F": [
+                2199
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1915, 
+                304, 
+                1644
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6, 
+            10
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "at 8 ounce it is pretty light but not as light as the ipod ."
+    }, 
+    "046321e6f46dfb8659079eb3d885696d": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            22
+        ], 
+        "(15, 22)": {
+            "WBF": [
+                848
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2615
+            ], 
+            "WBO": [
+                402, 
+                2606, 
+                420
+            ], 
+            "WBL": [
+                251
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "other plus : changable battery , load of presets for environment , decent construction , still quite small and light despite being slightly bigger than an ipod ."
+    }
+}

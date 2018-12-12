@@ -1,0 +1,162 @@
+{
+    "f6623d38bfdb0e14da4f30b48146d4e8": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "AM2L": [
+                346
+            ], 
+            "WBFL": [
+                2859
+            ], 
+            "M1": [
+                2025
+            ], 
+            "M2": [
+                2139
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "overall , this player is awesome and i definately recommend it ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "location1": [
+            26
+        ], 
+        "location2": [
+            27
+        ], 
+        "(26, 27)": {
+            "AM2L": [
+                627
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2025
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1529
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "b7a4b4086ff6f9e114fd0bbca4c9e6cc": {
+        "(0, 28)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "M1": [
+                2025
+            ], 
+            "M2": [
+                2139
+            ], 
+            "WBO": [
+                2, 
+                1288, 
+                2859, 
+                93, 
+                2696, 
+                304, 
+                1429, 
+                6, 
+                2501, 
+                1920, 
+                1951, 
+                2844, 
+                2215, 
+                2079, 
+                1355, 
+                2378, 
+                766, 
+                1358, 
+                2024, 
+                501, 
+                304, 
+                1429, 
+                6, 
+                1978
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "overall , i 'm giving this 5 star as i 've seen nothing of the problem people have repeatedly cried havoc over , but as i 've only had the player for a while i leave room for doubt if the headphone jack , hissing , or scroll wheel problem show up with me too ."
+    }, 
+    "e17e18380718fc3b0a9d1deacbd92ff8": {
+        "(4, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2025
+            ], 
+            "WBO": [
+                251
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                889
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this player is an overall disappointment with a couple of big flaw that potential buyer should be wary of ; and all reader need to know about a third party software company that resolve virtually all of the creative mediasource file transfer issue ."
+    }
+}

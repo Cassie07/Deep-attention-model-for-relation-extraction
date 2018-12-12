@@ -1,0 +1,163 @@
+{
+    "7a6127bd06125c9102ab880f8919a4d0": {
+        "(12, 35)": {
+            "WBF": [
+                525
+            ], 
+            "AM2L": [
+                2148
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2616
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1241
+            ], 
+            "WBO": [
+                520, 
+                2844, 
+                379, 
+                1874, 
+                2886, 
+                381, 
+                575, 
+                3130, 
+                1468, 
+                2844, 
+                520, 
+                501, 
+                2844, 
+                577, 
+                2802, 
+                233, 
+                1012, 
+                3203, 
+                2886
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the g3 has a different type of battery charging system from the smaller canon camera : the battery need to be charged while in the camera , but the charging system also enables you to use the camera while plugged in without running down the battery .", 
+        "(12, 24)": {
+            "WBF": [
+                525
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2616
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1241
+            ], 
+            "WBO": [
+                520, 
+                2844, 
+                379, 
+                1874, 
+                2886, 
+                381, 
+                575, 
+                3130
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(12, 14)": {
+            "AM2L": [
+                379
+            ], 
+            "WBFL": [
+                525
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2616
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1241
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location2": [
+            14, 
+            24, 
+            35
+        ], 
+        "location1": [
+            12
+        ]
+    }, 
+    "8125b34510fad206a46ff327585af3a6": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            13
+        ], 
+        "(11, 13)": {
+            "AM2L": [
+                1541
+            ], 
+            "WBFL": [
+                875
+            ], 
+            "BM1F": [
+                1737
+            ], 
+            "M1": [
+                2616
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                2992
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the g3 is loaded with many useful feature , and unlike many smaller digital camera , it is easy to hold steady when using slower shutter speed ."
+    }
+}

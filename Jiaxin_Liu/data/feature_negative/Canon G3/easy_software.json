@@ -1,0 +1,162 @@
+{
+    "5e8d37c7fc800e394540cc47e42d3496": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            19
+        ], 
+        "(7, 19)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                3052
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                715
+            ], 
+            "WBO": [
+                3018, 
+                2844, 
+                379, 
+                1605, 
+                1214, 
+                1967, 
+                1973, 
+                2588
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it gives great picture , the control are easy to use , the battery last forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing ."
+    }, 
+    "ea03c1eca4f4843d18fa28fa8e577b5c": {
+        "(18, 39)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                520
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                102
+            ], 
+            "WBO": [
+                2976, 
+                253, 
+                3018, 
+                1351, 
+                130, 
+                1313, 
+                2796, 
+                1615, 
+                2479, 
+                130, 
+                1698, 
+                1951, 
+                1143, 
+                253, 
+                173, 
+                1996, 
+                644
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                1915
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            39
+        ], 
+        "sentence": "4mp , 4x optical zoom , takes absolutely beautiful photo with detail that challenge all of the above 5mp camera , easy to understand and use ( has a great swivel lcd screen ) , a lot of feature and add-on option , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumb up ! )"
+    }, 
+    "2ba780a3839b97663494b0fa5de97d11": {
+        "(22, 3)": {
+            "WBF": [
+                3020
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                674
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                525
+            ], 
+            "WBO": [
+                2886, 
+                929, 
+                2651, 
+                3010, 
+                253, 
+                1727, 
+                3204, 
+                875, 
+                2112, 
+                1967, 
+                2844, 
+                674, 
+                1541, 
+                3052, 
+                1886
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the canon computer software used to download , sort , upload and manage your digital picture on the computer is very nice and very easy to use ."
+    }
+}

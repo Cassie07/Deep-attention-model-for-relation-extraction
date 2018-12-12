@@ -1,0 +1,89 @@
+{
+    "0774bbf5a1f65c236eec818161d3b56d": {
+        "(4, 14)": {
+            "WBF": [
+                2097
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                130, 
+                1669, 
+                1634, 
+                2840, 
+                62, 
+                2040
+            ], 
+            "WBL": [
+                1685
+            ], 
+            "AM2F": [
+                1643
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "this is a very light phone - a little less than 3 oz , with long battery life ( not as long as the new polymer technology ) ."
+    }, 
+    "068bd7c0f0afc39243b4899bb1fe99a4": {
+        "(16, 5)": {
+            "WBF": [
+                1605
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                2628, 
+                1685, 
+                3124, 
+                2844, 
+                2097, 
+                1541, 
+                2628
+            ], 
+            "WBL": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "it is amazing that the battery last so long when the phone is so small and light ."
+    }
+}

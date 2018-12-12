@@ -1,0 +1,139 @@
+{
+    "44d22a9ad796160bb6beb7100f6b8152": {
+        "(7, 23)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                33
+            ], 
+            "BM1F": [
+                668
+            ], 
+            "M1": [
+                3022
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                227
+            ], 
+            "WBO": [
+                1351, 
+                1718, 
+                1832, 
+                1951, 
+                1856, 
+                2644, 
+                2654, 
+                3176, 
+                2840, 
+                3160, 
+                1545, 
+                1429
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(7, 14)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                3176
+            ], 
+            "BM1F": [
+                668
+            ], 
+            "M1": [
+                3022
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                227
+            ], 
+            "WBO": [
+                1351, 
+                1718, 
+                1832
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            14, 
+            23
+        ], 
+        "sentence": "the environmental audio , however , is almost completely useless and has made most of my song sound worse than without it ( i encode my song at 192-256 kbps without variable bit rate . )"
+    }, 
+    "a5a636df118fc8a27663f81f5d541375": {
+        "(8, 25)": {
+            "WBF": [
+                2991
+            ], 
+            "BM1F": [
+                2199
+            ], 
+            "M1": [
+                3022
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3203, 
+                3, 
+                2046, 
+                2844, 
+                2139, 
+                3006, 
+                1212, 
+                2923, 
+                1998, 
+                1441, 
+                3203, 
+                1673, 
+                3006
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                395
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "as it stand now , the case is pretty useless unless you 're packing the player up for travel , or if you load up all your song beforehand ."
+    }
+}

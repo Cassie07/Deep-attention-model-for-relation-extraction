@@ -1,0 +1,43 @@
+{
+    "50cf7592ad1ba3cc17dab3102c2caa84": {
+        "(3, 7)": {
+            "WBF": [
+                1030
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1309
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1212
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "2 it is easy enough for my grandmother to use ."
+    }
+}

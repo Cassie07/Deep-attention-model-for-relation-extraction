@@ -1,0 +1,79 @@
+{
+    "7967db31bc77438a94a846ddeb630669": {
+        "(54, 40)": {
+            "WBF": [
+                2761
+            ], 
+            "AM2L": [
+                1219
+            ], 
+            "BM1F": [
+                326
+            ], 
+            "M1": [
+                1219
+            ], 
+            "M2": [
+                2771
+            ], 
+            "BM1L": [
+                3162
+            ], 
+            "WBO": [
+                1190, 
+                2016, 
+                2761, 
+                1468, 
+                2834, 
+                1951, 
+                2654, 
+                2260, 
+                658, 
+                3158
+            ], 
+            "WBL": [
+                3041
+            ], 
+            "AM2F": [
+                131
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            54
+        ], 
+        "location2": [
+            40, 
+            56
+        ], 
+        "(54, 56)": {
+            "AM2L": [
+                286
+            ], 
+            "WBFL": [
+                131
+            ], 
+            "BM1F": [
+                3041
+            ], 
+            "M1": [
+                2771
+            ], 
+            "M2": [
+                1219
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "2c18484d512b4fc04c7dbcce1d30f543": {
+        "(4, 1)": {
+            "WBF": [
+                1589
+            ], 
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                1429
+            ], 
+            "M1": [
+                922
+            ], 
+            "M2": [
+                2011
+            ], 
+            "WBO": [
+                3121
+            ], 
+            "WBL": [
+                3121
+            ], 
+            "AM2F": [
+                2079
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "i dont know what other people are saying , but the software is awesome ."
+    }
+}

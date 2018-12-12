@@ -1,0 +1,94 @@
+{
+    "205ba48000827a3b49562499e168cd48": {
+        "(0, 19)": {
+            "WBF": [
+                2079
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2215
+            ], 
+            "WBO": [
+                1355, 
+                3187, 
+                134, 
+                2844, 
+                2631, 
+                402, 
+                1548, 
+                1973, 
+                928, 
+                2093, 
+                1429, 
+                1355, 
+                1859, 
+                5, 
+                1328
+            ], 
+            "WBL": [
+                2588
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "many people have written about the software being its one downfall , personally i have n't had a single problem with the software , i 'm running window me ."
+    }, 
+    "3641dd852c1489c6a028ac79140227f1": {
+        "(12, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                2956
+            ], 
+            "WBO": [
+                2844, 
+                1366, 
+                1552, 
+                1545, 
+                3094, 
+                1212
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2012
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "typically , the problem is the headphone jack -- it was for me and many others ."
+    }
+}

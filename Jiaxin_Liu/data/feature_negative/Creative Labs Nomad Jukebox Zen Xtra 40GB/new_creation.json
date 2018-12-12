@@ -1,0 +1,43 @@
+{
+    "00b26e308a4b8730247f6846646d008a": {
+        "(21, 17)": {
+            "WBF": [
+                2760
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                2141
+            ], 
+            "M1": [
+                764
+            ], 
+            "M2": [
+                1882
+            ], 
+            "BM1L": [
+                1199
+            ], 
+            "WBO": [
+                304
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1536
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "its far more difficult to select song and has no easy to use on the fly playlist creation such as the new ipod not to mention it does n't sinc with contact list , phone number , address book , ect . like the ipod ( which eliminated my need for any kind of palm device ) ."
+    }
+}

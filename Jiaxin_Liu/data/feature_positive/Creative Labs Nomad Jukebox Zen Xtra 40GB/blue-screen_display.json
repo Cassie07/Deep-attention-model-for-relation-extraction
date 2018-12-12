@@ -1,0 +1,34 @@
+{
+    "3a7359c228b14d5af1256761b5c276f0": {
+        "(1, 2)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                437
+            ], 
+            "M2": [
+                898
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the blue-screen display in the zennx xtra model is an improvement , but the toggle switch is still tricky ."
+    }
+}

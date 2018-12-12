@@ -1,0 +1,37 @@
+{
+    "e9d28867f6cc8362413781bc3fa7002f": {
+        "(4, 5)": {
+            "AM2L": [
+                226
+            ], 
+            "BM1F": [
+                1701
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                2798
+            ], 
+            "BM1L": [
+                912
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "c. i do love audio sync which allows a one-click synchronization between the player and the music collection on the computer ."
+    }
+}

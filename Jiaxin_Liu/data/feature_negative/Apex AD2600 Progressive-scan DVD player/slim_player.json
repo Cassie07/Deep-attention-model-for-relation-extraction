@@ -1,0 +1,134 @@
+{
+    "80cb6fbb20332fa22c5eba0f351a1901": {
+        "(2, 13)": {
+            "WBF": [
+                1218
+            ], 
+            "AM2L": [
+                724
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2607
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                2889, 
+                3158, 
+                2844, 
+                1802, 
+                1242, 
+                2055, 
+                2778
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1689
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "and the slim form-factor together with the mirror-like front panel sure makes the player look cool and pricey !"
+    }, 
+    "d460f81b43998cfb748cde2be9836aec": {
+        "(22, 18)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                961
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2607
+            ], 
+            "BM1L": [
+                1849
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                2749
+            ], 
+            "AM2F": [
+                541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(22, 6)": {
+            "WBF": [
+                3094
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2607
+            ], 
+            "BM1L": [
+                3110
+            ], 
+            "WBO": [
+                1064, 
+                1429, 
+                1083, 
+                1545, 
+                2886, 
+                381, 
+                251, 
+                197, 
+                1849, 
+                961, 
+                2139, 
+                3158
+            ], 
+            "WBL": [
+                2749
+            ], 
+            "AM2F": [
+                541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            6, 
+            18
+        ], 
+        "sentence": "for the first few week , this player was everything i expected it to be , an affordable multi-format dvd player with a stylish slim case as advertised ."
+    }
+}

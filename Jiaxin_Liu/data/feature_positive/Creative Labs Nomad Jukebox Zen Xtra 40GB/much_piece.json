@@ -1,0 +1,37 @@
+{
+    "ca88fee0f48f7e3af6abbce6bb924179": {
+        "(3, 5)": {
+            "AM2L": [
+                1045
+            ], 
+            "WBFL": [
+                2771
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1848
+            ], 
+            "M2": [
+                2115
+            ], 
+            "BM1L": [
+                693
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "please consider this much superior piece of equipment before plopping down half a grand for an ipod ."
+    }
+}

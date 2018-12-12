@@ -1,0 +1,350 @@
+{
+    "3e406d6f8231c62cced3fc27d645b1b8": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            12
+        ], 
+        "(6, 12)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                1760
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1212, 
+                1752
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "what really made this a mediocre mp3 player for me was the software ."
+    }, 
+    "25e9ac3314edbb22f429a90632829517": {
+        "(9, 3)": {
+            "WBF": [
+                3172
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                1168, 
+                1926
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i have the software working fine now and the mp3 player is fantastic ."
+    }, 
+    "937380945b7a721b7403148d0d455e73": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            13
+        ], 
+        "(9, 13)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                3052
+            ], 
+            "WBO": [
+                501
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the nomad jukebox zen xtra is a very good mp3 player but the software is it gets hurt ."
+    }, 
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "(38, 19)": {
+            "WBF": [
+                2842
+            ], 
+            "BM1F": [
+                1143
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2976
+            ], 
+            "WBO": [
+                1541, 
+                2583, 
+                2886, 
+                2976, 
+                253, 
+                3018, 
+                253, 
+                130, 
+                1313, 
+                2654, 
+                3129, 
+                1541, 
+                221, 
+                2842, 
+                1746
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            38
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) ."
+    }, 
+    "9182663809b6095073a7d5f7266c9609": {
+        "(11, 9)": {
+            "AM2L": [
+                1541
+            ], 
+            "WBFL": [
+                2859
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "so once i worked out the problem with the software this mp3 player is worth the money it cost ."
+    }, 
+    "f36365781e2d87d761d5f6c5b23a90ab": {
+        "(6, 9)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                1328
+            ], 
+            "WBL": [
+                1328
+            ], 
+            "AM2F": [
+                2215
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "in fact , each of my creative mp3 player had software problem in the first place ."
+    }, 
+    "5d8a1adbeeaf90d9f03da0b3810f9ee5": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            1
+        ], 
+        "(9, 1)": {
+            "WBF": [
+                738
+            ], 
+            "AM2L": [
+                3168
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1842
+            ], 
+            "WBO": [
+                1859, 
+                5, 
+                381, 
+                415
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the software could n't be better and the mp3 player work like a dream , i could n't give this anything but a 5 , i wish there was a 6 ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            30
+        ], 
+        "(6, 30)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                1832
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                507
+            ], 
+            "WBO": [
+                1648, 
+                1854, 
+                253, 
+                3149, 
+                501, 
+                1915, 
+                765, 
+                3160, 
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                3121
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

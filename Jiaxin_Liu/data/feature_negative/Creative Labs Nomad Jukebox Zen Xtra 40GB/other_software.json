@@ -1,0 +1,217 @@
+{
+    "033b35286cae2ac0ec2fc080f51e500c": {
+        "(16, 22)": {
+            "WBF": [
+                1843
+            ], 
+            "AM2L": [
+                2637
+            ], 
+            "BM1F": [
+                2840
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                1604
+            ], 
+            "WBO": [
+                501, 
+                2712
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2814
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "there are a couple thing i didnt like though but nothing serious : a little larger than other mp3s but still light , the software takes some time to get used to ( maybe 10-15 min ) , and this thing would definitely be destroyed with one fall ."
+    }, 
+    "496c1896b2e7b5f68f4a805a4611b9f8": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            12
+        ], 
+        "(1, 12)": {
+            "WBF": [
+                2149
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2631
+            ], 
+            "WBO": [
+                1541, 
+                2842, 
+                1861, 
+                1926, 
+                2775, 
+                2859, 
+                858
+            ], 
+            "WBL": [
+                2846
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "one other plus is that napster now support this device via their software ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(42, 30)": {
+            "WBF": [
+                3203
+            ], 
+            "AM2L": [
+                221
+            ], 
+            "BM1F": [
+                3121
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                534
+            ], 
+            "WBO": [
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545, 
+                3204, 
+                1853, 
+                765
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                655
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            42
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }, 
+    "2c18484d512b4fc04c7dbcce1d30f543": {
+        "(4, 10)": {
+            "WBF": [
+                2079
+            ], 
+            "AM2L": [
+                346
+            ], 
+            "BM1F": [
+                3121
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                1589
+            ], 
+            "WBO": [
+                295, 
+                2470
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "i dont know what other people are saying , but the software is awesome ."
+    }, 
+    "e31dd62f55c1c30d4c665bd6ad5606e1": {
+        "(13, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                427
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2011
+            ], 
+            "WBO": [
+                1915, 
+                1300, 
+                994, 
+                253, 
+                2844, 
+                944, 
+                1351, 
+                2935
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the software is not good either and the driver has trouble working with other sound blaster product , which is very dumb ."
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "dddabe0a6ff5deb6dc9e3641be46c42d": {
+        "location1": [
+            27
+        ], 
+        "location2": [
+            6
+        ], 
+        "(27, 6)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                1978
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                3145
+            ], 
+            "WBO": [
+                2844, 
+                1258, 
+                253, 
+                2844, 
+                82, 
+                1212, 
+                2844, 
+                39, 
+                3196, 
+                1896, 
+                2261, 
+                307, 
+                2383, 
+                3091, 
+                3145, 
+                381, 
+                3178
+            ], 
+            "WBL": [
+                2587
+            ], 
+            "AM2F": [
+                3145
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i know this unit will have problem in the future and the $ 40 for the 2 year `` no question asked `` replacement warranty will be worth it , since creative will only warrant it for 90 day - which in itself is totally ridiculous !"
+    }, 
+    "f36365781e2d87d761d5f6c5b23a90ab": {
+        "(5, 10)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                2139
+            ], 
+            "WBL": [
+                2631
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "in fact , each of my creative mp3 player had software problem in the first place ."
+    }, 
+    "ea590102fe54b3305e3c92c7f680c4d9": {
+        "(0, 21)": {
+            "WBF": [
+                3210
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2215
+            ], 
+            "WBO": [
+                1146, 
+                2762, 
+                1241, 
+                703, 
+                2260, 
+                2157, 
+                2221, 
+                2775, 
+                872, 
+                1951, 
+                3026, 
+                2844, 
+                2484, 
+                3123, 
+                253, 
+                2307, 
+                698
+            ], 
+            "WBL": [
+                134
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "creative zen feedback suffers from construction quality , poor product support , difficulty of using the scroll wheel and reasonably consistent feedback about problem with the headphone jack ."
+    }, 
+    "faecff2a9f98008034e071e9ea118f8f": {
+        "(22, 30)": {
+            "WBF": [
+                1351
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                403
+            ], 
+            "WBO": [
+                2637, 
+                1470, 
+                1735, 
+                1998
+            ], 
+            "WBL": [
+                715
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "enough people have reported that their headphone jack does n't work after a month of using the device to believe that creative has some inbuilt manufacturing or quality control problem ."
+    }
+}

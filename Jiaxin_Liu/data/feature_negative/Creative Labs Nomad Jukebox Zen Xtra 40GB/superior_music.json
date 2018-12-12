@@ -1,0 +1,159 @@
+{
+    "7967db31bc77438a94a846ddeb630669": {
+        "(54, 94)": {
+            "WBF": [
+                131
+            ], 
+            "AM2L": [
+                507
+            ], 
+            "BM1F": [
+                3041
+            ], 
+            "M1": [
+                2771
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1219, 
+                2844, 
+                286, 
+                1536, 
+                3015, 
+                253, 
+                1545, 
+                2710, 
+                3203, 
+                3158, 
+                1973, 
+                1951, 
+                2844, 
+                2750, 
+                2057, 
+                2048, 
+                1853, 
+                2527, 
+                2760, 
+                304, 
+                1861, 
+                1513, 
+                1951, 
+                225, 
+                2886, 
+                3018, 
+                2844, 
+                1550, 
+                2726, 
+                3129, 
+                1441, 
+                3203, 
+                1059, 
+                2130, 
+                2886, 
+                2071
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            54
+        ], 
+        "location2": [
+            72, 
+            94
+        ], 
+        "(54, 72)": {
+            "WBF": [
+                131
+            ], 
+            "AM2L": [
+                2760
+            ], 
+            "BM1F": [
+                3041
+            ], 
+            "M1": [
+                2771
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1219, 
+                2844, 
+                286, 
+                1536, 
+                3015, 
+                253, 
+                1545, 
+                2710, 
+                3203, 
+                3158, 
+                1973, 
+                1951, 
+                2844, 
+                2750
+            ], 
+            "WBL": [
+                2048
+            ], 
+            "AM2F": [
+                2527
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "72aded7ea887df602a8ff0bb7045767d": {
+        "(10, 7)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2159
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                2771
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1043
+            ], 
+            "WBL": [
+                1043
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the sound quality with jazz and pop music is equally superior ."
+    }
+}

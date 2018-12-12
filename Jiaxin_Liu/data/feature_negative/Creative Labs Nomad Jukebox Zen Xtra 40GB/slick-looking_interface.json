@@ -1,0 +1,31 @@
+{
+    "1410831d46d56db6a5d5e35d549b0839": {
+        "(0, 4)": {
+            "WBF": [
+                845
+            ], 
+            "M1": [
+                2603
+            ], 
+            "M2": [
+                1522
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                1465
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "* slick-looking design and improved interface"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "87d3bee71401883dd97af2ad9bf28ae5": {
+        "(6, 21)": {
+            "WBF": [
+                3168
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                3210
+            ], 
+            "BM1L": [
+                2259
+            ], 
+            "WBO": [
+                1529, 
+                2371, 
+                2637, 
+                955, 
+                1156, 
+                1860, 
+                2886, 
+                1277, 
+                221, 
+                1856, 
+                1853
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                3194
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "i did have to put a little work into renaming some duplicate file name to get all my music on my zen xtra but it was n't a big problem ."
+    }, 
+    "7c34e517718ef2880221cd7408e54f54": {
+        "(6, 2)": {
+            "WBF": [
+                738
+            ], 
+            "AM2L": [
+                703
+            ], 
+            "BM1F": [
+                1901
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3018
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2745
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the nomad zen could use a little sturdier construction like the archos jukebox or some kind of shock resistant case ."
+    }
+}

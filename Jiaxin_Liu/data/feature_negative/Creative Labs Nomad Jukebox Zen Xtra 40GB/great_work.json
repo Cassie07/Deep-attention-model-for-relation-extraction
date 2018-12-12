@@ -1,0 +1,156 @@
+{
+    "b9bfe35c56e22b2e41d54ff0d9f5e938": {
+        "location1": [
+            29
+        ], 
+        "location2": [
+            27
+        ], 
+        "(29, 27)": {
+            "AM2L": [
+                1545
+            ], 
+            "WBFL": [
+                304
+            ], 
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "for a price that 's still less than even the lowest level ipod i was able to get this 40gb monster , and the best part is it work as great as it was advertised to and then some ."
+    }, 
+    "a7a2a63d634d00419baf9b30a158cbe5": {
+        "(9, 8)": {
+            "AM2L": [
+                1752
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                3018
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the scroll wheel is easy to use and work great for me , however many have complained that the wheel is cumbersome and difficult to operate ."
+    }, 
+    "294fb4d5c0dbd66ee87636a29c8f6923": {
+        "(3, 2)": {
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                2987
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the unit work great with my cassette adapter for my car & is also easily worked without taking your eye off the road !"
+    }, 
+    "2155dae2420356df58f64bd1e973732d": {
+        "(4, 17)": {
+            "WBF": [
+                1803
+            ], 
+            "AM2L": [
+                1844
+            ], 
+            "BM1F": [
+                260
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                3168
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1343, 
+                2886, 
+                1985, 
+                756, 
+                1236, 
+                2483, 
+                1856, 
+                1853, 
+                1641
+            ], 
+            "WBL": [
+                918
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "d ) software is another great misfortune -- hard to operate , crash frequently , screwed my music library up , doesnt work with mp4s , the list goes on and on"
+    }
+}

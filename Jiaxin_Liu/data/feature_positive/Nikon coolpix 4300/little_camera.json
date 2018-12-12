@@ -1,0 +1,426 @@
+{
+    "9f0a61055e1f449cb62f85d3d95c52bd": {
+        "(1, 2)": {
+            "AM2L": [
+                761
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                520
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(1, 18)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                1848
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                520
+            ], 
+            "WBO": [
+                1351, 
+                761, 
+                130, 
+                1740, 
+                416, 
+                1858, 
+                253, 
+                1893, 
+                1881, 
+                1586, 
+                1429, 
+                738, 
+                1701
+            ], 
+            "WBL": [
+                875
+            ], 
+            "AM2F": [
+                2628
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2, 
+            18
+        ], 
+        "sentence": "this little camera has created a marriage between myself and nikon . never knew i could love a digital camera so much ."
+    }, 
+    "f8fa77a39d46ecc23ee6c2f2659dd3e5": {
+        "(11, 12)": {
+            "AM2L": [
+                2628
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1168
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "ooh , and i dropped it and it still work fine : this little camera has so many feature i have n't even gotten to all of them yet ."
+    }, 
+    "e1059b8f0b964b9d4a7371a1719ac5a7": {
+        "(4, 5)": {
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "really happy with this little camera ."
+    }, 
+    "9a500297c21bf39ce8d23a80a2266c9f": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            10
+        ], 
+        "(7, 10)": {
+            "WBF": [
+                3200
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                2184
+            ], 
+            "WBL": [
+                2184
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "there are so many function in this little , yet powerful camera !"
+    }, 
+    "e389400b358904930d1a6caf7c8dd8e6": {
+        "(11, 12)": {
+            "BM1F": [
+                3021
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "overall the nikon 4300 is a very dependable , robust , and useful little camera ."
+    }, 
+    "6ab5e8c4fc8cb5905e79f4c8ff6d9ff5": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            6
+        ], 
+        "(14, 6)": {
+            "WBF": [
+                3130
+            ], 
+            "AM2L": [
+                566
+            ], 
+            "BM1F": [
+                1162
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                2474, 
+                253, 
+                1731, 
+                1814
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1251
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "autofocus feel exactly like my film camera while scene and manual mode add a little fun challenge to it all ."
+    }, 
+    "9a0c2c401f7f0515a8b07827ed8550ab": {
+        "location1": [
+            27
+        ], 
+        "location2": [
+            7
+        ], 
+        "(27, 7)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                3079
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                165, 
+                531, 
+                2844, 
+                2101, 
+                1241, 
+                2844, 
+                2878, 
+                3203, 
+                615, 
+                2844, 
+                502, 
+                253, 
+                1429, 
+                1355, 
+                2501, 
+                2079
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1457
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "2 . it takes a while for the camera to actually capture the photograph from the time you click the button and i have seen people becoming a little impatient waiting for the flash to glow ."
+    }, 
+    "22acb9431eff5025a15adbaf9c736917": {
+        "(10, 3)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                298
+            ], 
+            "BM1F": [
+                875
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                653
+            ], 
+            "WBO": [
+                1051, 
+                3021, 
+                1441
+            ], 
+            "WBL": [
+                1355
+            ], 
+            "AM2F": [
+                592
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            3, 
+            19
+        ], 
+        "(10, 19)": {
+            "WBF": [
+                592
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                3203
+            ], 
+            "WBO": [
+                298, 
+                253, 
+                3203, 
+                522, 
+                238
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the compact digital camera is especially useful if you have little child around and you can always take the camera with you and take many picture of them ."
+    }, 
+    "e71bfa23d0bac20249b5f7a3754b3ca7": {
+        "(19, 13)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                386
+            ], 
+            "BM1F": [
+                2595
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                2923
+            ], 
+            "WBO": [
+                1496, 
+                1312
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1270
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "after a lengthy and extensive journey for a feature-loaded , high performance , travel size camera , i initially gravitated to this little gem because of the superior picture quality 4 mega pixel ."
+    }
+}

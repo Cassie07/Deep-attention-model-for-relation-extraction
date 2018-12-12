@@ -1,0 +1,42 @@
+{
+    "1bf2d650dc6dd01868ac513222995eda": {
+        "(12, 5)": {
+            "WBF": [
+                1429
+            ], 
+            "BM1F": [
+                116
+            ], 
+            "M1": [
+                482
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                106
+            ], 
+            "WBO": [
+                2855, 
+                2859, 
+                520
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                595
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "however , for a $ 600 - $ 800 budget , i think this camera is an excellent choice ."
+    }
+}

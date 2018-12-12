@@ -1,0 +1,50 @@
+{
+    "164dda298348d815567dec7d16e56e32": {
+        "(23, 11)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                76
+            ], 
+            "BM1F": [
+                1188
+            ], 
+            "M1": [
+                533
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                2962
+            ], 
+            "WBO": [
+                1083, 
+                1429, 
+                1341, 
+                1225, 
+                2842, 
+                2260, 
+                1951, 
+                2844
+            ], 
+            "WBL": [
+                295
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that quality of the picture are excellent with 3m-4m pixel / fine combo and many of the user-friendly function are very similar to slr model , and with added convenience of a digital camera that you can see picture immediately ."
+    }
+}

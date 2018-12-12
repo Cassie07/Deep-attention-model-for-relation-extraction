@@ -1,0 +1,87 @@
+{
+    "702438ed98f2b97a5f63641e00164027": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            4, 
+            31
+        ], 
+        "(13, 31)": {
+            "WBF": [
+                2055
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1242
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2501
+            ], 
+            "WBO": [
+                2346, 
+                2886, 
+                617, 
+                1468, 
+                733, 
+                1623, 
+                130, 
+                1922, 
+                1265, 
+                416, 
+                2844, 
+                2055, 
+                253, 
+                371
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(13, 4)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2346
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1242
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                2844, 
+                588, 
+                1429, 
+                1355, 
+                1059
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2055
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the construction of the player is the cheesiest i have ever seen -- the front panel refused to clip in correctly , leaving a noticeable gap between the panel and base of the player ."
+    }
+}

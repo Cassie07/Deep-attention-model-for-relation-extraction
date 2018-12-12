@@ -1,0 +1,79 @@
+{
+    "0640603a2170d71444627f4f433fd0bd": {
+        "location1": [
+            19
+        ], 
+        "location2": [
+            25
+        ], 
+        "(19, 25)": {
+            "WBF": [
+                2097
+            ], 
+            "AM2L": [
+                2016
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1793, 
+                3170
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                2426
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "there is much which has been said in other review about the feature of this phone , it is a great phone , mine worked without any problem right out of the box ."
+    }, 
+    "d3039095351362825c0bb445adb849f3": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            3
+        ], 
+        "(4, 3)": {
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1827
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "1 month , no problem , great phone i 'm very pleased with my 6610 phone ."
+    }
+}

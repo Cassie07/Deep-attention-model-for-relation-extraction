@@ -1,0 +1,222 @@
+{
+    "07c7902d501403f2cfb77c7bc163b9a5": {
+        "(18, 9)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                912
+            ], 
+            "BM1F": [
+                1435
+            ], 
+            "M1": [
+                2810
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1874
+            ], 
+            "WBO": [
+                2814, 
+                130, 
+                3130, 
+                2886, 
+                912
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                1156
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "my only complaint would be that you need id3 tag & that takes a while to do if your mp3 file do n't have them ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            58
+        ], 
+        "(6, 58)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                1832
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2810
+            ], 
+            "BM1L": [
+                507
+            ], 
+            "WBO": [
+                1648, 
+                1854, 
+                253, 
+                3149, 
+                501, 
+                1915, 
+                765, 
+                3160, 
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545, 
+                3204, 
+                1853, 
+                765, 
+                1998, 
+                264, 
+                2011, 
+                655, 
+                221, 
+                1856, 
+                17, 
+                93, 
+                1268, 
+                1951, 
+                1853, 
+                3120, 
+                2918, 
+                2886, 
+                2844, 
+                3210
+            ], 
+            "WBL": [
+                732
+            ], 
+            "AM2F": [
+                1415
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }, 
+    "eb5f7f84fb72e7589f2fbebf5436ab11": {
+        "(4, 16)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                221
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                2810
+            ], 
+            "BM1L": [
+                62
+            ], 
+            "WBO": [
+                2859, 
+                2853, 
+                3145, 
+                1978, 
+                3168, 
+                2234, 
+                1441, 
+                3203
+            ], 
+            "WBL": [
+                1435
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "unlike my 3 other mp3 player , this thing will only work properly if you have id3 tag on all of your track ."
+    }, 
+    "513d68e23304b9a241c2496abf036c5b": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            7
+        ], 
+        "(13, 7)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1435
+            ], 
+            "M1": [
+                2810
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                3015
+            ], 
+            "WBO": [
+                295, 
+                1009
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1156
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "navigation system - the zen xtra us id3 tag that are embedded in the mp3 file to organize your song ."
+    }
+}

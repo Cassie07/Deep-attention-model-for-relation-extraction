@@ -1,0 +1,150 @@
+{
+    "0e323c1547426b8da1e4e82d6f89a302": {
+        "(1, 5)": {
+            "WBF": [
+                666
+            ], 
+            "AM2L": [
+                1998
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                421
+            ], 
+            "M2": [
+                379
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1643
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "my biggest complaint is the battery life or lack there of ."
+    }, 
+    "fe401e4c7ad5871abaee9660a3bbdd76": {
+        "(2, 22)": {
+            "WBF": [
+                190
+            ], 
+            "AM2L": [
+                1382
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                421
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                2174
+            ], 
+            "WBO": [
+                2859, 
+                2139, 
+                1351, 
+                1441, 
+                2204, 
+                3094, 
+                1859, 
+                5, 
+                1030, 
+                1541, 
+                2844, 
+                1112, 
+                2842, 
+                2844, 
+                3023, 
+                522
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1397
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            22, 
+            34
+        ], 
+        "(2, 34)": {
+            "WBF": [
+                190
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                421
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                2174
+            ], 
+            "WBO": [
+                2859, 
+                2139, 
+                1351, 
+                1441, 
+                2204, 
+                3094, 
+                1859, 
+                5, 
+                1030, 
+                1541, 
+                2844, 
+                1112, 
+                2842, 
+                2844, 
+                3023, 
+                522, 
+                2380, 
+                2844, 
+                379, 
+                1397, 
+                1382, 
+                507, 
+                1984, 
+                2844, 
+                1642, 
+                253, 
+                2162, 
+                1468
+            ], 
+            "WBL": [
+                1882
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "possibly the biggest advantage this player has ( if price was n't enough ) is the fact that the user can replace the battery him / herself by opening the lid and popping in the new battery ."
+    }
+}

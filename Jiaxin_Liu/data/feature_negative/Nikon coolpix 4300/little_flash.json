@@ -1,0 +1,43 @@
+{
+    "9a0c2c401f7f0515a8b07827ed8550ab": {
+        "(27, 32)": {
+            "WBF": [
+                1457
+            ], 
+            "AM2L": [
+                1294
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                1188
+            ], 
+            "BM1L": [
+                388
+            ], 
+            "WBO": [
+                3079
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            32
+        ], 
+        "sentence": "2 . it takes a while for the camera to actually capture the photograph from the time you click the button and i have seen people becoming a little impatient waiting for the flash to glow ."
+    }
+}

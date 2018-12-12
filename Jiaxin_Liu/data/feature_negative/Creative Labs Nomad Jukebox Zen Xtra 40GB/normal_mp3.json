@@ -1,0 +1,37 @@
+{
+    "c8196ec4c983af49734af374c87665fd": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                3124
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1912
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1648
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "on the subject of headphone , this thing seems like a normal mp3 player when you use the headphone they give you in the box , but invest 30 dollar in a nice pair and the sound quality goes up through the roof !"
+    }
+}

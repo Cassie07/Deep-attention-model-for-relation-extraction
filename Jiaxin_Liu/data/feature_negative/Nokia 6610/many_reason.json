@@ -1,0 +1,37 @@
+{
+    "21250d9726c5df5ab8b704a872ef5d69": {
+        "(5, 6)": {
+            "AM2L": [
+                402
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2305
+            ], 
+            "BM1L": [
+                411
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1973
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this is a benefit for many reason ; one being just for appearance , your pant wo n't be bulging with this phone in your pocket ."
+    }
+}

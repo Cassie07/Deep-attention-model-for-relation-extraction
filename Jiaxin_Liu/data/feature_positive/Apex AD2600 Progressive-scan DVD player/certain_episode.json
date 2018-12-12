@@ -1,0 +1,37 @@
+{
+    "a3501130193708007cd28c5fd53b8965": {
+        "(9, 10)": {
+            "AM2L": [
+                1896
+            ], 
+            "BM1F": [
+                2136
+            ], 
+            "M1": [
+                563
+            ], 
+            "M2": [
+                1040
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "on 2 dvds so far it refuse to play certain episode with no problem on the others on the dvd ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "f7c6a30b651882d1ae5523552ba03649": {
+        "(9, 10)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                2533
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                2948
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3026
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "i 've attempted to connect this unit to several different tv , using a multitude of connection method , and i still can 't get a video signal from the machine ."
+    }
+}

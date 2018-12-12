@@ -1,0 +1,37 @@
+{
+    "80bbb11678af660f0125fc0dd5f8324c": {
+        "(0, 5)": {
+            "WBF": [
+                615
+            ], 
+            "AM2L": [
+                898
+            ], 
+            "M1": [
+                2583
+            ], 
+            "M2": [
+                3074
+            ], 
+            "WBO": [
+                502
+            ], 
+            "WBL": [
+                502
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "simple click button , back button volume and display are very easy to read , access and use ."
+    }
+}

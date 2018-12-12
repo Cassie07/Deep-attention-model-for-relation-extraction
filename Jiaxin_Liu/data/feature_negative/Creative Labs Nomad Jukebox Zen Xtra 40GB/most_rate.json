@@ -1,0 +1,110 @@
+{
+    "44d22a9ad796160bb6beb7100f6b8152": {
+        "(11, 30)": {
+            "WBF": [
+                1951
+            ], 
+            "BM1F": [
+                1718
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                2285
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                1856, 
+                2644, 
+                2654, 
+                3176, 
+                2840, 
+                3160, 
+                1545, 
+                1429, 
+                1014, 
+                1856, 
+                2644, 
+                316, 
+                33, 
+                1574, 
+                3160
+            ], 
+            "WBL": [
+                423
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "the environmental audio , however , is almost completely useless and has made most of my song sound worse than without it ( i encode my song at 192-256 kbps without variable bit rate . )"
+    }, 
+    "b9c3cfb01eca2d647b08e3a4c809cc68": {
+        "(7, 30)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                1165
+            ], 
+            "BM1F": [
+                3168
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                2285
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2844, 
+                2878, 
+                501, 
+                2850, 
+                1541, 
+                130, 
+                1619, 
+                778, 
+                1212, 
+                2197, 
+                1545, 
+                1570, 
+                2426, 
+                1882, 
+                3023, 
+                2469, 
+                2852, 
+                1355, 
+                94
+            ], 
+            "WBL": [
+                2757
+            ], 
+            "AM2F": [
+                2637
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "the scroll wheel is finicky ; it work most of the time but there is a learning curve for pressing it just right ; new user say they have 50 % - 75 % success rate ; some find it so frustrating that they just return the device ."
+    }
+}

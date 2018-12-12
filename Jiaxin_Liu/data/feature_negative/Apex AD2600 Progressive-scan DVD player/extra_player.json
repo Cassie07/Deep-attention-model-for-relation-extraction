@@ -1,0 +1,44 @@
+{
+    "9bda6f3b3d54d3179789e2d0c3aa99fa": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            17
+        ], 
+        "(11, 17)": {
+            "WBF": [
+                1143
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                535
+            ], 
+            "M1": [
+                1100
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                961, 
+                501
+            ], 
+            "WBL": [
+                961
+            ], 
+            "AM2F": [
+                522
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "for example , i tried playing my new `` pirate of the carribean `` extra feature dvd , but this dvd player can not read it ."
+    }
+}

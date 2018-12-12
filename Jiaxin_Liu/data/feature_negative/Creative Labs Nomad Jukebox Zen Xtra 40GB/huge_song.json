@@ -1,0 +1,89 @@
+{
+    "1a660d93ab7bcfe1d1d3d39c1c3b80e0": {
+        "(0, 12)": {
+            "WBF": [
+                2725
+            ], 
+            "AM2L": [
+                2859
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                2644
+            ], 
+            "WBO": [
+                2660, 
+                1055, 
+                316, 
+                69, 
+                3203, 
+                522, 
+                2726, 
+                130
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "huge storage space - even at 320kbs , you can store a ton of song on this thing ."
+    }, 
+    "39e04a3877da6e2dd43afd9b1587c5f3": {
+        "(0, 15)": {
+            "WBF": [
+                2725
+            ], 
+            "AM2L": [
+                2712
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                2644
+            ], 
+            "WBO": [
+                2660, 
+                1429, 
+                1674, 
+                1856, 
+                1036, 
+                633, 
+                1951, 
+                1853, 
+                3129, 
+                1542, 
+                2842
+            ], 
+            "WBL": [
+                83
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "huge storage space , i loaded my entire collection of music , which isnt that much , 400 song , and still have 26 gb , out of the 28 provided to you ."
+    }
+}

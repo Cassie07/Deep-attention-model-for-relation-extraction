@@ -1,0 +1,43 @@
+{
+    "1e497d003ead8f158733c4abb51c307b": {
+        "(6, 9)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2665
+            ], 
+            "BM1L": [
+                2850
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "my favorite feature , although there are many , are the speaker phone , the radio and the infrared ."
+    }
+}

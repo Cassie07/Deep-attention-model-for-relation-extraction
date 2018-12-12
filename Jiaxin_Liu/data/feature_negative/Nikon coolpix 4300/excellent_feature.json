@@ -1,0 +1,49 @@
+{
+    "1769a914d0cd227d1f05d83abc44b3d3": {
+        "(20, 9)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                1829, 
+                2523, 
+                2102, 
+                3145, 
+                1701, 
+                2628, 
+                1545
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            20
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "it 's easy for beginner to use , but has feature that more serious photographer will love , so it 's an excellent camera to grow into ."
+    }
+}

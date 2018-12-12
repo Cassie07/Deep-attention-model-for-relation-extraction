@@ -1,0 +1,43 @@
+{
+    "9a500297c21bf39ce8d23a80a2266c9f": {
+        "(7, 4)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                2184
+            ], 
+            "BM1F": [
+                1737
+            ], 
+            "M1": [
+                1252
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                2628
+            ], 
+            "WBO": [
+                2859
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                3200
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "there are so many function in this little , yet powerful camera !"
+    }
+}

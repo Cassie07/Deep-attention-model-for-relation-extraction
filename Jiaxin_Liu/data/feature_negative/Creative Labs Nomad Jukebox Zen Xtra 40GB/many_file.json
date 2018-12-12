@@ -1,0 +1,52 @@
+{
+    "851613aef4dc3542de9dbdae5f08f0c4": {
+        "(37, 23)": {
+            "WBF": [
+                1896
+            ], 
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                2726
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1208, 
+                2738, 
+                253, 
+                1545, 
+                4, 
+                372, 
+                1967, 
+                2844, 
+                2885, 
+                1951
+            ], 
+            "WBL": [
+                2644
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            37
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "the con are n't really a big deal to me ... except one con that does annoy me is the way it store file ... no folder structure ... and it 's based on the title of the song ... many of my song where seperated into folder ( on the pc ) ... and a few had same title ... so i had to change the title to make sure that i did n't have any that might be the same as another ."
+    }
+}

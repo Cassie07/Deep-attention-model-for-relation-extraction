@@ -1,0 +1,47 @@
+{
+    "4fb1cfe789fe3b6adac7a3197959eeff": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            2
+        ], 
+        "(11, 2)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                695
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                200
+            ], 
+            "WBO": [
+                597, 
+                2844, 
+                84, 
+                1901, 
+                3210
+            ], 
+            "WBL": [
+                1241
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "after some consideration i chose the 40gb nomad zen xtra from creative , and i have not been disappointed ."
+    }
+}

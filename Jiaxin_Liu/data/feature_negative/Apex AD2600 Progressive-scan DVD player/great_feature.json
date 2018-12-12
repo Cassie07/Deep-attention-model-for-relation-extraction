@@ -1,0 +1,197 @@
+{
+    "f79b17a89c5ad1b3a2e790a644f71628": {
+        "(0, 4)": {
+            "WBF": [
+                2260
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1143
+            ], 
+            "WBO": [
+                2112
+            ], 
+            "WBL": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "great quality picture and feature ."
+    }, 
+    "d4aea072a4d82c259b1c6322dc4b650a": {
+        "(17, 18)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2529
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "it 's very sleek looking with a very good front panel button layout , and it has a great feature set ."
+    }, 
+    "71b6cd812bbbbaa721bb8c2de2cd2520": {
+        "(6, 7)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                381
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i find this to be a great feature ."
+    }, 
+    "368c413655d2e3b779a34ef7a27efb85": {
+        "(5, 2)": {
+            "WBF": [
+                863
+            ], 
+            "AM2L": [
+                722
+            ], 
+            "BM1F": [
+                193
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1557
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the aff feature did a great job converting the letterbox to fill 3/4 of the screen and the image still looked normal ."
+    }, 
+    "861504db448efd462039eef3646bd387": {
+        "(0, 1)": {
+            "AM2L": [
+                2157
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1143
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1660
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great feature list , poor reliability ."
+    }, 
+    "5dbe0792295c9820d86841e5c5bb0571": {
+        "(2, 7)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                1689
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "it look great - and is loaded with feature ."
+    }
+}

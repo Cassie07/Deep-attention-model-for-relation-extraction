@@ -1,0 +1,47 @@
+{
+    "fcc6060d8953928ffecfa28e3e7a7871": {
+        "(3, 12)": {
+            "WBF": [
+                822
+            ], 
+            "AM2L": [
+                1862
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1602
+            ], 
+            "M2": [
+                2987
+            ], 
+            "BM1L": [
+                2479
+            ], 
+            "WBO": [
+                253, 
+                985, 
+                2886, 
+                2296, 
+                253
+            ], 
+            "WBL": [
+                2580
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "the screen is large , defined , and easy to read , and the silver unit is naturally cool ."
+    }
+}

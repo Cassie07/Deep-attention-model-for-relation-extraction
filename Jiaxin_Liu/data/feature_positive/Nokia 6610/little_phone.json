@@ -1,0 +1,231 @@
+{
+    "58e7e474b8ea3dcf3293853aae627fc1": {
+        "(5, 6)": {
+            "AM2L": [
+                1302
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1548
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this really is a great little phone ; its got nice feature , a beatiful screen , great ergonomics , and its tiny !"
+    }, 
+    "238d0351c8c8c466d81f67763e3871b1": {
+        "(16, 5)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                2747
+            ], 
+            "WBO": [
+                2583, 
+                2886, 
+                3018, 
+                253, 
+                848, 
+                1548, 
+                828
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1326
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "in true nokia style , the phone is simple to use and despite its delicate appearance , this little guy is as durable as other nokias i have owned ."
+    }, 
+    "cb73b87bc53d6be47ba62c64c5eefff1": {
+        "(15, 1)": {
+            "WBF": [
+                644
+            ], 
+            "AM2L": [
+                1793
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1669
+            ], 
+            "WBO": [
+                3158, 
+                1963, 
+                2431, 
+                2637, 
+                808, 
+                357, 
+                2481, 
+                501, 
+                2844, 
+                2097
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                1770
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            1, 
+            12
+        ], 
+        "(15, 12)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                1793
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                3052
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                1770
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the phone comes with okay ringtones , some decent background / screensavers , but the phone has very little memory ( mine had 230kb as it arrived from amazon , so you do n't have too many option on what you can put on there ) ."
+    }, 
+    "105924e46523168dd9a09a96a05d6a46": {
+        "(1, 2)": {
+            "AM2L": [
+                653
+            ], 
+            "BM1F": [
+                1886
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                2097
+            ], 
+            "AM2F": [
+                1644
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "nice little phone ... light compact . ."
+    }, 
+    "0774bbf5a1f65c236eec818161d3b56d": {
+        "(7, 5)": {
+            "AM2L": [
+                2840
+            ], 
+            "WBFL": [
+                130
+            ], 
+            "BM1F": [
+                1644
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                3052
+            ], 
+            "AM2F": [
+                1634
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this is a very light phone - a little less than 3 oz , with long battery life ( not as long as the new polymer technology ) ."
+    }
+}

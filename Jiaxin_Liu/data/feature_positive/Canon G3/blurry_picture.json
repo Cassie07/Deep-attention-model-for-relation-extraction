@@ -1,0 +1,70 @@
+{
+    "80ccab7499b52c8d7a9bb1f85ab5e9d6": {
+        "(4, 5)": {
+            "BM1F": [
+                1737
+            ], 
+            "M1": [
+                440
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                2896
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "got way too many blurry picture ."
+    }, 
+    "96a3c89de3083b68a7e7476e1f55d023": {
+        "(25, 16)": {
+            "WBF": [
+                316
+            ], 
+            "BM1F": [
+                237
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                440
+            ], 
+            "BM1L": [
+                176
+            ], 
+            "WBO": [
+                2844, 
+                1394, 
+                875, 
+                3213, 
+                295
+            ], 
+            "WBL": [
+                1669
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            25
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the optical zoom work great and the 14x digital zoom is a very nice addition although picture at the highest digital zoom are a little blurry ."
+    }
+}

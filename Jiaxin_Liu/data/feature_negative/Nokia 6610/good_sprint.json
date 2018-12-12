@@ -1,0 +1,51 @@
+{
+    "464ae5e381f94d45fed8ae02ad5e7495": {
+        "(17, 4)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2804
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                2684
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2705
+            ], 
+            "WBO": [
+                2862, 
+                1429, 
+                1142, 
+                2842, 
+                2846, 
+                772, 
+                1541, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "i 'm staying with sprint , and though i fear that their csr is n't nearly as good as t-mobile 's , the clarity of their reception is exceptional ."
+    }
+}

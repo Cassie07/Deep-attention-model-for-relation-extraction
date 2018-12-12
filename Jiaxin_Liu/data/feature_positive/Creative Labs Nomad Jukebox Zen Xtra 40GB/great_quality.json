@@ -1,0 +1,189 @@
+{
+    "15c31085c6c71aeacffc1df322ba7655": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            8
+        ], 
+        "(6, 8)": {
+            "WBFL": [
+                2654
+            ], 
+            "BM1F": [
+                2021
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the player is intuitive and output great sound quality ."
+    }, 
+    "b119b00ce9abadfc9d962e0350c310c1": {
+        "(19, 1)": {
+            "WBF": [
+                3094
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                1300, 
+                501, 
+                1545, 
+                3094, 
+                1298, 
+                2886, 
+                2812, 
+                2637, 
+                2950, 
+                3158, 
+                2530, 
+                2886, 
+                2940, 
+                2886
+            ], 
+            "WBL": [
+                1545
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "+ / - sound quality was good but it was going to take some tweakings with setting to try to make it great ."
+    }, 
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(11, 10)": {
+            "AM2L": [
+                1685
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1300
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "97c7ba01b8d251276d4c9b11594e1473": {
+        "(11, 6)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                539
+            ], 
+            "BM1F": [
+                553
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1132
+            ], 
+            "WBO": [
+                1545
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            2, 
+            6
+        ], 
+        "(11, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                539
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1132, 
+                553, 
+                2260, 
+                253, 
+                1545
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the sound quality is fantastic ( cd quality ) and it is really great to carry this around instead of stack of cd 's or tape !"
+    }
+}

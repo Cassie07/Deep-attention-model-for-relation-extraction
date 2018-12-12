@@ -1,0 +1,111 @@
+{
+    "21b5b1779d52da82b0a477fbf05b65d0": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            46
+        ], 
+        "(9, 46)": {
+            "WBF": [
+                715
+            ], 
+            "AM2L": [
+                1441
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                2595
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                295, 
+                1978, 
+                2629, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                2567, 
+                2844, 
+                667, 
+                1157, 
+                1951, 
+                1843, 
+                3158, 
+                2304, 
+                1685, 
+                1860, 
+                3203, 
+                1855, 
+                789, 
+                2867, 
+                1060, 
+                3213, 
+                2530, 
+                61, 
+                79, 
+                92, 
+                9, 
+                61, 
+                1054, 
+                394, 
+                1279, 
+                352
+            ], 
+            "WBL": [
+                1912
+            ], 
+            "AM2F": [
+                2650
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "weakness are minor : the feel and layout of the remote control are only so-so ; it does n't show the complete filename of mp3s with really long name ; you must cycle through every zoom setting ( 2x , 3x , 4x , 1/2x , etc . ) before getting back to normal size [ sorry if i 'm just ignorant of a way to get back to 1x quickly ] ."
+    }, 
+    "84b3210547b32bd5ab20ec53b3438380": {
+        "(16, 10)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                2615
+            ], 
+            "M1": [
+                2595
+            ], 
+            "M2": [
+                2366
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844, 
+                1614
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "there were a few attractive feature , such as the small size and the layout of the remote ."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "cc9343b9437cedbe76ed6e65ab813167": {
+        "(10, 7)": {
+            "WBF": [
+                1456
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                845
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                2595
+            ], 
+            "WBO": [
+                1691
+            ], 
+            "WBL": [
+                1691
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the system is terrific in size and design , imo looking better than the ipod ."
+    }
+}

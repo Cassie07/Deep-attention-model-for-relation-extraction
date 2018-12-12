@@ -1,0 +1,25 @@
+{
+    "488636e06974d698e1fdaf82e4a7855d": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "WBFL": [
+                2576
+            ], 
+            "M1": [
+                2022
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                2319
+            ]
+        }, 
+        "sentence": "- outstanding signal reception"
+    }
+}

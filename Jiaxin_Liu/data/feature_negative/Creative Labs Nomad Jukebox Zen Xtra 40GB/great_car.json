@@ -1,0 +1,45 @@
+{
+    "294fb4d5c0dbd66ee87636a29c8f6923": {
+        "(3, 10)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                233
+            ], 
+            "BM1F": [
+                3168
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                532
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBO": [
+                1856, 
+                544, 
+                171
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the unit work great with my cassette adapter for my car & is also easily worked without taking your eye off the road !"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "648fbc07d2a2a8cf747e25741707426f": {
+        "(11, 1)": {
+            "WBF": [
+                2500
+            ], 
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2055
+            ], 
+            "M2": [
+                2011
+            ], 
+            "WBO": [
+                1648, 
+                1545, 
+                3145, 
+                643, 
+                1952, 
+                3052
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                2079
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the panel seems like it will come off very easily as other people have said ."
+    }
+}

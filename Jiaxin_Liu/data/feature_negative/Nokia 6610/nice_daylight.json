@@ -1,0 +1,34 @@
+{
+    "eeeacba322957f4c880a66e6ed2a23f0": {
+        "(11, 9)": {
+            "WBFL": [
+                3158
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                802
+            ], 
+            "M2": [
+                1886
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "AM2F": [
+                635
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the screen is bright , easy to see in the daylight , with nice color ."
+    }
+}

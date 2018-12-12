@@ -1,0 +1,126 @@
+{
+    "a0025c0db7ea0540259cd3b1b90d7fcb": {
+        "(3, 10)": {
+            "WBF": [
+                304
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                1973, 
+                3181, 
+                2789
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the sound is excellent as one would suspect from a creative product ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "location1": [
+            27
+        ], 
+        "location2": [
+            43
+        ], 
+        "(27, 43)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                392
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2810
+            ], 
+            "WBO": [
+                3142, 
+                1591, 
+                2886, 
+                381, 
+                415, 
+                2840, 
+                1536, 
+                1915, 
+                2785, 
+                697, 
+                2844, 
+                1929
+            ], 
+            "WBL": [
+                3196
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "f6bc4fd24b9be00f5b099c30cab47b22": {
+        "(4, 5)": {
+            "BM1F": [
+                260
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "all-in-all , this is another excellent creative product ."
+    }
+}

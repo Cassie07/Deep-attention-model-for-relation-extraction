@@ -1,0 +1,43 @@
+{
+    "5deb915c0f8e40d34ff37101c900e021": {
+        "(5, 2)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1967
+            ], 
+            "BM1F": [
+                1532
+            ], 
+            "M1": [
+                1774
+            ], 
+            "M2": [
+                419
+            ], 
+            "BM1L": [
+                3052
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2149
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "very intuitive menus are a big plus on this camera ."
+    }
+}

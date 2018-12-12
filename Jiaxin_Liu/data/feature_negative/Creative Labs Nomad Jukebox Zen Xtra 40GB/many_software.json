@@ -1,0 +1,117 @@
+{
+    "205ba48000827a3b49562499e168cd48": {
+        "(0, 6)": {
+            "WBF": [
+                2079
+            ], 
+            "AM2L": [
+                1548
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2631
+            ], 
+            "WBO": [
+                1355, 
+                3187
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                402
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            6, 
+            22
+        ], 
+        "(0, 22)": {
+            "WBF": [
+                2079
+            ], 
+            "AM2L": [
+                2
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2631
+            ], 
+            "WBO": [
+                1355, 
+                3187, 
+                134, 
+                2844, 
+                2631, 
+                402, 
+                1548, 
+                1973, 
+                928, 
+                2093, 
+                1429, 
+                1355, 
+                1859, 
+                5, 
+                1328, 
+                130, 
+                2588, 
+                2215
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "many people have written about the software being its one downfall , personally i have n't had a single problem with the software , i 'm running window me ."
+    }, 
+    "602351ae5883dd3c1b0573f9071110ed": {
+        "(0, 5)": {
+            "WBF": [
+                1355
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2631
+            ], 
+            "WBO": [
+                665
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1474
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "many have complained about the software included but in my opinion it 's easy to use and effective ."
+    }
+}

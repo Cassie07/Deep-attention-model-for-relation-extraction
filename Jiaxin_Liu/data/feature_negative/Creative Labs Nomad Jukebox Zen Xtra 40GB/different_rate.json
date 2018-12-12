@@ -1,0 +1,42 @@
+{
+    "f2411c8e4e34052a33a2a92ad250283e": {
+        "location1": [
+            31
+        ], 
+        "location2": [
+            24
+        ], 
+        "(31, 24)": {
+            "WBF": [
+                1545
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                2285
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                290
+            ], 
+            "WBO": [
+                372, 
+                1967, 
+                2139
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                608
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i gave the zen 5 star because it 's excellent for the class that it is in and it 's not really appropriate to rate it based on player in a different class ."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "9fab3fa1513794381fb4939e464dcc56": {
+        "(11, 20)": {
+            "WBF": [
+                2418
+            ], 
+            "AM2L": [
+                134
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1523
+            ], 
+            "BM1L": [
+                1620
+            ], 
+            "WBO": [
+                1351, 
+                1772, 
+                2844, 
+                988, 
+                522
+            ], 
+            "WBL": [
+                326
+            ], 
+            "AM2F": [
+                200
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "first , the sound quality is okay , but ( as at least one other reviewer has mentioned ) the eax can cause audio interference after about 30 minute ."
+    }
+}

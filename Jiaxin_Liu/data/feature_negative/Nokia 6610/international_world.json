@@ -1,0 +1,43 @@
+{
+    "75724e991eee9149c45dd759aeb7f1fd": {
+        "(11, 22)": {
+            "WBF": [
+                2097
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1526
+            ], 
+            "M2": [
+                3173
+            ], 
+            "BM1L": [
+                2938
+            ], 
+            "WBO": [
+                2844, 
+                108, 
+                1541, 
+                2632, 
+                1468, 
+                227, 
+                1065
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "another benefit of this phone is that it is truly an international phone ; the 6610 is sold in almost everywhere in the world ."
+    }
+}

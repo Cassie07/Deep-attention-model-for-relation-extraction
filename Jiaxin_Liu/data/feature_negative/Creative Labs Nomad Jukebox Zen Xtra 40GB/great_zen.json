@@ -1,0 +1,146 @@
+{
+    "3bf21a4b29d090cbd158c4195701fcd2": {
+        "(1, 17)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                3210
+            ], 
+            "WBO": [
+                127, 
+                2577, 
+                2289, 
+                383, 
+                1536, 
+                4, 
+                3002, 
+                2289, 
+                253, 
+                1300, 
+                2182, 
+                2021
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3194
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "1 ) great sound ( > 98db signal-to-noise ratio beat ipod 's `` unspecified `` ratio ) and good power output allow the zen xtra to drive large head-phones as well as external speaker ."
+    }, 
+    "2f0c579001ddf9a71892e54a7ae11a15": {
+        "(4, 1)": {
+            "WBF": [
+                3194
+            ], 
+            "AM2L": [
+                1300
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                2654
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the zen xtra sound great with good headphone and well recored mp3s ."
+    }, 
+    "93b83dad8de467af70db727ec3d5cebc": {
+        "(27, 3)": {
+            "WBF": [
+                3194
+            ], 
+            "BM1F": [
+                1594
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                765
+            ], 
+            "WBO": [
+                1351, 
+                221, 
+                2844, 
+                1143, 
+                2844, 
+                1431, 
+                1351, 
+                253, 
+                1441, 
+                3203, 
+                1277, 
+                1441, 
+                1241, 
+                246, 
+                3204, 
+                1978, 
+                1298, 
+                2886, 
+                2071, 
+                64
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the creative lab zen xtra has all the feature the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player ."
+    }
+}

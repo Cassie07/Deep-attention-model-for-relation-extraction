@@ -1,0 +1,70 @@
+{
+    "2264f719eb82749d362e807f6f91259d": {
+        "(35, 3)": {
+            "WBF": [
+                798
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                3210
+            ], 
+            "M1": [
+                2726
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1156, 
+                501, 
+                917, 
+                1915, 
+                223, 
+                130, 
+                1208, 
+                2738, 
+                1911, 
+                917, 
+                1545, 
+                223, 
+                914, 
+                2886, 
+                381, 
+                1983, 
+                1998, 
+                2226, 
+                2886, 
+                381, 
+                1613, 
+                1241, 
+                1548, 
+                896, 
+                2852, 
+                1855, 
+                381, 
+                727
+            ], 
+            "WBL": [
+                260
+            ], 
+            "AM2F": [
+                943
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "4 .the zen * store * data file , but does not allow a folder structure nor does it allow document to be opened or program to be launched from its disk ( they must be copied to another hard drive to be launched ) ."
+    }
+}

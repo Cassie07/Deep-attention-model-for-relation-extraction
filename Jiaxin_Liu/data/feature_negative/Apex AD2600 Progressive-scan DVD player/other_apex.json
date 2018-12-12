@@ -1,0 +1,203 @@
+{
+    "62cf1a8d3b2e903f5a6f46e8d99bb3c2": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            7
+        ], 
+        "(17, 7)": {
+            "WBF": [
+                386
+            ], 
+            "AM2L": [
+                1839
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                275
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                352
+            ], 
+            "WBO": [
+                1545, 
+                3163, 
+                1859, 
+                5, 
+                2136, 
+                563
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                961
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have sent my ad2600 back to apex because it wo n't play certain disney and other dvd movie ( no disc message ) ."
+    }, 
+    "972c9a8ae7cdb01c2d55a7fe93e6ecd2": {
+        "(1, 14)": {
+            "WBF": [
+                1318
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                275
+            ], 
+            "WBO": [
+                1541, 
+                2844, 
+                1479, 
+                755, 
+                2366, 
+                3129, 
+                1541, 
+                3176, 
+                2840
+            ], 
+            "WBL": [
+                581
+            ], 
+            "AM2F": [
+                2987
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1, 
+            12
+        ], 
+        "location2": [
+            14
+        ], 
+        "(12, 14)": {
+            "WBFL": [
+                581
+            ], 
+            "BM1F": [
+                2840
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                275
+            ], 
+            "BM1L": [
+                3176
+            ], 
+            "AM2F": [
+                2987
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "my other gripe is the incredibly crappy remote , which is worse than other , cheaper apex unit ."
+    }, 
+    "5af90fdafd59b525226aefa2ffc9fd00": {
+        "(18, 6)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                275
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                2387
+            ], 
+            "WBO": [
+                130, 
+                2361, 
+                463, 
+                501, 
+                3158, 
+                1856, 
+                1086, 
+                253
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2417
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            6, 
+            33
+        ], 
+        "(18, 33)": {
+            "WBF": [
+                2417
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                275
+            ], 
+            "BM1L": [
+                2299
+            ], 
+            "WBO": [
+                1429, 
+                2855, 
+                1429, 
+                3145, 
+                381, 
+                919, 
+                130, 
+                1669, 
+                1829, 
+                1410, 
+                394
+            ], 
+            "WBL": [
+                260
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i read in consumer report that apex is a reliable brand , but with my experience and reading the other review , i think i will be doing a little more homework before considering another apex product ."
+    }
+}

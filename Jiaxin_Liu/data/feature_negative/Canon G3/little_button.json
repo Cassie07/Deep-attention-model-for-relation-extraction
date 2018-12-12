@@ -1,0 +1,74 @@
+{
+    "dfb1e702c3280b5fd148ea2e3efce750": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            2, 
+            13
+        ], 
+        "(11, 13)": {
+            "AM2L": [
+                1874
+            ], 
+            "WBFL": [
+                1678
+            ], 
+            "BM1F": [
+                2883
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                502
+            ], 
+            "BM1L": [
+                348
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(11, 2)": {
+            "WBF": [
+                1147
+            ], 
+            "AM2L": [
+                502
+            ], 
+            "BM1F": [
+                1969
+            ], 
+            "M1": [
+                502
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2642, 
+                1196, 
+                253, 
+                1351, 
+                251
+            ], 
+            "WBL": [
+                2883
+            ], 
+            "AM2F": [
+                1678
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the on-off button feel somewhat flimsy , and has an awkward , tiny little lock-out button that need to be depressed to turn on the camera ."
+    }
+}

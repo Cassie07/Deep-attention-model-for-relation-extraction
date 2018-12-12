@@ -1,0 +1,39 @@
+{
+    "b8c4180a9c3121e6ea19a6b4eeabba04": {
+        "(0, 13)": {
+            "WBF": [
+                2097
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2112
+            ], 
+            "WBO": [
+                2844, 
+                2097, 
+                1689, 
+                1848, 
+                415, 
+                2840, 
+                3121, 
+                2957, 
+                2496
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "excellent phone , the phone look much better than what u see in the picture ."
+    }
+}

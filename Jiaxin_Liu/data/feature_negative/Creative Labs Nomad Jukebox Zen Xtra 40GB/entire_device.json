@@ -1,0 +1,87 @@
+{
+    "8d1f6697eefabe40a2bed7c33818a32d": {
+        "(4, 10)": {
+            "WBF": [
+                553
+            ], 
+            "AM2L": [
+                2644
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                858
+            ], 
+            "BM1L": [
+                2725
+            ], 
+            "WBO": [
+                633, 
+                1468
+            ], 
+            "WBL": [
+                2615
+            ], 
+            "AM2F": [
+                101
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "12 ) big storage - my entire cd collection in one small device ( 5717 song , 491 album and counting ) !"
+    }, 
+    "3e72e9cc6e251da6798a2e9e66feb5b3": {
+        "(7, 14)": {
+            "WBF": [
+                553
+            ], 
+            "AM2L": [
+                1698
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                858
+            ], 
+            "BM1L": [
+                1933
+            ], 
+            "WBO": [
+                633, 
+                1541, 
+                1967
+            ], 
+            "WBL": [
+                2166
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "1 . i achieved my basic objective ; my entire cd collection is on a portable device with lot of room to store more ."
+    }
+}

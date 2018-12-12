@@ -1,0 +1,88 @@
+{
+    "0908662baf8f85d175cd9e342db17d3e": {
+        "(3, 18)": {
+            "WBF": [
+                1055
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1366
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                3158, 
+                2844, 
+                2772, 
+                975, 
+                501, 
+                1429, 
+                1165, 
+                975, 
+                2968, 
+                2628, 
+                1429
+            ], 
+            "WBL": [
+                869
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "the sound is great even with the supplied earbuds -- but i find earbuds uncomfortable so i use different headphone ."
+    }, 
+    "2f0c579001ddf9a71892e54a7ae11a15": {
+        "(4, 7)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                3115
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1366
+            ], 
+            "BM1L": [
+                3194
+            ], 
+            "WBO": [
+                1300
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the zen xtra sound great with good headphone and well recored mp3s ."
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "f814470075f9eaffe13f9b92b246daab": {
+        "(3, 10)": {
+            "WBF": [
+                3112
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                2734
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                253, 
+                1351, 
+                130
+            ], 
+            "WBL": [
+                2576
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "it is very light weight and has a good signal strength ."
+    }
+}

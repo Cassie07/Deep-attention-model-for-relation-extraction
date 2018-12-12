@@ -1,0 +1,83 @@
+{
+    "f221ac367372a9d0142195a8c2d6879c": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            5
+        ], 
+        "(18, 5)": {
+            "WBF": [
+                1212
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                3166
+            ], 
+            "BM1L": [
+                1328
+            ], 
+            "WBO": [
+                1973, 
+                1248, 
+                801, 
+                253, 
+                1429, 
+                1355, 
+                2886, 
+                2469, 
+                2842
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have only had this camera for one full day and i have to say that it is wonderful ."
+    }, 
+    "922bdfb560dc1c43d64652c25daaa354": {
+        "(4, 1)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                3166
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2529
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the camera has a wonderful set of feature ."
+    }
+}

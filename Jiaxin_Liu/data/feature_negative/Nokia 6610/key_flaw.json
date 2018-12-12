@@ -1,0 +1,55 @@
+{
+    "b04114762c3824238acb69a9f7c5cc55": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            19
+        ], 
+        "(2, 19)": {
+            "WBF": [
+                522
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                3074
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1191
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                381, 
+                1343, 
+                2886, 
+                2195, 
+                501, 
+                1429, 
+                2855, 
+                2859, 
+                1748, 
+                381, 
+                507, 
+                845, 
+                2287
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2088
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the volume key can be hard to press , but i think this may be by design rather than a flaw , perhaps to keep you from pressing it accidentally when you are in a call ."
+    }
+}

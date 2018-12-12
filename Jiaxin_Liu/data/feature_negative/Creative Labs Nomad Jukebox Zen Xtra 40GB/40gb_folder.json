@@ -1,0 +1,50 @@
+{
+    "df460eaf582c2debf712f5605d908023": {
+        "(15, 27)": {
+            "WBF": [
+                2166
+            ], 
+            "AM2L": [
+                316
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                84
+            ], 
+            "M2": [
+                1208
+            ], 
+            "BM1L": [
+                413
+            ], 
+            "WBO": [
+                1343, 
+                943, 
+                215, 
+                1973, 
+                1967, 
+                3129, 
+                1429, 
+                522
+            ], 
+            "WBL": [
+                760
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }
+}

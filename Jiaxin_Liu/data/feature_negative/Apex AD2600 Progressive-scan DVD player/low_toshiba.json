@@ -1,0 +1,46 @@
+{
+    "559deec06532af818dc647a493e9e9dc": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            14
+        ], 
+        "(6, 14)": {
+            "WBF": [
+                2204
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2355
+            ], 
+            "M1": [
+                1703
+            ], 
+            "M2": [
+                2902
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                237, 
+                2844, 
+                415, 
+                1591
+            ], 
+            "WBL": [
+                1648
+            ], 
+            "AM2F": [
+                2118
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "progressive scan player for a relatively low price ( although the better known manufacturer like toshiba , pioneer , and panasonic are now offering lower-priced progressive scan player as well ) ."
+    }
+}

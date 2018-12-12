@@ -1,0 +1,31 @@
+{
+    "53a91a3802fc40bbba3c21c7e9355215": {
+        "(2, 0)": {
+            "AM2L": [
+                2199
+            ], 
+            "WBFL": [
+                1545
+            ], 
+            "M1": [
+                1106
+            ], 
+            "M2": [
+                918
+            ], 
+            "AM2F": [
+                1689
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "f ) it doesnt look pretty -- spending this kind of cash , you want something that has the asthetics bit down , of course"
+    }
+}

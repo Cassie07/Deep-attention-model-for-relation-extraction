@@ -1,0 +1,156 @@
+{
+    "88b9aa2d53178b2ce98e7c56d5c5e0d8": {
+        "(5, 15)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                7
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                423
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844, 
+                2660, 
+                1579, 
+                1212, 
+                2839, 
+                1499
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                687
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the fact that the `` 0 `` key is the space key for text input is a bit confusing , as many phone use the `` # `` key instead .", 
+        "(9, 15)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                2660
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                423
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2839, 
+                1499
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                687
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location2": [
+            15
+        ], 
+        "location1": [
+            5, 
+            9, 
+            22
+        ], 
+        "(22, 15)": {
+            "WBF": [
+                687
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                423
+            ], 
+            "M2": [
+                1579
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                304, 
+                1737, 
+                2097
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1513
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }
+    }, 
+    "8c8bbd4a1f9a38c0933fcbd3803b117e": {
+        "(1, 10)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                423
+            ], 
+            "WBO": [
+                619, 
+                2889, 
+                253, 
+                2844, 
+                1614
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1255
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the key are close together , and the layout is a bit funky in relation to standard rectangular layout keypad , but it 's not too weird ."
+    }
+}

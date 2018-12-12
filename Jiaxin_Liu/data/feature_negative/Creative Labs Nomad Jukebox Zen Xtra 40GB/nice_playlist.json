@@ -1,0 +1,93 @@
+{
+    "7f29f0fe969c8fc60fdc28661dd9739a": {
+        "(16, 7)": {
+            "WBF": [
+                316
+            ], 
+            "AM2L": [
+                1808
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                2141
+            ], 
+            "M2": [
+                1886
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                2844, 
+                1820, 
+                253, 
+                2844, 
+                2279
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1557
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i have over 2000 file in my playlist at the moment and the random does a nice job mixing it up ."
+    }, 
+    "0a00b74b0ff92b29a1f105bc7d87ff27": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            0
+        ], 
+        "(16, 0)": {
+            "WBF": [
+                522
+            ], 
+            "AM2L": [
+                1998
+            ], 
+            "M1": [
+                2141
+            ], 
+            "M2": [
+                1886
+            ], 
+            "WBO": [
+                381, 
+                1274, 
+                1967, 
+                2844, 
+                1199, 
+                3129, 
+                1541, 
+                130, 
+                423, 
+                627, 
+                501, 
+                2712
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                446
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "playlist can be generated on the fly ( which is a bit clunky but still a really nice bonus ) or by using the software , and there are a bevy of eq option ."
+    }
+}

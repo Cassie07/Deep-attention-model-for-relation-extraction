@@ -1,0 +1,37 @@
+{
+    "0e5f67b050553dd76a766dd94211c505": {
+        "(5, 3)": {
+            "AM2L": [
+                2844
+            ], 
+            "WBFL": [
+                2642
+            ], 
+            "BM1F": [
+                2596
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                420
+            ], 
+            "BM1L": [
+                2053
+            ], 
+            "AM2F": [
+                2849
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "nice palm sized unit , somewhat bigger then the ipod but not an issue if you 're not going to try & jog with it or something ."
+    }
+}

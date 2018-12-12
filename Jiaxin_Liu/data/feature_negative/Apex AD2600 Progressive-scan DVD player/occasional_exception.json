@@ -1,0 +1,43 @@
+{
+    "cd5b349634b4fc9c4d56bec8bf4015ef": {
+        "(20, 17)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2654
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1075
+            ], 
+            "M2": [
+                1945
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                251
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                3189
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            20
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "i 've had the player for about 2 year now and it still performs nicely with the exception of an occasional wwhhhrrr sound from the motor ."
+    }
+}

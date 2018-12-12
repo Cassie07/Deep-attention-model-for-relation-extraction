@@ -1,0 +1,111 @@
+{
+    "b9c3cfb01eca2d647b08e3a4c809cc68": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            41
+        ], 
+        "(22, 41)": {
+            "WBF": [
+                3023
+            ], 
+            "BM1F": [
+                2426
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                858
+            ], 
+            "BM1L": [
+                1570
+            ], 
+            "WBO": [
+                2469, 
+                2852, 
+                1355, 
+                94, 
+                112, 
+                2757, 
+                2285, 
+                2637, 
+                1165, 
+                1545, 
+                2628, 
+                1245, 
+                2842, 
+                2852, 
+                1570
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the scroll wheel is finicky ; it work most of the time but there is a learning curve for pressing it just right ; new user say they have 50 % - 75 % success rate ; some find it so frustrating that they just return the device ."
+    }, 
+    "00b26e308a4b8730247f6846646d008a": {
+        "location1": [
+            21
+        ], 
+        "location2": [
+            51
+        ], 
+        "(21, 51)": {
+            "WBF": [
+                1536
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                858
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBO": [
+                1915, 
+                2886, 
+                1771, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                2586, 
+                3158, 
+                705, 
+                1660, 
+                2097, 
+                1929, 
+                179, 
+                447, 
+                989, 
+                1648, 
+                2844, 
+                1536, 
+                3129, 
+                1000, 
+                1856, 
+                1874, 
+                1212, 
+                264, 
+                1583
+            ], 
+            "WBL": [
+                2053
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "its far more difficult to select song and has no easy to use on the fly playlist creation such as the new ipod not to mention it does n't sinc with contact list , phone number , address book , ect . like the ipod ( which eliminated my need for any kind of palm device ) ."
+    }
+}

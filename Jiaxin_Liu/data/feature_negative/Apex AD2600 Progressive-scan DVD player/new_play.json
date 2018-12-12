@@ -1,0 +1,73 @@
+{
+    "ded43ef4232c5c23698e001714547447": {
+        "(0, 9)": {
+            "WBF": [
+                553
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                2136
+            ], 
+            "WBO": [
+                227, 
+                238, 
+                396, 
+                2599, 
+                200
+            ], 
+            "WBL": [
+                1151
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "new cd almost always began skipping after a few play ."
+    }, 
+    "6e5204af1151707aebba1f5f0526b68d": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            12
+        ], 
+        "(16, 12)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                5
+            ], 
+            "M1": [
+                2136
+            ], 
+            "M2": [
+                1882
+            ], 
+            "BM1L": [
+                1859
+            ], 
+            "WBO": [
+                2852
+            ], 
+            "WBL": [
+                3120
+            ], 
+            "AM2F": [
+                1973
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "( on here of course ) also , a couple dvd 's would n't play and they were new one !"
+    }
+}

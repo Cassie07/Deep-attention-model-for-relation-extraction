@@ -1,0 +1,43 @@
+{
+    "b2e9195b55b3d4ac0429cebac50af3a0": {
+        "(9, 5)": {
+            "WBF": [
+                2911
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                1276
+            ], 
+            "M1": [
+                216
+            ], 
+            "M2": [
+                1602
+            ], 
+            "BM1L": [
+                570
+            ], 
+            "WBO": [
+                1493
+            ], 
+            "WBL": [
+                1212
+            ], 
+            "AM2F": [
+                1929
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "-- > too difficult to change genre / album / track information for large number of track ."
+    }
+}

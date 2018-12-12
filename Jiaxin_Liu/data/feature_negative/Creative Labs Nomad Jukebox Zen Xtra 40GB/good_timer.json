@@ -1,0 +1,80 @@
+{
+    "00562a00a0ab2c377658f1ccf279b3bb": {
+        "location1": [
+            2, 
+            7
+        ], 
+        "location2": [
+            11
+        ], 
+        "(7, 11)": {
+            "WBF": [
+                2631
+            ], 
+            "AM2L": [
+                2136
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2881
+            ], 
+            "BM1L": [
+                2184
+            ], 
+            "WBO": [
+                3081
+            ], 
+            "WBL": [
+                2601
+            ], 
+            "AM2F": [
+                1851
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(2, 11)": {
+            "WBF": [
+                1522
+            ], 
+            "AM2L": [
+                2136
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2881
+            ], 
+            "BM1L": [
+                1313
+            ], 
+            "WBO": [
+                2381, 
+                2184, 
+                379, 
+                1300, 
+                2631
+            ], 
+            "WBL": [
+                2601
+            ], 
+            "AM2F": [
+                1851
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "great sound ; good interface ; replaceable , powerful battery ; good software ; wake-up , sleep timer ; multiple play mode"
+    }
+}

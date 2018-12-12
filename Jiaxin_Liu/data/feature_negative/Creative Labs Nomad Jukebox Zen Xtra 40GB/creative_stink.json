@@ -1,0 +1,25 @@
+{
+    "20f4caa1b3acf788d80ee49ac27d76cd": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "WBFL": [
+                2631
+            ], 
+            "M1": [
+                765
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                2713
+            ]
+        }, 
+        "sentence": "creative software stink ."
+    }
+}

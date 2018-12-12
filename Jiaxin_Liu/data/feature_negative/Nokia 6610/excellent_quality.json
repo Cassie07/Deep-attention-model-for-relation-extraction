@@ -1,0 +1,101 @@
+{
+    "e5530a413b6c717bbc2f6d1ede7c1ead": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "WBFL": [
+                2654
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                2260
+            ]
+        }, 
+        "sentence": "- excellent sound quality"
+    }, 
+    "37a84a72000588d4bc0ae8bef4295a66": {
+        "(4, 2)": {
+            "AM2L": [
+                1749
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                1074
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the sound quality is excellent , except , maybe a * tad * too quiet at time when there are quieter talker on the other end of the line ."
+    }, 
+    "867e0d28796d18caa886b83e1e446570": {
+        "(14, 11)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2097
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                1300
+            ], 
+            "WBO": [
+                251
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                1201
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "while i had the phone , the positive feature were : good sound quality and an excellent fm phone and earpiece ."
+    }
+}

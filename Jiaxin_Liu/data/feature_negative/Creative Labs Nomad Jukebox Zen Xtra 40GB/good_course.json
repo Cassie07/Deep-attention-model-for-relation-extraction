@@ -1,0 +1,43 @@
+{
+    "68a8302a084952a7e1cf8fe9f3f14b4e": {
+        "(5, 2)": {
+            "WBF": [
+                1355
+            ], 
+            "AM2L": [
+                1996
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                745
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                3203
+            ], 
+            "WBO": [
+                2637
+            ], 
+            "WBL": [
+                2637
+            ], 
+            "AM2F": [
+                784
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "you of course have some good customization option with the unit as well ( sound presets , navigating option , playlist , etc ) ."
+    }
+}

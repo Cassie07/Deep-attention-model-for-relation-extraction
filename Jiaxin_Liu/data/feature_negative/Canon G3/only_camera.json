@@ -1,0 +1,171 @@
+{
+    "f221ac367372a9d0142195a8c2d6879c": {
+        "(2, 5)": {
+            "WBF": [
+                1328
+            ], 
+            "AM2L": [
+                1973
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                2859
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "i have only had this camera for one full day and i have to say that it is wonderful ."
+    }, 
+    "865ea00ba670fc3054260a8b5b0d9e2b": {
+        "(2, 13)": {
+            "WBF": [
+                1328
+            ], 
+            "AM2L": [
+                1725
+            ], 
+            "BM1F": [
+                6
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                1545, 
+                130, 
+                3110, 
+                501, 
+                2628, 
+                1134, 
+                1064
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "i 've only had it a week , but so far , everything about this camera is making me happy ."
+    }, 
+    "aa040e2aac44669936f89ea50c0ca0fe": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            9
+        ], 
+        "(1, 9)": {
+            "WBF": [
+                2952
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                520
+            ], 
+            "WBO": [
+                1797, 
+                1544, 
+                1429, 
+                1355
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the only two minor issue i have with the camera are the lens cap ( it is not very snug and can come off too easily ) and the lens itself ( it partially obstructs the view through the viewfinder but not view through the lcd ) ."
+    }, 
+    "e30184599d5c95a24e9a14a132efb341": {
+        "(1, 8)": {
+            "WBF": [
+                1797
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                520
+            ], 
+            "WBO": [
+                1895, 
+                1429, 
+                1355
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the only minor nit i have with the camera are it is fairly boxy looking , it need a wrist strap instead of a neck strap , and it is a bit slow between shot ."
+    }
+}

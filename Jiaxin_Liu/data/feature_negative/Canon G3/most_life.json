@@ -1,0 +1,93 @@
+{
+    "68f771352d0e49722a16c9efbc7c8342": {
+        "(5, 1)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                520
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1643
+            ], 
+            "M2": [
+                1832
+            ], 
+            "WBO": [
+                940
+            ], 
+            "WBL": [
+                2886
+            ], 
+            "AM2F": [
+                875
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "battery life , the drawback to most digital camera , to quote k. reef ."
+    }, 
+    "d52f5e6f17b27cadd223d0665cf39034": {
+        "(22, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1643
+            ], 
+            "M2": [
+                1832
+            ], 
+            "BM1L": [
+                39
+            ], 
+            "WBO": [
+                2024, 
+                80, 
+                93, 
+                1422, 
+                658, 
+                2886, 
+                134, 
+                39, 
+                93, 
+                1422, 
+                1212, 
+                2844, 
+                1259, 
+                1998, 
+                2844, 
+                39
+            ], 
+            "WBL": [
+                1212
+            ], 
+            "AM2F": [
+                1894
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "2 . battery life is over 4.5 hour , compared to about 2.5 hour for the g2 or the 2 hour for most nikons ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "cef7009c693118f1f13f7521c361b2de": {
+        "(17, 19)": {
+            "AM2L": [
+                304
+            ], 
+            "WBFL": [
+                103
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1885
+            ], 
+            "M2": [
+                1827
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "AM2F": [
+                386
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "i fully expect it to go bad again in the same or some other way in the next 6 month because , as other reviewer have pointed out , the construction is pretty flimsy ."
+    }
+}

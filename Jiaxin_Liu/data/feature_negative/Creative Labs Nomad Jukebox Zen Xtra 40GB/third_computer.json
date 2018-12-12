@@ -1,0 +1,47 @@
+{
+    "54724dd286a492837cf9f736f866a74a": {
+        "(0, 21)": {
+            "WBF": [
+                765
+            ], 
+            "M1": [
+                2857
+            ], 
+            "M2": [
+                674
+            ], 
+            "WBO": [
+                2631, 
+                226, 
+                3203, 
+                2886, 
+                1576, 
+                2952, 
+                3151, 
+                1982, 
+                2886, 
+                1689, 
+                316, 
+                454, 
+                2844, 
+                707, 
+                1967, 
+                2844, 
+                2139
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "third , creative software allows you to keep two window open to look at both the content on the player and the computer ."
+    }
+}

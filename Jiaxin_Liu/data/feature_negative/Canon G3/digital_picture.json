@@ -1,0 +1,201 @@
+{
+    "96a3c89de3083b68a7e7476e1f55d023": {
+        "(20, 16)": {
+            "WBF": [
+                316
+            ], 
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                237
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                176
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                1394
+            ], 
+            "AM2F": [
+                3213
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8, 
+            20
+        ], 
+        "location2": [
+            16
+        ], 
+        "(8, 16)": {
+            "WBF": [
+                3213
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                25
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1541, 
+                130, 
+                3052, 
+                1886
+            ], 
+            "WBL": [
+                237
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the optical zoom work great and the 14x digital zoom is a very nice addition although picture at the highest digital zoom are a little blurry ."
+    }, 
+    "a3966ba04d7e675a36911883e1bc65b2": {
+        "(18, 2)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                1424
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                635, 
+                253, 
+                2544, 
+                1951, 
+                1207, 
+                295, 
+                2628, 
+                1313, 
+                1545, 
+                668, 
+                1000, 
+                1856
+            ], 
+            "WBL": [
+                134
+            ], 
+            "AM2F": [
+                1452
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "a ) the picture quality ( color and sharpness of focusing ) are so great , it completely eliminated my doubt about digital imaging -- - how could one eat rice one grain at a time : - ) )"
+    }, 
+    "bd6e7dce4fc34417032ba104211c56a2": {
+        "(11, 12)": {
+            "AM2L": [
+                1240
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                2215
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2254
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "i have not yet seen any of the usual problem with digital picture ( purple fringing , etc ) so i am very pleased ."
+    }, 
+    "2ba780a3839b97663494b0fa5de97d11": {
+        "(12, 13)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1727
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the canon computer software used to download , sort , upload and manage your digital picture on the computer is very nice and very easy to use ."
+    }
+}

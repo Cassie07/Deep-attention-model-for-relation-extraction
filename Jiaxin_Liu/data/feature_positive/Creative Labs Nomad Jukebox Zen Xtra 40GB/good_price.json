@@ -1,0 +1,225 @@
+{
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(8, 19)": {
+            "WBF": [
+                2654
+            ], 
+            "BM1F": [
+                2853
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                2260, 
+                1313, 
+                1143, 
+                1685, 
+                379, 
+                1643, 
+                253
+            ], 
+            "WBL": [
+                2966
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "a885b5a985f79263561e8a12ab307a35": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            6
+        ], 
+        "(2, 6)": {
+            "WBF": [
+                503
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                2025
+            ], 
+            "WBO": [
+                1212
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "overall , a good buy for the price ."
+    }, 
+    "3fd077cfdb53680671d6b273e8b56c20": {
+        "(1, 6)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                2835
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2204
+            ], 
+            "WBO": [
+                316
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be ."
+    }, 
+    "8121831049060e4e814eb90a284743c5": {
+        "(9, 10)": {
+            "AM2L": [
+                1313
+            ], 
+            "BM1F": [
+                1064
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                1536
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }, 
+    "4f24be526a9c92068894b12a0079407e": {
+        "location1": [
+            8
+        ], 
+        "location2": [
+            2
+        ], 
+        "(8, 2)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                1143, 
+                1545
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "for the price and feature it is really good ."
+    }, 
+    "5a9e2c56b3e4e5359842e5b8ef87d675": {
+        "(14, 10)": {
+            "WBF": [
+                1723
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2595
+            ], 
+            "WBO": [
+                1545
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                503
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "lot of flaw , but exceptional sound quality , hd size , and price make it a good buy ."
+    }
+}

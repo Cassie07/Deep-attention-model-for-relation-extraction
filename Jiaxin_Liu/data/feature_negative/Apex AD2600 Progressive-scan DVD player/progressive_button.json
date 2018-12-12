@@ -1,0 +1,45 @@
+{
+    "1b4b8b00a1be6322acc0a3232c0e902d": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            11
+        ], 
+        "(1, 11)": {
+            "WBF": [
+                2472
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                502
+            ], 
+            "WBO": [
+                1996, 
+                522, 
+                381, 
+                2946, 
+                1952, 
+                984
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the progressive scan option can be turned off easily by a button on the remote control which is one of the simplest and easiest remote control i have ever seen or used ."
+    }
+}

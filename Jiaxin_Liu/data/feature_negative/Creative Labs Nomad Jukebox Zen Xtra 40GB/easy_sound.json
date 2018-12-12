@@ -1,0 +1,230 @@
+{
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "(11, 10)": {
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }, 
+    "23437ff0a6808a5975343315b39f966d": {
+        "(3, 10)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                507
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                2369, 
+                379, 
+                253
+            ], 
+            "WBL": [
+                2837
+            ], 
+            "AM2F": [
+                2220
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "plus are the easy to remove battery and the terrific sound produced by the nomad ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            34
+        ], 
+        "location2": [
+            43
+        ], 
+        "(34, 43)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1551
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                715
+            ], 
+            "WBO": [
+                3018, 
+                200, 
+                1743, 
+                2844, 
+                2484
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            30
+        ], 
+        "(13, 30)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                343
+            ], 
+            "WBO": [
+                3018, 
+                253, 
+                2976, 
+                1143, 
+                2631, 
+                2842, 
+                1541, 
+                2583, 
+                2886, 
+                2976, 
+                253, 
+                3018, 
+                253
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) ."
+    }, 
+    "26afbb728550c0df1149e771bc94d54b": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            1
+        ], 
+        "(20, 1)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2296
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                985
+            ], 
+            "WBO": [
+                1541, 
+                1072, 
+                253, 
+                1429, 
+                2, 
+                1257, 
+                3158, 
+                2842, 
+                2742, 
+                2844, 
+                2987, 
+                1689, 
+                724, 
+                2479, 
+                1541
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }
+}

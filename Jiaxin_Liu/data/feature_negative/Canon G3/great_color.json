@@ -1,0 +1,74 @@
+{
+    "a3966ba04d7e675a36911883e1bc65b2": {
+        "(11, 4)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                668
+            ], 
+            "BM1F": [
+                2260
+            ], 
+            "M1": [
+                635
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2112
+            ], 
+            "WBO": [
+                2544, 
+                1951, 
+                1207
+            ], 
+            "WBL": [
+                2628
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "a ) the picture quality ( color and sharpness of focusing ) are so great , it completely eliminated my doubt about digital imaging -- - how could one eat rice one grain at a time : - ) )"
+    }, 
+    "e4ef0ebc749295bdb2fcb874531a583e": {
+        "(0, 1)": {
+            "AM2L": [
+                253
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                635
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great color , picture and white balance ."
+    }
+}

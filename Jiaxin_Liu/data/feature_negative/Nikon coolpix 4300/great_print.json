@@ -1,0 +1,50 @@
+{
+    "9f043f0ebf4759c2f9e477ec5b0d50d5": {
+        "(19, 4)": {
+            "WBF": [
+                2002
+            ], 
+            "BM1F": [
+                1977
+            ], 
+            "M1": [
+                2211
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                3158, 
+                2844, 
+                2952, 
+                1722, 
+                3015, 
+                466, 
+                253, 
+                1831, 
+                2411, 
+                253, 
+                2852
+            ], 
+            "WBL": [
+                831
+            ], 
+            "AM2F": [
+                2408
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "i experimented with online print ordering with the two major us brick and mortar retailer , and they both delivered great result ."
+    }
+}

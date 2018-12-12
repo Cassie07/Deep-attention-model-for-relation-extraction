@@ -1,0 +1,43 @@
+{
+    "a475cd1c0454d10a130c0e05e28e193d": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            3
+        ], 
+        "(11, 3)": {
+            "WBF": [
+                53
+            ], 
+            "BM1F": [
+                275
+            ], 
+            "M1": [
+                1815
+            ], 
+            "M2": [
+                2366
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                3145, 
+                1915, 
+                3168, 
+                3158
+            ], 
+            "WBL": [
+                2988
+            ], 
+            "AM2F": [
+                715
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "5 ) this apex model 2600 will not work with my universal remote control ."
+    }
+}

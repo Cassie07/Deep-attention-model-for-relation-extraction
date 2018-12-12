@@ -1,0 +1,31 @@
+{
+    "9a500297c21bf39ce8d23a80a2266c9f": {
+        "(9, 10)": {
+            "BM1F": [
+                3200
+            ], 
+            "M1": [
+                2184
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1669
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "there are so many function in this little , yet powerful camera !"
+    }
+}

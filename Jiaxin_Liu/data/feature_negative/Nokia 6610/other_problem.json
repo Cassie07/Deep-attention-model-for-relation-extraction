@@ -1,0 +1,55 @@
+{
+    "0640603a2170d71444627f4f433fd0bd": {
+        "(8, 25)": {
+            "WBF": [
+                2417
+            ], 
+            "AM2L": [
+                2016
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                2454
+            ], 
+            "WBO": [
+                134, 
+                2844, 
+                1143, 
+                1951, 
+                2859, 
+                2097, 
+                1545, 
+                1541, 
+                130, 
+                1313, 
+                2097, 
+                1793, 
+                3170
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                2426
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "there is much which has been said in other review about the feature of this phone , it is a great phone , mine worked without any problem right out of the box ."
+    }
+}

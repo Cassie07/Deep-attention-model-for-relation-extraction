@@ -1,0 +1,92 @@
+{
+    "ca1eaed91c3e55f4cceab5acd302386c": {
+        "(6, 22)": {
+            "WBF": [
+                1644
+            ], 
+            "AM2L": [
+                392
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                1703
+            ], 
+            "M2": [
+                2570
+            ], 
+            "BM1L": [
+                1207
+            ], 
+            "WBO": [
+                253, 
+                3181, 
+                1915, 
+                2812, 
+                2844, 
+                2112, 
+                3124, 
+                2844, 
+                2570, 
+                3094, 
+                2196, 
+                501
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1328
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            16, 
+            22
+        ], 
+        "(6, 16)": {
+            "WBF": [
+                1644
+            ], 
+            "AM2L": [
+                2196
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                1703
+            ], 
+            "M2": [
+                2570
+            ], 
+            "BM1L": [
+                1207
+            ], 
+            "WBO": [
+                253, 
+                3181, 
+                1915, 
+                2812, 
+                2844, 
+                2112
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the g3 had problem focusing in low light and would not take the picture when the shutter was pressed but after the shutter had been released a few second ."
+    }
+}

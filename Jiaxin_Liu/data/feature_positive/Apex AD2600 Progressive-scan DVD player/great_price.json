@@ -1,0 +1,37 @@
+{
+    "43bd3fca24e560e70ef752b201fe7025": {
+        "(8, 9)": {
+            "AM2L": [
+                522
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                2760
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1424
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "and amazon.com has it for such a great price -- how can you go wrong ?"
+    }
+}

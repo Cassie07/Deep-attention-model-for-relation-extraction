@@ -1,0 +1,37 @@
+{
+    "fe19754870ba8de34ab8b68d4788bf6a": {
+        "(4, 2)": {
+            "AM2L": [
+                2840
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1174
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                3008
+            ], 
+            "AM2F": [
+                1801
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "update : the finish is more `` mirror `` than silver -- and i like it !"
+    }
+}

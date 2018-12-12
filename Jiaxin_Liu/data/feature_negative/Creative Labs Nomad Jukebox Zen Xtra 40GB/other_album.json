@@ -1,0 +1,48 @@
+{
+    "371fcb1667fb81be4f3ab2087f44f90e": {
+        "location1": [
+            21
+        ], 
+        "location2": [
+            8
+        ], 
+        "(21, 8)": {
+            "WBF": [
+                2587
+            ], 
+            "BM1F": [
+                303
+            ], 
+            "M1": [
+                216
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1276
+            ], 
+            "WBO": [
+                2974, 
+                1276, 
+                3203, 
+                1277, 
+                1570, 
+                221, 
+                2911, 
+                1468, 
+                2842
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "AM2F": [
+                910
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "you even can not navigate by genre / artist / album since under genre you get just all track in that genre , no other division ."
+    }
+}

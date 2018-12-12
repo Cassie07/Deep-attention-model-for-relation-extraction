@@ -1,0 +1,263 @@
+{
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            20
+        ], 
+        "(10, 20)": {
+            "WBF": [
+                985
+            ], 
+            "AM2L": [
+                1859
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2886, 
+                3018, 
+                1055, 
+                2862, 
+                1429, 
+                206
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }, 
+    "00562a00a0ab2c377658f1ccf279b3bb": {
+        "(1, 8)": {
+            "WBF": [
+                1300
+            ], 
+            "AM2L": [
+                2601
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2631
+            ], 
+            "WBO": [
+                1522, 
+                2381, 
+                2184
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                3081
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "great sound ; good interface ; replaceable , powerful battery ; good software ; wake-up , sleep timer ; multiple play mode"
+    }, 
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "(30, 19)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1143
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2976
+            ], 
+            "WBO": [
+                1541, 
+                2583, 
+                2886, 
+                2976, 
+                253, 
+                3018, 
+                253
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            30
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "(48, 2)": {
+            "WBF": [
+                3020
+            ], 
+            "AM2L": [
+                658
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1164
+            ], 
+            "WBO": [
+                2886, 
+                2259, 
+                221, 
+                2844, 
+                2644, 
+                1529, 
+                1545, 
+                1541, 
+                3041, 
+                1490, 
+                2886, 
+                1550, 
+                1967, 
+                2952, 
+                1638, 
+                1179, 
+                1545, 
+                1541, 
+                2158, 
+                1515, 
+                1529, 
+                2844, 
+                2025, 
+                2139, 
+                253, 
+                627, 
+                2886, 
+                3018, 
+                1051, 
+                3158, 
+                2811, 
+                253, 
+                2494, 
+                2844, 
+                3162, 
+                326, 
+                1219, 
+                2761, 
+                1190, 
+                2016, 
+                2761, 
+                1468
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            48
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "e31dd62f55c1c30d4c665bd6ad5606e1": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            1
+        ], 
+        "(14, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2221
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                2654
+            ], 
+            "WBO": [
+                1915, 
+                1300, 
+                994, 
+                253, 
+                2844, 
+                944, 
+                1351, 
+                2935, 
+                3172
+            ], 
+            "WBL": [
+                2011
+            ], 
+            "AM2F": [
+                427
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the software is not good either and the driver has trouble working with other sound blaster product , which is very dumb ."
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(18, 9)": {
+            "WBF": [
+                2260
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2966
+            ], 
+            "BM1L": [
+                2853
+            ], 
+            "WBO": [
+                1313, 
+                1143, 
+                1685, 
+                379, 
+                1643
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                2204
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }
+}

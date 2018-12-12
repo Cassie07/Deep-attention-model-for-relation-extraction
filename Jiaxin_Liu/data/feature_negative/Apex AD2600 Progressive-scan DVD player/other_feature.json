@@ -1,0 +1,37 @@
+{
+    "a981acb506188c8737a2ad731e15dfff": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            15
+        ], 
+        "(14, 15)": {
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2851
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i only wanted something to play dvds on but this machine has all these other feature that i probably will never use but it 's nice to know that there 're there ."
+    }
+}

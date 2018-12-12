@@ -1,0 +1,47 @@
+{
+    "4bd98e3804be5a792f3b30af064b63d8": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            13
+        ], 
+        "(4, 13)": {
+            "WBF": [
+                2587
+            ], 
+            "AM2L": [
+                912
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1668
+            ], 
+            "BM1L": [
+                379
+            ], 
+            "WBO": [
+                1971, 
+                1545, 
+                1057, 
+                3105, 
+                2016
+            ], 
+            "WBL": [
+                221
+            ], 
+            "AM2F": [
+                379
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "- the replacable battery is great since once it eventually wear out ( as all lithium battery do ) , you will be able to buy another easily ."
+    }
+}

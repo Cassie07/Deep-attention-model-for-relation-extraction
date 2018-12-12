@@ -1,0 +1,68 @@
+{
+    "66c96d417bca7af0fbf9a1d25d7bf577": {
+        "(9, 10)": {
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2156
+            ], 
+            "M2": [
+                2431
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the color screen is a plus , as are the polyphonic ringtones ."
+    }, 
+    "8ea22abcafee5d8784ac48d7824ecab7": {
+        "(11, 1)": {
+            "WBF": [
+                1474
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2431
+            ], 
+            "M2": [
+                2156
+            ], 
+            "WBO": [
+                295, 
+                346, 
+                253, 
+                863, 
+                1429, 
+                1771
+            ], 
+            "WBL": [
+                3120
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the ringtones included are awesome , and did i mention they were polyphonic ?"
+    }
+}

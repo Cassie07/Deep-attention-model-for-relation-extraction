@@ -1,0 +1,60 @@
+{
+    "1a660d93ab7bcfe1d1d3d39c1c3b80e0": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "AM2L": [
+                316
+            ], 
+            "WBFL": [
+                2725
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                2660
+            ], 
+            "AM2F": [
+                1055
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "huge storage space - even at 320kbs , you can store a ton of song on this thing ."
+    }, 
+    "39e04a3877da6e2dd43afd9b1587c5f3": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "AM2L": [
+                1674
+            ], 
+            "WBFL": [
+                2725
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                2660
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "huge storage space , i loaded my entire collection of music , which isnt that much , 400 song , and still have 26 gb , out of the 28 provided to you ."
+    }
+}

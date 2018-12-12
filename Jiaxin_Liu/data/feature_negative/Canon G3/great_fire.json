@@ -1,0 +1,45 @@
+{
+    "c97426f7e6b7627ae5bb73ee0fe03b0b": {
+        "(5, 12)": {
+            "WBF": [
+                2098
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2812
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1175
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1951, 
+                2844, 
+                91
+            ], 
+            "WBL": [
+                1568
+            ], 
+            "AM2F": [
+                3168
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "i was able to take great photo of the 4th of july fire work , and got some amazing shot of the kid playing with sparkler ."
+    }
+}

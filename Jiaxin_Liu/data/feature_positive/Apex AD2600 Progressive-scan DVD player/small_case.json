@@ -1,0 +1,37 @@
+{
+    "304678fb79adc7d18bc570816e65c16f": {
+        "(5, 6)": {
+            "AM2L": [
+                3052
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                541
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "so much packed in a small case and very affordable !"
+    }
+}

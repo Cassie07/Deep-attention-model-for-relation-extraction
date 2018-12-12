@@ -1,0 +1,37 @@
+{
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "location1": [
+            28
+        ], 
+        "location2": [
+            33
+        ], 
+        "(28, 33)": {
+            "WBF": [
+                2644
+            ], 
+            "BM1F": [
+                1377
+            ], 
+            "M1": [
+                1030
+            ], 
+            "M2": [
+                1828
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                2886
+            ], 
+            "WBL": [
+                264
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }
+}

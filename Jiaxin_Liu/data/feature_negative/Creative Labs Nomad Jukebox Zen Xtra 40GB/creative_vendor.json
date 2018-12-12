@@ -1,0 +1,43 @@
+{
+    "aeaf53d9981fcdae134d914c14c3bf3a": {
+        "(7, 12)": {
+            "WBF": [
+                1594
+            ], 
+            "AM2L": [
+                2647
+            ], 
+            "BM1F": [
+                1417
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                3047
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBO": [
+                1998
+            ], 
+            "WBL": [
+                2011
+            ], 
+            "AM2F": [
+                3145
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "overall it is a great unit & hopefully creative lab or some other vendor will soon come out with some accessory for it ."
+    }
+}

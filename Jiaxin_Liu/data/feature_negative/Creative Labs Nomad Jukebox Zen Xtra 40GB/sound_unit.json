@@ -1,0 +1,136 @@
+{
+    "26afbb728550c0df1149e771bc94d54b": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            13
+        ], 
+        "(1, 13)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                724
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2987
+            ], 
+            "WBO": [
+                1541, 
+                1072, 
+                253, 
+                1429, 
+                2, 
+                1257, 
+                3158, 
+                2842
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1689
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }, 
+    "68a8302a084952a7e1cf8fe9f3f14b4e": {
+        "(13, 10)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                1864
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                3115
+            ], 
+            "WBL": [
+                3115
+            ], 
+            "AM2F": [
+                2194
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "you of course have some good customization option with the unit as well ( sound presets , navigating option , playlist , etc ) ."
+    }, 
+    "f744e4fb9058b980763743190fc727d9": {
+        "(4, 16)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2595
+            ], 
+            "BM1F": [
+                2771
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2987
+            ], 
+            "BM1L": [
+                442
+            ], 
+            "WBO": [
+                2840, 
+                2844, 
+                1536, 
+                1425, 
+                1545, 
+                673, 
+                130, 
+                423
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the zx boast superior sound quality than the ipod , however it compromise a bit of the unit 's size in doing so ."
+    }
+}

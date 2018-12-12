@@ -1,0 +1,34 @@
+{
+    "b7fe89c7512fb83bb17ebeaa6b53d631": {
+        "(7, 8)": {
+            "BM1F": [
+                1241
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1321
+            ], 
+            "BM1L": [
+                2112
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "it receives very nice mms picture from other gsm phone ."
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "381645b8c5e4a5a766692ae2bb576665": {
+        "(6, 13)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                1594
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1168
+            ], 
+            "BM1L": [
+                765
+            ], 
+            "WBO": [
+                253, 
+                1545, 
+                1541
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "this is my second creative lab mp3 player , and it is definitely a fine product ."
+    }, 
+    "25e9ac3314edbb22f429a90632829517": {
+        "(9, 5)": {
+            "WBF": [
+                1926
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                3172
+            ], 
+            "M1": [
+                1168
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2631
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "i have the software working fine now and the mp3 player is fantastic ."
+    }
+}

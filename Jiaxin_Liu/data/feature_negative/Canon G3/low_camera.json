@@ -1,0 +1,49 @@
+{
+    "031b904a61e903f18f947e9c55fd4cfa": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            14
+        ], 
+        "(3, 14)": {
+            "WBF": [
+                1644
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                1703
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1225
+            ], 
+            "WBO": [
+                2592, 
+                641, 
+                3158, 
+                264, 
+                2651, 
+                1951, 
+                161
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i found that low light situation combined with any sort of action left this camera in the dust ."
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "a07ba4c61197603df5d0eb7207abc1d6": {
+        "(6, 7)": {
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1723
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1901
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1093
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i did not managed to make creative nomad explorer to work ."
+    }, 
+    "4fb1cfe789fe3b6adac7a3197959eeff": {
+        "(11, 7)": {
+            "WBF": [
+                3210
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                84
+            ], 
+            "M1": [
+                1901
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3194
+            ], 
+            "WBL": [
+                1241
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "after some consideration i chose the 40gb nomad zen xtra from creative , and i have not been disappointed ."
+    }, 
+    "20ba4c4b32823c2ce57fa535aeed926f": {
+        "(27, 19)": {
+            "WBF": [
+                295
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1901
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBO": [
+                2461, 
+                304, 
+                2565, 
+                381
+            ], 
+            "WBL": [
+                1241
+            ], 
+            "AM2F": [
+                1594
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "i have n't had time to really push this player to the limit , but audio aspect on the nomad are satisfactory , as should be expected from creative lab ."
+    }
+}

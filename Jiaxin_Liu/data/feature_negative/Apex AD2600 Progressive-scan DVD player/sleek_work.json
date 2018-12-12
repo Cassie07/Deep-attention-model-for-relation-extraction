@@ -1,0 +1,40 @@
+{
+    "01bd9627b997fb43d6e384241050849a": {
+        "(8, 11)": {
+            "WBF": [
+                845
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2600
+            ], 
+            "M2": [
+                3168
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                1168
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "as a whole , the dvd player has a sleek design and work fine ."
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "44fa354def3a024a49de7a6b055cf68c": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            6
+        ], 
+        "(12, 6)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1141
+            ], 
+            "BM1L": [
+                1279
+            ], 
+            "WBO": [
+                2327, 
+                2952
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                966
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i immediately had problem getting the player to recognize two of my favorite dvds ."
+    }
+}

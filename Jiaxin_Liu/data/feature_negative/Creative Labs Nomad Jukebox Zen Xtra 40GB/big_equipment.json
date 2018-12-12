@@ -1,0 +1,42 @@
+{
+    "fb3aa19e10f1dae6b9413cfe33af040c": {
+        "(10, 0)": {
+            "WBF": [
+                1474
+            ], 
+            "AM2L": [
+                2587
+            ], 
+            "M1": [
+                1045
+            ], 
+            "M2": [
+                419
+            ], 
+            "WBO": [
+                1541, 
+                340, 
+                501, 
+                2842, 
+                1541, 
+                1859
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                805
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "- equipment included is average , but that is n't a big deal since thats not what you are buying it for ."
+    }
+}

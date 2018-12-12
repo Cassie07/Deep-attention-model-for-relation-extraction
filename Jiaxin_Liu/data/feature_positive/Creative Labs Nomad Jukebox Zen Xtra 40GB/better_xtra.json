@@ -1,0 +1,131 @@
+{
+    "4571ab0de8e8a459a17e954063b78c9d": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            13
+        ], 
+        "(3, 13)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                5
+            ], 
+            "BM1F": [
+                381
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                3194
+            ], 
+            "BM1L": [
+                738
+            ], 
+            "WBO": [
+                2850, 
+                1541, 
+                1859, 
+                5, 
+                2304, 
+                267
+            ], 
+            "WBL": [
+                3210
+            ], 
+            "AM2F": [
+                522
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "navigation could be better , but there is n't really anything the zen xtra can 't do once you 've gotten comfortable with it ."
+    }, 
+    "78c51d9eb31454b8f9dba754a0353b4b": {
+        "(35, 31)": {
+            "WBF": [
+                3094
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                3210
+            ], 
+            "M1": [
+                3194
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                1901
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                1134
+            ], 
+            "AM2F": [
+                3035
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            31
+        ], 
+        "sentence": "try before you buy if at all possible : although i am a mac addict now for over a decade and everyone i know has previously bought an ipod , the nomad zen xtra was a far better value and is just as easy to use with regard to both hardware and software interface ."
+    }, 
+    "009a83596167fefb74ee4f99f3da73be": {
+        "(16, 1)": {
+            "WBF": [
+                1467
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3194
+            ], 
+            "M2": [
+                415
+            ], 
+            "WBO": [
+                3014, 
+                2844, 
+                3210, 
+                1931, 
+                3158, 
+                130, 
+                1604, 
+                1927, 
+                359, 
+                2479, 
+                3129
+            ], 
+            "WBL": [
+                1491
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the xtra improves upon the zen nx with a larger , now-blue backlit screen , which is infinitely better ."
+    }
+}

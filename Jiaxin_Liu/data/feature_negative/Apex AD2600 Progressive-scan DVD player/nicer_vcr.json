@@ -1,0 +1,37 @@
+{
+    "9982cf025cf09cf43f1be57afa09155b": {
+        "(24, 26)": {
+            "AM2L": [
+                2139
+            ], 
+            "WBFL": [
+                961
+            ], 
+            "BM1F": [
+                1848
+            ], 
+            "M1": [
+                1888
+            ], 
+            "M2": [
+                3045
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "AM2F": [
+                642
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "all in all , trying to save some money on this player resulted in me shelling a great deal more when i purchased a much nicer dvd vcr combo player to make up for blazing crappiness of this very embarassing gift ."
+    }
+}

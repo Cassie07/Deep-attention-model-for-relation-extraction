@@ -1,0 +1,132 @@
+{
+    "3dd55b27114ec5fd6815b8c30aa6e44f": {
+        "(3, 1)": {
+            "AM2L": [
+                2844
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1632
+            ], 
+            "M2": [
+                3067
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1, 
+            9
+        ], 
+        "(3, 9)": {
+            "WBF": [
+                1468
+            ], 
+            "AM2L": [
+                2529
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                3067
+            ], 
+            "M2": [
+                1632
+            ], 
+            "BM1L": [
+                1632
+            ], 
+            "WBO": [
+                2844, 
+                3062
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the lens is visible in the viewfinder when the lens is set to the wide angle , but since i use the lcd most of the time , this is not really much of a bother to me ."
+    }, 
+    "182dbace3a6e704ea16ab6aaf5ee6811": {
+        "(1, 0)": {
+            "AM2L": [
+                1994
+            ], 
+            "M1": [
+                1632
+            ], 
+            "M2": [
+                3067
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "* lens visible in optical viewfinder ."
+    }, 
+    "dbec951619c24117174bfb3323091148": {
+        "(12, 10)": {
+            "AM2L": [
+                2844
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1632
+            ], 
+            "M2": [
+                3067
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "one little minor flaw with this camera is that the lens is visible in the viewfinder , but does not detract from the image at all ."
+    }
+}

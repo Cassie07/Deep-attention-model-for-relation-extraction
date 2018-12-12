@@ -1,0 +1,88 @@
+{
+    "d2ecbc0b6c5a83518582c7e8d313b9b7": {
+        "(24, 27)": {
+            "WBF": [
+                1607
+            ], 
+            "AM2L": [
+                1054
+            ], 
+            "BM1F": [
+                1814
+            ], 
+            "M1": [
+                1685
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                625
+            ], 
+            "WBO": [
+                2320
+            ], 
+            "WBL": [
+                2320
+            ], 
+            "AM2F": [
+                1054
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "the same 4mp chip from the 4500 camera , plus a 3x zoom with the ability to expand upon that with extenders , great closeup mode , long lasting rechargable battery , etc etc ."
+    }, 
+    "c258388ac50d5b84b13964b0049cfc7c": {
+        "(14, 5)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                1441
+            ], 
+            "BM1F": [
+                2320
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                1685
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                917, 
+                1915, 
+                2498, 
+                2886, 
+                1605
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                1051
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "it comes with a rechargable battery that does not seem to last all that long , especially if you use the flash a lot ."
+    }
+}

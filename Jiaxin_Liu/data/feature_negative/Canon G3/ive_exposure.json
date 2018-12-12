@@ -1,0 +1,47 @@
+{
+    "38c47be19193cb76675feafd049a684c": {
+        "(16, 7)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2501
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1094
+            ], 
+            "M2": [
+                1551
+            ], 
+            "BM1L": [
+                1441
+            ], 
+            "WBO": [
+                156, 
+                2844, 
+                635, 
+                295, 
+                304
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                1059
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "without any tweaking at all , if the exposure is accurate , the color are as realistic as ive ever seen produced by film , and this is a raw image !"
+    }
+}

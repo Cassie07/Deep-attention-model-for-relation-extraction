@@ -1,0 +1,63 @@
+{
+    "8aa5d60d1152572e6165890c76430ad6": {
+        "(0, 1)": {
+            "AM2L": [
+                3163
+            ], 
+            "M1": [
+                871
+            ], 
+            "M2": [
+                1865
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(8, 1)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                871
+            ], 
+            "M1": [
+                1865
+            ], 
+            "M2": [
+                871
+            ], 
+            "WBO": [
+                3163, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                2469
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            0, 
+            8
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "difficult navigation - i wo n't necessarily say `` difficult , `` but i do n't enjoy the scrollwheel to navigate ."
+    }
+}

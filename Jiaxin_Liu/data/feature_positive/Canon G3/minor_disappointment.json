@@ -1,0 +1,37 @@
+{
+    "3d44c865026753694c91909c1268f652": {
+        "(2, 3)": {
+            "AM2L": [
+                1396
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1797
+            ], 
+            "M2": [
+                889
+            ], 
+            "BM1L": [
+                848
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "despite this minor disappointment , i highly recommend the canon g3 anyone who is serious about digital photography ."
+    }
+}

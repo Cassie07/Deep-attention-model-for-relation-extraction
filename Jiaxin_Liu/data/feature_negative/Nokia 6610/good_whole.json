@@ -1,0 +1,45 @@
+{
+    "74ab0cc3f6e22fc34b2fa57efbcb6936": {
+        "(16, 6)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                3136
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBO": [
+                1541, 
+                1915, 
+                1648, 
+                2012, 
+                3158, 
+                1973
+            ], 
+            "WBL": [
+                2952
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this phone is great as a whole and is not like others with one or two good quality ."
+    }
+}

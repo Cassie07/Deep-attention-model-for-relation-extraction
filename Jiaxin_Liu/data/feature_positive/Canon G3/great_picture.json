@@ -1,0 +1,281 @@
+{
+    "5e8d37c7fc800e394540cc47e42d3496": {
+        "(2, 3)": {
+            "AM2L": [
+                715
+            ], 
+            "BM1F": [
+                1287
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "it gives great picture , the control are easy to use , the battery last forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing ."
+    }, 
+    "e4ef0ebc749295bdb2fcb874531a583e": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "AM2L": [
+                3133
+            ], 
+            "WBFL": [
+                635
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2112
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "great color , picture and white balance ."
+    }, 
+    "16cd32323d48271d45afd13c1449f1f2": {
+        "(7, 3)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1427
+            ], 
+            "WBO": [
+                2852
+            ], 
+            "WBL": [
+                3120
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "took hundred of picture and they were great ."
+    }, 
+    "5b3c35f2d0200b492eb1d84caff2bd26": {
+        "(2, 3)": {
+            "AM2L": [
+                2263
+            ], 
+            "BM1F": [
+                2814
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1986
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "it takes great picture , operates quickly , and feel solid ."
+    }, 
+    "0edeb8de7afc625a933b4c41f00abaf8": {
+        "(17, 33)": {
+            "WBF": [
+                842
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1529
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1295
+            ], 
+            "WBO": [
+                1468, 
+                2846, 
+                2417, 
+                501, 
+                1429, 
+                239, 
+                3052, 
+                2143, 
+                3158, 
+                2844, 
+                1143, 
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            33
+        ], 
+        "sentence": "i wo n't go into the detail here , as the online site ( stevesdigicams , dpreviews ) go into great depth in their review , but i am very pleased with the feature , the speed , the picture quality , the flexibility , the automation , and the functional convenience this camera offer ."
+    }, 
+    "96a3c89de3083b68a7e7476e1f55d023": {
+        "(4, 16)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                3168
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                3213
+            ], 
+            "WBO": [
+                2844, 
+                25, 
+                875, 
+                3213, 
+                1541, 
+                130, 
+                3052, 
+                1886
+            ], 
+            "WBL": [
+                237
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the optical zoom work great and the 14x digital zoom is a very nice addition although picture at the highest digital zoom are a little blurry ."
+    }, 
+    "a3966ba04d7e675a36911883e1bc65b2": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            2
+        ], 
+        "(11, 2)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                668
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                635, 
+                253, 
+                2544, 
+                1951, 
+                1207
+            ], 
+            "WBL": [
+                2628
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "a ) the picture quality ( color and sharpness of focusing ) are so great , it completely eliminated my doubt about digital imaging -- - how could one eat rice one grain at a time : - ) )"
+    }
+}

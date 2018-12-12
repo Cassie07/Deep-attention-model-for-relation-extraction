@@ -1,0 +1,74 @@
+{
+    "a3501130193708007cd28c5fd53b8965": {
+        "(9, 2)": {
+            "WBF": [
+                2628
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                39
+            ], 
+            "M1": [
+                966
+            ], 
+            "M2": [
+                563
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBO": [
+                1134, 
+                1545, 
+                2345
+            ], 
+            "WBL": [
+                2136
+            ], 
+            "AM2F": [
+                1040
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "on 2 dvds so far it refuse to play certain episode with no problem on the others on the dvd ."
+    }, 
+    "726152eaeaf36e106f50419011dfab6a": {
+        "(13, 14)": {
+            "BM1F": [
+                2296
+            ], 
+            "M1": [
+                563
+            ], 
+            "M2": [
+                966
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "what disappointed me is the fact that it does not seem to read certain dvds ."
+    }
+}

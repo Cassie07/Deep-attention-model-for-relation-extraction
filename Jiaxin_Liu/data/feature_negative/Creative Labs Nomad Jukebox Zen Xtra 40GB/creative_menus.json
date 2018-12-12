@@ -1,0 +1,48 @@
+{
+    "77d109e2cb75e81b27de5ba3fb01ee7b": {
+        "(7, 17)": {
+            "WBF": [
+                513
+            ], 
+            "AM2L": [
+                2812
+            ], 
+            "BM1F": [
+                404
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1774
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                1545, 
+                1147, 
+                3052, 
+                348, 
+                316, 
+                2878
+            ], 
+            "WBL": [
+                2637
+            ], 
+            "AM2F": [
+                2585
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "the dynamic playlist ( `` now playing `` , i belive creative call it ) feel very awkward at time and some menus simply take to long to get to and operate .. ."
+    }
+}

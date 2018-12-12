@@ -1,0 +1,43 @@
+{
+    "147682229af074d2520a07e45499562b": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            15
+        ], 
+        "(1, 15)": {
+            "WBF": [
+                2755
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                2878
+            ], 
+            "WBO": [
+                2895, 
+                2842, 
+                3120, 
+                1474, 
+                3158, 
+                2844, 
+                2097, 
+                295, 
+                1343, 
+                2886
+            ], 
+            "WBL": [
+                316
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the more subtle tone that were included with the phone are hard to hear at time ."
+    }
+}

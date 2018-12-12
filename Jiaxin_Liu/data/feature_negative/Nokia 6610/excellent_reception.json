@@ -1,0 +1,48 @@
+{
+    "64fb66cc374fec3973bcd3984f004f56": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            16
+        ], 
+        "(6, 16)": {
+            "WBF": [
+                3172
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2319
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2666, 
+                2992, 
+                2844, 
+                1899, 
+                73, 
+                253
+            ], 
+            "WBL": [
+                2769
+            ], 
+            "AM2F": [
+                1899
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the two biggest thing is the excellent working speakerphone `` unlike the nokia 3650 `` and the superb reception nokia is known for in the gsm phone they make ..."
+    }
+}

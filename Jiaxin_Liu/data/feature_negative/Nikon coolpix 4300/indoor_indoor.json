@@ -1,0 +1,212 @@
+{
+    "d4954af171cda06cc040755bc979e934": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            2
+        ], 
+        "(2, 2)": {
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                340
+            ], 
+            "M1": [
+                1488
+            ], 
+            "M2": [
+                1488
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2564
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "on average , indoor shot with a flash are not quite as good as 35mm ."
+    }, 
+    "42f0ce4c366e69f992de1c95467b18e7": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            7
+        ], 
+        "(7, 7)": {
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1488
+            ], 
+            "M2": [
+                1488
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2564
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the daylight picture are brilliant and the indoor shot are very good provided that your subject is no more than about 8 foot away ."
+    }, 
+    "99ff835b6afc80eb98a8e6d0778a550c": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1488
+            ], 
+            "M2": [
+                1488
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2530
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "1 . picture taken in an indoor setting are a little dull and rarely hazy if you tend to take photographs from a distance ."
+    }, 
+    "ba08f88960a15c13eeee899c951d2890": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            2
+        ], 
+        "(2, 2)": {
+            "AM2L": [
+                1859
+            ], 
+            "BM1F": [
+                2813
+            ], 
+            "M1": [
+                1488
+            ], 
+            "M2": [
+                1488
+            ], 
+            "BM1L": [
+                1448
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3120
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": ". image taken indoor were n't so clear ."
+    }, 
+    "ef8b221188025f77306dd1fd16320e12": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            20
+        ], 
+        "(20, 20)": {
+            "AM2L": [
+                2625
+            ], 
+            "BM1F": [
+                2474
+            ], 
+            "M1": [
+                1488
+            ], 
+            "M2": [
+                1488
+            ], 
+            "BM1L": [
+                1737
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2017
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "great camera , i have been using this for several month and got excellent result , simple friendly usage , in many scene indoor , outdoor , snow , close up macro etc ."
+    }, 
+    "747107cdbe2f2c1bbb64da5fa3d529a4": {
+        "(8, 8)": {
+            "AM2L": [
+                1241
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                1488
+            ], 
+            "M2": [
+                1488
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2564
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the only drawback i 've encountered are : 1 indoor shot from a distance > 8ft lack contrast and color , but i 've found this to be a problem with all camera with built-in flash that i 've used even on a nikon slr ."
+    }
+}

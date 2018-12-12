@@ -1,0 +1,315 @@
+{
+    "1e497d003ead8f158733c4abb51c307b": {
+        "(6, 10)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                2275
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                2850
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2665
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "my favorite feature , although there are many , are the speaker phone , the radio and the infrared ."
+    }, 
+    "21250d9726c5df5ab8b704a872ef5d69": {
+        "(5, 21)": {
+            "WBF": [
+                2305
+            ], 
+            "AM2L": [
+                3204
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                411
+            ], 
+            "WBO": [
+                1973, 
+                402, 
+                1570, 
+                1212, 
+                283, 
+                3204, 
+                2056, 
+                3163, 
+                1859, 
+                5, 
+                381, 
+                489
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "this is a benefit for many reason ; one being just for appearance , your pant wo n't be bulging with this phone in your pocket ."
+    }, 
+    "cb424d3ece8282ce9d98ff9e19d23c6c": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            7
+        ], 
+        "(12, 7)": {
+            "WBF": [
+                1733
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                1212
+            ], 
+            "WBL": [
+                1595
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the one huge disappointment is that the phone manufactured for t-mobile lack many of the menus and function that a nokia straight from the manufacturer should have ."
+    }, 
+    "8b06ee9536157bdc30f89af9097efd4e": {
+        "(3, 1)": {
+            "AM2L": [
+                1143
+            ], 
+            "WBFL": [
+                1351
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1737
+            ], 
+            "AM2F": [
+                2011
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this phone has many other feature , ir , ; just to name one , the feature above i view as the most beneficial ."
+    }, 
+    "cb73b87bc53d6be47ba62c64c5eefff1": {
+        "(32, 12)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                1967
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                3052, 
+                1669, 
+                1770, 
+                1793, 
+                1328, 
+                47, 
+                304, 
+                1545, 
+                301, 
+                1241, 
+                246, 
+                2628, 
+                3203, 
+                912, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                2896
+            ], 
+            "AM2F": [
+                1996
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(32, 1)": {
+            "WBF": [
+                644
+            ], 
+            "AM2L": [
+                1967
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1737
+            ], 
+            "WBO": [
+                3158, 
+                1963, 
+                2431, 
+                2637, 
+                808, 
+                357, 
+                2481, 
+                501, 
+                2844, 
+                2097, 
+                1351, 
+                3052, 
+                1669, 
+                1770, 
+                1793, 
+                1328, 
+                47, 
+                304, 
+                1545, 
+                301, 
+                1241, 
+                246, 
+                2628, 
+                3203, 
+                912, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                2896
+            ], 
+            "AM2F": [
+                1996
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            32
+        ], 
+        "location2": [
+            1, 
+            12
+        ], 
+        "sentence": "the phone comes with okay ringtones , some decent background / screensavers , but the phone has very little memory ( mine had 230kb as it arrived from amazon , so you do n't have too many option on what you can put on there ) ."
+    }, 
+    "88b9aa2d53178b2ce98e7c56d5c5e0d8": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            19
+        ], 
+        "(18, 19)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                687
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3018
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the fact that the `` 0 `` key is the space key for text input is a bit confusing , as many phone use the `` # `` key instead ."
+    }
+}

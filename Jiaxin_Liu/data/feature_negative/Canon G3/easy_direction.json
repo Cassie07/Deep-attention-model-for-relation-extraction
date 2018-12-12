@@ -1,0 +1,34 @@
+{
+    "59eae132b2cb15aee8885c0e6c8856d1": {
+        "(11, 9)": {
+            "WBFL": [
+                1212
+            ], 
+            "BM1F": [
+                264
+            ], 
+            "M1": [
+                880
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the lcd screen pull out and rotates in any direction for easy picture ."
+    }
+}

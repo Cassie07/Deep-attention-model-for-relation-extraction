@@ -1,0 +1,46 @@
+{
+    "9c511d7377199e39382403fcb7e09331": {
+        "(2, 13)": {
+            "WBF": [
+                3213
+            ], 
+            "BM1F": [
+                92
+            ], 
+            "M1": [
+                1994
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                3129, 
+                1541, 
+                1393, 
+                2840, 
+                264, 
+                2011, 
+                1468
+            ], 
+            "WBL": [
+                2457
+            ], 
+            "AM2F": [
+                2280
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "has 4x optical zoom which is higher than any other in the same price range ."
+    }
+}

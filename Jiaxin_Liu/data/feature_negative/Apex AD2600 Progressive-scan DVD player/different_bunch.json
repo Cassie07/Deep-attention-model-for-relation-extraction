@@ -1,0 +1,37 @@
+{
+    "61b0cbdba9d3d1062735828f148c2ac5": {
+        "(5, 3)": {
+            "AM2L": [
+                2886
+            ], 
+            "WBFL": [
+                1951
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                492
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                2932
+            ], 
+            "AM2F": [
+                1219
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i tried as bunch of different format to see if it would play and it did ."
+    }
+}

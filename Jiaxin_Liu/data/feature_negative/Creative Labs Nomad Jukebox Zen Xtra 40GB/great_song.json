@@ -1,0 +1,106 @@
+{
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "(9, 29)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                2763
+            ], 
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                1302
+            ], 
+            "WBO": [
+                985, 
+                2886, 
+                3018, 
+                1055, 
+                2862, 
+                1429, 
+                206, 
+                2842, 
+                2844, 
+                2631, 
+                3094, 
+                1859, 
+                5, 
+                2844, 
+                413, 
+                253
+            ], 
+            "WBL": [
+                1030
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            29
+        ], 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }, 
+    "8eb5d2fca4a827e8e326a4df00c9b809": {
+        "(20, 8)": {
+            "WBF": [
+                1856
+            ], 
+            "AM2L": [
+                2883
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2644
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                249
+            ], 
+            "WBO": [
+                1036, 
+                633, 
+                1951, 
+                553, 
+                4, 
+                3145, 
+                221, 
+                1181
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1669
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            20
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the memory will hold an amazing amount of song , my entire collection of cd 's will all fit on this great little tiny piece of digital fun ."
+    }
+}

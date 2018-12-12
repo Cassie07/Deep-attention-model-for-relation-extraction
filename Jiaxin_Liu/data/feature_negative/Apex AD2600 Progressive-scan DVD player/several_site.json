@@ -1,0 +1,48 @@
+{
+    "62e789092dd8cdbdc780fb92af24cb33": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            13
+        ], 
+        "(3, 13)": {
+            "WBF": [
+                2878
+            ], 
+            "AM2L": [
+                2846
+            ], 
+            "BM1F": [
+                2932
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                2591
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                2886, 
+                705, 
+                275, 
+                875, 
+                2867, 
+                2846
+            ], 
+            "WBL": [
+                2775
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i have tried several time to contact apex digital through their on-line support site and their telephone line , but they wo n't answer my email and their telephone line is always busy ."
+    }
+}

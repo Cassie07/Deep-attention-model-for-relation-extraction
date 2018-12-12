@@ -1,0 +1,104 @@
+{
+    "8df2f7ba58c455f15ea3d272c2556f50": {
+        "(19, 0)": {
+            "WBF": [
+                1541
+            ], 
+            "M1": [
+                1865
+            ], 
+            "M2": [
+                985
+            ], 
+            "WBO": [
+                985, 
+                253, 
+                1429, 
+                1225, 
+                2842, 
+                2800, 
+                1156, 
+                1241, 
+                2844, 
+                2139, 
+                2886, 
+                2844, 
+                674, 
+                253, 
+                3056
+            ], 
+            "WBL": [
+                3094
+            ], 
+            "AM2F": [
+                2896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(2, 0)": {
+            "AM2L": [
+                1429
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "M1": [
+                1865
+            ], 
+            "M2": [
+                985
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            2, 
+            19
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "navigation is easy and i found that syncing file from the player to the computer ( and vice versa ) was easy too ."
+    }, 
+    "dd00a38d580f6f271c19d5bf9766fffb": {
+        "(12, 13)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                226
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1865
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "2 ) the player user interface ( ui ) is intuitive to use , and allows easy navigation of a large or small collection ."
+    }
+}

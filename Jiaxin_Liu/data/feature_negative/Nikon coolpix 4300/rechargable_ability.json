@@ -1,0 +1,50 @@
+{
+    "d2ecbc0b6c5a83518582c7e8d313b9b7": {
+        "(26, 14)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1054
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                132
+            ], 
+            "M2": [
+                2320
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                1080, 
+                3014, 
+                2842, 
+                3158, 
+                1097, 
+                1313, 
+                625, 
+                1814
+            ], 
+            "WBL": [
+                1607
+            ], 
+            "AM2F": [
+                379
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            26
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the same 4mp chip from the 4500 camera , plus a 3x zoom with the ability to expand upon that with extenders , great closeup mode , long lasting rechargable battery , etc etc ."
+    }
+}

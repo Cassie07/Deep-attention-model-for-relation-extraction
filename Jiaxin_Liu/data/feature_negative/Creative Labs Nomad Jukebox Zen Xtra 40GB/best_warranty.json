@@ -1,0 +1,72 @@
+{
+    "bc8cb26f2e111e60b22ac940195a192f": {
+        "(11, 1)": {
+            "WBF": [
+                62
+            ], 
+            "AM2L": [
+                1945
+            ], 
+            "BM1F": [
+                2560
+            ], 
+            "M1": [
+                3091
+            ], 
+            "M2": [
+                413
+            ], 
+            "WBO": [
+                1827, 
+                2628, 
+                1429, 
+                1302, 
+                2844, 
+                1096
+            ], 
+            "WBL": [
+                316
+            ], 
+            "AM2F": [
+                503
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(11, 9)": {
+            "AM2L": [
+                1945
+            ], 
+            "WBFL": [
+                316
+            ], 
+            "BM1F": [
+                1096
+            ], 
+            "M1": [
+                3091
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                503
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            1, 
+            9
+        ], 
+        "sentence": "short warranty ( 3 month , so i got the extended warranty at best buy ) , occasional freeze up ( easily fixed by popping out battery ) , somewhat flimsy navigation wheel ."
+    }
+}

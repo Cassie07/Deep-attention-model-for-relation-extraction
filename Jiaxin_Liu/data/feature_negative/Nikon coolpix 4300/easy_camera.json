@@ -1,0 +1,238 @@
+{
+    "1769a914d0cd227d1f05d83abc44b3d3": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            21
+        ], 
+        "(2, 21)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                1320
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                399, 
+                2886, 
+                3018, 
+                501, 
+                1351, 
+                1143, 
+                2842, 
+                1829, 
+                2523, 
+                2102, 
+                3145, 
+                1701, 
+                2628, 
+                1545, 
+                4
+            ], 
+            "WBL": [
+                1072
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it 's easy for beginner to use , but has feature that more serious photographer will love , so it 's an excellent camera to grow into ."
+    }, 
+    "0a97bbb3a0da722d9e48e3c05e77a24c": {
+        "(19, 7)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                413
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844, 
+                1822, 
+                1441, 
+                3203, 
+                3, 
+                1691, 
+                1212, 
+                2639
+            ], 
+            "WBL": [
+                4
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use , small good for travel , and provides excellent , sharp image ."
+    }, 
+    "e98ecaf7d8bf1bd365d78286f5ada68a": {
+        "(5, 7)": {
+            "AM2L": [
+                2886
+            ], 
+            "WBFL": [
+                2859
+            ], 
+            "BM1F": [
+                1424
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i am impressed with how easy this camera is to use ."
+    }, 
+    "a3c39ca74e64f9139dabb40cc958b72d": {
+        "(5, 1)": {
+            "WBF": [
+                3094
+            ], 
+            "AM2L": [
+                1617
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                985
+            ], 
+            "WBO": [
+                197
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this camera was affordable , very easy to learn , and produce spectacular image ."
+    }, 
+    "f4ed4ae3305445dd6ec6f73ce7ad7b7c": {
+        "(5, 32)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1143
+            ], 
+            "WBO": [
+                1960, 
+                1941, 
+                1429, 
+                2, 
+                1896, 
+                256, 
+                1624, 
+                501, 
+                1429, 
+                3094, 
+                133, 
+                2886, 
+                1155, 
+                2016, 
+                1832, 
+                1951, 
+                1548, 
+                132, 
+                1570, 
+                1779, 
+                298, 
+                3158, 
+                1545
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2726
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            32
+        ], 
+        "sentence": "operating its many feature is easy and often obvious - i 'm no annie lebovitz , but i was able to figure out most of its ability just messing around with it at a camera store ."
+    }
+}

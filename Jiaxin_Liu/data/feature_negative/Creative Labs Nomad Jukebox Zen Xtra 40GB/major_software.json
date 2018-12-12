@@ -1,0 +1,39 @@
+{
+    "3d4574448c311e0ea8e5b1e7ad6fcdda": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            9
+        ], 
+        "(2, 9)": {
+            "WBF": [
+                2215
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1722
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                1429, 
+                1328, 
+                3094
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "but the major problem i had was with the software ."
+    }
+}

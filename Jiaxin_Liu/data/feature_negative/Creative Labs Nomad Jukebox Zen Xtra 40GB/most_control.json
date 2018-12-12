@@ -1,0 +1,52 @@
+{
+    "ccccff139fff46b68ee5e5d3b5f6720d": {
+        "(18, 1)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                522
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                1832
+            ], 
+            "WBO": [
+                2642, 
+                1346, 
+                2886, 
+                3018, 
+                253, 
+                2850, 
+                295, 
+                2637, 
+                1950, 
+                134, 
+                2844, 
+                2631, 
+                2811
+            ], 
+            "WBL": [
+                501
+            ], 
+            "AM2F": [
+                2079
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the control are somewhat harder to use , and there are some oddity about the software tagging system , but most people can live with this ."
+    }
+}

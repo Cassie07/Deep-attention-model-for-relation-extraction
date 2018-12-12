@@ -1,0 +1,51 @@
+{
+    "7e902b1c3bac0da57adc7cb4cce23d18": {
+        "(1, 17)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1548
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                150
+            ], 
+            "WBO": [
+                3018, 
+                253, 
+                2844, 
+                2546, 
+                1251, 
+                1951, 
+                402, 
+                133, 
+                2886, 
+                3018, 
+                251, 
+                300
+            ], 
+            "WBL": [
+                1893
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "its easy to use and the sheer fun of being able to use an array of nikon accessory like the telephoto and wide-angle lens is the proverbial icing on the cake ."
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "4f4ce92984a186b080eef02938290fa5": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            29
+        ], 
+        "(2, 29)": {
+            "WBF": [
+                2035
+            ], 
+            "AM2L": [
+                2905
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1570
+            ], 
+            "WBO": [
+                2186, 
+                1260, 
+                1541, 
+                2844, 
+                1187, 
+                1951, 
+                525, 
+                4, 
+                2186, 
+                2522, 
+                253, 
+                1548, 
+                251, 
+                2614, 
+                520, 
+                1548, 
+                80, 
+                1765, 
+                253, 
+                232, 
+                1248, 
+                1731, 
+                715
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "just a little overview , powershot g3 is the flagship of canon 's powershot series and its an slr-like camera , its 4 megapixel and ( alsmost ) full manual control gives the picture a touch of brilliance ."
+    }, 
+    "96a3c89de3083b68a7e7476e1f55d023": {
+        "(24, 16)": {
+            "WBF": [
+                316
+            ], 
+            "BM1F": [
+                237
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                176
+            ], 
+            "WBO": [
+                2844, 
+                1394, 
+                875, 
+                3213
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                440
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the optical zoom work great and the 14x digital zoom is a very nice addition although picture at the highest digital zoom are a little blurry ."
+    }
+}

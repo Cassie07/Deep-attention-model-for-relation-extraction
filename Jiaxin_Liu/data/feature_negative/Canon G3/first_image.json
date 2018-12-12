@@ -1,0 +1,129 @@
+{
+    "20c5a2780290c04a8fff006233aee834": {
+        "sentence": "now there is one more complaint i have about the g3 and that is the software that comes with it for processing raw image ( i only shoot in raw image mode and the first thing i did was replace the 32 mbyte cf with a 512 mbyte cf , which gives me 130 raw image , as opposed to 7 !", 
+        "(33, 53)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                1991
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                1448
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1429, 
+                863, 
+                3094, 
+                2380, 
+                2844, 
+                67, 
+                1751, 
+                564, 
+                3158, 
+                130, 
+                98, 
+                1751, 
+                564, 
+                3129, 
+                1287, 
+                1752
+            ], 
+            "WBL": [
+                2290
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location2": [
+            23, 
+            29, 
+            53
+        ], 
+        "location1": [
+            33
+        ], 
+        "(33, 23)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2290
+            ], 
+            "M1": [
+                1448
+            ], 
+            "M2": [
+                1179
+            ], 
+            "BM1L": [
+                2218
+            ], 
+            "WBO": [
+                1978, 
+                2557, 
+                1468, 
+                2290, 
+                1448, 
+                1814
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2853
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(33, 29)": {
+            "WBF": [
+                1814
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2290
+            ], 
+            "M1": [
+                1448
+            ], 
+            "M2": [
+                1179
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2853
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }
+    }
+}

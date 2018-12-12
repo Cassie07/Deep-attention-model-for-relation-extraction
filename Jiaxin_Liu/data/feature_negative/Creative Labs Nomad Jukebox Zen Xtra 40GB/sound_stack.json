@@ -1,0 +1,52 @@
+{
+    "97c7ba01b8d251276d4c9b11594e1473": {
+        "(1, 18)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                553
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2687
+            ], 
+            "WBO": [
+                1541, 
+                1132, 
+                553, 
+                2260, 
+                253, 
+                1545, 
+                1541, 
+                2304, 
+                1313, 
+                2886, 
+                539, 
+                2859, 
+                298
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "the sound quality is fantastic ( cd quality ) and it is really great to carry this around instead of stack of cd 's or tape !"
+    }
+}

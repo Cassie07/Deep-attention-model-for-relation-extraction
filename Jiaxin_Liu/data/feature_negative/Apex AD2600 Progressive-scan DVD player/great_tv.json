@@ -1,0 +1,43 @@
+{
+    "3f04a58bcda5a12c04c16b5a555e8d34": {
+        "(11, 6)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                275
+            ], 
+            "M1": [
+                2948
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBO": [
+                1545
+            ], 
+            "WBL": [
+                260
+            ], 
+            "AM2F": [
+                3035
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "my dad also has an apex tv and it was another great value for the money ."
+    }
+}

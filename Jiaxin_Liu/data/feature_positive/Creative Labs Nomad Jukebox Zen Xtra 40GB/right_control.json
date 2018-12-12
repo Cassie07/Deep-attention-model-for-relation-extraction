@@ -1,0 +1,38 @@
+{
+    "af3486cf11b465100e02244c4ae682ee": {
+        "(4, 10)": {
+            "WBF": [
+                3181
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2426
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                1625
+            ], 
+            "WBO": [
+                1355, 
+                1286
+            ], 
+            "WBL": [
+                415
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "up , down , left , and right would have given me better control ."
+    }
+}

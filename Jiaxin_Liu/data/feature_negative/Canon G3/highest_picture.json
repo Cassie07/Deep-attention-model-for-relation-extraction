@@ -1,0 +1,81 @@
+{
+    "41a7310667e145525710b6cac52c2c41": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            4
+        ], 
+        "(1, 4)": {
+            "WBF": [
+                1994
+            ], 
+            "AM2L": [
+                2083
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1394
+            ], 
+            "M2": [
+                2112
+            ], 
+            "WBO": [
+                3213
+            ], 
+            "WBL": [
+                3213
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the highest optical zoom picture are perfect ."
+    }, 
+    "96a3c89de3083b68a7e7476e1f55d023": {
+        "(19, 16)": {
+            "WBF": [
+                316
+            ], 
+            "AM2L": [
+                3213
+            ], 
+            "BM1F": [
+                237
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1394
+            ], 
+            "BM1L": [
+                176
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                875
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the optical zoom work great and the 14x digital zoom is a very nice addition although picture at the highest digital zoom are a little blurry ."
+    }
+}

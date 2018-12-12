@@ -1,0 +1,102 @@
+{
+    "df460eaf582c2debf712f5605d908023": {
+        "location1": [
+            53
+        ], 
+        "location2": [
+            40
+        ], 
+        "(53, 40)": {
+            "WBF": [
+                1241
+            ], 
+            "AM2L": [
+                1043
+            ], 
+            "BM1F": [
+                503
+            ], 
+            "M1": [
+                2221
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                201, 
+                1429, 
+                1355, 
+                2846, 
+                325, 
+                2654, 
+                533, 
+                253, 
+                1165
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                3100
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }, 
+    "baf85a0b553ca7fd741513aae4904839": {
+        "(10, 25)": {
+            "WBF": [
+                2011
+            ], 
+            "AM2L": [
+                818
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                2079, 
+                3135, 
+                1355, 
+                2178, 
+                1381, 
+                3135, 
+                1355, 
+                1328, 
+                2844, 
+                2457, 
+                1086
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "i 'm convinced by my own experience and that of many other people who have posted here who have had the same experience that the product is defectively designed , and will not hold up to normal use ."
+    }
+}

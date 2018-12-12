@@ -1,0 +1,142 @@
+{
+    "20f7e57ebd6596546f8333a55a35a444": {
+        "(1, 2)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2853
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "one good thing , it is 40 gb of disk space ( well , it is 38 gb in reality ) ."
+    }, 
+    "e74da56b82a743addc4bc80ccd353906": {
+        "(5, 1)": {
+            "WBF": [
+                2524
+            ], 
+            "AM2L": [
+                2862
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2853
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this thing seriously is a good player though ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                2479
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2853
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "location1": [
+            8
+        ], 
+        "location2": [
+            7
+        ], 
+        "(8, 7)": {
+            "AM2L": [
+                2260
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2853
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1267
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }
+}

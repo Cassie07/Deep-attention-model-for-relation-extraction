@@ -1,0 +1,45 @@
+{
+    "a8ca5ff27bcb6526b194c97f24e7c6f2": {
+        "(17, 10)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                1456
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1865
+            ], 
+            "M2": [
+                1239
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1545, 
+                4, 
+                130
+            ], 
+            "WBL": [
+                3023
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "took me a few try to get use to the navigation , but it 's a very user friendly player imo ."
+    }
+}

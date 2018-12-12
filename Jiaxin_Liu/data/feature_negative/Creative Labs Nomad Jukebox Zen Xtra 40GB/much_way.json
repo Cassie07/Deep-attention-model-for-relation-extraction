@@ -1,0 +1,43 @@
+{
+    "d65b4f9868df8c7ec371d1551ba95d22": {
+        "(13, 17)": {
+            "WBF": [
+                1745
+            ], 
+            "AM2L": [
+                182
+            ], 
+            "BM1F": [
+                2896
+            ], 
+            "M1": [
+                1848
+            ], 
+            "M2": [
+                3100
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1468
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "the cut-outs for the control is not thought out as there is too much material in the way to adequately access the control , especially the scroll wheel ."
+    }
+}

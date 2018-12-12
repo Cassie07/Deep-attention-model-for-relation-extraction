@@ -1,0 +1,139 @@
+{
+    "2e3f4a9da60918bdc961149cf8e14d7f": {
+        "(11, 4)": {
+            "WBF": [
+                1634
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                416
+            ], 
+            "M1": [
+                2644
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2070
+            ], 
+            "WBO": [
+                2840, 
+                2842, 
+                1967
+            ], 
+            "WBL": [
+                858
+            ], 
+            "AM2F": [
+                159
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "11 ) minimal pause between song - less than that on other device - good achievement for a hard-drive based player"
+    }, 
+    "0cee0a56b66cdebe9d6e2c1f4c4a4f1d": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            21
+        ], 
+        "(4, 21)": {
+            "WBF": [
+                2814
+            ], 
+            "BM1F": [
+                2500
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                1643
+            ], 
+            "WBO": [
+                3052, 
+                1708, 
+                2878, 
+                2886, 
+                574, 
+                1545, 
+                3013, 
+                1843, 
+                2263, 
+                253, 
+                2850, 
+                1541, 
+                1896
+            ], 
+            "WBL": [
+                416
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the battery life seems good , takes very lttle time to charge , it uploads mp3s quickly and there is no delay between song ."
+    }, 
+    "2505b3eb37eb261c8202ec3d03ef5c52": {
+        "location1": [
+            19
+        ], 
+        "location2": [
+            2
+        ], 
+        "(19, 2)": {
+            "WBF": [
+                1055
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2644
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2435
+            ], 
+            "WBO": [
+                3158, 
+                1856, 
+                9, 
+                9, 
+                3017, 
+                691, 
+                1541, 
+                2712, 
+                3052, 
+                2262, 
+                253, 
+                2844, 
+                2260
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "ripping the song , even with my 1.1 usb connection is still very quick , and the quality is very good ."
+    }
+}

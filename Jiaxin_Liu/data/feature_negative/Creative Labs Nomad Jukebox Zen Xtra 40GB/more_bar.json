@@ -1,0 +1,43 @@
+{
+    "9b424d6365bac0f4f17ad2c4236e8f08": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            2
+        ], 
+        "(10, 2)": {
+            "WBF": [
+                2215
+            ], 
+            "BM1F": [
+                2484
+            ], 
+            "M1": [
+                367
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1723, 
+                2844, 
+                2822, 
+                1951
+            ], 
+            "WBL": [
+                2141
+            ], 
+            "AM2F": [
+                1245
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the scroll bar problem make the task of creating playlist more frustrating ."
+    }
+}

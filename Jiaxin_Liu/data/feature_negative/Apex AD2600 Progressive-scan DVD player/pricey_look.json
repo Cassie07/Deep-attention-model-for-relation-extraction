@@ -1,0 +1,37 @@
+{
+    "80cb6fbb20332fa22c5eba0f351a1901": {
+        "(17, 14)": {
+            "WBF": [
+                724
+            ], 
+            "BM1F": [
+                2139
+            ], 
+            "M1": [
+                1689
+            ], 
+            "M2": [
+                2207
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "and the slim form-factor together with the mirror-like front panel sure makes the player look cool and pricey !"
+    }
+}

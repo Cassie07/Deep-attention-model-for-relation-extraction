@@ -1,0 +1,37 @@
+{
+    "b48feb7e6209e47420ac1cab656ae710": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                984
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                2216
+            ], 
+            "BM1L": [
+                1225
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3052
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the software is quick & easy to use & i found the entire process very easily mastered ."
+    }
+}

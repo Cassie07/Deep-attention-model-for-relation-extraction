@@ -1,0 +1,109 @@
+{
+    "7491b52ccd6cdf7fb6cb7dd33913b3c3": {
+        "(2, 3)": {
+            "BM1F": [
+                985
+            ], 
+            "M1": [
+                2297
+            ], 
+            "M2": [
+                2479
+            ], 
+            "BM1L": [
+                1602
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "- large easy readable screen"
+    }, 
+    "80e11640737e6ee1cc2902f3c818c14c": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            2
+        ], 
+        "(7, 2)": {
+            "WBF": [
+                3094
+            ], 
+            "BM1F": [
+                1615
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                2297
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3052
+            ], 
+            "WBL": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the lcd screen was very large and readable ."
+    }, 
+    "97de56d8b2c770f71d198ee46e6dacfb": {
+        "(11, 1)": {
+            "WBF": [
+                1748
+            ], 
+            "AM2L": [
+                917
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                2297
+            ], 
+            "WBO": [
+                381, 
+                130, 
+                1669, 
+                2616, 
+                501, 
+                1545
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the screen may be a little smaller , but it is very readable and does n't come in the overused blue ."
+    }
+}

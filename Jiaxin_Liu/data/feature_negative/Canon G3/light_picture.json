@@ -1,0 +1,85 @@
+{
+    "ca1eaed91c3e55f4cceab5acd302386c": {
+        "(7, 13)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1703
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                3181, 
+                1915
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3124
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the g3 had problem focusing in low light and would not take the picture when the shutter was pressed but after the shutter had been released a few second ."
+    }, 
+    "a7d8e305d570d95f2e66cc869353dc9a": {
+        "(12, 8)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                415
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1287
+            ], 
+            "WBO": [
+                1468
+            ], 
+            "WBL": [
+                1703
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the larger lens of the g3 gives better picture quality in low light , and the 4-times optical zoom gets you just that much closer ."
+    }
+}

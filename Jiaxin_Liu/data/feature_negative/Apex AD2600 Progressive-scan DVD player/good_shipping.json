@@ -1,0 +1,43 @@
+{
+    "29d2614f705ec8f146e4eddeb3c87bcf": {
+        "(8, 4)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2897
+            ], 
+            "BM1F": [
+                1230
+            ], 
+            "M1": [
+                2552
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                4
+            ], 
+            "WBO": [
+                2304
+            ], 
+            "WBL": [
+                1279
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "finally , amazon 's free shipping is really getting good , it took only 3 working day for the player to reach me !"
+    }
+}

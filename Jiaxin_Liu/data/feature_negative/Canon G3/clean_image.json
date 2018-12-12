@@ -1,0 +1,31 @@
+{
+    "5f746eb360f99eec03f4c5b8efb8f138": {
+        "(12, 13)": {
+            "BM1F": [
+                2260
+            ], 
+            "M1": [
+                611
+            ], 
+            "M2": [
+                1448
+            ], 
+            "BM1L": [
+                1387
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "i chose the g3 because of its reputation for very high quality , clean image ."
+    }
+}

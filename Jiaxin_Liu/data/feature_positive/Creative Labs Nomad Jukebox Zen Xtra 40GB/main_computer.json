@@ -1,0 +1,37 @@
+{
+    "a361394cdc6999e5a0fe06836b4e3951": {
+        "(2, 3)": {
+            "AM2L": [
+                2631
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1721
+            ], 
+            "M2": [
+                674
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "on my main computer the software did not work right ."
+    }
+}

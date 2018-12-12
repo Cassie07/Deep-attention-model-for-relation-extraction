@@ -1,0 +1,103 @@
+{
+    "c797f7ccd54badc9e0db79b7ce27861a": {
+        "(4, 28)": {
+            "WBF": [
+                379
+            ], 
+            "AM2L": [
+                3139
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2381
+            ], 
+            "M2": [
+                1113
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                3129, 
+                1429, 
+                2976, 
+                286, 
+                574, 
+                130, 
+                2615, 
+                1223, 
+                2886, 
+                2380, 
+                304, 
+                3115, 
+                304, 
+                2844, 
+                1353, 
+                1951, 
+                2415, 
+                1545, 
+                3120, 
+                2844
+            ], 
+            "WBL": [
+                1721
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "price , along with the replaceable battery ( which i understand apple charge a small fortune to replace - as well as the hassle of returning it ) were the two main factor on why i picked the nomad ."
+    }, 
+    "65b5c536d6d91c394bc8b7ba532235ab": {
+        "(2, 7)": {
+            "WBF": [
+                379
+            ], 
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                2381
+            ], 
+            "M2": [
+                1113
+            ], 
+            "BM1L": [
+                3211
+            ], 
+            "WBO": [
+                3094
+            ], 
+            "WBL": [
+                811
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "zennx 's replaceable battery was the deciding factor in my purchase of zennx over ipod ."
+    }
+}

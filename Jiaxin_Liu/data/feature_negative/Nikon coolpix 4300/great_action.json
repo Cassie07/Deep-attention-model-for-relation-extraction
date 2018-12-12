@@ -1,0 +1,34 @@
+{
+    "5881e9601bc8ceb222a7a2d40997a8ab": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            20
+        ], 
+        "(18, 20)": {
+            "WBFL": [
+                1212
+            ], 
+            "BM1F": [
+                2759
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                161
+            ], 
+            "BM1L": [
+                2281
+            ], 
+            "AM2F": [
+                2564
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i love the continuous shot mode , which allows you to take up to 16 pix in rapid succession -- great for action shot ."
+    }
+}

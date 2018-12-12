@@ -1,0 +1,126 @@
+{
+    "f221ac367372a9d0142195a8c2d6879c": {
+        "(8, 5)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1248
+            ], 
+            "BM1L": [
+                1328
+            ], 
+            "WBO": [
+                1973
+            ], 
+            "WBL": [
+                1973
+            ], 
+            "AM2F": [
+                801
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "i have only had this camera for one full day and i have to say that it is wonderful ."
+    }, 
+    "4f4ce92984a186b080eef02938290fa5": {
+        "(24, 18)": {
+            "WBF": [
+                1548
+            ], 
+            "AM2L": [
+                715
+            ], 
+            "BM1F": [
+                2614
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1248
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBO": [
+                80, 
+                1765
+            ], 
+            "WBL": [
+                232
+            ], 
+            "AM2F": [
+                1731
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "just a little overview , powershot g3 is the flagship of canon 's powershot series and its an slr-like camera , its 4 megapixel and ( alsmost ) full manual control gives the picture a touch of brilliance ."
+    }, 
+    "be379679dac602b9b58a047cfe52bfb9": {
+        "(22, 27)": {
+            "WBF": [
+                2226
+            ], 
+            "AM2L": [
+                454
+            ], 
+            "BM1F": [
+                1998
+            ], 
+            "M1": [
+                1248
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1630
+            ], 
+            "WBO": [
+                1814
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2507
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "with a quick spin of the dial you can select shutter priority ( for high speed subject ) , aperture priority ( for focal length ) or full program mode where the camera selects both for ideal photo quality ."
+    }
+}

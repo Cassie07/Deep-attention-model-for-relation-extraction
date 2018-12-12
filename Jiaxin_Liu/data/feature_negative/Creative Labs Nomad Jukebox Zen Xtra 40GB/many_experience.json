@@ -1,0 +1,83 @@
+{
+    "baf85a0b553ca7fd741513aae4904839": {
+        "(10, 22)": {
+            "WBF": [
+                2011
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                1086
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                2079, 
+                3135, 
+                1355, 
+                2178, 
+                1381, 
+                3135, 
+                1355, 
+                1328
+            ], 
+            "WBL": [
+                2457
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            6, 
+            22
+        ], 
+        "(10, 6)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2079
+            ], 
+            "BM1F": [
+                2037
+            ], 
+            "M1": [
+                1086
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                2842
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                2011
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i 'm convinced by my own experience and that of many other people who have posted here who have had the same experience that the product is defectively designed , and will not hold up to normal use ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "b9bfe35c56e22b2e41d54ff0d9f5e938": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1707
+            ], 
+            "M2": [
+                1638
+            ], 
+            "BM1L": [
+                1055
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1536
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "for a price that 's still less than even the lowest level ipod i was able to get this 40gb monster , and the best part is it work as great as it was advertised to and then some ."
+    }
+}

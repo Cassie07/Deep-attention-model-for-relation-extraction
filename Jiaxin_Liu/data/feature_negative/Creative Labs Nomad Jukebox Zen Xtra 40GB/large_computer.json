@@ -1,0 +1,37 @@
+{
+    "d9373416910359b8a385ab071d81a693": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            11
+        ], 
+        "(7, 11)": {
+            "WBF": [
+                1156
+            ], 
+            "BM1F": [
+                2919
+            ], 
+            "M1": [
+                1602
+            ], 
+            "M2": [
+                674
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                2886
+            ], 
+            "WBL": [
+                260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i found it very useful for transferring large file to another computer ."
+    }
+}

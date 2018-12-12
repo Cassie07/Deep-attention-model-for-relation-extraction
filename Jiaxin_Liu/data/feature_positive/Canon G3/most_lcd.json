@@ -1,0 +1,37 @@
+{
+    "3dd55b27114ec5fd6815b8c30aa6e44f": {
+        "(22, 21)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1615
+            ], 
+            "M2": [
+                1832
+            ], 
+            "BM1L": [
+                3018
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "the lens is visible in the viewfinder when the lens is set to the wide angle , but since i use the lcd most of the time , this is not really much of a bother to me ."
+    }
+}

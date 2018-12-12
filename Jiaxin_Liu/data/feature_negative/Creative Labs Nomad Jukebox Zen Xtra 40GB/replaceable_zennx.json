@@ -1,0 +1,69 @@
+{
+    "65b5c536d6d91c394bc8b7ba532235ab": {
+        "(2, 0)": {
+            "AM2L": [
+                3094
+            ], 
+            "WBFL": [
+                4
+            ], 
+            "M1": [
+                3211
+            ], 
+            "M2": [
+                2381
+            ], 
+            "AM2F": [
+                379
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(2, 12)": {
+            "WBF": [
+                379
+            ], 
+            "AM2L": [
+                1536
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                2381
+            ], 
+            "M2": [
+                3211
+            ], 
+            "BM1L": [
+                3211
+            ], 
+            "WBO": [
+                3094, 
+                2844, 
+                811, 
+                1113, 
+                1468, 
+                1856
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                2024
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            0, 
+            12
+        ], 
+        "sentence": "zennx 's replaceable battery was the deciding factor in my purchase of zennx over ipod ."
+    }
+}

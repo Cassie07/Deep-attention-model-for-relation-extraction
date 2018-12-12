@@ -1,0 +1,44 @@
+{
+    "e31dd62f55c1c30d4c665bd6ad5606e1": {
+        "(4, 10)": {
+            "WBF": [
+                994
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                1915
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2935
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                253, 
+                2844
+            ], 
+            "WBL": [
+                1351
+            ], 
+            "AM2F": [
+                3172
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the software is not good either and the driver has trouble working with other sound blaster product , which is very dumb ."
+    }
+}

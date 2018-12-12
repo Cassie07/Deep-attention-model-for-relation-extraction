@@ -1,0 +1,47 @@
+{
+    "5d8b5507ce45f152c58e301e745b132e": {
+        "(3, 18)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                520
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                645
+            ], 
+            "WBO": [
+                3018, 
+                253, 
+                2844, 
+                413, 
+                875, 
+                2098, 
+                3203, 
+                3, 
+                1298, 
+                2886, 
+                1277
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "very comfortable camera , easy to use , and the best digital photo you 're going to get at this price ."
+    }
+}

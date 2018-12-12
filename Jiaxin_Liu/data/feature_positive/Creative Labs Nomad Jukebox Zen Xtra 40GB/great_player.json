@@ -1,0 +1,474 @@
+{
+    "370f2f08bb8ba98db88f94c031ba3f60": {
+        "(6, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                233
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                1136
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the player is fast and sound great , it also has many option like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium ."
+    }, 
+    "15c31085c6c71aeacffc1df322ba7655": {
+        "(6, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2260
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                1532
+            ], 
+            "WBL": [
+                2021
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the player is intuitive and output great sound quality ."
+    }, 
+    "9b386fcefb830e15c2600e5d99a60f18": {
+        "(5, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                269
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                805
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "anyway , this player is a great deal and i really love it ."
+    }, 
+    "3fd077cfdb53680671d6b273e8b56c20": {
+        "(5, 2)": {
+            "WBF": [
+                316
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2204
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be ."
+    }, 
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) .", 
+        "(29, 39)": {
+            "WBF": [
+                2654
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                3129, 
+                1541, 
+                221, 
+                2842, 
+                1746, 
+                1468
+            ], 
+            "WBL": [
+                1842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(29, 6)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                433, 
+                2844, 
+                1431, 
+                343, 
+                3158, 
+                985, 
+                2886, 
+                3018, 
+                253, 
+                2976, 
+                1143, 
+                2631, 
+                2842, 
+                1541, 
+                2583, 
+                2886, 
+                2976, 
+                253, 
+                3018
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location2": [
+            6, 
+            39
+        ], 
+        "location1": [
+            5, 
+            29
+        ], 
+        "(5, 6)": {
+            "AM2L": [
+                433
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(5, 39)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                2842, 
+                433, 
+                2844, 
+                1431, 
+                343, 
+                3158, 
+                985, 
+                2886, 
+                3018, 
+                253, 
+                2976, 
+                1143, 
+                2631, 
+                2842, 
+                1541, 
+                2583, 
+                2886, 
+                2976, 
+                253, 
+                3018, 
+                253, 
+                130, 
+                1313, 
+                2654, 
+                3129, 
+                1541, 
+                221, 
+                2842, 
+                1746, 
+                1468
+            ], 
+            "WBL": [
+                1842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }, 
+    "93b83dad8de467af70db727ec3d5cebc": {
+        "(27, 28)": {
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "the creative lab zen xtra has all the feature the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player ."
+    }, 
+    "eec2ea24e9d430dfa7c739b7564618f7": {
+        "(9, 11)": {
+            "AM2L": [
+                2844
+            ], 
+            "WBFL": [
+                1842
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "AM2F": [
+                1277
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5, 
+            9
+        ], 
+        "location2": [
+            11
+        ], 
+        "(5, 11)": {
+            "WBF": [
+                805
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                3085
+            ], 
+            "WBO": [
+                253, 
+                130
+            ], 
+            "WBL": [
+                1842
+            ], 
+            "AM2F": [
+                1277
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "but if you want a great deal and a great mp3 player , get the nomad ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(42, 49)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                2893
+            ], 
+            "BM1F": [
+                502
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2484
+            ], 
+            "WBO": [
+                253, 
+                1551, 
+                1369
+            ], 
+            "WBL": [
+                1842
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            42
+        ], 
+        "location2": [
+            49
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

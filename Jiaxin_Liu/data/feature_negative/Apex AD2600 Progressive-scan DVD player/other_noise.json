@@ -1,0 +1,40 @@
+{
+    "0d0f8d64973f708c799e4e49d6909dfd": {
+        "(23, 20)": {
+            "WBF": [
+                1212
+            ], 
+            "BM1F": [
+                3133
+            ], 
+            "M1": [
+                1897
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1820
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "it sends discoutinous signal to tv , so the tv has the picture for one moment and has only the white noise for the other moment ."
+    }
+}

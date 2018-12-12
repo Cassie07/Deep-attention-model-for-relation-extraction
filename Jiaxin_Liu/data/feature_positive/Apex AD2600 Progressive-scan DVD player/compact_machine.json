@@ -1,0 +1,37 @@
+{
+    "32ea776ee4efc0b2bbcd509ec2656593": {
+        "(3, 5)": {
+            "AM2L": [
+                3094
+            ], 
+            "WBFL": [
+                322
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                653
+            ], 
+            "M2": [
+                1715
+            ], 
+            "BM1L": [
+                4
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "it 's a compact , attractive machine and was easy to set up ."
+    }
+}

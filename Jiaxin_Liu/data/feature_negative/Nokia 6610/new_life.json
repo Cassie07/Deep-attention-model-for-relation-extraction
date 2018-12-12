@@ -1,0 +1,44 @@
+{
+    "0774bbf5a1f65c236eec818161d3b56d": {
+        "location1": [
+            21
+        ], 
+        "location2": [
+            15
+        ], 
+        "(21, 15)": {
+            "WBF": [
+                1915
+            ], 
+            "AM2L": [
+                2828
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1643
+            ], 
+            "M2": [
+                1882
+            ], 
+            "BM1L": [
+                1685
+            ], 
+            "WBO": [
+                304, 
+                1685
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2155
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "this is a very light phone - a little less than 3 oz , with long battery life ( not as long as the new polymer technology ) ."
+    }
+}

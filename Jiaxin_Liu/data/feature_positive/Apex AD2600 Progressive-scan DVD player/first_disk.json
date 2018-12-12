@@ -1,0 +1,37 @@
+{
+    "c43abed7f15effb4bbf9b56cd5cdb4e1": {
+        "(5, 6)": {
+            "AM2L": [
+                2138
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                896
+            ], 
+            "BM1L": [
+                2867
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3102
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "3/4 way through the first disk we played on it ( naturally on 31 day after purchase ) the dvd player froze ."
+    }
+}

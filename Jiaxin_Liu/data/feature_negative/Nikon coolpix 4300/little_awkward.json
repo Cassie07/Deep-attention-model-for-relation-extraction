@@ -1,0 +1,46 @@
+{
+    "ce241be0dc19c920cb8070b418b49068": {
+        "(7, 15)": {
+            "WBF": [
+                1331
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                348
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                501, 
+                1748, 
+                2088, 
+                381
+            ], 
+            "WBL": [
+                1998
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "the small size is perfect for my little hand , but may perhaps be uncomfortable or awkward for a bigger person ."
+    }
+}

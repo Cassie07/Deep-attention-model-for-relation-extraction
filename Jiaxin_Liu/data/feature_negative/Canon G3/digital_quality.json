@@ -1,0 +1,53 @@
+{
+    "a3966ba04d7e675a36911883e1bc65b2": {
+        "(18, 3)": {
+            "WBF": [
+                635
+            ], 
+            "AM2L": [
+                1424
+            ], 
+            "BM1F": [
+                2112
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                253, 
+                2544, 
+                1951, 
+                1207, 
+                295, 
+                2628, 
+                1313, 
+                1545, 
+                668, 
+                1000, 
+                1856
+            ], 
+            "WBL": [
+                134
+            ], 
+            "AM2F": [
+                1452
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "a ) the picture quality ( color and sharpness of focusing ) are so great , it completely eliminated my doubt about digital imaging -- - how could one eat rice one grain at a time : - ) )"
+    }
+}

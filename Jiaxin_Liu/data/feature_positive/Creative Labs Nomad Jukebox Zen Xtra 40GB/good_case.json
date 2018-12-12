@@ -1,0 +1,270 @@
+{
+    "b24bda91f521ad2ca3847636eaba7568": {
+        "(4, 5)": {
+            "AM2L": [
+                1181
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                541
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "it comes with a good case that fit it snuggly ."
+    }, 
+    "4609198e9495aeb97d0e1704b1f11136": {
+        "(4, 33)": {
+            "WBF": [
+                1691
+            ], 
+            "AM2L": [
+                1967
+            ], 
+            "BM1F": [
+                1431
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                541
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                2139, 
+                385, 
+                436, 
+                353, 
+                2479, 
+                1441, 
+                3203, 
+                6, 
+                2296, 
+                134, 
+                2844, 
+                2139, 
+                2637, 
+                1355, 
+                665, 
+                134, 
+                2844, 
+                1595, 
+                1951, 
+                130, 
+                3063, 
+                1407, 
+                1212, 
+                2844, 
+                1110
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(39, 33)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                541
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                3124
+            ], 
+            "WBO": [
+                1967, 
+                501
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                386
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4, 
+            39
+        ], 
+        "location2": [
+            33
+        ], 
+        "sentence": "much cheaper than i-pod good looking player ( beautiful blue back-lit screen ) if you 've read about the player , some have complained about the lack of a viewing hole for the face when the case is on , but this is good because the face does n't get damaged / scratched fast transfer rate"
+    }, 
+    "8a31ba51febce8f3d665f6e34835eb2d": {
+        "(24, 10)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                540
+            ], 
+            "M1": [
+                541
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                2304, 
+                2239, 
+                253, 
+                2886, 
+                1752, 
+                1548, 
+                2844, 
+                1978, 
+                150, 
+                3203
+            ], 
+            "WBL": [
+                1074
+            ], 
+            "AM2F": [
+                1366
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the free ( i didnt know they still did that ) carrying case is really protective , and to me its the only accessory you need ( except good headphone ) ."
+    }, 
+    "b6ad3734805d45028aacb33df91f1f38": {
+        "(29, 23)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                541
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                994
+            ], 
+            "WBO": [
+                2746, 
+                253
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2238
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            6, 
+            23
+        ], 
+        "(29, 6)": {
+            "WBF": [
+                1915
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                541
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBO": [
+                1357, 
+                130, 
+                3151, 
+                501, 
+                2842, 
+                4, 
+                1915, 
+                2304, 
+                130, 
+                419, 
+                805, 
+                2886, 
+                1752, 
+                994, 
+                2844, 
+                541, 
+                1541, 
+                2746, 
+                253
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2238
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "people also have complained about the case not having a window , but that 's not really a big deal to me either -- the case is sturdy and offer very good protection ."
+    }
+}

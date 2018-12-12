@@ -1,0 +1,40 @@
+{
+    "c942e7617c5617c46364266d80a29f69": {
+        "(6, 1)": {
+            "WBF": [
+                108
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1899
+            ], 
+            "M2": [
+                1882
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                2355
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the nokia 6610 is a relatively new phone , and what a great phone it is ."
+    }
+}

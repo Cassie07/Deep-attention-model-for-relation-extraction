@@ -1,0 +1,80 @@
+{
+    "7b185dc9dc52f36cb42d1ebf9b7745f6": {
+        "(1, 2)": {
+            "AM2L": [
+                1804
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1242
+            ], 
+            "M2": [
+                923
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(1, 22)": {
+            "WBF": [
+                923
+            ], 
+            "AM2L": [
+                619
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1242
+            ], 
+            "M2": [
+                923
+            ], 
+            "WBO": [
+                1541, 
+                1804, 
+                219, 
+                1967, 
+                1856, 
+                2987, 
+                253, 
+                3203, 
+                1355, 
+                2886, 
+                1732, 
+                1643, 
+                1545, 
+                3006, 
+                1570, 
+                2628, 
+                2606
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2, 
+            22
+        ], 
+        "sentence": "the front door is miss aligned on my unit and you have to manually life it up just so slightly for the door to close , a very annoying thing after ahwile ."
+    }
+}

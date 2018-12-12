@@ -1,0 +1,310 @@
+{
+    "00562a00a0ab2c377658f1ccf279b3bb": {
+        "(2, 8)": {
+            "WBF": [
+                1522
+            ], 
+            "AM2L": [
+                2601
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                1313
+            ], 
+            "WBO": [
+                2381, 
+                2184
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                3081
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2, 
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "(7, 8)": {
+            "AM2L": [
+                2601
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                2184
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3081
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "great sound ; good interface ; replaceable , powerful battery ; good software ; wake-up , sleep timer ; multiple play mode"
+    }, 
+    "3fd077cfdb53680671d6b273e8b56c20": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            9
+        ], 
+        "(1, 9)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                1724
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2631
+            ], 
+            "WBO": [
+                316, 
+                130, 
+                1313, 
+                2204
+            ], 
+            "WBL": [
+                2835
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be ."
+    }, 
+    "53300d7a7dd55e15a9b1ca34d833f210": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            16
+        ], 
+        "(5, 16)": {
+            "WBF": [
+                316
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "WBO": [
+                2595, 
+                3035, 
+                1348, 
+                845, 
+                501, 
+                2304, 
+                361
+            ], 
+            "WBL": [
+                1548
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "in short , this player is good at size , value , hardware design but really bad at its software"
+    }, 
+    "aa755efa485b6b2983cdb9916e3def2b": {
+        "(8, 1)": {
+            "WBF": [
+                3129
+            ], 
+            "AM2L": [
+                221
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                644, 
+                3158, 
+                2139
+            ], 
+            "WBL": [
+                1915
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the software , which comes with player is not good at all ."
+    }, 
+    "937380945b7a721b7403148d0d455e73": {
+        "(8, 13)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2139
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the nomad jukebox zen xtra is a very good mp3 player but the software is it gets hurt ."
+    }, 
+    "cbfc89f77439980882d812d4eb68bc5b": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            3
+        ], 
+        "(11, 3)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "WBO": [
+                3052, 
+                985, 
+                2886, 
+                3018
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the player 's software is very easy to use and very good ."
+    }, 
+    "e31dd62f55c1c30d4c665bd6ad5606e1": {
+        "(4, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1300
+            ], 
+            "WBO": [
+                1915
+            ], 
+            "WBL": [
+                1915
+            ], 
+            "AM2F": [
+                994
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the software is not good either and the driver has trouble working with other sound blaster product , which is very dumb ."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "0d9c98a0b96f462fb9a75d73a026a16e": {
+        "(7, 3)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                1072
+            ], 
+            "M1": [
+                2107
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2814
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "it takes excellent pic and is very easy to use , if you read the manual ."
+    }
+}

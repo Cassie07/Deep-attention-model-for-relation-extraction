@@ -1,0 +1,72 @@
+{
+    "7ce68523e9bd23cb9fa8f5c8bfadfa9f": {
+        "(14, 16)": {
+            "AM2L": [
+                1545
+            ], 
+            "WBFL": [
+                1597
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1685
+            ], 
+            "M2": [
+                2878
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                394
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the two limitation i knew i would have to deal with are the very long lag time before it focus-locks ( even in bright light ) , and the unsatisfactory light quality of the built-in flash ."
+    }, 
+    "20213c2657b8735b886c7d729880f2ad": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                1122
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                1685
+            ], 
+            "M2": [
+                2878
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2321
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "although canon 's battery are proprietary , they last a really long time , recharge fairly quickly in the camera , plus if you want ' more power ' , you can even find a knockoff charger and spare battery right here on amazon ."
+    }
+}

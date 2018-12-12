@@ -1,0 +1,90 @@
+{
+    "f6f88d89f1bb907351dcee2f580dfcba": {
+        "(42, 24)": {
+            "WBF": [
+                130
+            ], 
+            "AM2L": [
+                912
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1384
+            ], 
+            "M2": [
+                1885
+            ], 
+            "BM1L": [
+                1570
+            ], 
+            "WBO": [
+                2606, 
+                324, 
+                615, 
+                1441, 
+                1429, 
+                239, 
+                1915, 
+                1663, 
+                1212, 
+                2844, 
+                2228, 
+                1241, 
+                1973, 
+                2911
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(18, 24)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                2606
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1885
+            ], 
+            "M2": [
+                1384
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1265, 
+                1541
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            18, 
+            42
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "the zen has minimal stoppage between track ; when listening to music that continues from one track to the next the gap is just a hesitation - a slightly audible click ; if i am not listening for the progress from one track to the next i do n't even notice the click ."
+    }
+}

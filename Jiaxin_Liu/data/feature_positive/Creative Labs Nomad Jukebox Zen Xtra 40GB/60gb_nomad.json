@@ -1,0 +1,37 @@
+{
+    "ad451383a8f52970863fb60b1cd69f44": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            21
+        ], 
+        "(20, 21)": {
+            "AM2L": [
+                1536
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                107
+            ], 
+            "M2": [
+                1901
+            ], 
+            "BM1L": [
+                1277
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "for some this might be a problem , but for the price of a 30 gig ipod , you can get a 60gb nomad , the ipod simply pale in comparison ."
+    }
+}

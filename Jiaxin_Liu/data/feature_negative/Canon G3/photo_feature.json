@@ -1,0 +1,106 @@
+{
+    "333577d10a0d5606224f46a9898698e1": {
+        "(1, 17)": {
+            "WBF": [
+                2260
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2098
+            ], 
+            "M2": [
+                1143
+            ], 
+            "WBO": [
+                1541, 
+                245, 
+                253, 
+                1429, 
+                1589, 
+                1429, 
+                2, 
+                1298, 
+                2886, 
+                1355, 
+                1251, 
+                3158
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "the photo quality is amazing and i know i 'm going to have fun with all the feature ."
+    }, 
+    "ea03c1eca4f4843d18fa28fa8e577b5c": {
+        "(7, 32)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                173
+            ], 
+            "BM1F": [
+                385
+            ], 
+            "M1": [
+                2098
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                137
+            ], 
+            "WBO": [
+                850, 
+                2842, 
+                566, 
+                221, 
+                1951, 
+                2844, 
+                135, 
+                102, 
+                520, 
+                985, 
+                2886, 
+                2976, 
+                253, 
+                3018, 
+                1351, 
+                130, 
+                1313, 
+                2796, 
+                1615, 
+                2479, 
+                130
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            32
+        ], 
+        "sentence": "4mp , 4x optical zoom , takes absolutely beautiful photo with detail that challenge all of the above 5mp camera , easy to understand and use ( has a great swivel lcd screen ) , a lot of feature and add-on option , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumb up ! )"
+    }
+}

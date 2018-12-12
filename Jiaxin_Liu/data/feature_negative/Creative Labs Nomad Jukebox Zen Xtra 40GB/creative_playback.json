@@ -1,0 +1,43 @@
+{
+    "16dccec07487bfb9e777d9b8fc08c377": {
+        "(2, 5)": {
+            "WBF": [
+                2221
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2137
+            ], 
+            "BM1L": [
+                402
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "being a creative product the playback quality is unbeatable ."
+    }
+}

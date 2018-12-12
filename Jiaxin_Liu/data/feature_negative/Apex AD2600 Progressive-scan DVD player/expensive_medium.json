@@ -1,0 +1,91 @@
+{
+    "8fd7717f6f4b86db0002350fe4354721": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            18, 
+            35
+        ], 
+        "(15, 35)": {
+            "WBF": [
+                961
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1829
+            ], 
+            "M1": [
+                1085
+            ], 
+            "M2": [
+                1761
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2272, 
+                1761, 
+                890, 
+                4, 
+                2842, 
+                2011, 
+                2139, 
+                3181, 
+                2136, 
+                501, 
+                2886, 
+                1856, 
+                2783, 
+                3094, 
+                133, 
+                2886
+            ], 
+            "WBL": [
+                587
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(15, 18)": {
+            "WBF": [
+                961
+            ], 
+            "AM2L": [
+                4
+            ], 
+            "BM1F": [
+                1829
+            ], 
+            "M1": [
+                1085
+            ], 
+            "M2": [
+                1761
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2272
+            ], 
+            "WBL": [
+                2272
+            ], 
+            "AM2F": [
+                890
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "when i 1st tried it i found that it had no problem playing the more expensive dvd - r medium disc 's that other player would play but to my surprise was able to play cheep medium that i had burned that i could n't get to work before in anything but the dvd burner itself that i had made the disc with ."
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "4eb5f2954876bf5f8cf65bf5ee5d832b": {
+        "(9, 16)": {
+            "WBF": [
+                503
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                1770
+            ], 
+            "BM1L": [
+                381
+            ], 
+            "WBO": [
+                2016, 
+                2850, 
+                1212
+            ], 
+            "WBL": [
+                1602
+            ], 
+            "AM2F": [
+                1842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "considering the price and specs , this might be the best buy out there for a large memory mp3 player ."
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "b43eea60a6e26ef2d546c1544c0e533f": {
+        "(16, 17)": {
+            "AM2L": [
+                2861
+            ], 
+            "BM1F": [
+                2149
+            ], 
+            "M1": [
+                189
+            ], 
+            "M2": [
+                1252
+            ], 
+            "BM1L": [
+                2182
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            2, 
+            17
+        ], 
+        "(16, 2)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1252
+            ], 
+            "M2": [
+                189
+            ], 
+            "BM1L": [
+                2280
+            ], 
+            "WBO": [
+                1484, 
+                135, 
+                1545, 
+                1351, 
+                2639, 
+                1212, 
+                1062, 
+                2151, 
+                253, 
+                2557
+            ], 
+            "WBL": [
+                2149
+            ], 
+            "AM2F": [
+                1252
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "range of function - as indicated above - it has something for everyone : point and shoot power plus advanced function for those who are serious about photography ."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "f11b6493f562e48e09dd1f455dcac0d3": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            8
+        ], 
+        "(4, 8)": {
+            "WBF": [
+                1188
+            ], 
+            "AM2L": [
+                1277
+            ], 
+            "BM1F": [
+                221
+            ], 
+            "M1": [
+                488
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                1468
+            ], 
+            "WBL": [
+                2615
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "flash - as with all built-in flash in small camera , you get overilluminated main subject with depth being lost ."
+    }
+}

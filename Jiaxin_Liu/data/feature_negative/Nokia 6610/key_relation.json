@@ -1,0 +1,47 @@
+{
+    "8c8bbd4a1f9a38c0933fcbd3803b117e": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            13
+        ], 
+        "(1, 13)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                2694
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                2353
+            ], 
+            "WBO": [
+                619, 
+                2889, 
+                253, 
+                2844, 
+                1614, 
+                1541, 
+                130, 
+                423
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the key are close together , and the layout is a bit funky in relation to standard rectangular layout keypad , but it 's not too weird ."
+    }
+}

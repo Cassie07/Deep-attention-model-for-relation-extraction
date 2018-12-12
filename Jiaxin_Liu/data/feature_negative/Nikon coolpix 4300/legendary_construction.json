@@ -1,0 +1,44 @@
+{
+    "cc90bbee0ce57ccc7e1b784c1f46fd96": {
+        "(9, 3)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                703
+            ], 
+            "M2": [
+                1626
+            ], 
+            "BM1L": [
+                845
+            ], 
+            "WBO": [
+                1072, 
+                304
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the design and construction are excellent -- as is the legendary quality of the nikon optic ."
+    }
+}

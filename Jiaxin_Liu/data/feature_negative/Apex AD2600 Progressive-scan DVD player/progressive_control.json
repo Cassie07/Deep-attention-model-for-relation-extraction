@@ -1,0 +1,98 @@
+{
+    "1b4b8b00a1be6322acc0a3232c0e902d": {
+        "(1, 25)": {
+            "WBF": [
+                2472
+            ], 
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                715
+            ], 
+            "WBO": [
+                1996, 
+                522, 
+                381, 
+                2946, 
+                1952, 
+                984, 
+                507, 
+                130, 
+                502, 
+                1967, 
+                2844, 
+                2366, 
+                715, 
+                3129, 
+                1541, 
+                1973, 
+                1951, 
+                2844, 
+                2584, 
+                253
+            ], 
+            "WBL": [
+                2366
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            15, 
+            25
+        ], 
+        "(1, 15)": {
+            "WBF": [
+                2472
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                715
+            ], 
+            "WBO": [
+                1996, 
+                522, 
+                381, 
+                2946, 
+                1952, 
+                984, 
+                507, 
+                130, 
+                502, 
+                1967
+            ], 
+            "WBL": [
+                2366
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the progressive scan option can be turned off easily by a button on the remote control which is one of the simplest and easiest remote control i have ever seen or used ."
+    }
+}

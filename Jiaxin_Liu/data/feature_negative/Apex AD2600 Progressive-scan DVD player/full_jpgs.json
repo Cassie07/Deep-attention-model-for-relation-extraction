@@ -1,0 +1,31 @@
+{
+    "6eef518602a7cd948f9f4698d3515a9f": {
+        "(3, 5)": {
+            "WBFL": [
+                1951
+            ], 
+            "BM1F": [
+                553
+            ], 
+            "M1": [
+                1248
+            ], 
+            "M2": [
+                1565
+            ], 
+            "BM1L": [
+                3061
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "even viewed cd full of jpgs ."
+    }
+}

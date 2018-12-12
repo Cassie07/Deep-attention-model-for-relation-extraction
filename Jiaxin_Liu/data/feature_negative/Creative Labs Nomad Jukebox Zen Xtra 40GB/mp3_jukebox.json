@@ -1,0 +1,80 @@
+{
+    "937380945b7a721b7403148d0d455e73": {
+        "(9, 2)": {
+            "WBF": [
+                3210
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                1901
+            ], 
+            "M1": [
+                1566
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3194, 
+                1541, 
+                130
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the nomad jukebox zen xtra is a very good mp3 player but the software is it gets hurt ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "(11, 12)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1566
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1355
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }
+}

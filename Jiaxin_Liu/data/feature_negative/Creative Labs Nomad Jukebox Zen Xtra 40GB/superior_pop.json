@@ -1,0 +1,37 @@
+{
+    "72aded7ea887df602a8ff0bb7045767d": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            6
+        ], 
+        "(10, 6)": {
+            "WBF": [
+                1853
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2159
+            ], 
+            "M2": [
+                2771
+            ], 
+            "BM1L": [
+                1555
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                1043
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the sound quality with jazz and pop music is equally superior ."
+    }
+}

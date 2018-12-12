@@ -1,0 +1,77 @@
+{
+    "ca1082e52c74fe20465b83cd64f2464c": {
+        "(13, 10)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                1853
+            ], 
+            "M1": [
+                633
+            ], 
+            "M2": [
+                1426
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2149
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "its ability to serve as a back-up for my music collection is a huge plus ."
+    }, 
+    "39e04a3877da6e2dd43afd9b1587c5f3": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            7
+        ], 
+        "(0, 7)": {
+            "WBF": [
+                2725
+            ], 
+            "AM2L": [
+                1853
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                633
+            ], 
+            "WBO": [
+                2660, 
+                1429, 
+                1674
+            ], 
+            "WBL": [
+                1036
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "huge storage space , i loaded my entire collection of music , which isnt that much , 400 song , and still have 26 gb , out of the 28 provided to you ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "9faf0a7bfc43d9a419ce8a897488d3e6": {
+        "(19, 20)": {
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2592
+            ], 
+            "BM1L": [
+                734
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "the auto-focus performs well , but i love having the 12 optional scene mode - they are dummy-proof , and correspond to many situation in which i would actually seek to use the camera ."
+    }
+}

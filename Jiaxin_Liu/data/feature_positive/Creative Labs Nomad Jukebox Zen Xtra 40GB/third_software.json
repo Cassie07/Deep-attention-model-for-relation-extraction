@@ -1,0 +1,101 @@
+{
+    "54724dd286a492837cf9f736f866a74a": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "AM2L": [
+                3203
+            ], 
+            "WBFL": [
+                765
+            ], 
+            "M1": [
+                2857
+            ], 
+            "M2": [
+                2631
+            ], 
+            "AM2F": [
+                226
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "third , creative software allows you to keep two window open to look at both the content on the player and the computer ."
+    }, 
+    "e17e18380718fc3b0a9d1deacbd92ff8": {
+        "location1": [
+            27
+        ], 
+        "location2": [
+            29
+        ], 
+        "(27, 29)": {
+            "AM2L": [
+                2842
+            ], 
+            "WBFL": [
+                2065
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2857
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "AM2F": [
+                655
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this player is an overall disappointment with a couple of big flaw that potential buyer should be wary of ; and all reader need to know about a third party software company that resolve virtually all of the creative mediasource file transfer issue ."
+    }, 
+    "595586dcd393895e2ca8c8a038c133b3": {
+        "(17, 19)": {
+            "AM2L": [
+                762
+            ], 
+            "WBFL": [
+                2065
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                2857
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                1055
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "the zen does n't support folder so it is not really a storage device ; even with third party software that `` creates `` folder , document and program can 't be launched from the zen , so it is not a hard disk , it 's a storage device at best ."
+    }
+}

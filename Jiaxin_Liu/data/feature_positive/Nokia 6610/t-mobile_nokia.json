@@ -1,0 +1,77 @@
+{
+    "cb424d3ece8282ce9d98ff9e19d23c6c": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            20
+        ], 
+        "(10, 20)": {
+            "WBF": [
+                1595
+            ], 
+            "AM2L": [
+                1241
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                2804
+            ], 
+            "M2": [
+                1899
+            ], 
+            "BM1L": [
+                1733
+            ], 
+            "WBO": [
+                1737, 
+                1951, 
+                2844, 
+                1774, 
+                253, 
+                1252
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2729
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the one huge disappointment is that the phone manufactured for t-mobile lack many of the menus and function that a nokia straight from the manufacturer should have ."
+    }, 
+    "51b1770d89037fd1f2b3010444b9217d": {
+        "(2, 0)": {
+            "AM2L": [
+                2824
+            ], 
+            "WBFL": [
+                253
+            ], 
+            "M1": [
+                1899
+            ], 
+            "M2": [
+                2804
+            ], 
+            "AM2F": [
+                2304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "nokia and t-mobile really teamed up well on this baby ."
+    }
+}

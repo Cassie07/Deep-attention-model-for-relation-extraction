@@ -1,0 +1,43 @@
+{
+    "f7e215562ee1a9103ae0258748c464f7": {
+        "(15, 12)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                3018
+            ], 
+            "M1": [
+                1348
+            ], 
+            "M2": [
+                2137
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                2631
+            ], 
+            "WBL": [
+                2631
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "i can highly recommend this product because of its ease of use ( hardware and software ) , playback quality and value for the price ."
+    }
+}

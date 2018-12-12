@@ -1,0 +1,40 @@
+{
+    "7aba4051c00fd6801f9538e897377aed": {
+        "(4, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1580
+            ], 
+            "M2": [
+                808
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2595
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the keypad is a decent size , but the power on/off key is small and difficult to press ."
+    }
+}

@@ -1,0 +1,249 @@
+{
+    "26afbb728550c0df1149e771bc94d54b": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            33
+        ], 
+        "(20, 33)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                469
+            ], 
+            "WBO": [
+                2296, 
+                253, 
+                2844, 
+                2381, 
+                379, 
+                1753, 
+                130, 
+                1722, 
+                190
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                412
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }, 
+    "78c51d9eb31454b8f9dba754a0353b4b": {
+        "location1": [
+            41
+        ], 
+        "location2": [
+            27
+        ], 
+        "(41, 27)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                458
+            ], 
+            "WBO": [
+                1901, 
+                3210, 
+                3194, 
+                3094, 
+                130, 
+                1134, 
+                415, 
+                3035, 
+                253, 
+                1541
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "try before you buy if at all possible : although i am a mac addict now for over a decade and everyone i know has previously bought an ipod , the nomad zen xtra was a far better value and is just as easy to use with regard to both hardware and software interface ."
+    }, 
+    "c12383bb97c5145343b5078c02d465f5": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            21
+        ], 
+        "(18, 21)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                1998
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                5
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the only thing i would complain about the zen xtra is that the control are n't as easy as the ipod 's , or as `` sexy `` looking ."
+    }, 
+    "00b26e308a4b8730247f6846646d008a": {
+        "(10, 22)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                3018, 
+                1967, 
+                2844, 
+                1199, 
+                2141, 
+                764, 
+                2760, 
+                304
+            ], 
+            "WBL": [
+                1882
+            ], 
+            "AM2F": [
+                1915
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(10, 41)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1000
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                3018, 
+                1967, 
+                2844, 
+                1199, 
+                2141, 
+                764, 
+                2760, 
+                304, 
+                2844, 
+                1882, 
+                1536, 
+                1915, 
+                2886, 
+                1771, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                2586, 
+                3158, 
+                705, 
+                1660, 
+                2097, 
+                1929, 
+                179, 
+                447, 
+                989
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            22, 
+            41
+        ], 
+        "sentence": "its far more difficult to select song and has no easy to use on the fly playlist creation such as the new ipod not to mention it does n't sinc with contact list , phone number , address book , ect . like the ipod ( which eliminated my need for any kind of palm device ) ."
+    }
+}

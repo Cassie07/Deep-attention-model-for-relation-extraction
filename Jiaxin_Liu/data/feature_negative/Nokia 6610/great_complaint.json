@@ -1,0 +1,57 @@
+{
+    "6f9adbe48884c146062517217a8d680d": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            25
+        ], 
+        "(6, 25)": {
+            "WBF": [
+                2944
+            ], 
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                666
+            ], 
+            "BM1L": [
+                2260
+            ], 
+            "WBO": [
+                3006, 
+                2844, 
+                3074, 
+                1441, 
+                1548, 
+                2896, 
+                2264, 
+                2079, 
+                2859, 
+                2853, 
+                3145, 
+                1277, 
+                1699, 
+                1429, 
+                922
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                134
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the phone 's sound quality is great ( turn up the volume if its too quiet , people , this thing will get loud ) i dont have any complaint about this phone and the only thing that i miss from my 8290 is voice dialing ."
+    }
+}

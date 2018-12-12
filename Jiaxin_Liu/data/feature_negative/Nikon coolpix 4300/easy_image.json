@@ -1,0 +1,79 @@
+{
+    "0a97bbb3a0da722d9e48e3c05e77a24c": {
+        "(19, 30)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1448
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                3018, 
+                2615, 
+                1300, 
+                1212, 
+                2923, 
+                253, 
+                2246
+            ], 
+            "WBL": [
+                2542
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "in my opinion it 's the best camera for the money if you 're looking for something that 's easy to use , small good for travel , and provides excellent , sharp image ."
+    }, 
+    "a3c39ca74e64f9139dabb40cc958b72d": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            11
+        ], 
+        "(5, 11)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1448
+            ], 
+            "BM1L": [
+                197
+            ], 
+            "WBO": [
+                1617, 
+                253
+            ], 
+            "WBL": [
+                2673
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this camera was affordable , very easy to learn , and produce spectacular image ."
+    }
+}

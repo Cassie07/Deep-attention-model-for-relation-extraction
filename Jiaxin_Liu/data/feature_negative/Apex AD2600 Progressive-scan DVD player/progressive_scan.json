@@ -1,0 +1,247 @@
+{
+    "304f55c4c30167a6dd8bf365c2f321c6": {
+        "(27, 28)": {
+            "BM1F": [
+                210
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                2472
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "this dvd player play raw mpeg2 and mpeg1 video , jpeg , wma , cdr / cdrw / dvdr / dvdrw , and of course play dvd movie from uk . i love the aiff , progressive scan feature ."
+    }, 
+    "1b4b8b00a1be6322acc0a3232c0e902d": {
+        "(1, 2)": {
+            "AM2L": [
+                522
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                2472
+            ], 
+            "AM2F": [
+                1996
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the progressive scan option can be turned off easily by a button on the remote control which is one of the simplest and easiest remote control i have ever seen or used ."
+    }, 
+    "559deec06532af818dc647a493e9e9dc": {
+        "(0, 1)": {
+            "AM2L": [
+                1212
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                2472
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(22, 1)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                2229
+            ], 
+            "M1": [
+                2472
+            ], 
+            "M2": [
+                2229
+            ], 
+            "WBO": [
+                1212, 
+                130, 
+                2355, 
+                1703, 
+                2204, 
+                237, 
+                2844, 
+                415, 
+                1591, 
+                1734, 
+                1648, 
+                2902, 
+                2118, 
+                253, 
+                2054, 
+                295, 
+                1926
+            ], 
+            "WBL": [
+                1706
+            ], 
+            "AM2F": [
+                2472
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "progressive scan player for a relatively low price ( although the better known manufacturer like toshiba , pioneer , and panasonic are now offering lower-priced progressive scan player as well ) .", 
+        "location2": [
+            1, 
+            23
+        ], 
+        "(0, 23)": {
+            "WBF": [
+                2472
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                2472
+            ], 
+            "WBO": [
+                2139, 
+                1212, 
+                130, 
+                2355, 
+                1703, 
+                2204, 
+                237, 
+                2844, 
+                415, 
+                1591, 
+                1734, 
+                1648, 
+                2902, 
+                2118, 
+                253, 
+                2054, 
+                295, 
+                1926, 
+                1957
+            ], 
+            "WBL": [
+                2229
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0, 
+            22
+        ], 
+        "(22, 23)": {
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                1706
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                2472
+            ], 
+            "BM1L": [
+                1957
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }, 
+    "ef8c9c3238c0997f0a50179e0167afa6": {
+        "(15, 16)": {
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                260
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                2472
+            ], 
+            "BM1L": [
+                1279
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                961
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "only owned it about two week so i expect we 're looking at getting another progressive scan dvd player of higher quality very soon ."
+    }
+}

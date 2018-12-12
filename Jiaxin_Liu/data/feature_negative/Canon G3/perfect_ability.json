@@ -1,0 +1,52 @@
+{
+    "f4d33ef7024c0c93baef74d60978635e": {
+        "(3, 17)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                3115
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2083
+            ], 
+            "M2": [
+                132
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1212, 
+                130, 
+                2098, 
+                1403, 
+                3135, 
+                3088, 
+                2886, 
+                1355, 
+                985, 
+                2151
+            ], 
+            "WBL": [
+                2557
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "this is the perfect camera for a photo hobbiest who wants to have easy point and shoot ability as well ."
+    }
+}

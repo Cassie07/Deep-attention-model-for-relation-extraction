@@ -1,0 +1,54 @@
+{
+    "f7c6a30b651882d1ae5523552ba03649": {
+        "(9, 25)": {
+            "WBF": [
+                2948
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2533
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                2576
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                3026, 
+                130, 
+                1852, 
+                1951, 
+                691, 
+                1783, 
+                253, 
+                1429, 
+                2712, 
+                522, 
+                5, 
+                1277
+            ], 
+            "WBL": [
+                3057
+            ], 
+            "AM2F": [
+                1241
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "i 've attempted to connect this unit to several different tv , using a multitude of connection method , and i still can 't get a video signal from the machine ."
+    }
+}

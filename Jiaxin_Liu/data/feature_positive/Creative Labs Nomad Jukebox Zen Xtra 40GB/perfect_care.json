@@ -1,0 +1,37 @@
+{
+    "181a7b7896f3a5bc487caf123b3e4a42": {
+        "(2, 3)": {
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                2897
+            ], 
+            "M1": [
+                2083
+            ], 
+            "M2": [
+                534
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i took perfect care of this player and still it died in the week after the lousy 90 day warranty ended ."
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "f744e4fb9058b980763743190fc727d9": {
+        "(3, 18)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                919
+            ], 
+            "BM1F": [
+                442
+            ], 
+            "M1": [
+                2771
+            ], 
+            "M2": [
+                2595
+            ], 
+            "BM1L": [
+                3216
+            ], 
+            "WBO": [
+                2260, 
+                2840, 
+                2844, 
+                1536, 
+                1425, 
+                1545, 
+                673, 
+                130, 
+                423, 
+                1951, 
+                2844
+            ], 
+            "WBL": [
+                4
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "the zx boast superior sound quality than the ipod , however it compromise a bit of the unit 's size in doing so ."
+    }
+}

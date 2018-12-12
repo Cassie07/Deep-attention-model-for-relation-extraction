@@ -1,0 +1,76 @@
+{
+    "4c5719a60c8bb78b21a56b75862ad9e9": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            4
+        ], 
+        "(10, 4)": {
+            "WBF": [
+                3145
+            ], 
+            "AM2L": [
+                1239
+            ], 
+            "BM1F": [
+                72
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                645
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1165, 
+                2844
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "those used to 35mm camera will find the g3 very comfortable and friendly to use ."
+    }, 
+    "5d8b5507ce45f152c58e301e745b132e": {
+        "(1, 2)": {
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                645
+            ], 
+            "M2": [
+                520
+            ], 
+            "AM2F": [
+                985
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "very comfortable camera , easy to use , and the best digital photo you 're going to get at this price ."
+    }
+}

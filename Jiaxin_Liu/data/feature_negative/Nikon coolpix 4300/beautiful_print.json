@@ -1,0 +1,58 @@
+{
+    "0d8185b14013eb0f62080f7c2c1f1129": {
+        "(8, 9)": {
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                385
+            ], 
+            "M2": [
+                2211
+            ], 
+            "BM1L": [
+                2107
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(5, 9)": {
+            "WBF": [
+                2107
+            ], 
+            "BM1F": [
+                1064
+            ], 
+            "M1": [
+                385
+            ], 
+            "M2": [
+                2211
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                385
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5, 
+            8
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "setting for just about everything , beautiful pic and beautiful print ."
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "4c97fb16f6c98310c527b30aa33a2434": {
+        "(36, 30)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                684
+            ], 
+            "WBO": [
+                381, 
+                3020
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1880
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(36, 5)": {
+            "WBF": [
+                3089
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                253, 
+                1304, 
+                3145, 
+                1978, 
+                3168, 
+                2867, 
+                2804, 
+                4, 
+                2527, 
+                386, 
+                2852, 
+                1355, 
+                827, 
+                2844, 
+                1773, 
+                1996, 
+                2842, 
+                3181, 
+                1011, 
+                3203, 
+                2886, 
+                684, 
+                2844, 
+                2097, 
+                2886, 
+                381, 
+                3020
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1880
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            36
+        ], 
+        "location2": [
+            5, 
+            30
+        ], 
+        "sentence": "the internet function of the phone - wap and gprs - will only work through t-mobile 's service , because they have deleted the menu option that would enable you to configure the phone to be used on a different network ."
+    }
+}

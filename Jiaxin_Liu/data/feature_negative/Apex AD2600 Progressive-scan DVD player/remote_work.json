@@ -1,0 +1,151 @@
+{
+    "1a0284a937d6f776c0dd445ba87180e1": {
+        "(5, 10)": {
+            "WBF": [
+                2628
+            ], 
+            "AM2L": [
+                961
+            ], 
+            "BM1F": [
+                2988
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                3168
+            ], 
+            "BM1L": [
+                62
+            ], 
+            "WBO": [
+                1135
+            ], 
+            "WBL": [
+                2886
+            ], 
+            "AM2F": [
+                275
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "we 've purchased 3 universal remote so far-all claiming to work `` apex `` dvd player and none worked ."
+    }, 
+    "bbe63f0328f52170d91cf129c76fd211": {
+        "(2, 3)": {
+            "AM2L": [
+                2849
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                3168
+            ], 
+            "BM1L": [
+                39
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3, 
+            9
+        ], 
+        "(2, 9)": {
+            "WBF": [
+                3168
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                3168
+            ], 
+            "BM1L": [
+                39
+            ], 
+            "WBO": [
+                501, 
+                2849, 
+                1545
+            ], 
+            "WBL": [
+                1915
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "2 ) the remote work , but then it does not work , and you are left standing there thinking you are doing something wrong ."
+    }, 
+    "a475cd1c0454d10a130c0e05e28e193d": {
+        "(11, 7)": {
+            "WBF": [
+                3158
+            ], 
+            "BM1F": [
+                1915
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                2366
+            ], 
+            "BM1L": [
+                3145
+            ], 
+            "WBO": [
+                1856
+            ], 
+            "WBL": [
+                2988
+            ], 
+            "AM2F": [
+                715
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "5 ) this apex model 2600 will not work with my universal remote control ."
+    }
+}

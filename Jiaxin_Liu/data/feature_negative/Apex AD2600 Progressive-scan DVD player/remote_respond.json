@@ -1,0 +1,49 @@
+{
+    "b471b2d427e623361da6a9861a24aef8": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            14
+        ], 
+        "(3, 14)": {
+            "WBF": [
+                715
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                2402
+            ], 
+            "BM1L": [
+                2451
+            ], 
+            "WBO": [
+                917, 
+                2498, 
+                2886, 
+                1277, 
+                686, 
+                316, 
+                2878
+            ], 
+            "WBL": [
+                918
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "p.s the remote control does seem to get confused at time and doesnt respond but it may be just operator error ?"
+    }
+}

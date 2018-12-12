@@ -1,0 +1,247 @@
+{
+    "381645b8c5e4a5a766692ae2bb576665": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            6
+        ], 
+        "(4, 6)": {
+            "AM2L": [
+                253
+            ], 
+            "WBFL": [
+                1594
+            ], 
+            "BM1F": [
+                2494
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this is my second creative lab mp3 player , and it is definitely a fine product ."
+    }, 
+    "f36365781e2d87d761d5f6c5b23a90ab": {
+        "(5, 6)": {
+            "AM2L": [
+                1328
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "in fact , each of my creative mp3 player had software problem in the first place ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(39, 6)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                1832
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                507
+            ], 
+            "WBO": [
+                1648, 
+                1854, 
+                253, 
+                3149, 
+                501, 
+                1915, 
+                765, 
+                3160, 
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545
+            ], 
+            "WBL": [
+                1853
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14, 
+            39
+        ], 
+        "location2": [
+            6
+        ], 
+        "(14, 6)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                1924
+            ], 
+            "BM1F": [
+                1832
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                507
+            ], 
+            "WBO": [
+                1648, 
+                1854, 
+                253, 
+                3149
+            ], 
+            "WBL": [
+                1915
+            ], 
+            "AM2F": [
+                3160
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "(7, 8)": {
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                2013
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                386
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1566
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }
+}

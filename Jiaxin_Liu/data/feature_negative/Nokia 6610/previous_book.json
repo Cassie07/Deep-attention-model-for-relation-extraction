@@ -1,0 +1,47 @@
+{
+    "ef6ad218bc4eef8f153f8382e40b1d89": {
+        "(9, 18)": {
+            "WBF": [
+                1899
+            ], 
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2202
+            ], 
+            "M2": [
+                447
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                253, 
+                3085, 
+                2886, 
+                2916, 
+                3204
+            ], 
+            "WBL": [
+                2097
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "the infrared is a blessing if you have a previous nokia and want to transfer your old phone book to this phone , saved me hour of re-entering my number ."
+    }
+}

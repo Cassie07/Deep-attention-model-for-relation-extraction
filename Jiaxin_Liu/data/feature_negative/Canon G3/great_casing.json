@@ -1,0 +1,60 @@
+{
+    "5e8d37c7fc800e394540cc47e42d3496": {
+        "(2, 30)": {
+            "WBF": [
+                2112
+            ], 
+            "BM1F": [
+                1287
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                543
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2844, 
+                715, 
+                295, 
+                985, 
+                2886, 
+                3018, 
+                2844, 
+                379, 
+                1605, 
+                1214, 
+                1967, 
+                1973, 
+                2588, 
+                574, 
+                2844, 
+                2631, 
+                1541, 
+                3052, 
+                3024, 
+                253, 
+                1545, 
+                1541, 
+                385, 
+                1468
+            ], 
+            "WBL": [
+                599
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "it gives great picture , the control are easy to use , the battery last forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing ."
+    }
+}

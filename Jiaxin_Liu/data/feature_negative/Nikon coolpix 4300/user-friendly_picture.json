@@ -1,0 +1,95 @@
+{
+    "164dda298348d815567dec7d16e56e32": {
+        "(33, 21)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                3024
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                1072, 
+                3158, 
+                76, 
+                2125, 
+                1168, 
+                642, 
+                253, 
+                1737
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1252
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            33
+        ], 
+        "location2": [
+            21, 
+            53
+        ], 
+        "(33, 53)": {
+            "WBF": [
+                1252
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3024
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                295, 
+                3052, 
+                2582, 
+                2886, 
+                2613, 
+                1815, 
+                253, 
+                3158, 
+                174, 
+                717, 
+                1951, 
+                130, 
+                875, 
+                520, 
+                2842, 
+                3203
+            ], 
+            "WBL": [
+                2496
+            ], 
+            "AM2F": [
+                1454
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that quality of the picture are excellent with 3m-4m pixel / fine combo and many of the user-friendly function are very similar to slr model , and with added convenience of a digital camera that you can see picture immediately ."
+    }
+}

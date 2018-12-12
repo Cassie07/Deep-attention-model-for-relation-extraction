@@ -1,0 +1,37 @@
+{
+    "e17e18380718fc3b0a9d1deacbd92ff8": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                2179
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                1191
+            ], 
+            "BM1L": [
+                744
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this player is an overall disappointment with a couple of big flaw that potential buyer should be wary of ; and all reader need to know about a third party software company that resolve virtually all of the creative mediasource file transfer issue ."
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "0a09b863b5f04c01db59378ac1f5c8f2": {
+        "(16, 1)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1366
+            ], 
+            "M2": [
+                2615
+            ], 
+            "WBO": [
+                1859, 
+                5, 
+                2844, 
+                413, 
+                501, 
+                3203, 
+                522, 
+                2304, 
+                1081, 
+                1848, 
+                2016
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1366
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(16, 17)": {
+            "AM2L": [
+                1501
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                1366
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            1, 
+            17
+        ], 
+        "sentence": "the headphone are n't the best , but you can really expect much out of the small headphone you insert in the ear cavity ."
+    }
+}

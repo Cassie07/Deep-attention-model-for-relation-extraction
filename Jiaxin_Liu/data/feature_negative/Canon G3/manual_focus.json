@@ -1,0 +1,123 @@
+{
+    "744bdb63eb27c487cfb368662c9dcc70": {
+        "sentence": "you can move the focus range to almost anywhere in the scene with the push of a button , and it has an on-screen manual focus mode that would be really helpful if shooting a scene that is tough to automatically focus .", 
+        "(23, 4)": {
+            "WBF": [
+                2280
+            ], 
+            "AM2L": [
+                1814
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1203
+            ], 
+            "M2": [
+                1731
+            ], 
+            "BM1L": [
+                1837
+            ], 
+            "WBO": [
+                2886, 
+                227, 
+                270, 
+                1468, 
+                2844, 
+                2474, 
+                3158, 
+                2844, 
+                2257, 
+                1951, 
+                130, 
+                502, 
+                253, 
+                1545, 
+                1351
+            ], 
+            "WBL": [
+                1970
+            ], 
+            "AM2F": [
+                1203
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location2": [
+            4, 
+            24, 
+            40
+        ], 
+        "location1": [
+            23
+        ], 
+        "(23, 24)": {
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1970
+            ], 
+            "M1": [
+                1731
+            ], 
+            "M2": [
+                1203
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1814
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(23, 40)": {
+            "WBF": [
+                1203
+            ], 
+            "BM1F": [
+                1970
+            ], 
+            "M1": [
+                1731
+            ], 
+            "M2": [
+                1203
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBO": [
+                1814, 
+                2842, 
+                3181, 
+                381, 
+                2304, 
+                1380, 
+                1441, 
+                2558, 
+                130, 
+                2474, 
+                2842, 
+                1541, 
+                2909
+            ], 
+            "WBL": [
+                336
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }
+}

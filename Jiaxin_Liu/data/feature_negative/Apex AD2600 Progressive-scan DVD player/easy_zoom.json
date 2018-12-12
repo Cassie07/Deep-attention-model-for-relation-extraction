@@ -1,0 +1,45 @@
+{
+    "eb49671e2b0f5b54b7dfefe2d8de0a1b": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            13
+        ], 
+        "(3, 13)": {
+            "WBF": [
+                880
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                3213
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                1212, 
+                2532, 
+                253, 
+                1153, 
+                298, 
+                3158
+            ], 
+            "WBL": [
+                2112
+            ], 
+            "AM2F": [
+                1054
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "there are really easy direction for setup and fiddling around with the picture , zoom etc ."
+    }
+}

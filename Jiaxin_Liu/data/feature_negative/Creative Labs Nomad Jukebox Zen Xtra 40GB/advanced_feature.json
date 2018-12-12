@@ -1,0 +1,37 @@
+{
+    "eb88968921d7cb163079768a48fd733a": {
+        "(23, 24)": {
+            "AM2L": [
+                3086
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                189
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "the software interface supplied was very easy to use but i went ahead and got red chair 's `` notmad `` software because of some advanced feature i wanted ."
+    }
+}

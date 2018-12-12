@@ -1,0 +1,178 @@
+{
+    "26afbb728550c0df1149e771bc94d54b": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            26
+        ], 
+        "(20, 26)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                469
+            ], 
+            "WBO": [
+                2296, 
+                253
+            ], 
+            "WBL": [
+                2381
+            ], 
+            "AM2F": [
+                1753
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }, 
+    "05b005a587509a9b418bc7b414f03e1b": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            20
+        ], 
+        "(7, 20)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                2204
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1863, 
+                522, 
+                1818, 
+                1079, 
+                2141, 
+                1967, 
+                2844, 
+                1199, 
+                1351
+            ], 
+            "WBL": [
+                2368
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "pro : huge storage capacity for the price , easy to navigate , can modify existing playlist on the fly , has a removable battery"
+    }, 
+    "700f48300fa8def127637b87e04b7e68": {
+        "(2, 16)": {
+            "WBF": [
+                1030
+            ], 
+            "AM2L": [
+                381
+            ], 
+            "BM1F": [
+                3094
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2886, 
+                2369, 
+                2844, 
+                1242, 
+                2135, 
+                253, 
+                2850, 
+                3094, 
+                1978, 
+                1973
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                738
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "it was easy enough to remove the front plate , and there was only one way the battery could be inserted ."
+    }, 
+    "23437ff0a6808a5975343315b39f966d": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            6
+        ], 
+        "(3, 6)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBO": [
+                2369
+            ], 
+            "WBL": [
+                2369
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "plus are the easy to remove battery and the terrific sound produced by the nomad ."
+    }
+}

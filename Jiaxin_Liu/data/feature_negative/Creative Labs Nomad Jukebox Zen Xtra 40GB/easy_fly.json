@@ -1,0 +1,88 @@
+{
+    "05b005a587509a9b418bc7b414f03e1b": {
+        "(7, 16)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                2204
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1199
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1863, 
+                522, 
+                1818, 
+                1079, 
+                2141
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "pro : huge storage capacity for the price , easy to navigate , can modify existing playlist on the fly , has a removable battery"
+    }, 
+    "00b26e308a4b8730247f6846646d008a": {
+        "(10, 15)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                764
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1199
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                3018
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2141
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "its far more difficult to select song and has no easy to use on the fly playlist creation such as the new ipod not to mention it does n't sinc with contact list , phone number , address book , ect . like the ipod ( which eliminated my need for any kind of palm device ) ."
+    }
+}

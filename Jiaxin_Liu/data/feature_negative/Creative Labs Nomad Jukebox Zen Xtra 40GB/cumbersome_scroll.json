@@ -1,0 +1,124 @@
+{
+    "e3d1318ec7e52fad18ce1969533e863b": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            6
+        ], 
+        "(4, 6)": {
+            "AM2L": [
+                2628
+            ], 
+            "WBFL": [
+                2886
+            ], 
+            "BM1F": [
+                1669
+            ], 
+            "M1": [
+                774
+            ], 
+            "M2": [
+                2484
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "AM2F": [
+                2867
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it is a little cumbersome to scroll through so many level to get to the selection you want ."
+    }, 
+    "55dab1cfdddd4a895855e44900c1da52": {
+        "(3, 0)": {
+            "WBF": [
+                502
+            ], 
+            "AM2L": [
+                1967
+            ], 
+            "M1": [
+                2484
+            ], 
+            "M2": [
+                774
+            ], 
+            "WBO": [
+                1829
+            ], 
+            "WBL": [
+                1829
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "* scroll button more cumbersome than on earlier model ."
+    }, 
+    "a7a2a63d634d00419baf9b30a158cbe5": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            1
+        ], 
+        "(20, 1)": {
+            "WBF": [
+                3123
+            ], 
+            "AM2L": [
+                871
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2484
+            ], 
+            "M2": [
+                774
+            ], 
+            "WBO": [
+                1541, 
+                985, 
+                2886, 
+                3018, 
+                253, 
+                3168, 
+                1313, 
+                1212, 
+                1752, 
+                1425, 
+                1737, 
+                1355, 
+                665, 
+                2842, 
+                2844
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the scroll wheel is easy to use and work great for me , however many have complained that the wheel is cumbersome and difficult to operate ."
+    }
+}

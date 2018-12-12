@@ -1,0 +1,119 @@
+{
+    "d36bdc5dfa57c2ffcd3b26042b66d2e6": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            15
+        ], 
+        "(1, 15)": {
+            "WBF": [
+                2156
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2275
+            ], 
+            "WBO": [
+                2430, 
+                2895, 
+                295, 
+                3052, 
+                1886, 
+                584, 
+                675, 
+                1545, 
+                233, 
+                924
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "sound - excellent polyphonic ringing tone are very nice ( check con ) it also double as a radio , which is a nice feature when you are bored ."
+    }, 
+    "bc412b771cb33944aaf00912480e5a71": {
+        "(7, 6)": {
+            "AM2L": [
+                1331
+            ], 
+            "BM1F": [
+                1201
+            ], 
+            "M1": [
+                2275
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                1643
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2576
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "it has great battery life , fm radio , excellent signal , hand free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps ."
+    }, 
+    "e1bef08bc65ba3487923aec367168f32": {
+        "(6, 4)": {
+            "AM2L": [
+                2079
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                1201
+            ], 
+            "M1": [
+                2275
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "the built in fm radio is excellent for people traveling by public transport ."
+    }
+}

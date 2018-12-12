@@ -1,0 +1,44 @@
+{
+    "0a00b74b0ff92b29a1f105bc7d87ff27": {
+        "(16, 10)": {
+            "WBF": [
+                627
+            ], 
+            "AM2L": [
+                1998
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                423
+            ], 
+            "M2": [
+                1886
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                501, 
+                2712
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                446
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "playlist can be generated on the fly ( which is a bit clunky but still a really nice bonus ) or by using the software , and there are a bevy of eq option ."
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "bda6c10fbfa269bc9c256d0a04ea7069": {
+        "(0, 6)": {
+            "WBF": [
+                2097
+            ], 
+            "AM2L": [
+                2350
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1880
+            ], 
+            "WBO": [
+                985, 
+                2886
+            ], 
+            "WBL": [
+                1072
+            ], 
+            "AM2F": [
+                1896
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "great phone , easy to use , excellent network , no regret ! ! !"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "b9bfe35c56e22b2e41d54ff0d9f5e938": {
+        "(29, 11)": {
+            "WBF": [
+                1536
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1707
+            ], 
+            "M1": [
+                1638
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1429, 
+                3094, 
+                133, 
+                2886, 
+                1277, 
+                2859, 
+                84, 
+                1825, 
+                253, 
+                2844, 
+                413, 
+                2061, 
+                1541, 
+                1545
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "for a price that 's still less than even the lowest level ipod i was able to get this 40gb monster , and the best part is it work as great as it was advertised to and then some ."
+    }
+}

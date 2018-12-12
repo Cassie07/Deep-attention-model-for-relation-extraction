@@ -1,0 +1,92 @@
+{
+    "aeaf53d9981fcdae134d914c14c3bf3a": {
+        "(11, 5)": {
+            "WBF": [
+                1417
+            ], 
+            "AM2L": [
+                3145
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                765, 
+                1594
+            ], 
+            "WBL": [
+                2637
+            ], 
+            "AM2F": [
+                3047
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "overall it is a great unit & hopefully creative lab or some other vendor will soon come out with some accessory for it ."
+    }, 
+    "a92fef16203e6547baf7dd20d024590d": {
+        "(24, 12)": {
+            "WBF": [
+                3115
+            ], 
+            "AM2L": [
+                858
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                2240
+            ], 
+            "WBO": [
+                2639, 
+                130, 
+                1698, 
+                1951, 
+                540, 
+                541, 
+                1118, 
+                2886
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                326
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "the included leather pouch is a big plus : it actually protects the unit well , something a lot of ' carrying case ' fail to do with other audio device ."
+    }
+}

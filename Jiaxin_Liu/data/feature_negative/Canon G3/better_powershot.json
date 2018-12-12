@@ -1,0 +1,57 @@
+{
+    "07b3bdbafaec9f6df8f50960a8c49f11": {
+        "location1": [
+            23
+        ], 
+        "location2": [
+            4
+        ], 
+        "(23, 4)": {
+            "WBF": [
+                1260
+            ], 
+            "AM2L": [
+                2016
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2186
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                2999
+            ], 
+            "WBO": [
+                2886, 
+                264, 
+                2179, 
+                504, 
+                1691, 
+                1212, 
+                130, 
+                1180, 
+                875, 
+                520, 
+                316, 
+                130, 
+                2306, 
+                2204, 
+                2850
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i recommend unreservedly the powershot g3 to any potential buyer looking for a first-class digital camera at a reasonable price - there is no better camera out there - period !"
+    }
+}

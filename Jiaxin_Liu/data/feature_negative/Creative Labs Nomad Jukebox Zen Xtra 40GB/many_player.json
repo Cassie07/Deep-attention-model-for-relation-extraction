@@ -1,0 +1,120 @@
+{
+    "370f2f08bb8ba98db88f94c031ba3f60": {
+        "(10, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1648
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                1737
+            ], 
+            "WBO": [
+                1136, 
+                253, 
+                2654, 
+                1313, 
+                1545
+            ], 
+            "WBL": [
+                1351
+            ], 
+            "AM2F": [
+                1996
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the player is fast and sound great , it also has many option like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium ."
+    }, 
+    "b2d4e633a50cce494eea7a203213e6b5": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            14
+        ], 
+        "(11, 14)": {
+            "WBF": [
+                869
+            ], 
+            "AM2L": [
+                1164
+            ], 
+            "BM1F": [
+                2395
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                1842
+            ], 
+            "WBL": [
+                1842
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "before asking for the zen xtra specifically for christmas i researched many different mp3 player but finally decided on this one , and now that i have it i could n't be happier and i 'm convinced it 's the best one out there ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(47, 49)": {
+            "AM2L": [
+                2893
+            ], 
+            "WBFL": [
+                1842
+            ], 
+            "BM1F": [
+                1369
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1551
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            47
+        ], 
+        "location2": [
+            49
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

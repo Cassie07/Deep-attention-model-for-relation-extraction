@@ -1,0 +1,37 @@
+{
+    "7f28bc07721c2e384997b2808526e775": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                2259
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1138
+            ], 
+            "M2": [
+                1138
+            ], 
+            "BM1L": [
+                2280
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1633
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the extended zoom range and faster lense put it at the top of it 's class ."
+    }
+}

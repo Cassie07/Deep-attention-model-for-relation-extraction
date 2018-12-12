@@ -1,0 +1,45 @@
+{
+    "8a31ba51febce8f3d665f6e34835eb2d": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            20
+        ], 
+        "(13, 20)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1874
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                2239
+            ], 
+            "M2": [
+                150
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2886, 
+                1752, 
+                1548
+            ], 
+            "WBL": [
+                1978
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the free ( i didnt know they still did that ) carrying case is really protective , and to me its the only accessory you need ( except good headphone ) ."
+    }
+}

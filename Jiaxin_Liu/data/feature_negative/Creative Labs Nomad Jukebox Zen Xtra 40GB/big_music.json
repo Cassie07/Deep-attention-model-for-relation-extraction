@@ -1,0 +1,96 @@
+{
+    "87d3bee71401883dd97af2ad9bf28ae5": {
+        "(29, 18)": {
+            "WBF": [
+                1967
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                419
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBO": [
+                1856, 
+                3210, 
+                3194, 
+                501, 
+                1545, 
+                3094, 
+                1859
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2215
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "i did have to put a little work into renaming some duplicate file name to get all my music on my zen xtra but it was n't a big problem ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(16, 30)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                715
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2844, 
+                436, 
+                1644, 
+                1468, 
+                2844, 
+                352, 
+                1541, 
+                2083, 
+                1136, 
+                304
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                2916
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

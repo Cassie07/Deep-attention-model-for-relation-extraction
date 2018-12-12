@@ -1,0 +1,174 @@
+{
+    "2f4b1a4eefb0c421b14cc034af6fd056": {
+        "(8, 6)": {
+            "AM2L": [
+                1429
+            ], 
+            "WBFL": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "AM2F": [
+                2305
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "given that i already have the zen the only reason i am happy with it is because of the notmad software ."
+    }, 
+    "93b83dad8de467af70db727ec3d5cebc": {
+        "(20, 3)": {
+            "WBF": [
+                3194
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1594
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                765
+            ], 
+            "WBO": [
+                1351, 
+                221, 
+                2844, 
+                1143, 
+                2844, 
+                1431, 
+                1351, 
+                253, 
+                1441, 
+                3203, 
+                1277, 
+                1441, 
+                1241
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                1298
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            20
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the creative lab zen xtra has all the feature the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player ."
+    }, 
+    "8c911f0be96ba4560218d1f4847f02a8": {
+        "(12, 4)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3210
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                3167
+            ], 
+            "WBO": [
+                1915, 
+                130, 
+                718, 
+                798
+            ], 
+            "WBL": [
+                858
+            ], 
+            "AM2F": [
+                503
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "in other word , the zen is not a convenient data storage device ; only buy the capacity you need for your music collection ( see point 1. for some sizing information ) ."
+    }, 
+    "c12383bb97c5145343b5078c02d465f5": {
+        "(1, 8)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                3210
+            ], 
+            "WBO": [
+                1429, 
+                3181, 
+                664
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3194
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the only thing i would complain about the zen xtra is that the control are n't as easy as the ipod 's , or as `` sexy `` looking ."
+    }
+}

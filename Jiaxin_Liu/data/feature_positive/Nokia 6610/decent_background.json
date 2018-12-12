@@ -1,0 +1,37 @@
+{
+    "cb73b87bc53d6be47ba62c64c5eefff1": {
+        "(7, 8)": {
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                808
+            ], 
+            "M2": [
+                357
+            ], 
+            "BM1L": [
+                2431
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2481
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the phone comes with okay ringtones , some decent background / screensavers , but the phone has very little memory ( mine had 230kb as it arrived from amazon , so you do n't have too many option on what you can put on there ) ."
+    }
+}

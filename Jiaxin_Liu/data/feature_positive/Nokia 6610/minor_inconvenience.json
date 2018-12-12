@@ -1,0 +1,37 @@
+{
+    "c67d6bcd1ecc6effe34a9f8354eddaa0": {
+        "(5, 6)": {
+            "AM2L": [
+                1978
+            ], 
+            "BM1F": [
+                1151
+            ], 
+            "M1": [
+                1797
+            ], 
+            "M2": [
+                1475
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the phone has a few minor inconvenience , but only because it lack those feature , bluetooth and high spend internet , but there are very few problem with thing that you expected this phone to do ."
+    }
+}

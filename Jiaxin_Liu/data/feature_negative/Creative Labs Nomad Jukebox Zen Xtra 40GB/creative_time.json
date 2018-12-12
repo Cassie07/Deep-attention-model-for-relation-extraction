@@ -1,0 +1,100 @@
+{
+    "77d109e2cb75e81b27de5ba3fb01ee7b": {
+        "(7, 14)": {
+            "WBF": [
+                513
+            ], 
+            "AM2L": [
+                2637
+            ], 
+            "BM1F": [
+                404
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2878
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                1545, 
+                1147, 
+                3052
+            ], 
+            "WBL": [
+                316
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the dynamic playlist ( `` now playing `` , i belive creative call it ) feel very awkward at time and some menus simply take to long to get to and operate .. ."
+    }, 
+    "20ba4c4b32823c2ce57fa535aeed926f": {
+        "(27, 5)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                1328
+            ], 
+            "M1": [
+                2878
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                5
+            ], 
+            "WBO": [
+                2304, 
+                2257, 
+                2859, 
+                2139, 
+                2886, 
+                2844, 
+                1652, 
+                501, 
+                326, 
+                309, 
+                1967, 
+                2844, 
+                1901, 
+                295, 
+                2461, 
+                304, 
+                2565, 
+                381
+            ], 
+            "WBL": [
+                1241
+            ], 
+            "AM2F": [
+                1594
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "i have n't had time to really push this player to the limit , but audio aspect on the nomad are satisfactory , as should be expected from creative lab ."
+    }
+}

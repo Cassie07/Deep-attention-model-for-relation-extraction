@@ -1,0 +1,46 @@
+{
+    "42f0ce4c366e69f992de1c95467b18e7": {
+        "(7, 15)": {
+            "WBF": [
+                2564
+            ], 
+            "AM2L": [
+                1896
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1488
+            ], 
+            "M2": [
+                2752
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                295, 
+                3052, 
+                1300, 
+                2245
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "the daylight picture are brilliant and the indoor shot are very good provided that your subject is no more than about 8 foot away ."
+    }
+}

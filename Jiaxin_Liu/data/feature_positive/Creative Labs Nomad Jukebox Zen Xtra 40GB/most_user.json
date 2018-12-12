@@ -1,0 +1,89 @@
+{
+    "c35cec64272467bc85a2e0ad72807549": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            13
+        ], 
+        "(11, 13)": {
+            "AM2L": [
+                1859
+            ], 
+            "WBFL": [
+                3151
+            ], 
+            "BM1F": [
+                2587
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                3023
+            ], 
+            "BM1L": [
+                666
+            ], 
+            "AM2F": [
+                912
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it does n't have firewire , not a real complaint since most window user do n't generally have firewire card themselves ."
+    }, 
+    "b9c3cfb01eca2d647b08e3a4c809cc68": {
+        "(7, 23)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2852
+            ], 
+            "BM1F": [
+                3168
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                3023
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2844, 
+                2878, 
+                501, 
+                2850, 
+                1541, 
+                130, 
+                1619, 
+                778, 
+                1212, 
+                2197, 
+                1545, 
+                1570
+            ], 
+            "WBL": [
+                1882
+            ], 
+            "AM2F": [
+                2469
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "the scroll wheel is finicky ; it work most of the time but there is a learning curve for pressing it just right ; new user say they have 50 % - 75 % success rate ; some find it so frustrating that they just return the device ."
+    }
+}

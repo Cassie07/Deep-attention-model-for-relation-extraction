@@ -1,0 +1,330 @@
+{
+    "329396ddfb82ab13a6d35d524fa8b1d6": {
+        "(4, 7)": {
+            "WBF": [
+                2840
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                3123
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the scroll wheel is better than the ipod 's as well , in that you do n't risk giving yourself a cramp running your thumb around in circle endlessly - just a small nudge of the finger and you 're there ."
+    }, 
+    "cc9343b9437cedbe76ed6e65ab813167": {
+        "(10, 13)": {
+            "WBF": [
+                2840
+            ], 
+            "BM1F": [
+                1691
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1456
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the system is terrific in size and design , imo looking better than the ipod ."
+    }, 
+    "10daff17b8c852005892b07d4f5707d4": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            16
+        ], 
+        "(12, 16)": {
+            "WBF": [
+                595
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1990
+            ], 
+            "WBO": [
+                2840
+            ], 
+            "WBL": [
+                251
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "to keep it short , this is cheaper , and in my opinion a better choice than an ipod ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "location1": [
+            33
+        ], 
+        "location2": [
+            35
+        ], 
+        "(33, 35)": {
+            "AM2L": [
+                2785
+            ], 
+            "WBFL": [
+                2840
+            ], 
+            "BM1F": [
+                381
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "AM2F": [
+                1915
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "707fedfc4c9613f12097a5dfa04edc8b": {
+        "(24, 49)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2289
+            ], 
+            "WBO": [
+                1886, 
+                253, 
+                1387, 
+                316, 
+                126, 
+                809, 
+                253, 
+                1545, 
+                2565, 
+                381, 
+                1919, 
+                2842, 
+                286, 
+                2345, 
+                2886, 
+                2358, 
+                2844, 
+                2715, 
+                2289, 
+                1951, 
+                264
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            49
+        ], 
+        "sentence": "the signal to noise ratio ( the ratio of detectable , useful data to unusable garbage in , say , a radio wave ; a larger stn ratio is better ) is nice and high at 98 decibles , and it should be noted that apple refuse to release the stn ratio of any of the ipod ."
+    }, 
+    "d67db5a6180bd82bcfa586ef5b5d069d": {
+        "(36, 27)": {
+            "WBF": [
+                912
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                1859, 
+                5, 
+                455, 
+                2859, 
+                1541
+            ], 
+            "WBL": [
+                1848
+            ], 
+            "AM2F": [
+                503
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(36, 20)": {
+            "WBF": [
+                1570
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                503
+            ], 
+            "WBO": [
+                2886, 
+                2469, 
+                3203, 
+                1355, 
+                251, 
+                1536, 
+                912, 
+                1859, 
+                5, 
+                455, 
+                2859, 
+                1541
+            ], 
+            "WBL": [
+                1848
+            ], 
+            "AM2F": [
+                503
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            36
+        ], 
+        "location2": [
+            20, 
+            27
+        ], 
+        "sentence": "also , you can store data on it , which is a plus . for all you people who want to buy an ipod just to say you have an ipod , do n't bother , this is a much better buy ."
+    }, 
+    "78c51d9eb31454b8f9dba754a0353b4b": {
+        "(35, 27)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                458
+            ], 
+            "WBO": [
+                1901, 
+                3210, 
+                3194, 
+                3094
+            ], 
+            "WBL": [
+                1134
+            ], 
+            "AM2F": [
+                3035
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "try before you buy if at all possible : although i am a mac addict now for over a decade and everyone i know has previously bought an ipod , the nomad zen xtra was a far better value and is just as easy to use with regard to both hardware and software interface ."
+    }
+}

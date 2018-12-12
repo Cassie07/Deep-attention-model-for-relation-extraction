@@ -1,0 +1,93 @@
+{
+    "499db2ac0845c79245f70ba7c8bc100b": {
+        "(0, 12)": {
+            "WBF": [
+                2844
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                966
+            ], 
+            "WBO": [
+                2139, 
+                863, 
+                1915, 
+                223, 
+                1752, 
+                2886, 
+                146, 
+                2844
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "first , the player did not allow me to access the menus of dvds ."
+    }, 
+    "37f15e561ae7ac9028bbedac55bbb567": {
+        "(1, 23)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                3115
+            ], 
+            "BM1F": [
+                316
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                966
+            ], 
+            "WBO": [
+                2863, 
+                1545, 
+                1541, 
+                1978, 
+                130, 
+                1543, 
+                1471, 
+                501, 
+                1429, 
+                3094, 
+                2242, 
+                3188, 
+                3124, 
+                2844, 
+                2139, 
+                3181, 
+                1915, 
+                2296
+            ], 
+            "WBL": [
+                218
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "at first i thought it is only a isolated incident , but i was proven wrong when the player would not read my `` alias `` dvds as well ."
+    }
+}

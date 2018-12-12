@@ -1,0 +1,44 @@
+{
+    "9912ee61adbc16ba2940f26778c640d0": {
+        "location1": [
+            8
+        ], 
+        "location2": [
+            2
+        ], 
+        "(8, 2)": {
+            "WBF": [
+                1355
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                2204
+            ], 
+            "M1": [
+                946
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                2317
+            ], 
+            "WBO": [
+                1718, 
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                369
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "recent price drop have made the g3 the best bargain in digital camera currently available ."
+    }
+}

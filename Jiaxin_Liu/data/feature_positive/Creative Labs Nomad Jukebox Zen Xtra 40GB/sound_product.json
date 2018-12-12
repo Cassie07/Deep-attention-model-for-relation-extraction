@@ -1,0 +1,235 @@
+{
+    "d2a9bfb1e9ed4d4734bd522814d495e6": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            21
+        ], 
+        "(10, 21)": {
+            "WBF": [
+                1967
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                130, 
+                2167, 
+                62, 
+                2139, 
+                2886, 
+                2408, 
+                1468
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "although the sound-quality is good , it takes more than good sound on a portable-mp 3 player to result in a good product ."
+    }, 
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "(10, 3)": {
+            "WBF": [
+                3124
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2221
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1702
+            ], 
+            "WBO": [
+                1429, 
+                1179, 
+                1302
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                985
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }, 
+    "a44b72ed937e77df7cb07d76f90f6978": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            10
+        ], 
+        "(0, 10)": {
+            "WBF": [
+                2260
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2221
+            ], 
+            "WBO": [
+                1967, 
+                2859, 
+                1541, 
+                245, 
+                304, 
+                3158
+            ], 
+            "WBL": [
+                765
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "sound quality on this is amazing , as with all creative product ."
+    }, 
+    "df460eaf582c2debf712f5605d908023": {
+        "(47, 40)": {
+            "WBF": [
+                1241
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                503
+            ], 
+            "M1": [
+                2221
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                201, 
+                1429, 
+                1355
+            ], 
+            "WBL": [
+                325
+            ], 
+            "AM2F": [
+                533
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            47
+        ], 
+        "location2": [
+            40
+        ], 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }, 
+    "a0025c0db7ea0540259cd3b1b90d7fcb": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            11
+        ], 
+        "(1, 11)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2221
+            ], 
+            "WBO": [
+                1072, 
+                304, 
+                1973, 
+                3181, 
+                2789, 
+                1241
+            ], 
+            "WBL": [
+                765
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound is excellent as one would suspect from a creative product ."
+    }, 
+    "e31dd62f55c1c30d4c665bd6ad5606e1": {
+        "(14, 16)": {
+            "AM2L": [
+                1541
+            ], 
+            "WBFL": [
+                427
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the software is not good either and the driver has trouble working with other sound blaster product , which is very dumb ."
+    }
+}

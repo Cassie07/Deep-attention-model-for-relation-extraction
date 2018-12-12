@@ -1,0 +1,104 @@
+{
+    "9a0c2c401f7f0515a8b07827ed8550ab": {
+        "(27, 4)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                3079
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                3130
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                2814
+            ], 
+            "WBO": [
+                2844, 
+                520, 
+                2886, 
+                165, 
+                531, 
+                2844, 
+                2101, 
+                1241, 
+                2844, 
+                2878, 
+                3203, 
+                615, 
+                2844, 
+                502, 
+                253, 
+                1429, 
+                1355, 
+                2501, 
+                2079
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1457
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "2 . it takes a while for the camera to actually capture the photograph from the time you click the button and i have seen people becoming a little impatient waiting for the flash to glow ."
+    }, 
+    "6ab5e8c4fc8cb5905e79f4c8ff6d9ff5": {
+        "(14, 7)": {
+            "WBF": [
+                2474
+            ], 
+            "AM2L": [
+                566
+            ], 
+            "BM1F": [
+                520
+            ], 
+            "M1": [
+                3130
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                1162
+            ], 
+            "WBO": [
+                253, 
+                1731, 
+                1814
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1251
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "autofocus feel exactly like my film camera while scene and manual mode add a little fun challenge to it all ."
+    }
+}

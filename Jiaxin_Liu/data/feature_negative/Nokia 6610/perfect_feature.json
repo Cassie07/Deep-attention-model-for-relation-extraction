@@ -1,0 +1,51 @@
+{
+    "13e3ad521538757c809d312f2b720148": {
+        "(5, 18)": {
+            "WBF": [
+                2595
+            ], 
+            "AM2L": [
+                1392
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2083
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1915, 
+                2896, 
+                2615, 
+                1915, 
+                2896, 
+                1602, 
+                1545, 
+                233, 
+                1351
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "not only is it the perfect size ( not too small , not too large ) , it also has all the feature a high-tech phone user would want ."
+    }
+}

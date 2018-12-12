@@ -1,0 +1,37 @@
+{
+    "299b1b3b82ed7f53d93796dd70e2715e": {
+        "(3, 7)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1372
+            ], 
+            "M2": [
+                543
+            ], 
+            "BM1L": [
+                1328
+            ], 
+            "WBO": [
+                1829
+            ], 
+            "WBL": [
+                2746
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "it had a heavier and more sturdy casing ."
+    }
+}

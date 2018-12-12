@@ -1,0 +1,40 @@
+{
+    "7f5b26b2865cc958e9fec839306cd9cf": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            2
+        ], 
+        "(10, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2097
+            ], 
+            "M1": [
+                447
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                3052, 
+                3024, 
+                253, 
+                2844
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the phone book is very user-friendly and the speakerphone is excellent ."
+    }
+}

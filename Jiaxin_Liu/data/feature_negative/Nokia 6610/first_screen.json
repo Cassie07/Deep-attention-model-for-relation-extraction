@@ -1,0 +1,44 @@
+{
+    "2444c9bfc1b6cb142560eb1ebb714654": {
+        "(7, 16)": {
+            "WBF": [
+                2853
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                2479
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBO": [
+                2842, 
+                1401, 
+                1752, 
+                1541, 
+                1424
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "when i turned the phone on , the first thing that hit me is how good the screen is ."
+    }
+}

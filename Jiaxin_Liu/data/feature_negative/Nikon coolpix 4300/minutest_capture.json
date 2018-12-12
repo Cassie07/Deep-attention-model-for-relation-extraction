@@ -1,0 +1,37 @@
+{
+    "f54837594a492a2e5cd420e057d57eb4": {
+        "(9, 7)": {
+            "AM2L": [
+                850
+            ], 
+            "WBFL": [
+                2844
+            ], 
+            "BM1F": [
+                520
+            ], 
+            "M1": [
+                531
+            ], 
+            "M2": [
+                1800
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the picture are absolutely amazing - the camera capture the minutest of detail ."
+    }
+}

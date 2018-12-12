@@ -1,0 +1,41 @@
+{
+    "9f043f0ebf4759c2f9e477ec5b0d50d5": {
+        "(19, 13)": {
+            "WBF": [
+                2411
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1831
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                466
+            ], 
+            "WBO": [
+                253, 
+                2852
+            ], 
+            "WBL": [
+                831
+            ], 
+            "AM2F": [
+                2408
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "i experimented with online print ordering with the two major us brick and mortar retailer , and they both delivered great result ."
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "bc8cb26f2e111e60b22ac940195a192f": {
+        "(23, 21)": {
+            "AM2L": [
+                3123
+            ], 
+            "WBFL": [
+                2642
+            ], 
+            "BM1F": [
+                2016
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                1196
+            ], 
+            "BM1L": [
+                2162
+            ], 
+            "AM2F": [
+                1865
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "short warranty ( 3 month , so i got the extended warranty at best buy ) , occasional freeze up ( easily fixed by popping out battery ) , somewhat flimsy navigation wheel ."
+    }, 
+    "16ac12ea22acb0865fbe839e4b386158": {
+        "(12, 10)": {
+            "AM2L": [
+                3124
+            ], 
+            "WBFL": [
+                1147
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                1196
+            ], 
+            "BM1L": [
+                2016
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the front cover ( which you remove to take out the battery ) feel flimsy but when snapped on , the device still feel pretty solid ."
+    }
+}

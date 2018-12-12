@@ -1,0 +1,69 @@
+{
+    "49fddc188547ceed107c560e4e129e1f": {
+        "(0, 5)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                522
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2204
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "great camera , and for the price you can 't beat it ."
+    }, 
+    "5408e4563e95c36874dcaf6a786a5d7c": {
+        "(1, 2)": {
+            "AM2L": [
+                221
+            ], 
+            "BM1F": [
+                11
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2204
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "10 great price for all the feature ."
+    }
+}

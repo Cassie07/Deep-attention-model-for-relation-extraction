@@ -1,0 +1,266 @@
+{
+    "a5f896d9ee945727e18197eca9a18380": {
+        "(6, 1)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                502
+            ], 
+            "M2": [
+                985
+            ], 
+            "WBO": [
+                1522
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the button and interface are very easy to use ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            34
+        ], 
+        "location2": [
+            41
+        ], 
+        "(34, 41)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2654
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                502
+            ], 
+            "BM1L": [
+                715
+            ], 
+            "WBO": [
+                3018, 
+                200, 
+                1743
+            ], 
+            "WBL": [
+                2484
+            ], 
+            "AM2F": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "80bbb11678af660f0125fc0dd5f8324c": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            2, 
+            4
+        ], 
+        "(10, 4)": {
+            "WBF": [
+                3074
+            ], 
+            "AM2L": [
+                2296
+            ], 
+            "BM1F": [
+                352
+            ], 
+            "M1": [
+                502
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                502
+            ], 
+            "WBO": [
+                253, 
+                898
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(10, 2)": {
+            "WBF": [
+                352
+            ], 
+            "AM2L": [
+                2296
+            ], 
+            "BM1F": [
+                615
+            ], 
+            "M1": [
+                502
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2583
+            ], 
+            "WBO": [
+                502, 
+                3074, 
+                253, 
+                898
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "simple click button , back button volume and display are very easy to read , access and use ."
+    }, 
+    "6ad951fc0c6d2c701335d2ce44de0d5e": {
+        "(8, 1)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1863
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                502
+            ], 
+            "M2": [
+                985
+            ], 
+            "WBO": [
+                985, 
+                2886, 
+                3018
+            ], 
+            "WBL": [
+                1548
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(3, 1)": {
+            "AM2L": [
+                3018
+            ], 
+            "WBFL": [
+                295
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                502
+            ], 
+            "M2": [
+                985
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3, 
+            8
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the button are easy to use , and its easy to navigate ."
+    }, 
+    "3ecab0f0f7b012bc1f10a6dda17f52bd": {
+        "(0, 11)": {
+            "WBF": [
+                1030
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                502
+            ], 
+            "WBO": [
+                2886, 
+                1863, 
+                2867, 
+                237, 
+                1429, 
+                0, 
+                2191
+            ], 
+            "WBL": [
+                2745
+            ], 
+            "AM2F": [
+                412
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "easy enough to navigate through , although i 'd prefer a sturdier button besides the thumbwheel scroll / pushbutton ."
+    }
+}

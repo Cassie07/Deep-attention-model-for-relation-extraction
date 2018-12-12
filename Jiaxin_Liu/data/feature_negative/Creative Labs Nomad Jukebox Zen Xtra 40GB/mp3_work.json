@@ -1,0 +1,79 @@
+{
+    "5d8a1adbeeaf90d9f03da0b3810f9ee5": {
+        "(9, 11)": {
+            "AM2L": [
+                130
+            ], 
+            "WBFL": [
+                2139
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                3168
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "the software could n't be better and the mp3 player work like a dream , i could n't give this anything but a 5 , i wish there was a 6 ."
+    }, 
+    "eb5f7f84fb72e7589f2fbebf5436ab11": {
+        "(4, 10)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                1441
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                3168
+            ], 
+            "BM1L": [
+                62
+            ], 
+            "WBO": [
+                2859, 
+                2853
+            ], 
+            "WBL": [
+                1978
+            ], 
+            "AM2F": [
+                2234
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "unlike my 3 other mp3 player , this thing will only work properly if you have id3 tag on all of your track ."
+    }
+}

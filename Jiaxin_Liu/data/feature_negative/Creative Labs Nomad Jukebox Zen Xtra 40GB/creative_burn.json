@@ -1,0 +1,43 @@
+{
+    "14d20e2bcf29b6bcafa9483b929a2de6": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            9
+        ], 
+        "(1, 9)": {
+            "WBF": [
+                1758
+            ], 
+            "AM2L": [
+                1441
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                494
+            ], 
+            "WBO": [
+                2631, 
+                1541, 
+                1962, 
+                2886
+            ], 
+            "WBL": [
+                545
+            ], 
+            "AM2F": [
+                1853
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "1. creative mediasource software is ok to rip , catalog & burn music if you are starting from scratch ; but i used musicmatch to rip my cd before i bought the zen ( 278 cd ; 3,400 track ; 12.5 gb of music all ripped at 128bps ) and guess what ?"
+    }
+}

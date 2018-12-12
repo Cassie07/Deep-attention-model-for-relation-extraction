@@ -1,0 +1,34 @@
+{
+    "3bce35cc8493a2cd4c47a2a358643b7c": {
+        "(1, 2)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1838
+            ], 
+            "M2": [
+                1615
+            ], 
+            "AM2F": [
+                2479
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the moveable lcd screen is great ."
+    }
+}

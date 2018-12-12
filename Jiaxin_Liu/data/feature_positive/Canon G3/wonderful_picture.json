@@ -1,0 +1,84 @@
+{
+    "a4bf04bb2ffffdf15f1e93ccd942ba31": {
+        "(7, 24)": {
+            "WBF": [
+                1915
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                3166
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBO": [
+                1978, 
+                917, 
+                1545, 
+                2933, 
+                2844, 
+                2570, 
+                1545, 
+                522, 
+                233, 
+                381, 
+                3020, 
+                2886, 
+                3213
+            ], 
+            "WBL": [
+                2417
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "the tiny ( postage-stamp sized ) remote unit is wonderful : not only does it trigger the shutter , it can also be used to zoom and review picture ."
+    }, 
+    "449b83653dd0d66d7d910483ebd3238b": {
+        "(7, 8)": {
+            "AM2L": [
+                984
+            ], 
+            "BM1F": [
+                2814
+            ], 
+            "M1": [
+                3166
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3052
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "but at the same time , it takes wonderful picture very easily in `` auto `` mode , so that even an average joe like me can use it !"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "2d9f1d8d7f3c3a79a868f38dccd16782": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            9
+        ], 
+        "(3, 9)": {
+            "WBF": [
+                3158
+            ], 
+            "AM2L": [
+                1529
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "WBO": [
+                130, 
+                1426
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                487
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this phone is good with a huge array of feature built into it ."
+    }, 
+    "867e0d28796d18caa886b83e1e446570": {
+        "(9, 7)": {
+            "AM2L": [
+                2260
+            ], 
+            "WBFL": [
+                3120
+            ], 
+            "BM1F": [
+                2171
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "while i had the phone , the positive feature were : good sound quality and an excellent fm phone and earpiece ."
+    }
+}

@@ -1,0 +1,481 @@
+{
+    "370f2f08bb8ba98db88f94c031ba3f60": {
+        "(22, 28)": {
+            "WBF": [
+                1648
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                1725
+            ], 
+            "WBO": [
+                3203, 
+                3
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(5, 18)": {
+            "WBF": [
+                1313
+            ], 
+            "AM2L": [
+                1725
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                1136
+            ], 
+            "WBO": [
+                1545, 
+                233, 
+                1351, 
+                1737, 
+                1996, 
+                1648, 
+                2611, 
+                1998, 
+                2675
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the player is fast and sound great , it also has many option like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium .", 
+        "location2": [
+            18, 
+            28
+        ], 
+        "location1": [
+            5, 
+            22
+        ], 
+        "(22, 18)": {
+            "WBF": [
+                1998
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                3006
+            ], 
+            "WBO": [
+                1725
+            ], 
+            "WBL": [
+                1545
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(5, 28)": {
+            "WBF": [
+                1313
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                1136
+            ], 
+            "WBO": [
+                1545, 
+                233, 
+                1351, 
+                1737, 
+                1996, 
+                1648, 
+                2611, 
+                1998, 
+                2675, 
+                3006, 
+                2844, 
+                1853, 
+                1998, 
+                1725, 
+                1545, 
+                2654, 
+                1648, 
+                3203, 
+                3
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(43, 30)": {
+            "WBF": [
+                2916
+            ], 
+            "AM2L": [
+                1551
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                1853
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1378
+            ], 
+            "WBO": [
+                715, 
+                295, 
+                985, 
+                2886, 
+                3018, 
+                200, 
+                1743, 
+                2844, 
+                2484
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            43
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "(48, 72)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2760
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                2834
+            ], 
+            "WBO": [
+                658, 
+                3158, 
+                2844, 
+                3041, 
+                2771, 
+                131, 
+                1219, 
+                2844, 
+                286, 
+                1536, 
+                3015, 
+                253, 
+                1545, 
+                2710, 
+                3203, 
+                3158, 
+                1973, 
+                1951, 
+                2844, 
+                2750
+            ], 
+            "WBL": [
+                2048
+            ], 
+            "AM2F": [
+                2527
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(48, 94)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                507
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                2834
+            ], 
+            "WBO": [
+                658, 
+                3158, 
+                2844, 
+                3041, 
+                2771, 
+                131, 
+                1219, 
+                2844, 
+                286, 
+                1536, 
+                3015, 
+                253, 
+                1545, 
+                2710, 
+                3203, 
+                3158, 
+                1973, 
+                1951, 
+                2844, 
+                2750, 
+                2057, 
+                2048, 
+                1853, 
+                2527, 
+                2760, 
+                304, 
+                1861, 
+                1513, 
+                1951, 
+                225, 
+                2886, 
+                3018, 
+                2844, 
+                1550, 
+                2726, 
+                3129, 
+                1441, 
+                3203, 
+                1059, 
+                2130, 
+                2886, 
+                2071
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            48
+        ], 
+        "location2": [
+            72, 
+            94
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "8569a7dfb307c605d7ba9f01dc118762": {
+        "(1, 5)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                1124
+            ], 
+            "BM1F": [
+                1072
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1853
+            ], 
+            "WBO": [
+                1225
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2389
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "excellent sound - i found the music reproduced faithfully through the jukebox ."
+    }, 
+    "25da27d72af155af06e6c5874f503ef7": {
+        "(3, 20)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                68
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                201
+            ], 
+            "WBO": [
+                346, 
+                2844, 
+                378, 
+                1643, 
+                1541, 
+                1978, 
+                103, 
+                113, 
+                1422, 
+                253, 
+                2842, 
+                1541, 
+                386
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "once again , the sound is awesome , the batterly life is only 6-8 hour , and that is because all my music is 320 kbps which does affect the battery life ."
+    }, 
+    "72aded7ea887df602a8ff0bb7045767d": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            7
+        ], 
+        "(1, 7)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                1043
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1853
+            ], 
+            "WBO": [
+                3158, 
+                1555
+            ], 
+            "WBL": [
+                2159
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound quality with jazz and pop music is equally superior ."
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "f744e4fb9058b980763743190fc727d9": {
+        "(4, 2)": {
+            "AM2L": [
+                2840
+            ], 
+            "WBFL": [
+                2771
+            ], 
+            "BM1F": [
+                3216
+            ], 
+            "M1": [
+                442
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the zx boast superior sound quality than the ipod , however it compromise a bit of the unit 's size in doing so ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "location1": [
+            28
+        ], 
+        "location2": [
+            10
+        ], 
+        "(28, 10)": {
+            "WBF": [
+                130
+            ], 
+            "AM2L": [
+                1591
+            ], 
+            "BM1F": [
+                2139
+            ], 
+            "M1": [
+                442
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                808, 
+                2595, 
+                253, 
+                3112, 
+                130, 
+                2356, 
+                1866, 
+                2802, 
+                2842, 
+                547, 
+                372, 
+                1967, 
+                1435, 
+                2810
+            ], 
+            "WBL": [
+                1072
+            ], 
+            "AM2F": [
+                3142
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }
+}

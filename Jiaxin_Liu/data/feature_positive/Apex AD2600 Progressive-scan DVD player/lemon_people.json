@@ -1,0 +1,43 @@
+{
+    "9b11689d3b0c95dc2f00e7b8943b4934": {
+        "(9, 5)": {
+            "WBF": [
+                3135
+            ], 
+            "AM2L": [
+                961
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                2079
+            ], 
+            "M2": [
+                1628
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2313
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1856
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "unlike some of the other people who received a `` lemon `` , my dvd player came in perfect working condition ."
+    }
+}

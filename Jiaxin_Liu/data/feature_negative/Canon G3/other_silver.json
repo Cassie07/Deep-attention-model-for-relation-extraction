@@ -1,0 +1,51 @@
+{
+    "c12f2cbdc52ec5949ef5f7247c336b99": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            1
+        ], 
+        "(17, 1)": {
+            "WBF": [
+                1719
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1548
+            ], 
+            "M1": [
+                2580
+            ], 
+            "M2": [
+                2011
+            ], 
+            "WBO": [
+                1174, 
+                1541, 
+                2744, 
+                253, 
+                2844, 
+                2542, 
+                1655, 
+                253, 
+                1072, 
+                1317, 
+                295, 
+                415
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "its silver magnesium finish is stunning , and the sharp line and excellent grip are better than any other camera i 've seen ."
+    }
+}

@@ -1,0 +1,745 @@
+{
+    "c942e7617c5617c46364266d80a29f69": {
+        "(11, 12)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                3121
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(11, 7)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1882
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2355
+            ], 
+            "WBO": [
+                3121
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            7, 
+            12
+        ], 
+        "sentence": "the nokia 6610 is a relatively new phone , and what a great phone it is ."
+    }, 
+    "bda6c10fbfa269bc9c256d0a04ea7069": {
+        "(0, 1)": {
+            "AM2L": [
+                2886
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                985
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great phone , easy to use , excellent network , no regret ! ! !"
+    }, 
+    "d3039095351362825c0bb445adb849f3": {
+        "(4, 5)": {
+            "AM2L": [
+                2
+            ], 
+            "BM1F": [
+                2215
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1896
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5, 
+            13
+        ], 
+        "(4, 13)": {
+            "WBF": [
+                2097
+            ], 
+            "BM1F": [
+                2215
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1896
+            ], 
+            "WBO": [
+                1429, 
+                2, 
+                3052, 
+                2143, 
+                3158
+            ], 
+            "WBL": [
+                108
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "1 month , no problem , great phone i 'm very pleased with my 6610 phone ."
+    }, 
+    "8d147490bc04d64017ad35bd9084f37f": {
+        "(0, 1)": {
+            "AM2L": [
+                0
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great phone , i 'd buy another ."
+    }, 
+    "58e7e474b8ea3dcf3293853aae627fc1": {
+        "location1": [
+            4, 
+            14
+        ], 
+        "location2": [
+            6
+        ], 
+        "(4, 6)": {
+            "AM2L": [
+                1302
+            ], 
+            "WBFL": [
+                1669
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "AM2F": [
+                1548
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(14, 6)": {
+            "WBF": [
+                1548
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1669
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1313
+            ], 
+            "WBO": [
+                1302, 
+                1886, 
+                1143, 
+                130
+            ], 
+            "WBL": [
+                2479
+            ], 
+            "AM2F": [
+                1048
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "this really is a great little phone ; its got nice feature , a beatiful screen , great ergonomics , and its tiny !"
+    }, 
+    "0640603a2170d71444627f4f433fd0bd": {
+        "(19, 20)": {
+            "AM2L": [
+                3170
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1793
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            15, 
+            20
+        ], 
+        "(19, 15)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                1793
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "there is much which has been said in other review about the feature of this phone , it is a great phone , mine worked without any problem right out of the box ."
+    }, 
+    "f118bd4e6e431fb2d34e5648c625bd6d": {
+        "(8, 18)": {
+            "WBF": [
+                386
+            ], 
+            "AM2L": [
+                1885
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                108
+            ], 
+            "WBO": [
+                3203, 
+                912, 
+                1859, 
+                5, 
+                1874, 
+                2886
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                2426
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "the loud speaker function on the 6610 is great because you do n't need to put your phone right next to your ear to talk ."
+    }, 
+    "bab7c888a49b92e4221b1c4a319f20de": {
+        "(3, 4)": {
+            "AM2L": [
+                4
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1724
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "nokia makes a great phone , that 's clear ."
+    }, 
+    "2ba94a2d6897c0dc29eaf3f1c90562af": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            10
+        ], 
+        "(18, 10)": {
+            "WBF": [
+                386
+            ], 
+            "AM2L": [
+                516
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBO": [
+                1951, 
+                2844, 
+                2615, 
+                2595
+            ], 
+            "WBL": [
+                1996
+            ], 
+            "AM2F": [
+                2206
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email ."
+    }, 
+    "74ab0cc3f6e22fc34b2fa57efbcb6936": {
+        "(3, 1)": {
+            "AM2L": [
+                130
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1313
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this phone is great as a whole and is not like others with one or two good quality ."
+    }, 
+    "f7ad72dd81513ff8fba2a51a2ac0bd2f": {
+        "(13, 17)": {
+            "WBF": [
+                1429
+            ], 
+            "BM1F": [
+                1055
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1701
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "technology wise , i think this is awesome plus the speaker makes it even great ! ! ! ! i love this phone ! ! !"
+    }, 
+    "5e621b8f3d3b01939c7ca7308eec4cd4": {
+        "(9, 10)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "for a specific location , i still think its a great phone ."
+    }, 
+    "abd74cd1dba7bfb5fe0802beda2c54f5": {
+        "(0, 1)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                2097
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great phone .. ."
+    }, 
+    "bbdd399a8aa07bc878d531a293918676": {
+        "(3, 4)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1441
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "it is a great phone , if you are traveling all over the world , packed with wonderful feature ."
+    }, 
+    "6f9adbe48884c146062517217a8d680d": {
+        "(6, 1)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                3006
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                2654
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                2944
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1, 
+            28
+        ], 
+        "(6, 28)": {
+            "WBF": [
+                2944
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                2260
+            ], 
+            "WBO": [
+                3006, 
+                2844, 
+                3074, 
+                1441, 
+                1548, 
+                2896, 
+                2264, 
+                2079, 
+                2859, 
+                2853, 
+                3145, 
+                1277, 
+                1699, 
+                1429, 
+                922, 
+                1355, 
+                264, 
+                666
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the phone 's sound quality is great ( turn up the volume if its too quiet , people , this thing will get loud ) i dont have any complaint about this phone and the only thing that i miss from my 8290 is voice dialing ."
+    }, 
+    "4e3e16c7d6dc2759d671c13215fece25": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            4
+        ], 
+        "(13, 4)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1328
+            ], 
+            "WBO": [
+                9, 
+                3110, 
+                2844, 
+                2576, 
+                2260
+            ], 
+            "WBL": [
+                392
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have had the phone for 1 week , the signal quality has been great in the detroit area ( suburb ) and in my recent road trip between detroit and northern kentucky ( cincinnati ) i experienced perfect signal and reception along i-75 , far superior to at & # 38 ; t 's which does not work along several long stretch on that same route ."
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "9962a0395a42bef512fbadba4dcc1ee1": {
+        "(8, 21)": {
+            "WBF": [
+                2859
+            ], 
+            "AM2L": [
+                2221
+            ], 
+            "BM1F": [
+                2989
+            ], 
+            "M1": [
+                2157
+            ], 
+            "M2": [
+                655
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1541, 
+                1915, 
+                1654, 
+                2886, 
+                2844, 
+                3210, 
+                1545, 
+                289, 
+                2886
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "feedback on creative 's product support is universally poor ; this is not limited to the zen , it applies to all the company 's product ."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "00d2f82e48aec8fa7159c18aacd4231e": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            13
+        ], 
+        "(11, 13)": {
+            "WBFL": [
+                2132
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                580
+            ], 
+            "M2": [
+                2910
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "you feel like you are holding something of substance , not some cheap plastic toy ."
+    }
+}

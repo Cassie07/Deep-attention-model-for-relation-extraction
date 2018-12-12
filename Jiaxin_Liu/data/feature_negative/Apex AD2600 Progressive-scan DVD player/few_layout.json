@@ -1,0 +1,48 @@
+{
+    "84b3210547b32bd5ab20ec53b3438380": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            13
+        ], 
+        "(3, 13)": {
+            "WBF": [
+                322
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                1614
+            ], 
+            "BM1L": [
+                3120
+            ], 
+            "WBO": [
+                1143, 
+                2760, 
+                304, 
+                2844, 
+                2615, 
+                2595
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "there were a few attractive feature , such as the small size and the layout of the remote ."
+    }
+}

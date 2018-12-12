@@ -1,0 +1,116 @@
+{
+    "0908662baf8f85d175cd9e342db17d3e": {
+        "(3, 8)": {
+            "WBF": [
+                1055
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                975
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                2772
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(3, 12)": {
+            "WBF": [
+                1055
+            ], 
+            "AM2L": [
+                2628
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                975
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                3158, 
+                2844, 
+                2772, 
+                975, 
+                501
+            ], 
+            "WBL": [
+                1165
+            ], 
+            "AM2F": [
+                2968
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            8, 
+            12
+        ], 
+        "sentence": "the sound is great even with the supplied earbuds -- but i find earbuds uncomfortable so i use different headphone ."
+    }, 
+    "b7417a11cf288e47a567e3ecde685427": {
+        "(2, 8)": {
+            "WBF": [
+                2657
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                975
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1055, 
+                3158
+            ], 
+            "WBL": [
+                2772
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "it is great sounding , even with the supplied earbuds ."
+    }
+}

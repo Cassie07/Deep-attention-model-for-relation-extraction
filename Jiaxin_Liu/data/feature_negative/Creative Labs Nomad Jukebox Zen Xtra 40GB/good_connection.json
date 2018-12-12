@@ -1,0 +1,42 @@
+{
+    "2505b3eb37eb261c8202ec3d03ef5c52": {
+        "location1": [
+            19
+        ], 
+        "location2": [
+            9
+        ], 
+        "(19, 9)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                3017
+            ], 
+            "M1": [
+                691
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                9
+            ], 
+            "WBO": [
+                2712, 
+                3052, 
+                2262, 
+                253, 
+                2844, 
+                2260
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "ripping the song , even with my 1.1 usb connection is still very quick , and the quality is very good ."
+    }
+}

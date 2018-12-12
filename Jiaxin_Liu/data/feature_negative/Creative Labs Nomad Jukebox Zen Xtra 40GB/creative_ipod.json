@@ -1,0 +1,177 @@
+{
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            23
+        ], 
+        "(10, 23)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                833
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                1566, 
+                1355, 
+                2844, 
+                413, 
+                2654, 
+                2260, 
+                1951, 
+                2851, 
+                60
+            ], 
+            "WBL": [
+                1567
+            ], 
+            "AM2F": [
+                294
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "(43, 35)": {
+            "WBF": [
+                1915
+            ], 
+            "AM2L": [
+                392
+            ], 
+            "BM1F": [
+                2840
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                415
+            ], 
+            "WBO": [
+                2785, 
+                697, 
+                2844, 
+                1929
+            ], 
+            "WBL": [
+                3196
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            43
+        ], 
+        "location2": [
+            35
+        ], 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "f53180de30a7308dfce4f7c6df47edae": {
+        "(9, 18)": {
+            "WBF": [
+                1518
+            ], 
+            "BM1F": [
+                386
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                3023
+            ], 
+            "WBO": [
+                1545, 
+                2886, 
+                381, 
+                2992, 
+                286
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "first , the battery is replacable by the user , because creative intended it to be - unlike apple with the ipod ."
+    }, 
+    "4147498480996841498df2bb40d27af6": {
+        "(7, 14)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                379
+            ], 
+            "BM1F": [
+                1241
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                94
+            ], 
+            "WBO": [
+                130, 
+                1313, 
+                190
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "5 ) the cheap , user-replaceable battery ( $ 50 from creative ) is a great advantage over the ipod 's battery which cost $ 100 to replace ."
+    }
+}

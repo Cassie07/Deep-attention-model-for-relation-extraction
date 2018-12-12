@@ -1,0 +1,77 @@
+{
+    "7c796cc382127a60c5fb968230a6441f": {
+        "location1": [
+            5, 
+            10
+        ], 
+        "location2": [
+            16
+        ], 
+        "(10, 16)": {
+            "WBF": [
+                2112
+            ], 
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2558
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                607, 
+                251
+            ], 
+            "WBL": [
+                620
+            ], 
+            "AM2F": [
+                528
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(5, 16)": {
+            "WBF": [
+                520
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2558
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3158, 
+                130, 
+                2304, 
+                1300, 
+                2112, 
+                607, 
+                251
+            ], 
+            "WBL": [
+                620
+            ], 
+            "AM2F": [
+                528
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "but overall this is a good camera with a ' really good ' picture clarity ; an exceptional close-up shooting capability ."
+    }
+}

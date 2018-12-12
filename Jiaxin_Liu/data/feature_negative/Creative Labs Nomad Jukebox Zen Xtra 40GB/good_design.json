@@ -1,0 +1,43 @@
+{
+    "53300d7a7dd55e15a9b1ca34d833f210": {
+        "(5, 10)": {
+            "WBF": [
+                316
+            ], 
+            "AM2L": [
+                2304
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                845
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "WBO": [
+                2595
+            ], 
+            "WBL": [
+                1348
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "in short , this player is good at size , value , hardware design but really bad at its software"
+    }
+}

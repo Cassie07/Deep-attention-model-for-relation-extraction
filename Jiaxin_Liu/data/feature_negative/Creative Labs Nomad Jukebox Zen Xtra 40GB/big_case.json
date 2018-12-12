@@ -1,0 +1,174 @@
+{
+    "e1ad1a34c613db2ca633d3d78e5f2be1": {
+        "(13, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                541
+            ], 
+            "M2": [
+                419
+            ], 
+            "WBO": [
+                2737, 
+                253, 
+                2749, 
+                501, 
+                2983, 
+                1595, 
+                130, 
+                3151
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                805
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the case is strong and stylish , but unfortunately lack a window ( now a big deal ) ."
+    }, 
+    "a92fef16203e6547baf7dd20d024590d": {
+        "(6, 19)": {
+            "WBF": [
+                2149
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                541
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1545, 
+                165, 
+                2240, 
+                2844, 
+                2987, 
+                3115, 
+                2639, 
+                130, 
+                1698
+            ], 
+            "WBL": [
+                540
+            ], 
+            "AM2F": [
+                1118
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "the included leather pouch is a big plus : it actually protects the unit well , something a lot of ' carrying case ' fail to do with other audio device ."
+    }, 
+    "b6ad3734805d45028aacb33df91f1f38": {
+        "(17, 6)": {
+            "WBF": [
+                1915
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                541
+            ], 
+            "M2": [
+                419
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBO": [
+                1357, 
+                130, 
+                3151, 
+                501, 
+                2842, 
+                4, 
+                1915
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                805
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            6, 
+            23
+        ], 
+        "(17, 23)": {
+            "WBF": [
+                805
+            ], 
+            "AM2L": [
+                2746
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                541
+            ], 
+            "BM1L": [
+                2304
+            ], 
+            "WBO": [
+                2886, 
+                1752
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "people also have complained about the case not having a window , but that 's not really a big deal to me either -- the case is sturdy and offer very good protection ."
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "fd02adeb0b3e3ad869f3f15173d5cd41": {
+        "(7, 6)": {
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                3210
+            ], 
+            "M1": [
+                3194
+            ], 
+            "M2": [
+                84
+            ], 
+            "BM1L": [
+                1566
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "i purchased the nomad jukebox zen xtra 40gb and it is fantastic !"
+    }, 
+    "ff59c7cf73f04bfbe21c7256237ad99c": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            6
+        ], 
+        "(4, 6)": {
+            "AM2L": [
+                253
+            ], 
+            "WBFL": [
+                3210
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                84
+            ], 
+            "M2": [
+                3194
+            ], 
+            "BM1L": [
+                2313
+            ], 
+            "AM2F": [
+                3199
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i just received my 40gb zen xtra yesterday and i 'm extremely pleased with it ."
+    }, 
+    "4fb1cfe789fe3b6adac7a3197959eeff": {
+        "(6, 9)": {
+            "WBF": [
+                1901
+            ], 
+            "AM2L": [
+                765
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                84
+            ], 
+            "M2": [
+                3194
+            ], 
+            "BM1L": [
+                597
+            ], 
+            "WBO": [
+                3210
+            ], 
+            "WBL": [
+                3210
+            ], 
+            "AM2F": [
+                1241
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "after some consideration i chose the 40gb nomad zen xtra from creative , and i have not been disappointed ."
+    }
+}

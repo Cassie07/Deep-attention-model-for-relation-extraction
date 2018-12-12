@@ -1,0 +1,50 @@
+{
+    "53a91a3802fc40bbba3c21c7e9355215": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            20
+        ], 
+        "(2, 20)": {
+            "WBF": [
+                1689
+            ], 
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                918
+            ], 
+            "M2": [
+                745
+            ], 
+            "BM1L": [
+                1106
+            ], 
+            "WBO": [
+                2199, 
+                2677, 
+                2859, 
+                1583, 
+                1951, 
+                542, 
+                3203, 
+                3085, 
+                2639, 
+                2842, 
+                1351, 
+                2844, 
+                314, 
+                423
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "f ) it doesnt look pretty -- spending this kind of cash , you want something that has the asthetics bit down , of course"
+    }
+}

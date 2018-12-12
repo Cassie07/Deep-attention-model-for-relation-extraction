@@ -1,0 +1,47 @@
+{
+    "bbdd399a8aa07bc878d531a293918676": {
+        "(3, 12)": {
+            "WBF": [
+                2097
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                3173
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1441, 
+                3203, 
+                295, 
+                2925, 
+                221
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2045
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "it is a great phone , if you are traveling all over the world , packed with wonderful feature ."
+    }
+}

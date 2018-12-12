@@ -1,0 +1,37 @@
+{
+    "d94ba22ec1c68f129a09d111449a5e89": {
+        "(7, 8)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2938
+            ], 
+            "M1": [
+                2744
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "what this plug-in reveals is the truly stunning quality of the raw g3 hardware ."
+    }
+}

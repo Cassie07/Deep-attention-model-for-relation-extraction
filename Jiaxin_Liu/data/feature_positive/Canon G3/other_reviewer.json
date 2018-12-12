@@ -1,0 +1,34 @@
+{
+    "3797f31b7e658ca2289e807be4ce0066": {
+        "location1": [
+            26
+        ], 
+        "location2": [
+            27
+        ], 
+        "(26, 27)": {
+            "BM1F": [
+                3121
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2418
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1087
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "by cocking the shutter to the halfway position and getting the setting ready to shoot , i was able to produce excellent stopaction photo -- contrary to what other reviewer experienced ."
+    }
+}

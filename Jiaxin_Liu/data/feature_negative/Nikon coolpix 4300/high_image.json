@@ -1,0 +1,44 @@
+{
+    "fc74409b72829e8f76ff6ce7e7d9c3eb": {
+        "(12, 18)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                2270
+            ], 
+            "BM1F": [
+                2595
+            ], 
+            "M1": [
+                1387
+            ], 
+            "M2": [
+                1448
+            ], 
+            "BM1L": [
+                1976
+            ], 
+            "WBO": [
+                1168, 
+                2260
+            ], 
+            "WBL": [
+                3214
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "i expected the 12x digital zoom to be grainy , but onfull size high to fine quality , the zoomed image are quite impressive ."
+    }
+}

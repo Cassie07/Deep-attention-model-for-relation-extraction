@@ -1,0 +1,66 @@
+{
+    "9151bec746be1369933e0711724fabba": {
+        "(37, 9)": {
+            "WBF": [
+                2760
+            ], 
+            "AM2L": [
+                1967
+            ], 
+            "BM1F": [
+                1945
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                2668
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                304, 
+                9, 
+                1915, 
+                2330, 
+                130, 
+                961, 
+                39, 
+                2722, 
+                130, 
+                2063, 
+                2151, 
+                1468, 
+                130, 
+                1839, 
+                1060, 
+                2878, 
+                3102, 
+                2138, 
+                1545, 
+                62, 
+                1915, 
+                402, 
+                133, 
+                2886
+            ], 
+            "WBL": [
+                563
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            37
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the player usually play dvd 's , but has occasional problem such as : 1 ) not recognizing a dvd 2 ) stopping a particular point in a movie every time we played it 3 ) not being able to access certain special feature on a rental dvd ."
+    }
+}

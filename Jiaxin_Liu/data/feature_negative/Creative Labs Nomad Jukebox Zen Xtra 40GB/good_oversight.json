@@ -1,0 +1,45 @@
+{
+    "8448fda5701874e7c112eea37250d87a": {
+        "(3, 10)": {
+            "WBF": [
+                150
+            ], 
+            "AM2L": [
+                765
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2033
+            ], 
+            "BM1L": [
+                1595
+            ], 
+            "WBO": [
+                2859, 
+                1541, 
+                1829
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "5 ) lack of good accessory - this is more of an oversight of creative 's marketing ."
+    }
+}

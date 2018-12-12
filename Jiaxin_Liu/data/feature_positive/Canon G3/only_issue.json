@@ -1,0 +1,40 @@
+{
+    "aa040e2aac44669936f89ea50c0ca0fe": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            4
+        ], 
+        "(1, 4)": {
+            "WBF": [
+                2952
+            ], 
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                1544
+            ], 
+            "WBO": [
+                1797
+            ], 
+            "WBL": [
+                1797
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the only two minor issue i have with the camera are the lens cap ( it is not very snug and can come off too easily ) and the lens itself ( it partially obstructs the view through the viewfinder but not view through the lcd ) ."
+    }
+}

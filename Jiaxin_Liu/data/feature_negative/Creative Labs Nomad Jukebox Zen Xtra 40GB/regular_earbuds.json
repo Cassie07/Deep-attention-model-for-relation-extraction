@@ -1,0 +1,45 @@
+{
+    "c086e6c5bbd8763f8374f31de758012d": {
+        "(9, 2)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1513
+            ], 
+            "BM1F": [
+                1366
+            ], 
+            "M1": [
+                975
+            ], 
+            "M2": [
+                2351
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                340, 
+                2628, 
+                1570
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                2051
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the headphone earbuds are average , so just use your regular pair instead ."
+    }
+}

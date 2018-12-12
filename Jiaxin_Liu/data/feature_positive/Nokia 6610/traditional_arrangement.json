@@ -1,0 +1,37 @@
+{
+    "42f9a3d24c13151b0c3eee5b5a85dd48": {
+        "(5, 7)": {
+            "AM2L": [
+                4
+            ], 
+            "WBFL": [
+                1579
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2913
+            ], 
+            "M2": [
+                299
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "this model does have the traditional key arrangement , it 's just that they are really close to one another , and have unconventional shape , so it takes a big getting used to for someone like me with big hand ."
+    }
+}

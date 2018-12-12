@@ -1,0 +1,107 @@
+{
+    "d4954af171cda06cc040755bc979e934": {
+        "(2, 3)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                340
+            ], 
+            "M1": [
+                1488
+            ], 
+            "M2": [
+                2564
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "on average , indoor shot with a flash are not quite as good as 35mm ."
+    }, 
+    "42f0ce4c366e69f992de1c95467b18e7": {
+        "(7, 8)": {
+            "AM2L": [
+                3052
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1488
+            ], 
+            "M2": [
+                2564
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the daylight picture are brilliant and the indoor shot are very good provided that your subject is no more than about 8 foot away ."
+    }, 
+    "747107cdbe2f2c1bbb64da5fa3d529a4": {
+        "(8, 9)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                1488
+            ], 
+            "M2": [
+                2564
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1241
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the only drawback i 've encountered are : 1 indoor shot from a distance > 8ft lack contrast and color , but i 've found this to be a problem with all camera with built-in flash that i 've used even on a nikon slr ."
+    }
+}

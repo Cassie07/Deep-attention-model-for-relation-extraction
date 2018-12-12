@@ -1,0 +1,37 @@
+{
+    "3cfd003cfecd282858702db176f2d30e": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            3
+        ], 
+        "(3, 3)": {
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2602
+            ], 
+            "M2": [
+                2602
+            ], 
+            "BM1L": [
+                458
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i bought this slick phone and i am very happy with it ."
+    }
+}

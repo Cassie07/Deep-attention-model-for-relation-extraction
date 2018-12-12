@@ -1,0 +1,70 @@
+{
+    "061d8f8a6d7c08ee50f8cc4d4e1b0344": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            7
+        ], 
+        "(1, 7)": {
+            "WBF": [
+                3213
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1994
+            ], 
+            "M2": [
+                3062
+            ], 
+            "WBO": [
+                1541, 
+                346
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2344
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the optical zoom is awesome , and the viewfinder reflects the setting of the zoom ."
+    }, 
+    "182dbace3a6e704ea16ab6aaf5ee6811": {
+        "(3, 4)": {
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                1994
+            ], 
+            "M2": [
+                3062
+            ], 
+            "BM1L": [
+                3067
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "* lens visible in optical viewfinder ."
+    }
+}

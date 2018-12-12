@@ -1,0 +1,75 @@
+{
+    "891f63e1c470263e3ffad09e6a6969b0": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            15
+        ], 
+        "(11, 15)": {
+            "WBF": [
+                1971
+            ], 
+            "BM1F": [
+                2199
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1064
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3203
+            ], 
+            "WBL": [
+                1355
+            ], 
+            "AM2F": [
+                685
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "on the positive side , the sound of the player is pretty good , once you have everything configured ."
+    }, 
+    "8121831049060e4e814eb90a284743c5": {
+        "(9, 8)": {
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1536
+            ], 
+            "M1": [
+                1064
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                833
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2204
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }
+}

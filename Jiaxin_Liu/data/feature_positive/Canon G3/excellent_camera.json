@@ -1,0 +1,126 @@
+{
+    "656e72834c7ff8e049c4a59974414993": {
+        "(12, 5)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                2112
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                2332
+            ], 
+            "WBO": [
+                266, 
+                3135, 
+                1541
+            ], 
+            "WBL": [
+                1212
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "i 'd highly recommend this camera for anyone who is looking for excellent quality picture and a combination of ease of use and the flexibility to get advanced with many option to adjust if you like ."
+    }, 
+    "c12f2cbdc52ec5949ef5f7247c336b99": {
+        "(11, 18)": {
+            "WBF": [
+                1317
+            ], 
+            "AM2L": [
+                6
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1655
+            ], 
+            "WBO": [
+                295, 
+                415, 
+                2840
+            ], 
+            "WBL": [
+                2011
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "its silver magnesium finish is stunning , and the sharp line and excellent grip are better than any other camera i 've seen ."
+    }, 
+    "1bf2d650dc6dd01868ac513222995eda": {
+        "(12, 9)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                2855
+            ], 
+            "WBO": [
+                251
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                595
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "however , for a $ 600 - $ 800 budget , i think this camera is an excellent choice ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "1884b63b7e64eae77c5a882b7904a99b": {
+        "(0, 4)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1217
+            ], 
+            "WBO": [
+                3018
+            ], 
+            "WBL": [
+                2615
+            ], 
+            "AM2F": [
+                1113
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "easy to use , small form factor , and look good to boot ."
+    }
+}

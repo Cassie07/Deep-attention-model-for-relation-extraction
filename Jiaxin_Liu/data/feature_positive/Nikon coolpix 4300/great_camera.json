@@ -1,0 +1,327 @@
+{
+    "49fddc188547ceed107c560e4e129e1f": {
+        "(0, 1)": {
+            "AM2L": [
+                1212
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                520
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great camera , and for the price you can 't beat it ."
+    }, 
+    "d2ecbc0b6c5a83518582c7e8d313b9b7": {
+        "(21, 7)": {
+            "WBF": [
+                2149
+            ], 
+            "AM2L": [
+                1814
+            ], 
+            "BM1F": [
+                87
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                130, 
+                79, 
+                3213, 
+                3158, 
+                2844, 
+                132, 
+                2886, 
+                1080, 
+                3014, 
+                2842
+            ], 
+            "WBL": [
+                1097
+            ], 
+            "AM2F": [
+                625
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the same 4mp chip from the 4500 camera , plus a 3x zoom with the ability to expand upon that with extenders , great closeup mode , long lasting rechargable battery , etc etc ."
+    }, 
+    "af71635b2c094a32f231726f4484cd17": {
+        "(7, 8)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                2094
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "still , at least from my perspective , a great camera for the money , and i 'm a happy camper !"
+    }, 
+    "4283cf0438864dd7aa4566ca679cc53b": {
+        "(15, 4)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                3200
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2332
+            ], 
+            "WBO": [
+                266, 
+                1691, 
+                1212, 
+                130, 
+                1300, 
+                875, 
+                520
+            ], 
+            "WBL": [
+                2814
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(15, 12)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                3200
+            ], 
+            "BM1F": [
+                875
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1300
+            ], 
+            "WBO": [
+                2814
+            ], 
+            "WBL": [
+                2814
+            ], 
+            "AM2F": [
+                2112
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            4, 
+            12
+        ], 
+        "sentence": "i highly recommend this camera to anyone looking for a good digital camera that takes great picture yet does n't take week to figure out how to operate ."
+    }, 
+    "a5d898eb672a4f4889c7cc06168cb6da": {
+        "(4, 2)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "but this camera is great !"
+    }, 
+    "ef8b221188025f77306dd1fd16320e12": {
+        "(0, 1)": {
+            "AM2L": [
+                1355
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                520
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great camera , i have been using this for several month and got excellent result , simple friendly usage , in many scene indoor , outdoor , snow , close up macro etc ."
+    }, 
+    "c0cd1658c30cb16d99fbca9f888c59f5": {
+        "(0, 1)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                520
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great camera ."
+    }, 
+    "a037bc2334cf7856abb5cb99ee6cd3d8": {
+        "(0, 1)": {
+            "AM2L": [
+                1534
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                520
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0, 
+            2
+        ], 
+        "location2": [
+            1
+        ], 
+        "(2, 1)": {
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1313
+            ], 
+            "AM2F": [
+                1534
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "great camera , great investment !"
+    }
+}

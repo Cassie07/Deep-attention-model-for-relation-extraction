@@ -1,0 +1,43 @@
+{
+    "5f632c925abff8ea973237469d07a2aa": {
+        "(18, 14)": {
+            "WBF": [
+                3126
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2126
+            ], 
+            "M2": [
+                2804
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3203
+            ], 
+            "WBL": [
+                1277
+            ], 
+            "AM2F": [
+                747
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the voice quality is very good , and it gets great reception ( that is , in place where you get t-mobile coverage , which is not that good ; see below ) ."
+    }
+}

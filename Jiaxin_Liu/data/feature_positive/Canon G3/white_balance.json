@@ -1,0 +1,31 @@
+{
+    "e4ef0ebc749295bdb2fcb874531a583e": {
+        "(4, 5)": {
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                3133
+            ], 
+            "M2": [
+                363
+            ], 
+            "BM1L": [
+                2112
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "great color , picture and white balance ."
+    }
+}

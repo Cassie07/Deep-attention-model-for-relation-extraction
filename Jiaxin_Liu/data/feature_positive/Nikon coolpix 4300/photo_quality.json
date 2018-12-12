@@ -1,0 +1,37 @@
+{
+    "2f83fe76d6c65089aa8744a484b1d5d3": {
+        "(5, 6)": {
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2098
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                316
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2211
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "i 'm amazed at the photo quality -- print are indistinguishable from 35mm print ."
+    }
+}

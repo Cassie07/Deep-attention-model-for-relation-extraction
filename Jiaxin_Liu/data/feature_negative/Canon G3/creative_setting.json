@@ -1,0 +1,88 @@
+{
+    "1a0d68ac376b768e92b8dca25c428ee4": {
+        "(12, 19)": {
+            "WBF": [
+                3200
+            ], 
+            "AM2L": [
+                1072
+            ], 
+            "BM1F": [
+                381
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2530
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1548, 
+                2225, 
+                253
+            ], 
+            "WBL": [
+                1094
+            ], 
+            "AM2F": [
+                2244
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(12, 33)": {
+            "WBF": [
+                3200
+            ], 
+            "BM1F": [
+                381
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2530
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1548, 
+                2225, 
+                253, 
+                329, 
+                1094, 
+                2530, 
+                2244, 
+                1072, 
+                2098, 
+                1441, 
+                3203, 
+                912, 
+                1859, 
+                5, 
+                3085, 
+                2886, 
+                455
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            19, 
+            33
+        ], 
+        "sentence": "1 ) slr like programming and exposure control gives you latitude to be creative , yet its progam and auto exposure setting provide excellent photo if you do n't want to bother with the setting ."
+    }
+}

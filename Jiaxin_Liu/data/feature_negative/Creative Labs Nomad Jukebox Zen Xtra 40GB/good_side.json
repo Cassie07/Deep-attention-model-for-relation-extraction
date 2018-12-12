@@ -1,0 +1,46 @@
+{
+    "891f63e1c470263e3ffad09e6a6969b0": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            3
+        ], 
+        "(11, 3)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2171
+            ], 
+            "M1": [
+                2573
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2654, 
+                1951, 
+                2844, 
+                2139
+            ], 
+            "WBL": [
+                2199
+            ], 
+            "AM2F": [
+                1971
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "on the positive side , the sound of the player is pretty good , once you have everything configured ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "62cf1a8d3b2e903f5a6f46e8d99bb3c2": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            15
+        ], 
+        "(17, 15)": {
+            "AM2L": [
+                1839
+            ], 
+            "WBFL": [
+                253
+            ], 
+            "BM1F": [
+                563
+            ], 
+            "M1": [
+                897
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                2136
+            ], 
+            "AM2F": [
+                961
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have sent my ad2600 back to apex because it wo n't play certain disney and other dvd movie ( no disc message ) ."
+    }
+}

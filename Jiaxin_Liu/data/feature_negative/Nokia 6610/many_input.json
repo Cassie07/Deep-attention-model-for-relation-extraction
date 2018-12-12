@@ -1,0 +1,44 @@
+{
+    "88b9aa2d53178b2ce98e7c56d5c5e0d8": {
+        "(18, 12)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2839
+            ], 
+            "M1": [
+                1499
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                130, 
+                423
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "the fact that the `` 0 `` key is the space key for text input is a bit confusing , as many phone use the `` # `` key instead ."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "1a75f65daeb3cf2d68dd0dd806a825e8": {
+        "(6, 9)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                502
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                1698
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "basic usage is easy , but the remote has a lot of button that i have n't used ."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "3f56f9123b8ffd9edf96d25020e6c445": {
+        "(1, 2)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                940
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the only drawback is the viewfinder is slightly blocked by the lens ."
+    }
+}

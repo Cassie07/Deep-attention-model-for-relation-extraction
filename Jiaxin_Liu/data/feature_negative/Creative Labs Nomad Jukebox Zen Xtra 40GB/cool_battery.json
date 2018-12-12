@@ -1,0 +1,49 @@
+{
+    "26afbb728550c0df1149e771bc94d54b": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            26
+        ], 
+        "(15, 26)": {
+            "WBF": [
+                2479
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1689
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBO": [
+                1541, 
+                469, 
+                253, 
+                985, 
+                2886, 
+                2296, 
+                253
+            ], 
+            "WBL": [
+                2381
+            ], 
+            "AM2F": [
+                1753
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }
+}

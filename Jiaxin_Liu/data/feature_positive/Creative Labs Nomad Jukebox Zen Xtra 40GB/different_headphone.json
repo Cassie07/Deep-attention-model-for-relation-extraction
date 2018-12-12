@@ -1,0 +1,31 @@
+{
+    "0908662baf8f85d175cd9e342db17d3e": {
+        "(17, 18)": {
+            "BM1F": [
+                3018
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                1366
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "the sound is great even with the supplied earbuds -- but i find earbuds uncomfortable so i use different headphone ."
+    }
+}

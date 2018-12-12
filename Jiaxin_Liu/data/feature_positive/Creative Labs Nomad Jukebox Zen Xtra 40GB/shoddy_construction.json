@@ -1,0 +1,37 @@
+{
+    "20d3a45cf59c04e869a7f7ce2fd28dcf": {
+        "(6, 7)": {
+            "AM2L": [
+                2639
+            ], 
+            "BM1F": [
+                141
+            ], 
+            "M1": [
+                2555
+            ], 
+            "M2": [
+                703
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i 'm not willing to accept shoddy construction on something i paid over 250 dollar for ."
+    }
+}

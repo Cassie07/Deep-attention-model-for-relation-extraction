@@ -1,0 +1,143 @@
+{
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "(6, 20)": {
+            "WBF": [
+                1302
+            ], 
+            "AM2L": [
+                1859
+            ], 
+            "BM1F": [
+                1429
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                3124
+            ], 
+            "WBO": [
+                1545, 
+                1313, 
+                2654, 
+                985, 
+                2886, 
+                3018, 
+                1055, 
+                2862, 
+                1429, 
+                206
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }, 
+    "f36365781e2d87d761d5f6c5b23a90ab": {
+        "(13, 9)": {
+            "WBF": [
+                2215
+            ], 
+            "BM1F": [
+                1328
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1179
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "WBO": [
+                1468
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2126
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "in fact , each of my creative mp3 player had software problem in the first place ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "location1": [
+            19
+        ], 
+        "location2": [
+            2
+        ], 
+        "(19, 2)": {
+            "WBF": [
+                3020
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1179
+            ], 
+            "BM1L": [
+                1164
+            ], 
+            "WBO": [
+                2886, 
+                2259, 
+                221, 
+                2844, 
+                2644, 
+                1529, 
+                1545, 
+                1541, 
+                3041, 
+                1490, 
+                2886, 
+                1550, 
+                1967
+            ], 
+            "WBL": [
+                1638
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "c43abed7f15effb4bbf9b56cd5cdb4e1": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            20
+        ], 
+        "(5, 20)": {
+            "WBF": [
+                896
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                1243
+            ], 
+            "BM1L": [
+                2867
+            ], 
+            "WBO": [
+                3102, 
+                2138, 
+                1967, 
+                1545, 
+                1862, 
+                1967, 
+                66, 
+                801, 
+                200, 
+                2251, 
+                2844
+            ], 
+            "WBL": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "3/4 way through the first disk we played on it ( naturally on 31 day after purchase ) the dvd player froze ."
+    }
+}

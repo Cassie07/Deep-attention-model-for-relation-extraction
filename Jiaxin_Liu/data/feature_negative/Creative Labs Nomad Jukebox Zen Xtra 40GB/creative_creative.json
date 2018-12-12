@@ -1,0 +1,1749 @@
+{
+    "107c4aa2469fabfd4d6c8e2c795a739f": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                201
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                503
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i will never buy a creative product again ."
+    }, 
+    "faecff2a9f98008034e071e9ea118f8f": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            22
+        ], 
+        "(22, 22)": {
+            "AM2L": [
+                2637
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                403
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "enough people have reported that their headphone jack does n't work after a month of using the device to believe that creative has some inbuilt manufacturing or quality control problem ."
+    }, 
+    "2462352e4d26f43439fa478ab33dff17": {
+        "location1": [
+            34
+        ], 
+        "location2": [
+            34
+        ], 
+        "(34, 34)": {
+            "AM2L": [
+                1977
+            ], 
+            "BM1F": [
+                1054
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1054
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "after i had it a couple week , it got into a state where it could never find the device , no matter how often i rebooted my pc , reset the device , reloaded driver , etc , etc . creative 's online support was no help at all ."
+    }, 
+    "c5fb91677140916fcce268347c2b912b": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                2631
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                394
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1758
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "as i mentioned before , the creative mediasource software is actually really robust despite what others have said , though notmad may still work better ."
+    }, 
+    "77d109e2cb75e81b27de5ba3fb01ee7b": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            7
+        ], 
+        "(7, 7)": {
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                404
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                513
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the dynamic playlist ( `` now playing `` , i belive creative call it ) feel very awkward at time and some menus simply take to long to get to and operate .. ."
+    }, 
+    "aeaf53d9981fcdae134d914c14c3bf3a": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            7
+        ], 
+        "(7, 7)": {
+            "AM2L": [
+                1998
+            ], 
+            "BM1F": [
+                1417
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1594
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "overall it is a great unit & hopefully creative lab or some other vendor will soon come out with some accessory for it ."
+    }, 
+    "93b83dad8de467af70db727ec3d5cebc": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            1
+        ], 
+        "(1, 1)": {
+            "AM2L": [
+                3210
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "AM2F": [
+                1594
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the creative lab zen xtra has all the feature the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player ."
+    }, 
+    "9962a0395a42bef512fbadba4dcc1ee1": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            2
+        ], 
+        "(2, 2)": {
+            "AM2L": [
+                2221
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1146
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "feedback on creative 's product support is universally poor ; this is not limited to the zen , it applies to all the company 's product ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            10
+        ], 
+        "(10, 10)": {
+            "AM2L": [
+                1566
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }, 
+    "b53d62b6c1ff43f2a9f455b5b47ac453": {
+        "(0, 0)": {
+            "AM2L": [
+                781
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1594
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "creative lab customer support website is useless ."
+    }, 
+    "20ba4c4b32823c2ce57fa535aeed926f": {
+        "(27, 27)": {
+            "BM1F": [
+                1241
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1083
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1594
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "i have n't had time to really push this player to the limit , but audio aspect on the nomad are satisfactory , as should be expected from creative lab ."
+    }, 
+    "dddabe0a6ff5deb6dc9e3641be46c42d": {
+        "(27, 27)": {
+            "AM2L": [
+                1978
+            ], 
+            "BM1F": [
+                2587
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3145
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "i know this unit will have problem in the future and the $ 40 for the 2 year `` no question asked `` replacement warranty will be worth it , since creative will only warrant it for 90 day - which in itself is totally ridiculous !"
+    }, 
+    "5665cc636f7aeff4e22e1cacfc8c571f": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            1
+        ], 
+        "(1, 1)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the creative software is awkward / difficult to use and just plain does n't load on some computer ."
+    }, 
+    "8b9a6cd9df31ff13ae9cf191b5e2455f": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                2775
+            ], 
+            "BM1F": [
+                1006
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                231
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2825
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "but i 've already emailed creative tech support about it , and gotten timely response - they will fix it for me if necessary .. ."
+    }, 
+    "feb7dcbbee6a06823c848eca7460da73": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            1
+        ], 
+        "(1, 1)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1474
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "- included creative software is pretty poor ."
+    }, 
+    "af4ff3b60fd17fb4f6c20eea30e59606": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            10
+        ], 
+        "(10, 10)": {
+            "AM2L": [
+                2637
+            ], 
+            "BM1F": [
+                2855
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1955
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "for those of us that like to tinker , i think creative offer some advantage ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "location1": [
+            43
+        ], 
+        "location2": [
+            43
+        ], 
+        "(43, 43)": {
+            "AM2L": [
+                392
+            ], 
+            "BM1F": [
+                3196
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            7
+        ], 
+        "(7, 7)": {
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                2013
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                386
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "8448fda5701874e7c112eea37250d87a": {
+        "(12, 12)": {
+            "AM2L": [
+                1739
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2033
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "5 ) lack of good accessory - this is more of an oversight of creative 's marketing ."
+    }, 
+    "f6bc4fd24b9be00f5b099c30cab47b22": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "BM1F": [
+                1072
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                260
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "all-in-all , this is another excellent creative product ."
+    }, 
+    "4147498480996841498df2bb40d27af6": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            7
+        ], 
+        "(7, 7)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1241
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                94
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "5 ) the cheap , user-replaceable battery ( $ 50 from creative ) is a great advantage over the ipod 's battery which cost $ 100 to replace ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(39, 14)": {
+            "WBF": [
+                3160
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                1915
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545
+            ], 
+            "WBL": [
+                1853
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(14, 39)": {
+            "WBF": [
+                3160
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                1915
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545
+            ], 
+            "WBL": [
+                1853
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !", 
+        "location2": [
+            14, 
+            39
+        ], 
+        "location1": [
+            14, 
+            39
+        ], 
+        "(14, 14)": {
+            "AM2L": [
+                1924
+            ], 
+            "BM1F": [
+                1915
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3160
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(39, 39)": {
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                1853
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                3204
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1998
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }
+    }, 
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(4, 4)": {
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                316
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1238
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1267
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "367132e3bd707c6fcb4fcfefdd6d2de8": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2798
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1636
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "second , the `` automatic `` sync on creative let you review the song before it begin its transfer ."
+    }, 
+    "061fa6633540533196c8541145f80a36": {
+        "(8, 8)": {
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                493
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "so yes , as with all software bundled with creative product , it was useless and ugly ."
+    }, 
+    "381645b8c5e4a5a766692ae2bb576665": {
+        "(4, 4)": {
+            "AM2L": [
+                1842
+            ], 
+            "BM1F": [
+                2494
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1594
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "this is my second creative lab mp3 player , and it is definitely a fine product ."
+    }, 
+    "a44b72ed937e77df7cb07d76f90f6978": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            9
+        ], 
+        "(9, 9)": {
+            "BM1F": [
+                221
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "sound quality on this is amazing , as with all creative product ."
+    }, 
+    "14d20e2bcf29b6bcafa9483b929a2de6": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            1
+        ], 
+        "(1, 1)": {
+            "AM2L": [
+                2631
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "AM2F": [
+                1758
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "1. creative mediasource software is ok to rip , catalog & burn music if you are starting from scratch ; but i used musicmatch to rip my cd before i bought the zen ( 278 cd ; 3,400 track ; 12.5 gb of music all ripped at 128bps ) and guess what ?"
+    }, 
+    "54724dd286a492837cf9f736f866a74a": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            1
+        ], 
+        "(1, 1)": {
+            "AM2L": [
+                226
+            ], 
+            "BM1F": [
+                2857
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "third , creative software allows you to keep two window open to look at both the content on the player and the computer ."
+    }, 
+    "a07ba4c61197603df5d0eb7207abc1d6": {
+        "(6, 6)": {
+            "AM2L": [
+                1093
+            ], 
+            "BM1F": [
+                1723
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1901
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "i did not managed to make creative nomad explorer to work ."
+    }, 
+    "e17e18380718fc3b0a9d1deacbd92ff8": {
+        "(37, 37)": {
+            "AM2L": [
+                1156
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1758
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            37
+        ], 
+        "location2": [
+            37
+        ], 
+        "sentence": "this player is an overall disappointment with a couple of big flaw that potential buyer should be wary of ; and all reader need to know about a third party software company that resolve virtually all of the creative mediasource file transfer issue ."
+    }, 
+    "20f4caa1b3acf788d80ee49ac27d76cd": {
+        "(0, 0)": {
+            "AM2L": [
+                2713
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "creative software stink ."
+    }, 
+    "a0025c0db7ea0540259cd3b1b90d7fcb": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            10
+        ], 
+        "(10, 10)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1241
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the sound is excellent as one would suspect from a creative product ."
+    }, 
+    "1815e3af4f811c08b874fb48013a9edc": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            9
+        ], 
+        "(9, 9)": {
+            "AM2L": [
+                1474
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                3115
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the eax feature are pretty cool , as well , as creative has included a number of eq adjustment that , for example , compensate for the extraneous noise encountered in a car or on a train ."
+    }, 
+    "f047713fd7ebf2002c5bc05f4ab2df80": {
+        "(13, 7)": {
+            "WBF": [
+                2631
+            ], 
+            "AM2L": [
+                2006
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBO": [
+                501, 
+                1429
+            ], 
+            "WBL": [
+                1165
+            ], 
+            "AM2F": [
+                1758
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "a lot of people complain about the creative software , but i actually find creative mediasource organizer to have some strength over itunes .", 
+        "location2": [
+            7, 
+            13
+        ], 
+        "location1": [
+            7, 
+            13
+        ], 
+        "(13, 13)": {
+            "AM2L": [
+                2006
+            ], 
+            "BM1F": [
+                1165
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                165
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1758
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(7, 7)": {
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(7, 13)": {
+            "WBF": [
+                2631
+            ], 
+            "AM2L": [
+                2006
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBO": [
+                501, 
+                1429
+            ], 
+            "WBL": [
+                1165
+            ], 
+            "AM2F": [
+                1758
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }, 
+    "0bc7e90c6f8562629f5338ddab065f25": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            2
+        ], 
+        "(2, 2)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1425
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "however , the creative software is not real intuitive ."
+    }, 
+    "16dccec07487bfb9e777d9b8fc08c377": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            2
+        ], 
+        "(2, 2)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                402
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "being a creative product the playback quality is unbeatable ."
+    }, 
+    "ea590102fe54b3305e3c92c7f680c4d9": {
+        "(0, 0)": {
+            "AM2L": [
+                1146
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3210
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "creative zen feedback suffers from construction quality , poor product support , difficulty of using the scroll wheel and reasonably consistent feedback about problem with the headphone jack ."
+    }, 
+    "4fb1cfe789fe3b6adac7a3197959eeff": {
+        "(11, 11)": {
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1241
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                3194
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "after some consideration i chose the 40gb nomad zen xtra from creative , and i have not been disappointed ."
+    }, 
+    "c7f5cceaff97a5d0b302626a5fbb9eca": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            9
+        ], 
+        "(9, 9)": {
+            "AM2L": [
+                201
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1594
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i love this player and would probably go with creative lab again ."
+    }, 
+    "f36365781e2d87d761d5f6c5b23a90ab": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "in fact , each of my creative mp3 player had software problem in the first place ."
+    }, 
+    "57a74e8be8d489d3048ecdc5e9e62e81": {
+        "(4, 4)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1241
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1806
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "only thing missing from creative is a cd burner ."
+    }, 
+    "6bc32f701b31d3e1398b32992b827143": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            1
+        ], 
+        "(1, 1)": {
+            "AM2L": [
+                237
+            ], 
+            "BM1F": [
+                113
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "AM2F": [
+                1758
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "8 ) creative mediasource , although not as sleek looking as window mediaplayer , is effective in organizing your collection and is linked to a good cddb service ( gracenotes ) ."
+    }, 
+    "d6255391e01cbaa0b68fdb9cf3e4e183": {
+        "(0, 0)": {
+            "AM2L": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "creative are * the * sound people for computer , i can 't understand why eax would introduce static ."
+    }, 
+    "f53180de30a7308dfce4f7c6df47edae": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            9
+        ], 
+        "(9, 9)": {
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                386
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                3023
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1518
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "first , the battery is replacable by the user , because creative intended it to be - unlike apple with the ipod ."
+    }
+}

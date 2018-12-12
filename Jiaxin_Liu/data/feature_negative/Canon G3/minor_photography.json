@@ -1,0 +1,46 @@
+{
+    "3d44c865026753694c91909c1268f652": {
+        "(2, 16)": {
+            "WBF": [
+                889
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1797
+            ], 
+            "M2": [
+                2104
+            ], 
+            "BM1L": [
+                848
+            ], 
+            "WBO": [
+                1429, 
+                1396, 
+                2332, 
+                2844, 
+                525, 
+                1260, 
+                266, 
+                3135, 
+                1541, 
+                2523
+            ], 
+            "WBL": [
+                875
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "despite this minor disappointment , i highly recommend the canon g3 anyone who is serious about digital photography ."
+    }
+}

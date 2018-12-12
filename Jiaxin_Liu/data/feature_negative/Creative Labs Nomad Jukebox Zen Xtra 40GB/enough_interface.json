@@ -1,0 +1,41 @@
+{
+    "652850fadd74debed2ce46db645d02fc": {
+        "(16, 7)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1522
+            ], 
+            "M2": [
+                1030
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                522, 
+                1165, 
+                264, 
+                2644, 
+                2141
+            ], 
+            "WBL": [
+                1136
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i quickly got to use to the interface and can find any song / playlist etc fast enough ."
+    }
+}

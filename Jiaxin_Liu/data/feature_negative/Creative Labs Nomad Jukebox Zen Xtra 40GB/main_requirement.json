@@ -1,0 +1,37 @@
+{
+    "9f6a7f7178e78442ace2e798b1feb157": {
+        "(2, 3)": {
+            "AM2L": [
+                1687
+            ], 
+            "BM1F": [
+                2952
+            ], 
+            "M1": [
+                1721
+            ], 
+            "M2": [
+                2392
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3120
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "my two main requirement were longer battery life and lower price : i found both ."
+    }
+}

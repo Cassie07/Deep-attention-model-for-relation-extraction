@@ -1,0 +1,37 @@
+{
+    "ab5381ff92d93f31f37a3da98c2c14a6": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            13
+        ], 
+        "(9, 13)": {
+            "WBF": [
+                520
+            ], 
+            "BM1F": [
+                1906
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                1738
+            ], 
+            "BM1L": [
+                413
+            ], 
+            "WBO": [
+                1967
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all-in-all , i believe this is arguably the best non-slr digital camera on the market ."
+    }
+}

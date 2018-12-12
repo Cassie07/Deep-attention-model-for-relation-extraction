@@ -1,0 +1,34 @@
+{
+    "5741b29bc5d1f08561ddf80eaccd827d": {
+        "(14, 16)": {
+            "WBFL": [
+                3089
+            ], 
+            "BM1F": [
+                3120
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                2047
+            ], 
+            "BM1L": [
+                2850
+            ], 
+            "AM2F": [
+                339
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "surfing the web on it is nice as well , i just wish there were more wap page available ."
+    }
+}

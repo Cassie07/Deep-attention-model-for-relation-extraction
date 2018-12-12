@@ -1,0 +1,31 @@
+{
+    "0e57ee572cc132a512fea07060c57adf": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            13
+        ], 
+        "(11, 13)": {
+            "WBFL": [
+                1343
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                164
+            ], 
+            "M2": [
+                943
+            ], 
+            "BM1L": [
+                1405
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the player feel very delicate , as if i 'm holding an actual hard drive ."
+    }
+}

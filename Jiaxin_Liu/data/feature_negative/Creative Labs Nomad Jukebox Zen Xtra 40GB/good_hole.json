@@ -1,0 +1,101 @@
+{
+    "4609198e9495aeb97d0e1704b1f11136": {
+        "location1": [
+            4, 
+            39
+        ], 
+        "location2": [
+            27
+        ], 
+        "(4, 27)": {
+            "WBF": [
+                1691
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1431
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1407
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                2139, 
+                385, 
+                436, 
+                353, 
+                2479, 
+                1441, 
+                3203, 
+                6, 
+                2296, 
+                134, 
+                2844, 
+                2139, 
+                2637, 
+                1355, 
+                665, 
+                134, 
+                2844, 
+                1595, 
+                1951
+            ], 
+            "WBL": [
+                3063
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(39, 27)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                3063
+            ], 
+            "M1": [
+                1407
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2844, 
+                1110, 
+                3124, 
+                2844, 
+                541, 
+                1541, 
+                1967, 
+                501
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                386
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "much cheaper than i-pod good looking player ( beautiful blue back-lit screen ) if you 've read about the player , some have complained about the lack of a viewing hole for the face when the case is on , but this is good because the face does n't get damaged / scratched fast transfer rate"
+    }
+}

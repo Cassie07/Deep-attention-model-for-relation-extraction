@@ -1,0 +1,37 @@
+{
+    "b4710055bc1a10f777d1a193f72ef944": {
+        "(12, 13)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                365
+            ], 
+            "BM1L": [
+                821
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "compared to everything else in this category , this is most definately the best bang for the buck ."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "5e8d37c7fc800e394540cc47e42d3496": {
+        "(2, 5)": {
+            "WBF": [
+                2112
+            ], 
+            "AM2L": [
+                985
+            ], 
+            "BM1F": [
+                1287
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "it gives great picture , the control are easy to use , the battery last forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing ."
+    }
+}

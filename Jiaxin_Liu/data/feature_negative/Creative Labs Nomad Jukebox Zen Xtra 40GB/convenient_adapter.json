@@ -1,0 +1,58 @@
+{
+    "55a1e032f3ca37204ac18478c6c689ef": {
+        "(28, 8)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                595
+            ], 
+            "BM1F": [
+                139
+            ], 
+            "M1": [
+                171
+            ], 
+            "M2": [
+                718
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2321, 
+                1545, 
+                917, 
+                1915, 
+                574, 
+                507, 
+                3017, 
+                509, 
+                2859, 
+                1541, 
+                1915, 
+                2914, 
+                501, 
+                3017, 
+                2326, 
+                3181
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                177
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            28
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "6 . the zen nx battery requires the ac adapter to recharge ; it does not charge by usb cable ; this is not tragic , but usb recharging would be a convenient ( additional ) choice ."
+    }
+}

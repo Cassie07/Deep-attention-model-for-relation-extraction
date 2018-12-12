@@ -1,0 +1,73 @@
+{
+    "a35aae065a501637e0500caa8560e498": {
+        "(19, 11)": {
+            "WBF": [
+                3129
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                869
+            ], 
+            "M1": [
+                2194
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                80
+            ], 
+            "WBO": [
+                1541, 
+                2199, 
+                1300, 
+                3203
+            ], 
+            "WBL": [
+                1277
+            ], 
+            "AM2F": [
+                3037
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10, 
+            19
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                80
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                2194
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "with eax on , you can modify your sound , with 4 different presets , which is pretty good , you can get different variation with it ."
+    }
+}

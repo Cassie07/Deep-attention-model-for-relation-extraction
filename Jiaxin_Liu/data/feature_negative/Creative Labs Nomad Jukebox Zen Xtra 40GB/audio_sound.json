@@ -1,0 +1,205 @@
+{
+    "44d22a9ad796160bb6beb7100f6b8152": {
+        "(2, 15)": {
+            "WBF": [
+                1425
+            ], 
+            "AM2L": [
+                2840
+            ], 
+            "BM1F": [
+                1038
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1541, 
+                227, 
+                668, 
+                3022, 
+                253, 
+                1351, 
+                1718, 
+                1832, 
+                1951
+            ], 
+            "WBL": [
+                2644
+            ], 
+            "AM2F": [
+                3176
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "the environmental audio , however , is almost completely useless and has made most of my song sound worse than without it ( i encode my song at 192-256 kbps without variable bit rate . )"
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "(39, 48)": {
+            "WBF": [
+                1219
+            ], 
+            "AM2L": [
+                658
+            ], 
+            "BM1F": [
+                3162
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2761, 
+                1190, 
+                2016, 
+                2761, 
+                1468
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            39
+        ], 
+        "location2": [
+            48
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "location1": [
+            48
+        ], 
+        "location2": [
+            28
+        ], 
+        "(48, 28)": {
+            "WBF": [
+                3142
+            ], 
+            "AM2L": [
+                499
+            ], 
+            "BM1F": [
+                1072
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1591, 
+                2886, 
+                381, 
+                415, 
+                2840, 
+                1536, 
+                1915, 
+                2785, 
+                697, 
+                2844, 
+                1929, 
+                1951, 
+                3196, 
+                765, 
+                1351, 
+                392
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2090
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "9fab3fa1513794381fb4939e464dcc56": {
+        "location1": [
+            19
+        ], 
+        "location2": [
+            2
+        ], 
+        "(19, 2)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                200
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                1179
+            ], 
+            "WBO": [
+                1541, 
+                1963, 
+                501, 
+                304, 
+                316, 
+                1620, 
+                1973, 
+                2011, 
+                2418, 
+                1351, 
+                1772, 
+                2844, 
+                988
+            ], 
+            "WBL": [
+                549
+            ], 
+            "AM2F": [
+                1523
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "first , the sound quality is okay , but ( as at least one other reviewer has mentioned ) the eax can cause audio interference after about 30 minute ."
+    }
+}

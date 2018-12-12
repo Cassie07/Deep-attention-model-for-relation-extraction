@@ -1,0 +1,333 @@
+{
+    "5e74b4c1331cab866091f6646439932c": {
+        "(17, 4)": {
+            "WBF": [
+                2844
+            ], 
+            "BM1F": [
+                670
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "WBO": [
+                1774, 
+                295, 
+                984, 
+                148, 
+                253, 
+                2844, 
+                2260, 
+                1951, 
+                2844
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            4, 
+            15
+        ], 
+        "(17, 15)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "with all its complicated feature , the menus are easily accessible and the quality of the feature is great ."
+    }, 
+    "e34cfc5c5d47ea85592063b8cfa07c03": {
+        "(0, 1)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                1143
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great feature .. ."
+    }, 
+    "58e7e474b8ea3dcf3293853aae627fc1": {
+        "(4, 10)": {
+            "WBF": [
+                1669
+            ], 
+            "AM2L": [
+                384
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2097, 
+                1548
+            ], 
+            "WBL": [
+                1886
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(14, 10)": {
+            "WBF": [
+                130
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1886
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1302
+            ], 
+            "WBO": [
+                384
+            ], 
+            "WBL": [
+                2479
+            ], 
+            "AM2F": [
+                1048
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4, 
+            14
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "this really is a great little phone ; its got nice feature , a beatiful screen , great ergonomics , and its tiny !"
+    }, 
+    "0640603a2170d71444627f4f433fd0bd": {
+        "(19, 12)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                1793
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBO": [
+                2859, 
+                2097, 
+                1545
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "there is much which has been said in other review about the feature of this phone , it is a great phone , mine worked without any problem right out of the box ."
+    }, 
+    "bbdd399a8aa07bc878d531a293918676": {
+        "(3, 16)": {
+            "WBF": [
+                2097
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1441, 
+                3203, 
+                295, 
+                2925, 
+                221, 
+                2024, 
+                2844, 
+                3173, 
+                2045
+            ], 
+            "WBL": [
+                3166
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "it is a great phone , if you are traveling all over the world , packed with wonderful feature ."
+    }, 
+    "9b759b22613ccb3d5a5909c5cd771409": {
+        "(27, 9)": {
+            "WBF": [
+                3168
+            ], 
+            "BM1F": [
+                2831
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                522
+            ], 
+            "WBO": [
+                1648, 
+                130, 
+                578, 
+                2431, 
+                295, 
+                1387, 
+                2260, 
+                1441, 
+                3203, 
+                503, 
+                2847, 
+                1241, 
+                2804, 
+                253
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            2, 
+            27
+        ], 
+        "location2": [
+            9
+        ], 
+        "(2, 9)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                1648
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                2527
+            ], 
+            "WBO": [
+                1134, 
+                304, 
+                1429
+            ], 
+            "WBL": [
+                2831
+            ], 
+            "AM2F": [
+                3168
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "service is great as far as i can tell , feature work like a charm , ringtones are high quality if you buy them from t-mobile and aim is great ."
+    }
+}

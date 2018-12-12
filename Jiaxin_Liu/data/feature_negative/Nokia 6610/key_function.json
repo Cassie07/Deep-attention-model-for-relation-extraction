@@ -1,0 +1,31 @@
+{
+    "3f9cc3c78af4f8f3dbd173ab2962564f": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            6
+        ], 
+        "(4, 6)": {
+            "WBFL": [
+                1677
+            ], 
+            "BM1F": [
+                335
+            ], 
+            "M1": [
+                1579
+            ], 
+            "M2": [
+                1252
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i like the automatic key lock function ."
+    }
+}

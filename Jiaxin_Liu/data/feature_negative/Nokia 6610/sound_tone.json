@@ -1,0 +1,85 @@
+{
+    "d36bdc5dfa57c2ffcd3b26042b66d2e6": {
+        "(0, 4)": {
+            "WBF": [
+                1072
+            ], 
+            "AM2L": [
+                3052
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2895
+            ], 
+            "WBO": [
+                2156
+            ], 
+            "WBL": [
+                2430
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "sound - excellent polyphonic ringing tone are very nice ( check con ) it also double as a radio , which is a nice feature when you are bored ."
+    }, 
+    "da1c9f96e2fdf6c174bc6a45a9e6ecb6": {
+        "(16, 1)": {
+            "WBF": [
+                1978
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2428
+            ], 
+            "M1": [
+                2895
+            ], 
+            "M2": [
+                2654
+            ], 
+            "WBO": [
+                643, 
+                3158, 
+                758, 
+                2644, 
+                253, 
+                259, 
+                2428, 
+                2850, 
+                1541, 
+                1978, 
+                1973
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                619
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "ring tone only come with crazy song and annoying ring , there is only one ring that sound close to a regular ring ."
+    }
+}

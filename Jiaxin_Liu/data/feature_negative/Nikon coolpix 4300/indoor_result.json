@@ -1,0 +1,45 @@
+{
+    "ef8b221188025f77306dd1fd16320e12": {
+        "(20, 13)": {
+            "WBF": [
+                2583
+            ], 
+            "AM2L": [
+                2625
+            ], 
+            "BM1F": [
+                1072
+            ], 
+            "M1": [
+                2408
+            ], 
+            "M2": [
+                1488
+            ], 
+            "BM1L": [
+                1302
+            ], 
+            "WBO": [
+                1239, 
+                3016, 
+                1468
+            ], 
+            "WBL": [
+                2474
+            ], 
+            "AM2F": [
+                2017
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            20
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "great camera , i have been using this for several month and got excellent result , simple friendly usage , in many scene indoor , outdoor , snow , close up macro etc ."
+    }
+}

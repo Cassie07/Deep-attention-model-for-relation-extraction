@@ -1,0 +1,99 @@
+{
+    "0edeb8de7afc625a933b4c41f00abaf8": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            34
+        ], 
+        "(17, 34)": {
+            "WBF": [
+                842
+            ], 
+            "AM2L": [
+                1194
+            ], 
+            "BM1F": [
+                1529
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1295
+            ], 
+            "WBO": [
+                1468, 
+                2846, 
+                2417, 
+                501, 
+                1429, 
+                239, 
+                3052, 
+                2143, 
+                3158, 
+                2844, 
+                1143, 
+                2844, 
+                2674
+            ], 
+            "WBL": [
+                2112
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i wo n't go into the detail here , as the online site ( stevesdigicams , dpreviews ) go into great depth in their review , but i am very pleased with the feature , the speed , the picture quality , the flexibility , the automation , and the functional convenience this camera offer ."
+    }, 
+    "a3966ba04d7e675a36911883e1bc65b2": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            3
+        ], 
+        "(11, 3)": {
+            "WBF": [
+                635
+            ], 
+            "AM2L": [
+                668
+            ], 
+            "BM1F": [
+                2112
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                253, 
+                2544, 
+                1951, 
+                1207
+            ], 
+            "WBL": [
+                2628
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "a ) the picture quality ( color and sharpness of focusing ) are so great , it completely eliminated my doubt about digital imaging -- - how could one eat rice one grain at a time : - ) )"
+    }
+}

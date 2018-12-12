@@ -1,0 +1,233 @@
+{
+    "1675736cec8dc2050229791dc016e3c7": {
+        "(38, 18)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2644
+            ], 
+            "M2": [
+                2494
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "WBO": [
+                2651, 
+                2867, 
+                1545, 
+                3145, 
+                1277, 
+                2740, 
+                2282, 
+                1298, 
+                2867, 
+                2844, 
+                2644, 
+                253, 
+                3163, 
+                1859, 
+                5, 
+                2718
+            ], 
+            "WBL": [
+                2533
+            ], 
+            "AM2F": [
+                200
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            38
+        ], 
+        "location2": [
+            18, 
+            30
+        ], 
+        "(38, 30)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2644
+            ], 
+            "M2": [
+                2494
+            ], 
+            "BM1L": [
+                2867
+            ], 
+            "WBO": [
+                3163, 
+                1859, 
+                5, 
+                2718
+            ], 
+            "WBL": [
+                2533
+            ], 
+            "AM2F": [
+                200
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "if you hold down the scroll wheel too long ( which is common if you have a lot of song to sort through ) , it will get `` stuck `` rapidly going through the song and wo n't stop until several second after you let your finger off of it ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "location1": [
+            36
+        ], 
+        "location2": [
+            8
+        ], 
+        "(36, 8)": {
+            "WBF": [
+                1529
+            ], 
+            "AM2L": [
+                3162
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2644
+            ], 
+            "M2": [
+                2494
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBO": [
+                1545, 
+                1541, 
+                3041, 
+                1490, 
+                2886, 
+                1550, 
+                1967, 
+                2952, 
+                1638, 
+                1179, 
+                1545, 
+                1541, 
+                2158, 
+                1515, 
+                1529, 
+                2844, 
+                2025, 
+                2139, 
+                253, 
+                627, 
+                2886, 
+                3018, 
+                1051, 
+                3158
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "ea2c514a36f45b31b1c75ee1b8e84f0b": {
+        "(8, 6)": {
+            "AM2L": [
+                3017
+            ], 
+            "WBFL": [
+                2080
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2644
+            ], 
+            "M2": [
+                2494
+            ], 
+            "BM1L": [
+                1868
+            ], 
+            "AM2F": [
+                3053
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "file transfer are fast , nearly a song per second via usb 2.0 ."
+    }, 
+    "367132e3bd707c6fcb4fcfefdd6d2de8": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            10
+        ], 
+        "(0, 10)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "M1": [
+                2494
+            ], 
+            "M2": [
+                2644
+            ], 
+            "WBO": [
+                335, 
+                2798, 
+                1967, 
+                765, 
+                1636, 
+                3203
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                394
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "second , the `` automatic `` sync on creative let you review the song before it begin its transfer ."
+    }
+}

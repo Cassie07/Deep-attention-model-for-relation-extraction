@@ -1,0 +1,43 @@
+{
+    "e9085eaf184831b80aff2166379e289a": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            6
+        ], 
+        "(3, 6)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2884
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1277
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the sound is excellent , but a tip : get a real pair of headphone ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "e30184599d5c95a24e9a14a132efb341": {
+        "(2, 3)": {
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                1978
+            ], 
+            "M1": [
+                1797
+            ], 
+            "M2": [
+                1895
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the only minor nit i have with the camera are it is fairly boxy looking , it need a wrist strap instead of a neck strap , and it is a bit slow between shot ."
+    }
+}

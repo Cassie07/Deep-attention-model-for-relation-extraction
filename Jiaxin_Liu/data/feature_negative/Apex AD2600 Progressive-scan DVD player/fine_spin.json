@@ -1,0 +1,49 @@
+{
+    "c6d4707ef2fab9972637895ce8590367": {
+        "(5, 19)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                966
+            ], 
+            "M1": [
+                1168
+            ], 
+            "M2": [
+                2680
+            ], 
+            "BM1L": [
+                1832
+            ], 
+            "WBO": [
+                2296, 
+                2266, 
+                1429, 
+                1328, 
+                130, 
+                2118, 
+                2139, 
+                2842, 
+                1328, 
+                1122
+            ], 
+            "WBL": [
+                890
+            ], 
+            "AM2F": [
+                1897
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "seems to read most dvds fine , and read quietly ( i had a pioneer player that had fairly loud disc spin noise ) ."
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "a54036bc903c3a1cd6a4d867969199de": {
+        "location1": [
+            8
+        ], 
+        "location2": [
+            7
+        ], 
+        "(8, 7)": {
+            "AM2L": [
+                251
+            ], 
+            "BM1F": [
+                1669
+            ], 
+            "M1": [
+                423
+            ], 
+            "M2": [
+                420
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the size is small ( just a little bit bigger than an i-pod . )"
+    }, 
+    "6a8f21acd626d0800eee6c1da079d11a": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            5
+        ], 
+        "(6, 5)": {
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1669
+            ], 
+            "M1": [
+                423
+            ], 
+            "M2": [
+                420
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it could be a little bit bigger , but it 's easy to get used to ."
+    }, 
+    "f041070426ec31a080e77c74f9f5ee0c": {
+        "(7, 16)": {
+            "WBF": [
+                2840
+            ], 
+            "BM1F": [
+                423
+            ], 
+            "M1": [
+                420
+            ], 
+            "M2": [
+                423
+            ], 
+            "BM1L": [
+                1669
+            ], 
+            "WBO": [
+                2844, 
+                1536, 
+                253, 
+                1545, 
+                3111
+            ], 
+            "WBL": [
+                1669
+            ], 
+            "AM2F": [
+                1829
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(7, 6)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1669
+            ], 
+            "M1": [
+                423
+            ], 
+            "M2": [
+                420
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            6, 
+            16
+        ], 
+        "sentence": "1 . the size is a little bit bigger than the ipod , and it weighs a little bit more ."
+    }
+}

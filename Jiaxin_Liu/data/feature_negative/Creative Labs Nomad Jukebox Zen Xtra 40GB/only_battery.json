@@ -1,0 +1,177 @@
+{
+    "df802df13330b60399ef8b6c4a7f1791": {
+        "(10, 0)": {
+            "WBF": [
+                2321
+            ], 
+            "AM2L": [
+                39
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                1978
+            ], 
+            "WBO": [
+                1541, 
+                251, 
+                346, 
+                2853, 
+                386, 
+                1545
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "battery recharge , is an awesome thing , because it recharges in only like 2-3 hour ."
+    }, 
+    "25da27d72af155af06e6c5874f503ef7": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            28
+        ], 
+        "(10, 28)": {
+            "WBF": [
+                103
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                1643
+            ], 
+            "WBO": [
+                113, 
+                1422, 
+                253, 
+                2842, 
+                1541, 
+                386, 
+                221, 
+                1856, 
+                1853, 
+                1541, 
+                68, 
+                1574, 
+                3129, 
+                917
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1643
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "once again , the sound is awesome , the batterly life is only 6-8 hour , and that is because all my music is 320 kbps which does affect the battery life ."
+    }, 
+    "700f48300fa8def127637b87e04b7e68": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            16
+        ], 
+        "(12, 16)": {
+            "WBF": [
+                1973
+            ], 
+            "AM2L": [
+                381
+            ], 
+            "BM1F": [
+                3094
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                2850
+            ], 
+            "WBO": [
+                3100
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                738
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it was easy enough to remove the front plate , and there was only one way the battery could be inserted ."
+    }, 
+    "3dbd647708d95a1f6f35a1c61bf4414e": {
+        "(2, 12)": {
+            "WBF": [
+                2606
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                1372, 
+                2840, 
+                2844, 
+                1536, 
+                253, 
+                1351
+            ], 
+            "WBL": [
+                1687
+            ], 
+            "AM2F": [
+                1643
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "it 's only slightly heavier than the ipod , and has a longer battery life ."
+    }
+}

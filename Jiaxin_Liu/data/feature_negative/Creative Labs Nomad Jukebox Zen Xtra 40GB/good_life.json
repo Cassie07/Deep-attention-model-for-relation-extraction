@@ -1,0 +1,125 @@
+{
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(8, 15)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                251
+            ], 
+            "BM1F": [
+                2853
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                1643
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                2260, 
+                1313, 
+                1143
+            ], 
+            "WBL": [
+                379
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "0cee0a56b66cdebe9d6e2c1f4c4a4f1d": {
+        "(4, 2)": {
+            "AM2L": [
+                3052
+            ], 
+            "WBFL": [
+                2500
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1643
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                2814
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the battery life seems good , takes very lttle time to charge , it uploads mp3s quickly and there is no delay between song ."
+    }, 
+    "b054d89158181f39fbacb882681b0a47": {
+        "(18, 3)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1643
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1313, 
+                1545, 
+                192, 
+                24, 
+                1422, 
+                1545, 
+                4, 
+                165, 
+                130, 
+                1669, 
+                1634
+            ], 
+            "WBL": [
+                2712
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "even the battery life is great - it advertises 14 hour , it 's actually a little less but still good ."
+    }
+}

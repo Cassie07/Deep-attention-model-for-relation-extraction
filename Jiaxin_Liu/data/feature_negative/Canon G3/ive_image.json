@@ -1,0 +1,138 @@
+{
+    "38c47be19193cb76675feafd049a684c": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            27
+        ], 
+        "(16, 27)": {
+            "WBF": [
+                1059
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                1551
+            ], 
+            "M2": [
+                1448
+            ], 
+            "BM1L": [
+                2302
+            ], 
+            "WBO": [
+                2501, 
+                2220, 
+                507, 
+                1162, 
+                253, 
+                2859, 
+                1541
+            ], 
+            "WBL": [
+                2290
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "without any tweaking at all , if the exposure is accurate , the color are as realistic as ive ever seen produced by film , and this is a raw image !"
+    }, 
+    "8cff8b3bb4b722f290108da2b2fcc548": {
+        "location1": [
+            35
+        ], 
+        "location2": [
+            11
+        ], 
+        "(35, 11)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                2501
+            ], 
+            "BM1F": [
+                2290
+            ], 
+            "M1": [
+                1448
+            ], 
+            "M2": [
+                1551
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                239, 
+                1279, 
+                1241, 
+                2859, 
+                1260, 
+                1468, 
+                688, 
+                3158, 
+                1856, 
+                2223, 
+                1188, 
+                2802, 
+                253, 
+                522, 
+                984, 
+                2259, 
+                3006, 
+                3158, 
+                2844, 
+                520
+            ], 
+            "WBL": [
+                386
+            ], 
+            "AM2F": [
+                1881
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i am stunned and amazed at the quality of the raw image i am getting from this g3 ( in conjunction with my professional flash system ) , and can easily put up with the camera limitation , because ive never seen anything better within its resolution limit ."
+    }, 
+    "ca42696d0e457f98f2255b29dfa3f6dc": {
+        "(10, 9)": {
+            "AM2L": [
+                2501
+            ], 
+            "BM1F": [
+                2105
+            ], 
+            "M1": [
+                1448
+            ], 
+            "M2": [
+                1551
+            ], 
+            "BM1L": [
+                1832
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1059
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "but at least youre starting with the most photorealistic image ive ever seen from a camera ."
+    }
+}

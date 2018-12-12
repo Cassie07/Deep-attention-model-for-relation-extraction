@@ -1,0 +1,31 @@
+{
+    "bc8cb26f2e111e60b22ac940195a192f": {
+        "(23, 25)": {
+            "WBFL": [
+                1865
+            ], 
+            "BM1F": [
+                2642
+            ], 
+            "M1": [
+                1196
+            ], 
+            "M2": [
+                3123
+            ], 
+            "BM1L": [
+                379
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "short warranty ( 3 month , so i got the extended warranty at best buy ) , occasional freeze up ( easily fixed by popping out battery ) , somewhat flimsy navigation wheel ."
+    }
+}

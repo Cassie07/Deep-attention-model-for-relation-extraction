@@ -1,0 +1,83 @@
+{
+    "e1ad1a34c613db2ca633d3d78e5f2be1": {
+        "(13, 10)": {
+            "WBF": [
+                1926
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                3151
+            ], 
+            "M2": [
+                419
+            ], 
+            "BM1L": [
+                1595
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                805
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the case is strong and stylish , but unfortunately lack a window ( now a big deal ) ."
+    }, 
+    "b6ad3734805d45028aacb33df91f1f38": {
+        "(17, 10)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                3151
+            ], 
+            "M2": [
+                419
+            ], 
+            "BM1L": [
+                1357
+            ], 
+            "WBO": [
+                2842, 
+                4, 
+                1915
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                805
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "people also have complained about the case not having a window , but that 's not really a big deal to me either -- the case is sturdy and offer very good protection ."
+    }
+}

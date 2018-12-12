@@ -1,0 +1,43 @@
+{
+    "41d67c7360f1eaff9b82be88ea00f3d7": {
+        "(13, 10)": {
+            "WBF": [
+                2570
+            ], 
+            "AM2L": [
+                1644
+            ], 
+            "BM1F": [
+                185
+            ], 
+            "M1": [
+                1996
+            ], 
+            "M2": [
+                273
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2212
+            ], 
+            "WBL": [
+                2212
+            ], 
+            "AM2F": [
+                2212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "i have yet to try using all of the adjustment option : shutter priority , aperature priority , light metering adjustment , etc . , but all control are well thought out and and the manual is relatively clear ."
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "5408e4563e95c36874dcaf6a786a5d7c": {
+        "(1, 6)": {
+            "WBF": [
+                2204
+            ], 
+            "BM1F": [
+                11
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1143
+            ], 
+            "WBO": [
+                1212
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "10 great price for all the feature ."
+    }, 
+    "be4e9a19d2b204275ec3196e89ef4502": {
+        "(3, 4)": {
+            "AM2L": [
+                3052
+            ], 
+            "BM1F": [
+                1737
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "it has many great feature and very few bad one ."
+    }
+}

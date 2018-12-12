@@ -1,0 +1,34 @@
+{
+    "d4954af171cda06cc040755bc979e934": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            1
+        ], 
+        "(2, 1)": {
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                340
+            ], 
+            "M2": [
+                1488
+            ], 
+            "AM2F": [
+                2564
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "on average , indoor shot with a flash are not quite as good as 35mm ."
+    }
+}

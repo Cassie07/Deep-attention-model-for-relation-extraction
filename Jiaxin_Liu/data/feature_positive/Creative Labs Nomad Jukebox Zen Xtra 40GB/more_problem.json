@@ -1,0 +1,71 @@
+{
+    "f0c0c8d21d612bb7b910accde1d355fe": {
+        "(15, 16)": {
+            "BM1F": [
+                264
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                392
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "now that i have all my music on it there has n't been any more problem ."
+    }, 
+    "9b424d6365bac0f4f17ad2c4236e8f08": {
+        "(10, 3)": {
+            "WBF": [
+                1723
+            ], 
+            "BM1F": [
+                367
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                2484
+            ], 
+            "WBO": [
+                2844, 
+                2822, 
+                1951
+            ], 
+            "WBL": [
+                2141
+            ], 
+            "AM2F": [
+                1245
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the scroll bar problem make the task of creating playlist more frustrating ."
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "38ea99941efb67acbdadb452537a05bc": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            6
+        ], 
+        "(14, 6)": {
+            "WBF": [
+                861
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1955
+            ], 
+            "M1": [
+                3072
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "WBO": [
+                1648, 
+                1856, 
+                2202, 
+                2097
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "unfortunately , the 6610 does not offer voice dialing like my previous phone , but the other feature it pack outweighs this shortcoming ."
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "9982cf025cf09cf43f1be57afa09155b": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            34
+        ], 
+        "(18, 34)": {
+            "WBF": [
+                3124
+            ], 
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                805
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                754
+            ], 
+            "BM1L": [
+                1313
+            ], 
+            "WBO": [
+                1429, 
+                2252, 
+                130, 
+                1848, 
+                1888, 
+                961, 
+                3045, 
+                642, 
+                2139, 
+                2886, 
+                1723, 
+                3006
+            ], 
+            "WBL": [
+                428
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all in all , trying to save some money on this player resulted in me shelling a great deal more when i purchased a much nicer dvd vcr combo player to make up for blazing crappiness of this very embarassing gift ."
+    }
+}

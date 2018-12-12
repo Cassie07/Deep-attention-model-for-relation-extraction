@@ -1,0 +1,45 @@
+{
+    "f33e57d6d1b0be40187d83879a82c9ea": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            9
+        ], 
+        "(2, 9)": {
+            "WBF": [
+                531
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                62
+            ], 
+            "WBO": [
+                253, 
+                1158, 
+                2631
+            ], 
+            "WBL": [
+                1212
+            ], 
+            "AM2F": [
+                531
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "3 . the remote capture and fileviewer software bundled for photo capture is mind-blowing ."
+    }
+}

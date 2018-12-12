@@ -1,0 +1,67 @@
+{
+    "fe401e4c7ad5871abaee9660a3bbdd76": {
+        "(33, 34)": {
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            33
+        ], 
+        "location2": [
+            22, 
+            34
+        ], 
+        "(33, 22)": {
+            "WBF": [
+                1397
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                1882
+            ], 
+            "BM1L": [
+                2380
+            ], 
+            "WBO": [
+                1382, 
+                507, 
+                1984, 
+                2844, 
+                1642, 
+                253, 
+                2162
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                379
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "possibly the biggest advantage this player has ( if price was n't enough ) is the fact that the user can replace the battery him / herself by opening the lid and popping in the new battery ."
+    }
+}

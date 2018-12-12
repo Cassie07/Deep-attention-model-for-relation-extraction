@@ -1,0 +1,90 @@
+{
+    "851613aef4dc3542de9dbdae5f08f0c4": {
+        "location1": [
+            37
+        ], 
+        "location2": [
+            20
+        ], 
+        "(37, 20)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3100
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2726, 
+                1156, 
+                1896, 
+                1208, 
+                2738, 
+                253, 
+                1545, 
+                4, 
+                372, 
+                1967, 
+                2844, 
+                2885, 
+                1951
+            ], 
+            "WBL": [
+                2644
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the con are n't really a big deal to me ... except one con that does annoy me is the way it store file ... no folder structure ... and it 's based on the title of the song ... many of my song where seperated into folder ( on the pc ) ... and a few had same title ... so i had to change the title to make sure that i did n't have any that might be the same as another ."
+    }, 
+    "df460eaf582c2debf712f5605d908023": {
+        "(53, 54)": {
+            "AM2L": [
+                1245
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                3100
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1043
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            53
+        ], 
+        "location2": [
+            54
+        ], 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }
+}

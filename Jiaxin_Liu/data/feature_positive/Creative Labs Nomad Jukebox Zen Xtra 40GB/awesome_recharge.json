@@ -1,0 +1,40 @@
+{
+    "df802df13330b60399ef8b6c4a7f1791": {
+        "(4, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                386
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                2321
+            ], 
+            "M2": [
+                346
+            ], 
+            "WBO": [
+                251
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                2853
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "battery recharge , is an awesome thing , because it recharges in only like 2-3 hour ."
+    }
+}

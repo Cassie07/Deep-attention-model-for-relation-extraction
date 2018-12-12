@@ -1,0 +1,253 @@
+{
+    "304f55c4c30167a6dd8bf365c2f321c6": {
+        "(27, 2)": {
+            "WBF": [
+                2136
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "BM1F": [
+                961
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2229
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                2290, 
+                1847, 
+                253, 
+                1846, 
+                3057, 
+                1563, 
+                3162, 
+                558, 
+                559, 
+                964, 
+                965, 
+                253, 
+                1951, 
+                745, 
+                2136, 
+                961, 
+                1839, 
+                1241, 
+                2960, 
+                1429, 
+                1701
+            ], 
+            "WBL": [
+                210
+            ], 
+            "AM2F": [
+                2472
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "this dvd player play raw mpeg2 and mpeg1 video , jpeg , wma , cdr / cdrw / dvdr / dvdrw , and of course play dvd movie from uk . i love the aiff , progressive scan feature ."
+    }, 
+    "ef8c9c3238c0997f0a50179e0167afa6": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            18
+        ], 
+        "(15, 18)": {
+            "WBF": [
+                2472
+            ], 
+            "AM2L": [
+                1393
+            ], 
+            "BM1F": [
+                260
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1279
+            ], 
+            "WBO": [
+                961
+            ], 
+            "WBL": [
+                961
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "only owned it about two week so i expect we 're looking at getting another progressive scan dvd player of higher quality very soon ."
+    }, 
+    "559deec06532af818dc647a493e9e9dc": {
+        "(22, 2)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                2472
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                2229
+            ], 
+            "BM1L": [
+                2229
+            ], 
+            "WBO": [
+                130, 
+                2355, 
+                1703, 
+                2204, 
+                237, 
+                2844, 
+                415, 
+                1591, 
+                1734, 
+                1648, 
+                2902, 
+                2118, 
+                253, 
+                2054, 
+                295, 
+                1926
+            ], 
+            "WBL": [
+                1706
+            ], 
+            "AM2F": [
+                2472
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "progressive scan player for a relatively low price ( although the better known manufacturer like toshiba , pioneer , and panasonic are now offering lower-priced progressive scan player as well ) .", 
+        "location2": [
+            2, 
+            24
+        ], 
+        "location1": [
+            0, 
+            22
+        ], 
+        "(22, 24)": {
+            "AM2L": [
+                3115
+            ], 
+            "WBFL": [
+                2472
+            ], 
+            "BM1F": [
+                1706
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1957
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(0, 24)": {
+            "WBF": [
+                2472
+            ], 
+            "AM2L": [
+                3115
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                2139
+            ], 
+            "WBO": [
+                2139, 
+                1212, 
+                130, 
+                2355, 
+                1703, 
+                2204, 
+                237, 
+                2844, 
+                415, 
+                1591, 
+                1734, 
+                1648, 
+                2902, 
+                2118, 
+                253, 
+                2054, 
+                295, 
+                1926, 
+                1957, 
+                1706
+            ], 
+            "WBL": [
+                2472
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(0, 2)": {
+            "AM2L": [
+                130
+            ], 
+            "WBFL": [
+                2472
+            ], 
+            "M1": [
+                2229
+            ], 
+            "M2": [
+                2139
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }
+}

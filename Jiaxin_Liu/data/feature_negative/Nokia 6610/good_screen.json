@@ -1,0 +1,92 @@
+{
+    "83edcf9dbb7d04798873f0f20de79e03": {
+        "(3, 1)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                635
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M1_ADJ": [
+                0
+            ], 
+            "M2": [
+                1300
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "color screen is good ."
+    }, 
+    "2444c9bfc1b6cb142560eb1ebb714654": {
+        "(14, 16)": {
+            "WBFL": [
+                2844
+            ], 
+            "BM1F": [
+                1424
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2479
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "when i turned the phone on , the first thing that hit me is how good the screen is ."
+    }, 
+    "29ed127ae5b09fb6a770cea2c209ccf6": {
+        "(9, 7)": {
+            "WBFL": [
+                1351
+            ], 
+            "BM1F": [
+                635
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                2399
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the design is sleek and the color screen has good resolution ."
+    }
+}

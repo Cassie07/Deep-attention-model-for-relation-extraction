@@ -1,0 +1,46 @@
+{
+    "d03f98646be6254d949650bd4e9d9ba9": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            9
+        ], 
+        "(17, 9)": {
+            "WBF": [
+                2980
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                522
+            ], 
+            "M1": [
+                2701
+            ], 
+            "M2": [
+                1426
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                2842, 
+                2859, 
+                1893, 
+                824
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                365
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "after using it for about a month , i can state unequivocably that this nikon definitely delivers a huge bang for the buck ."
+    }
+}

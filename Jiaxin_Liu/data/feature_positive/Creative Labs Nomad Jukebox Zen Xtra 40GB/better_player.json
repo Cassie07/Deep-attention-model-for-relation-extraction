@@ -1,0 +1,138 @@
+{
+    "c88fd1bd55cbc6db568d9d4bfcf9d80b": {
+        "(9, 10)": {
+            "AM2L": [
+                3151
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "not only is it more affordable , but its a better player for window , which is what i have ."
+    }, 
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "(33, 9)": {
+            "WBF": [
+                442
+            ], 
+            "AM2L": [
+                1536
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                1931
+            ], 
+            "WBO": [
+                130, 
+                808, 
+                2595, 
+                253, 
+                3112, 
+                130, 
+                2356, 
+                1866, 
+                2802, 
+                2842, 
+                547, 
+                372, 
+                1967, 
+                1435, 
+                2810, 
+                253, 
+                1072, 
+                2654, 
+                3142, 
+                1591
+            ], 
+            "WBL": [
+                381
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            33
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "5d8a1adbeeaf90d9f03da0b3810f9ee5": {
+        "(6, 10)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1648
+            ], 
+            "BM1F": [
+                381
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                5
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                1842
+            ], 
+            "AM2F": [
+                3168
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the software could n't be better and the mp3 player work like a dream , i could n't give this anything but a 5 , i wish there was a 6 ."
+    }
+}

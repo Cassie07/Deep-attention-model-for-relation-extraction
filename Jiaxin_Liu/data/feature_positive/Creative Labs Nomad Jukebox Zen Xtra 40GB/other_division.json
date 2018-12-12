@@ -1,0 +1,31 @@
+{
+    "371fcb1667fb81be4f3ab2087f44f90e": {
+        "(21, 22)": {
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                910
+            ], 
+            "BM1L": [
+                1276
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "you even can not navigate by genre / artist / album since under genre you get just all track in that genre , no other division ."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "499db2ac0845c79245f70ba7c8bc100b": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            10
+        ], 
+        "(0, 10)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                966
+            ], 
+            "M1": [
+                1179
+            ], 
+            "M2": [
+                1774
+            ], 
+            "WBO": [
+                2139, 
+                863, 
+                1915, 
+                223, 
+                1752, 
+                2886
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "first , the player did not allow me to access the menus of dvds ."
+    }
+}

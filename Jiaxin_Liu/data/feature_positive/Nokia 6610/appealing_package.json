@@ -1,0 +1,31 @@
+{
+    "947e4a7f76574c8d9e61e6f0a4bf403d": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                281
+            ], 
+            "M2": [
+                2044
+            ], 
+            "BM1L": [
+                2615
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it is a perfect phone in such a small and appealing package ."
+    }
+}

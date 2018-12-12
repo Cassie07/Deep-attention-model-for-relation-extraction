@@ -1,0 +1,37 @@
+{
+    "58e7e474b8ea3dcf3293853aae627fc1": {
+        "(12, 13)": {
+            "AM2L": [
+                1048
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                384
+            ], 
+            "M2": [
+                2479
+            ], 
+            "BM1L": [
+                1143
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "this really is a great little phone ; its got nice feature , a beatiful screen , great ergonomics , and its tiny !"
+    }
+}

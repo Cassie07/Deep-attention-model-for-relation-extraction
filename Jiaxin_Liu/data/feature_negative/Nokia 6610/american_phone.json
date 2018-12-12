@@ -1,0 +1,63 @@
+{
+    "44319df7de849e736c4e09bf62fef41e": {
+        "(17, 10)": {
+            "WBF": [
+                3145
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                247
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                1915, 
+                464, 
+                984
+            ], 
+            "WBL": [
+                2955
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(17, 18)": {
+            "BM1F": [
+                2955
+            ], 
+            "M1": [
+                247
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1648
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            10, 
+            18
+        ], 
+        "sentence": "this mean that there is a good chance that this phone will not break easily like typical american phone ."
+    }
+}

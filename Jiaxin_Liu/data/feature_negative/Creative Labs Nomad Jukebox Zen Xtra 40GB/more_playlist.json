@@ -1,0 +1,84 @@
+{
+    "9b424d6365bac0f4f17ad2c4236e8f08": {
+        "(10, 9)": {
+            "BM1F": [
+                763
+            ], 
+            "M1": [
+                2141
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1245
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "the scroll bar problem make the task of creating playlist more frustrating ."
+    }, 
+    "00b26e308a4b8730247f6846646d008a": {
+        "(2, 16)": {
+            "WBF": [
+                871
+            ], 
+            "AM2L": [
+                2760
+            ], 
+            "BM1F": [
+                1134
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                2141
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "WBO": [
+                2886, 
+                2502, 
+                2644, 
+                253, 
+                1351, 
+                1896, 
+                985, 
+                2886, 
+                3018, 
+                1967
+            ], 
+            "WBL": [
+                1199
+            ], 
+            "AM2F": [
+                764
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "its far more difficult to select song and has no easy to use on the fly playlist creation such as the new ipod not to mention it does n't sinc with contact list , phone number , address book , ect . like the ipod ( which eliminated my need for any kind of palm device ) ."
+    }
+}

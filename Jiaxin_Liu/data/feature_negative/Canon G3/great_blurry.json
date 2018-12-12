@@ -1,0 +1,53 @@
+{
+    "96a3c89de3083b68a7e7476e1f55d023": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            25
+        ], 
+        "(4, 25)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                3168
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                440
+            ], 
+            "BM1L": [
+                3213
+            ], 
+            "WBO": [
+                2844, 
+                25, 
+                875, 
+                3213, 
+                1541, 
+                130, 
+                3052, 
+                1886, 
+                176, 
+                237, 
+                2112, 
+                316, 
+                2844, 
+                1394, 
+                875, 
+                3213, 
+                295
+            ], 
+            "WBL": [
+                1669
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the optical zoom work great and the 14x digital zoom is a very nice addition although picture at the highest digital zoom are a little blurry ."
+    }
+}

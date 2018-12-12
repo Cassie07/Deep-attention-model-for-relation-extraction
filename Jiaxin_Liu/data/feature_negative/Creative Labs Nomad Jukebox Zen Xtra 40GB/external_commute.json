@@ -1,0 +1,40 @@
+{
+    "68dfe1e6439e1d2fafdd1dcf2ce1d498": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            12
+        ], 
+        "(16, 12)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                652
+            ], 
+            "M2": [
+                1099
+            ], 
+            "BM1L": [
+                2461
+            ], 
+            "WBO": [
+                2571
+            ], 
+            "WBL": [
+                2016
+            ], 
+            "AM2F": [
+                1897
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the sound is great , and the volume is more than satisfactory for commute and shutting out external noise ."
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "5a9e2c56b3e4e5359842e5b8ef87d675": {
+        "(4, 10)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                501
+            ], 
+            "M1": [
+                1076
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                1191
+            ], 
+            "WBO": [
+                2260, 
+                1360
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                1723
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "lot of flaw , but exceptional sound quality , hd size , and price make it a good buy ."
+    }
+}

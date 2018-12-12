@@ -1,0 +1,43 @@
+{
+    "d4aea072a4d82c259b1c6322dc4b650a": {
+        "(17, 12)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2529
+            ], 
+            "BM1F": [
+                502
+            ], 
+            "M1": [
+                1614
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2055
+            ], 
+            "WBO": [
+                1545
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "it 's very sleek looking with a very good front panel button layout , and it has a great feature set ."
+    }
+}

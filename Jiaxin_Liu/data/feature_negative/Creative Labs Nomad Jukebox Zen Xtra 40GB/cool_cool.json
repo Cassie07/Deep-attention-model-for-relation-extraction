@@ -1,0 +1,334 @@
+{
+    "26afbb728550c0df1149e771bc94d54b": {
+        "(15, 15)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1689
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2479
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }, 
+    "381e0bc5add64324e7dea05c1857140f": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            3
+        ], 
+        "(3, 3)": {
+            "AM2L": [
+                2500
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                1689
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it look very cool , and seems quite small to me and very light ."
+    }, 
+    "74c4c6668d03af5e9d849d423a5b8aea": {
+        "(12, 12)": {
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                3129
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "you can also slow a song down & speed it up , which is cool too ."
+    }, 
+    "1815e3af4f811c08b874fb48013a9edc": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                3115
+            ], 
+            "BM1F": [
+                2199
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the eax feature are pretty cool , as well , as creative has included a number of eq adjustment that , for example , compensate for the extraneous noise encountered in a car or on a train ."
+    }, 
+    "0c26d5dab827714b016b99e34bf679be": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            2
+        ], 
+        "(2, 2)": {
+            "BM1F": [
+                2304
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "its really cool ."
+    }, 
+    "ec0fd99b6bcbfe936b9599e58eacb322": {
+        "(6, 6)": {
+            "AM2L": [
+                3139
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2479
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "2 ) no game - it has a cool screen - why not use it ."
+    }, 
+    "67bd9ef657ec9fe0e24675e255e6ee0d": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            7
+        ], 
+        "(7, 7)": {
+            "AM2L": [
+                2587
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1973
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "headphone suck , i would invest in some cool one since it has the eax feature ."
+    }, 
+    "b103dd660ac27c42f2bf467a8b3e0878": {
+        "(4, 4)": {
+            "BM1F": [
+                1103
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1289
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "it is an extremely cool gizmo ."
+    }, 
+    "4fec9c067b66f205e88ef11ec78e607e": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            5
+        ], 
+        "(5, 5)": {
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                2199
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                1691
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "this thing , while looking pretty cool , is not as sexy as the ipod ."
+    }, 
+    "fcc6060d8953928ffecfa28e3e7a7871": {
+        "(15, 15)": {
+            "BM1F": [
+                1862
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "the screen is large , defined , and easy to read , and the silver unit is naturally cool ."
+    }
+}

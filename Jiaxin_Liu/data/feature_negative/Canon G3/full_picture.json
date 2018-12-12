@@ -1,0 +1,86 @@
+{
+    "fd4b6a0cabf9bc153ad62af16b426e57": {
+        "(4, 11)": {
+            "WBF": [
+                329
+            ], 
+            "AM2L": [
+                2016
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1248
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1165
+            ], 
+            "WBO": [
+                2530, 
+                3145, 
+                1285
+            ], 
+            "WBL": [
+                2083
+            ], 
+            "AM2F": [
+                2426
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "newbie will find the full auto setting will give them perfect picture right out of the box ."
+    }, 
+    "4f4ce92984a186b080eef02938290fa5": {
+        "(24, 29)": {
+            "WBF": [
+                1731
+            ], 
+            "AM2L": [
+                2905
+            ], 
+            "BM1F": [
+                232
+            ], 
+            "M1": [
+                1248
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                715
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            29
+        ], 
+        "sentence": "just a little overview , powershot g3 is the flagship of canon 's powershot series and its an slr-like camera , its 4 megapixel and ( alsmost ) full manual control gives the picture a touch of brilliance ."
+    }
+}

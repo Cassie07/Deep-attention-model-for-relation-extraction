@@ -1,0 +1,129 @@
+{
+    "41a7310667e145525710b6cac52c2c41": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            4
+        ], 
+        "(2, 4)": {
+            "AM2L": [
+                2083
+            ], 
+            "WBFL": [
+                3213
+            ], 
+            "BM1F": [
+                1394
+            ], 
+            "M1": [
+                1994
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the highest optical zoom picture are perfect ."
+    }, 
+    "96a3c89de3083b68a7e7476e1f55d023": {
+        "(1, 16)": {
+            "WBF": [
+                3213
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1994
+            ], 
+            "M2": [
+                2112
+            ], 
+            "WBO": [
+                3168, 
+                1313, 
+                253, 
+                2844, 
+                25, 
+                875, 
+                3213, 
+                1541, 
+                130, 
+                3052, 
+                1886
+            ], 
+            "WBL": [
+                237
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the optical zoom work great and the 14x digital zoom is a very nice addition although picture at the highest digital zoom are a little blurry ."
+    }, 
+    "a7d8e305d570d95f2e66cc869353dc9a": {
+        "(16, 8)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                1278
+            ], 
+            "BM1F": [
+                415
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1994
+            ], 
+            "BM1L": [
+                1287
+            ], 
+            "WBO": [
+                1468, 
+                1703, 
+                1644, 
+                253
+            ], 
+            "WBL": [
+                81
+            ], 
+            "AM2F": [
+                3213
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the larger lens of the g3 gives better picture quality in low light , and the 4-times optical zoom gets you just that much closer ."
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "22acb9431eff5025a15adbaf9c736917": {
+        "(2, 25)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                2847
+            ], 
+            "BM1F": [
+                653
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1541, 
+                1051, 
+                3021, 
+                1441, 
+                3203, 
+                1355, 
+                1669, 
+                592, 
+                298, 
+                253, 
+                3203, 
+                522, 
+                238, 
+                2812, 
+                2844, 
+                520, 
+                3158, 
+                3203, 
+                253
+            ], 
+            "WBL": [
+                1737
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "the compact digital camera is especially useful if you have little child around and you can always take the camera with you and take many picture of them ."
+    }, 
+    "fc9c733c80eb0e7cc04d22457ba2ed86": {
+        "(30, 24)": {
+            "WBF": [
+                1351
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                392, 
+                2813
+            ], 
+            "WBL": [
+                130
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            30
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "even at the `` normal `` setting , a 8x10 print ! show not a single sign of visible rendering or pixel - you could never tell that the picture has been taken by a `` digital `` ."
+    }, 
+    "164dda298348d815567dec7d16e56e32": {
+        "(47, 53)": {
+            "WBF": [
+                520
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                2842, 
+                3203
+            ], 
+            "WBL": [
+                2496
+            ], 
+            "AM2F": [
+                1454
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            47
+        ], 
+        "location2": [
+            21, 
+            53
+        ], 
+        "(47, 21)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                1072, 
+                3158, 
+                76, 
+                2125, 
+                1168, 
+                642, 
+                253, 
+                1737, 
+                1951, 
+                2844, 
+                3024, 
+                1252, 
+                295, 
+                3052, 
+                2582, 
+                2886, 
+                2613, 
+                1815, 
+                253, 
+                3158, 
+                174, 
+                717
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that quality of the picture are excellent with 3m-4m pixel / fine combo and many of the user-friendly function are very similar to slr model , and with added convenience of a digital camera that you can see picture immediately ."
+    }, 
+    "6c8553c3c50ea94e8903ac7ad2b1d889": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            7
+        ], 
+        "(1, 7)": {
+            "WBF": [
+                3213
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                2112
+            ], 
+            "WBO": [
+                2814, 
+                304
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the digital zoom takes as good of picture , as the optical zoom does !"
+    }, 
+    "4283cf0438864dd7aa4566ca679cc53b": {
+        "(11, 16)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                917
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2842
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                3200
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "i highly recommend this camera to anyone looking for a good digital camera that takes great picture yet does n't take week to figure out how to operate ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "c9d0d998766ff632aa6c28c85f4926f0": {
+        "(4, 5)": {
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                1122
+            ], 
+            "M1": [
+                808
+            ], 
+            "M2": [
+                2319
+            ], 
+            "BM1L": [
+                2315
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this radio receives fairly decent reception but not nearly as good as a normal radio , but as long as the station are coming in clearly the phone 's radio should work perfectly ."
+    }
+}

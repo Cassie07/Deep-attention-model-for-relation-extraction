@@ -1,0 +1,52 @@
+{
+    "16ac12ea22acb0865fbe839e4b386158": {
+        "(1, 18)": {
+            "WBF": [
+                746
+            ], 
+            "AM2L": [
+                1147
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1242
+            ], 
+            "M2": [
+                858
+            ], 
+            "WBO": [
+                3129, 
+                3203, 
+                2369, 
+                2886, 
+                2812, 
+                2016, 
+                2844, 
+                379, 
+                1147, 
+                1196, 
+                501, 
+                3124, 
+                2622
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2712
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "the front cover ( which you remove to take out the battery ) feel flimsy but when snapped on , the device still feel pretty solid ."
+    }
+}

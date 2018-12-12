@@ -1,0 +1,334 @@
+{
+    "2264f719eb82749d362e807f6f91259d": {
+        "(35, 36)": {
+            "AM2L": [
+                381
+            ], 
+            "BM1F": [
+                260
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                943
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            36
+        ], 
+        "sentence": "4 .the zen * store * data file , but does not allow a folder structure nor does it allow document to be opened or program to be launched from its disk ( they must be copied to another hard drive to be launched ) ."
+    }, 
+    "f8e21ab1b8a57bce5633ca8027b19bb4": {
+        "(29, 30)": {
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                943
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1513
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "the zen is an outstanding way to shuttle music between source , you can 't do this on the ipod ( except for a cumbersome work-around using the ipod as a hard drive instead of a player ) ."
+    }, 
+    "916cadfa5f20c518f90bad93eb6b8f19": {
+        "(2, 3)": {
+            "AM2L": [
+                1118
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                943
+            ], 
+            "BM1L": [
+                1425
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                863
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "however , my hard drive did fail , and i have not dropped it once ."
+    }, 
+    "1d1779b5fd4631148758949a356271bc": {
+        "(8, 9)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                943
+            ], 
+            "BM1L": [
+                1648
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3124
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "3 ) it does not work automatically like a hard drive when you connect it to your computer , like some player"
+    }, 
+    "0e57ee572cc132a512fea07060c57adf": {
+        "(12, 13)": {
+            "BM1F": [
+                164
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                943
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the player feel very delicate , as if i 'm holding an actual hard drive ."
+    }, 
+    "df460eaf582c2debf712f5605d908023": {
+        "(17, 18)": {
+            "AM2L": [
+                1973
+            ], 
+            "BM1F": [
+                2166
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                943
+            ], 
+            "BM1L": [
+                84
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                215
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }, 
+    "0c4de298f25d33f98c423488a7bd4745": {
+        "(13, 14)": {
+            "AM2L": [
+                3209
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                943
+            ], 
+            "BM1L": [
+                801
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "always carried it in a case in by briefcase but one day the hard drive just zapped ."
+    }, 
+    "c2ead43cc4af6f210ad3be6a5066613c": {
+        "(4, 5)": {
+            "AM2L": [
+                867
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                943
+            ], 
+            "BM1L": [
+                1815
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "in that model the hard drive just died one morning before my class ."
+    }, 
+    "bc08e98f66ff8b5d49eb77ff1cb0452f": {
+        "(12, 13)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                943
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "i am annoyed that the player 's not automatically recognized as a hard drive ."
+    }, 
+    "aa3b4b93145f716321721fa859b6e463": {
+        "(31, 32)": {
+            "BM1F": [
+                2073
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                943
+            ], 
+            "BM1L": [
+                3204
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            31
+        ], 
+        "location2": [
+            32
+        ], 
+        "sentence": "the cd ripping to mp3 is so easy , and you can even rip the cd directly to the mp3 player , so it wo n't take up space on your pc hard drive ."
+    }
+}

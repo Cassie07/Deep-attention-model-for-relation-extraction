@@ -1,0 +1,37 @@
+{
+    "311ef14e9030cb4c54bc34ae0487a489": {
+        "(4, 5)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                414
+            ], 
+            "BM1L": [
+                2214
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1441
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this is probably your best bet if you are looking for a phone in this price range , or like me , do not have the patience to deal with annoying flip phone ."
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "c59926d4de7d0d8aab8db084c3141f7d": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            12
+        ], 
+        "(1, 12)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                2761
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                746
+            ], 
+            "WBO": [
+                1429, 
+                912, 
+                1859, 
+                5, 
+                1648, 
+                134, 
+                2859
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                917
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the only thing i do n't like about this is the cover does suck ."
+    }
+}

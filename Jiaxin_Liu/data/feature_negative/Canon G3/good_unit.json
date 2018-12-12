@@ -1,0 +1,47 @@
+{
+    "ef9668457ba8f4611b4fb06633bff330": {
+        "(12, 3)": {
+            "WBF": [
+                1147
+            ], 
+            "AM2L": [
+                362
+            ], 
+            "BM1F": [
+                1632
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                3213
+            ], 
+            "WBO": [
+                1228, 
+                253, 
+                1545, 
+                1541, 
+                3178
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the zoom lens unit feel fragile and it is worth buying a good camera bag if you are going put to carry it round a lot ."
+    }
+}

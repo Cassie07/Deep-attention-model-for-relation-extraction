@@ -1,0 +1,123 @@
+{
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "(25, 3)": {
+            "WBF": [
+                3124
+            ], 
+            "AM2L": [
+                1377
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                2221
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1702
+            ], 
+            "WBO": [
+                1429, 
+                1179, 
+                1302, 
+                1545, 
+                1313, 
+                2654, 
+                985, 
+                2886, 
+                3018, 
+                1055, 
+                2862, 
+                1429, 
+                206, 
+                2842, 
+                2844, 
+                2631, 
+                3094, 
+                1859
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            25
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }, 
+    "df460eaf582c2debf712f5605d908023": {
+        "(13, 40)": {
+            "WBF": [
+                130
+            ], 
+            "AM2L": [
+                201
+            ], 
+            "BM1F": [
+                316
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                381
+            ], 
+            "WBO": [
+                84, 
+                2166, 
+                1343, 
+                943, 
+                215, 
+                1973, 
+                1967, 
+                3129, 
+                1429, 
+                522, 
+                5, 
+                760, 
+                1208, 
+                1998, 
+                316, 
+                3177, 
+                130, 
+                3052, 
+                1085, 
+                1635, 
+                1468, 
+                655, 
+                1881
+            ], 
+            "WBL": [
+                503
+            ], 
+            "AM2F": [
+                1241
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            40
+        ], 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }
+}

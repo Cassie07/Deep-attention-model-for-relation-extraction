@@ -1,0 +1,31 @@
+{
+    "b6ad3734805d45028aacb33df91f1f38": {
+        "(29, 30)": {
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2238
+            ], 
+            "BM1L": [
+                1955
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "people also have complained about the case not having a window , but that 's not really a big deal to me either -- the case is sturdy and offer very good protection ."
+    }
+}

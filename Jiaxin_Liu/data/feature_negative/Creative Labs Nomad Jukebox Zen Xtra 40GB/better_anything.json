@@ -1,0 +1,96 @@
+{
+    "4571ab0de8e8a459a17e954063b78c9d": {
+        "(3, 10)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                3210
+            ], 
+            "BM1F": [
+                381
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                267
+            ], 
+            "BM1L": [
+                738
+            ], 
+            "WBO": [
+                2850, 
+                1541, 
+                1859
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "navigation could be better , but there is n't really anything the zen xtra can 't do once you 've gotten comfortable with it ."
+    }, 
+    "5d8a1adbeeaf90d9f03da0b3810f9ee5": {
+        "(6, 21)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                381
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                267
+            ], 
+            "BM1L": [
+                5
+            ], 
+            "WBO": [
+                2844, 
+                1842, 
+                2139, 
+                3168, 
+                1648, 
+                130, 
+                942, 
+                1429, 
+                738, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "the software could n't be better and the mp3 player work like a dream , i could n't give this anything but a 5 , i wish there was a 6 ."
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "6bc32f701b31d3e1398b32992b827143": {
+        "(22, 2)": {
+            "WBF": [
+                237
+            ], 
+            "AM2L": [
+                2527
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1758
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                113
+            ], 
+            "WBO": [
+                1915, 
+                304, 
+                2600, 
+                1691, 
+                304, 
+                3151, 
+                1757, 
+                1541, 
+                992, 
+                1468, 
+                2007, 
+                3204, 
+                633, 
+                253, 
+                1541, 
+                1657
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                556
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "8 ) creative mediasource , although not as sleek looking as window mediaplayer , is effective in organizing your collection and is linked to a good cddb service ( gracenotes ) ."
+    }
+}

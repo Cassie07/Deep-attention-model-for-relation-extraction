@@ -1,0 +1,34 @@
+{
+    "a892ae4eda5b2b52e80f56aebc1e502c": {
+        "(9, 10)": {
+            "BM1F": [
+                2313
+            ], 
+            "M1": [
+                1248
+            ], 
+            "M2": [
+                367
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2319
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "anywhere i went in south africa this phone received full bar reception ."
+    }
+}

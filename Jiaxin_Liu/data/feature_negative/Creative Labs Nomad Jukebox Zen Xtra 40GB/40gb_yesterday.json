@@ -1,0 +1,43 @@
+{
+    "ff59c7cf73f04bfbe21c7256237ad99c": {
+        "(4, 7)": {
+            "WBF": [
+                3210
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                84
+            ], 
+            "M2": [
+                3199
+            ], 
+            "BM1L": [
+                2313
+            ], 
+            "WBO": [
+                3194
+            ], 
+            "WBL": [
+                3194
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i just received my 40gb zen xtra yesterday and i 'm extremely pleased with it ."
+    }
+}

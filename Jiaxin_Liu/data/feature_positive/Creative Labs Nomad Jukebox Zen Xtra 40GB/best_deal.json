@@ -1,0 +1,37 @@
+{
+    "03570c7476d0ceac93f46ac37f238d57": {
+        "(12, 13)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                805
+            ], 
+            "BM1L": [
+                3094
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "i chose this one because from what i read , it was the best deal for the money ."
+    }
+}

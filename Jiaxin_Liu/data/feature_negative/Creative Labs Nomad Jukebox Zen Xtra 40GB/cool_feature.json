@@ -1,0 +1,80 @@
+{
+    "67bd9ef657ec9fe0e24675e255e6ee0d": {
+        "(7, 14)": {
+            "WBF": [
+                1973
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                2587, 
+                1545, 
+                1351
+            ], 
+            "WBL": [
+                988
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "headphone suck , i would invest in some cool one since it has the eax feature ."
+    }, 
+    "1815e3af4f811c08b874fb48013a9edc": {
+        "(5, 2)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                3115
+            ], 
+            "BM1F": [
+                988
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2199
+            ], 
+            "WBL": [
+                2199
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the eax feature are pretty cool , as well , as creative has included a number of eq adjustment that , for example , compensate for the extraneous noise encountered in a car or on a train ."
+    }
+}

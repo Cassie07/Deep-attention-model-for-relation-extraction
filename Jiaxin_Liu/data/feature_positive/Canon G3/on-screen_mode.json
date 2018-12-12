@@ -1,0 +1,43 @@
+{
+    "744bdb63eb27c487cfb368662c9dcc70": {
+        "(22, 25)": {
+            "WBF": [
+                1731
+            ], 
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1970
+            ], 
+            "M2": [
+                1814
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                1203
+            ], 
+            "WBL": [
+                1203
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "you can move the focus range to almost anywhere in the scene with the push of a button , and it has an on-screen manual focus mode that would be really helpful if shooting a scene that is tough to automatically focus ."
+    }
+}

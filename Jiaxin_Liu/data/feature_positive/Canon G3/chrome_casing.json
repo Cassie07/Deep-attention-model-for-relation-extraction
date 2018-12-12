@@ -1,0 +1,31 @@
+{
+    "5e8d37c7fc800e394540cc47e42d3496": {
+        "(29, 30)": {
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                599
+            ], 
+            "M2": [
+                543
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            30
+        ], 
+        "sentence": "it gives great picture , the control are easy to use , the battery last forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing ."
+    }
+}

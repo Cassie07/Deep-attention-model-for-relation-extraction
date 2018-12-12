@@ -1,0 +1,45 @@
+{
+    "4669d00c8621e9a0281e783c77782dd4": {
+        "(14, 7)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                2202
+            ], 
+            "M1": [
+                1815
+            ], 
+            "M2": [
+                436
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1931, 
+                253, 
+                1351
+            ], 
+            "WBL": [
+                469
+            ], 
+            "AM2F": [
+                358
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the lcd is larger than the previous model , the nx , and has a bright blue backlight which illuminates the screen more successfully than the nx 's green backlight did ."
+    }
+}

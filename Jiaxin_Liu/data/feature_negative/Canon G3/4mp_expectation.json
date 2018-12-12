@@ -1,0 +1,40 @@
+{
+    "315c1b71c3150d8e7f65cc42175f4817": {
+        "(7, 4)": {
+            "WBF": [
+                1468
+            ], 
+            "BM1F": [
+                1315
+            ], 
+            "M1": [
+                1082
+            ], 
+            "M2": [
+                90
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "it surpasses my greatest expectation in a 4mp camera .."
+    }
+}

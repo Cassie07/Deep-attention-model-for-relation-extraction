@@ -1,0 +1,43 @@
+{
+    "33f231b9745e1d5d1ef2a29379d0825d": {
+        "(11, 22)": {
+            "WBF": [
+                216
+            ], 
+            "BM1F": [
+                1355
+            ], 
+            "M1": [
+                1670
+            ], 
+            "M2": [
+                1246
+            ], 
+            "BM1L": [
+                3203
+            ], 
+            "WBO": [
+                1998, 
+                1315, 
+                1401, 
+                216, 
+                2859, 
+                3145, 
+                549
+            ], 
+            "WBL": [
+                1498
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "-- > will not automatically transfer song with identical title ( if you have live album or greatest hit album , this will cause you inordinate frustration ) ."
+    }
+}

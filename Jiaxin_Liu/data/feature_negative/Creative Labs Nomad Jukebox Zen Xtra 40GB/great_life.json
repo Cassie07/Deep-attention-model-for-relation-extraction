@@ -1,0 +1,159 @@
+{
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "location1": [
+            11
+        ], 
+        "location2": [
+            15
+        ], 
+        "(11, 15)": {
+            "WBF": [
+                1143
+            ], 
+            "AM2L": [
+                251
+            ], 
+            "BM1F": [
+                2260
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1643
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                1685
+            ], 
+            "WBL": [
+                379
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "92198989402e17a45ecbf5ef78c65e91": {
+        "(0, 5)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                2445
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1643
+            ], 
+            "WBO": [
+                3052
+            ], 
+            "WBL": [
+                379
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0, 
+            26
+        ], 
+        "location2": [
+            5
+        ], 
+        "(26, 5)": {
+            "WBF": [
+                1429
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1643
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1685
+            ], 
+            "WBO": [
+                2445, 
+                2136, 
+                1545, 
+                1212, 
+                17, 
+                1422, 
+                3052, 
+                1136, 
+                2325, 
+                2285, 
+                2368, 
+                379, 
+                2725, 
+                2595, 
+                1886, 
+                2479, 
+                1178
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2204
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hour ) , very fast recharges rate , removable battery , storage size , nice screen , firmware update , and great price ."
+    }, 
+    "b054d89158181f39fbacb882681b0a47": {
+        "(5, 3)": {
+            "AM2L": [
+                192
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1643
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "even the battery life is great - it advertises 14 hour , it 's actually a little less but still good ."
+    }
+}

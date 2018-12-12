@@ -1,0 +1,129 @@
+{
+    "626cfadc8b25761d5ae0b438886a2491": {
+        "(11, 12)": {
+            "BM1F": [
+                808
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "they 're pretty comfortable , stay in place and deliver a decent audio quality ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "(39, 49)": {
+            "WBF": [
+                1219
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                3162
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2761, 
+                1190, 
+                2016, 
+                2761, 
+                1468, 
+                2834
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "AM2F": [
+                658
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            39
+        ], 
+        "location2": [
+            49
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "9fab3fa1513794381fb4939e464dcc56": {
+        "location1": [
+            19
+        ], 
+        "location2": [
+            3
+        ], 
+        "(19, 3)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                200
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1963, 
+                501, 
+                304, 
+                316, 
+                1620, 
+                1973, 
+                2011, 
+                2418, 
+                1351, 
+                1772, 
+                2844, 
+                988
+            ], 
+            "WBL": [
+                549
+            ], 
+            "AM2F": [
+                1523
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "first , the sound quality is okay , but ( as at least one other reviewer has mentioned ) the eax can cause audio interference after about 30 minute ."
+    }
+}

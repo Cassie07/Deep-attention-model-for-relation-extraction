@@ -1,0 +1,47 @@
+{
+    "d8105077a4434e718fee25bbe1966b63": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            19
+        ], 
+        "(10, 19)": {
+            "WBF": [
+                2840
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1328
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                1546
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                2844, 
+                2694, 
+                2529, 
+                1951, 
+                1143
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                2499
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i looked into buying an inexpensive dvd player that had more than the standard set of feature and this item seemed to be the best in that category ."
+    }
+}

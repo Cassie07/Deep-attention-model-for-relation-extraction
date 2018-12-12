@@ -1,0 +1,56 @@
+{
+    "fe7e064c5f0fe9bf989fab990cc0ea99": {
+        "location1": [
+            27
+        ], 
+        "location2": [
+            6
+        ], 
+        "(27, 6)": {
+            "WBF": [
+                1212
+            ], 
+            "BM1F": [
+                961
+            ], 
+            "M1": [
+                2139
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                53
+            ], 
+            "WBO": [
+                1858, 
+                316, 
+                598, 
+                386, 
+                1545, 
+                1302, 
+                1300, 
+                2417, 
+                304, 
+                130, 
+                1300, 
+                3035, 
+                1212, 
+                2844, 
+                1822, 
+                1967, 
+                130
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                2591
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i bought this apex 2600 dvd player for myself at christmas because it got good review as a good value for the money on a variety of different site ."
+    }
+}

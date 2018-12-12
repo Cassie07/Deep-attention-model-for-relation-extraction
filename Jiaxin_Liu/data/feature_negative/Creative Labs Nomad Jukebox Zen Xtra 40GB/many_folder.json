@@ -1,0 +1,147 @@
+{
+    "851613aef4dc3542de9dbdae5f08f0c4": {
+        "(37, 25)": {
+            "WBF": [
+                2738
+            ], 
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                1208
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                1156
+            ], 
+            "WBO": [
+                253, 
+                1545, 
+                4, 
+                372, 
+                1967, 
+                2844, 
+                2885, 
+                1951
+            ], 
+            "WBL": [
+                2644
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            37
+        ], 
+        "location2": [
+            25, 
+            44
+        ], 
+        "(37, 44)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2644
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                1208
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1856, 
+                2644, 
+                3126
+            ], 
+            "WBL": [
+                1529
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the con are n't really a big deal to me ... except one con that does annoy me is the way it store file ... no folder structure ... and it 's based on the title of the song ... many of my song where seperated into folder ( on the pc ) ... and a few had same title ... so i had to change the title to make sure that i did n't have any that might be the same as another ."
+    }, 
+    "df460eaf582c2debf712f5605d908023": {
+        "(53, 27)": {
+            "WBF": [
+                1998
+            ], 
+            "AM2L": [
+                1043
+            ], 
+            "BM1F": [
+                760
+            ], 
+            "M1": [
+                1208
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                5
+            ], 
+            "WBO": [
+                316, 
+                3177, 
+                130, 
+                3052, 
+                1085, 
+                1635, 
+                1468, 
+                655, 
+                1881, 
+                2886, 
+                503, 
+                2221, 
+                1241, 
+                201, 
+                1429, 
+                1355, 
+                2846, 
+                325, 
+                2654, 
+                533, 
+                253, 
+                1165
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "AM2F": [
+                3100
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            53
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "my gut tell me the nomad will in the long run be , at best , a 40gb portable hard drive , albeit one on which i can 't create folder , or , at worst , a very expensive lesson in company never to buy product from again ( i have their audigy sound card and find it in many way equally frustrating ) ."
+    }
+}

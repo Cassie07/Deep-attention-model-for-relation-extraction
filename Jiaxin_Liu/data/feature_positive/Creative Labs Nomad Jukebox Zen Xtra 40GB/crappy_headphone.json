@@ -1,0 +1,25 @@
+{
+    "b306d893d4abfe8c7f979a77cfff7a5a": {
+        "(0, 1)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                755
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                1366
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "crappy headphone ."
+    }
+}

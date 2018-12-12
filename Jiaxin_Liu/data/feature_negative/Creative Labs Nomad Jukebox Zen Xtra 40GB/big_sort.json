@@ -1,0 +1,50 @@
+{
+    "7c980ce6e3db331419916b5538ddd428": {
+        "(19, 4)": {
+            "WBF": [
+                1951
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                2651
+            ], 
+            "M2": [
+                419
+            ], 
+            "BM1L": [
+                502
+            ], 
+            "WBO": [
+                259, 
+                2886, 
+                2257, 
+                130, 
+                1886, 
+                502, 
+                3181, 
+                381, 
+                1888, 
+                501, 
+                993
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                805
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "the scroll button is sort of annoying to push - a nice button would be nicer but eh , not a big deal ."
+    }
+}

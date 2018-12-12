@@ -1,0 +1,59 @@
+{
+    "033b35286cae2ac0ec2fc080f51e500c": {
+        "(11, 32)": {
+            "WBF": [
+                130
+            ], 
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                1920
+            ], 
+            "M1": [
+                2523
+            ], 
+            "M2": [
+                1790
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                1669, 
+                1604, 
+                2840, 
+                2011, 
+                1843, 
+                501, 
+                2712, 
+                1644, 
+                2844, 
+                2631, 
+                2814, 
+                2637, 
+                2878, 
+                2886, 
+                1277, 
+                3020, 
+                2886
+            ], 
+            "WBL": [
+                12
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            32
+        ], 
+        "sentence": "there are a couple thing i didnt like though but nothing serious : a little larger than other mp3s but still light , the software takes some time to get used to ( maybe 10-15 min ) , and this thing would definitely be destroyed with one fall ."
+    }
+}

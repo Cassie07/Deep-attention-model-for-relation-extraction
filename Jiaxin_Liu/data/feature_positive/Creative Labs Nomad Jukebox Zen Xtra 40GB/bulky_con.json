@@ -1,0 +1,43 @@
+{
+    "074a0ef9795ec5883cc9095904d96eb4": {
+        "(5, 2)": {
+            "WBF": [
+                130
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                675
+            ], 
+            "M2": [
+                490
+            ], 
+            "BM1L": [
+                1179
+            ], 
+            "WBO": [
+                2809
+            ], 
+            "WBL": [
+                2809
+            ], 
+            "AM2F": [
+                1915
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "first , the con ... a tad bulky ... not the most asthetic looking player ... and does n't support a folder stucture ."
+    }
+}

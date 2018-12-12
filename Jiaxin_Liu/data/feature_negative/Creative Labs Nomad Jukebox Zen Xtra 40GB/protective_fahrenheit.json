@@ -1,0 +1,62 @@
+{
+    "f68ec80438a497aca071cd7853ac8434": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            31
+        ], 
+        "(7, 31)": {
+            "WBF": [
+                541
+            ], 
+            "AM2L": [
+                507
+            ], 
+            "BM1F": [
+                2245
+            ], 
+            "M1": [
+                2239
+            ], 
+            "M2": [
+                1117
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                237, 
+                1429, 
+                1355, 
+                947, 
+                1545, 
+                134, 
+                62, 
+                1211, 
+                1241, 
+                1856, 
+                847, 
+                507, 
+                151, 
+                304, 
+                3115, 
+                304, 
+                1355, 
+                2138, 
+                1545, 
+                2018
+            ], 
+            "WBL": [
+                63
+            ], 
+            "AM2F": [
+                3106
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i use it primarily in the provided protective case although i have dropped it about 3 foot from my desk ( by accident ) as well as have played it outdoors in - 30 fahrenheit weather ( by design ) and it has continued to work fine ."
+    }
+}

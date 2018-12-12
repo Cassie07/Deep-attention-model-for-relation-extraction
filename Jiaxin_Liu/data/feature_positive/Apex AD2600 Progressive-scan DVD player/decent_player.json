@@ -1,0 +1,31 @@
+{
+    "a8ace68534381de6693b2cd4a413efea": {
+        "(19, 20)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                808
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "also , it was only $ 39.99 ( after rebate ) with free shipping and no tax so overall it is a decent player ."
+    }
+}

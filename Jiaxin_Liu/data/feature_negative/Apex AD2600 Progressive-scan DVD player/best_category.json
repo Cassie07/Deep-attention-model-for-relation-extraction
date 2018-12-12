@@ -1,0 +1,37 @@
+{
+    "d8105077a4434e718fee25bbe1966b63": {
+        "(24, 27)": {
+            "WBF": [
+                1468
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                548
+            ], 
+            "BM1L": [
+                381
+            ], 
+            "WBO": [
+                2842
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "i looked into buying an inexpensive dvd player that had more than the standard set of feature and this item seemed to be the best in that category ."
+    }
+}

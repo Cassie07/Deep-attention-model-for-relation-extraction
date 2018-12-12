@@ -1,0 +1,94 @@
+{
+    "8121831049060e4e814eb90a284743c5": {
+        "(18, 8)": {
+            "WBF": [
+                1300
+            ], 
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                1536
+            ], 
+            "M1": [
+                1064
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                833
+            ], 
+            "WBO": [
+                2204, 
+                253, 
+                1313, 
+                2654, 
+                1724, 
+                2859
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }, 
+    "b4710055bc1a10f777d1a193f72ef944": {
+        "(12, 2)": {
+            "WBF": [
+                1002
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                1064
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                658
+            ], 
+            "WBO": [
+                1468, 
+                2859, 
+                548, 
+                2859, 
+                1541, 
+                1832
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                365
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "compared to everything else in this category , this is most definately the best bang for the buck ."
+    }
+}

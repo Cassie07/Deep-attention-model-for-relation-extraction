@@ -1,0 +1,34 @@
+{
+    "09d97450c691cb0d4d37880b6dfbc0f5": {
+        "(1, 5)": {
+            "WBF": [
+                2418
+            ], 
+            "BM1F": [
+                1648
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1378
+            ], 
+            "WBO": [
+                1506
+            ], 
+            "WBL": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "like other reviewer , installation was hell ."
+    }
+}

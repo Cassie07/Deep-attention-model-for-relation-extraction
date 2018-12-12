@@ -1,0 +1,63 @@
+{
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "(18, 43)": {
+            "WBF": [
+                2802
+            ], 
+            "AM2L": [
+                392
+            ], 
+            "BM1F": [
+                2356
+            ], 
+            "M1": [
+                1866
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2842, 
+                547, 
+                372, 
+                1967, 
+                1435, 
+                2810, 
+                253, 
+                1072, 
+                2654, 
+                3142, 
+                1591, 
+                2886, 
+                381, 
+                415, 
+                2840, 
+                1536, 
+                1915, 
+                2785, 
+                697, 
+                2844, 
+                1929
+            ], 
+            "WBL": [
+                3196
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            43
+        ], 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }
+}

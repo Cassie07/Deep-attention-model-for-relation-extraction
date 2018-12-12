@@ -1,0 +1,113 @@
+{
+    "164dda298348d815567dec7d16e56e32": {
+        "location1": [
+            23
+        ], 
+        "location2": [
+            18
+        ], 
+        "(23, 18)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                76
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                1225
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                295
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "recently bought this coolpix 4300 along with a 256mb ultra flash card . as expected , i happily found that quality of the picture are excellent with 3m-4m pixel / fine combo and many of the user-friendly function are very similar to slr model , and with added convenience of a digital camera that you can see picture immediately ."
+    }, 
+    "cc90bbee0ce57ccc7e1b784c1f46fd96": {
+        "(5, 10)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                703
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                1626
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the design and construction are excellent -- as is the legendary quality of the nikon optic ."
+    }, 
+    "a245cc8c0d049db1f832f29a7c5409f3": {
+        "(4, 2)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2112
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                110
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "7 picture quality is excellent ."
+    }
+}

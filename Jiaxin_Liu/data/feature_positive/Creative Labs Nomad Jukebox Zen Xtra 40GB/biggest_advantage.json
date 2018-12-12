@@ -1,0 +1,37 @@
+{
+    "fe401e4c7ad5871abaee9660a3bbdd76": {
+        "(2, 3)": {
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                421
+            ], 
+            "M2": [
+                190
+            ], 
+            "BM1L": [
+                2174
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2859
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "possibly the biggest advantage this player has ( if price was n't enough ) is the fact that the user can replace the battery him / herself by opening the lid and popping in the new battery ."
+    }
+}

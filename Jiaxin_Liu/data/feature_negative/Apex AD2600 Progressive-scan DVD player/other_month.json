@@ -1,0 +1,57 @@
+{
+    "6513c98716058aac2f83fc6564af3fd0": {
+        "location1": [
+            26
+        ], 
+        "location2": [
+            7
+        ], 
+        "(26, 7)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1241
+            ], 
+            "BM1F": [
+                2533
+            ], 
+            "M1": [
+                1827
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                1545, 
+                2296, 
+                1832, 
+                894, 
+                501, 
+                1545, 
+                3181, 
+                1915, 
+                2327, 
+                2533, 
+                894, 
+                2842, 
+                3120, 
+                611, 
+                253
+            ], 
+            "WBL": [
+                1967
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i 've had this player for several month and it read most discs , but it would not recognize several discs that were clean and read on other player ( from friend season 2 ) ."
+    }
+}

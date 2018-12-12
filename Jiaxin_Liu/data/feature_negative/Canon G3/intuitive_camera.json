@@ -1,0 +1,72 @@
+{
+    "5deb915c0f8e40d34ff37101c900e021": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            9
+        ], 
+        "(1, 9)": {
+            "WBF": [
+                1774
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1532
+            ], 
+            "M2": [
+                520
+            ], 
+            "WBO": [
+                295, 
+                130, 
+                419, 
+                2149
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "very intuitive menus are a big plus on this camera ."
+    }, 
+    "a132db45183ba2fa489bbbb91d064371": {
+        "(13, 8)": {
+            "WBF": [
+                2844
+            ], 
+            "BM1F": [
+                72
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1532
+            ], 
+            "BM1L": [
+                2613
+            ], 
+            "WBO": [
+                715
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "but if you 've used a slr 35mm camera , the control are very intuitive !"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "e30184599d5c95a24e9a14a132efb341": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            32
+        ], 
+        "(2, 32)": {
+            "WBF": [
+                1895
+            ], 
+            "BM1F": [
+                1978
+            ], 
+            "M1": [
+                1797
+            ], 
+            "M2": [
+                2564
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1429, 
+                1355, 
+                3158, 
+                2844, 
+                520, 
+                295, 
+                1545, 
+                1541, 
+                1122, 
+                461, 
+                1691, 
+                1545, 
+                1874, 
+                130, 
+                3184, 
+                2731, 
+                1513, 
+                1951, 
+                130, 
+                1873, 
+                2731, 
+                253, 
+                1545, 
+                1541, 
+                130, 
+                423
+            ], 
+            "WBL": [
+                416
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the only minor nit i have with the camera are it is fairly boxy looking , it need a wrist strap instead of a neck strap , and it is a bit slow between shot ."
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "c797f7ccd54badc9e0db79b7ce27861a": {
+        "(4, 5)": {
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2381
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "price , along with the replaceable battery ( which i understand apple charge a small fortune to replace - as well as the hassle of returning it ) were the two main factor on why i picked the nomad ."
+    }, 
+    "26afbb728550c0df1149e771bc94d54b": {
+        "(25, 26)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2381
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1753
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            25
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }, 
+    "50815ed54fda64a996bb08d62d2a7a46": {
+        "(3, 1)": {
+            "AM2L": [
+                2301
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                2381
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the battery is replaceable ( a real plus ) and there is a leather case ( another real plus ) ."
+    }, 
+    "00562a00a0ab2c377658f1ccf279b3bb": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            6
+        ], 
+        "(4, 6)": {
+            "AM2L": [
+                2631
+            ], 
+            "WBFL": [
+                2184
+            ], 
+            "BM1F": [
+                1522
+            ], 
+            "M1": [
+                2381
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                1300
+            ], 
+            "AM2F": [
+                1300
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "great sound ; good interface ; replaceable , powerful battery ; good software ; wake-up , sleep timer ; multiple play mode"
+    }, 
+    "65b5c536d6d91c394bc8b7ba532235ab": {
+        "(2, 3)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                2381
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                3211
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "zennx 's replaceable battery was the deciding factor in my purchase of zennx over ipod ."
+    }, 
+    "5c950f0f68fa5bf13fbe33d9b8b6c3c8": {
+        "(2, 3)": {
+            "BM1F": [
+                3023
+            ], 
+            "M1": [
+                2381
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                62
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "3 ) user replaceable battery"
+    }
+}

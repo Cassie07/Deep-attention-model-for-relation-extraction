@@ -1,0 +1,225 @@
+{
+    "c17dc1715e1475263f7052f45d238a95": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            11
+        ], 
+        "(1, 11)": {
+            "WBF": [
+                2654
+            ], 
+            "BM1F": [
+                2025
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                1536
+            ], 
+            "WBO": [
+                1313, 
+                253, 
+                1634, 
+                1085, 
+                2840, 
+                286
+            ], 
+            "WBL": [
+                2032
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "overall : small , sound great , and less expensive than apple 's overpriced ipod !"
+    }, 
+    "f9ddf9883a3cf622da12c862e0d82fc1": {
+        "(2, 7)": {
+            "WBF": [
+                2025
+            ], 
+            "AM2L": [
+                1576
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                420
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "it is small overall , bigger than the ipod , but keep in mind that this is because different , less expensive but not necessarily inferior technology is used in the zx ."
+    }, 
+    "329396ddfb82ab13a6d35d524fa8b1d6": {
+        "location1": [
+            31
+        ], 
+        "location2": [
+            7
+        ], 
+        "(31, 7)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                304, 
+                3115, 
+                1468, 
+                2842, 
+                3203, 
+                912, 
+                1859, 
+                5, 
+                2436, 
+                1288, 
+                3207, 
+                130, 
+                751, 
+                2449, 
+                3204, 
+                2869, 
+                298, 
+                1468, 
+                603, 
+                1019
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1928
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the scroll wheel is better than the ipod 's as well , in that you do n't risk giving yourself a cramp running your thumb around in circle endlessly - just a small nudge of the finger and you 're there ."
+    }, 
+    "a73d14c0989545fa526660433bb1046c": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            7
+        ], 
+        "(17, 7)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                3094
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1536
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                1855, 
+                2469, 
+                1429, 
+                3094, 
+                2784, 
+                2886
+            ], 
+            "WBL": [
+                1424
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "despite its being slightly larger than the ipod , i must say i was surprised to see how small it was when i unwrapped the box !"
+    }, 
+    "046321e6f46dfb8659079eb3d885696d": {
+        "(13, 22)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                2270
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                1536
+            ], 
+            "BM1L": [
+                2712
+            ], 
+            "WBO": [
+                1644, 
+                848, 
+                402, 
+                2606, 
+                420
+            ], 
+            "WBL": [
+                251
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "other plus : changable battery , load of presets for environment , decent construction , still quite small and light despite being slightly bigger than an ipod ."
+    }
+}

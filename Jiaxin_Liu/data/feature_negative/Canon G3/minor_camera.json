@@ -1,0 +1,127 @@
+{
+    "aa040e2aac44669936f89ea50c0ca0fe": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            9
+        ], 
+        "(3, 9)": {
+            "WBF": [
+                1544
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2952
+            ], 
+            "M1": [
+                1797
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1978
+            ], 
+            "WBO": [
+                1429, 
+                1355
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the only two minor issue i have with the camera are the lens cap ( it is not very snug and can come off too easily ) and the lens itself ( it partially obstructs the view through the viewfinder but not view through the lcd ) ."
+    }, 
+    "dbec951619c24117174bfb3323091148": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            6
+        ], 
+        "(2, 6)": {
+            "WBF": [
+                1191
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1669
+            ], 
+            "M1": [
+                1797
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1973
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "one little minor flaw with this camera is that the lens is visible in the viewfinder , but does not detract from the image at all ."
+    }, 
+    "e30184599d5c95a24e9a14a132efb341": {
+        "(2, 8)": {
+            "WBF": [
+                1895
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                1978
+            ], 
+            "M1": [
+                1797
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1429, 
+                1355
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the only minor nit i have with the camera are it is fairly boxy looking , it need a wrist strap instead of a neck strap , and it is a bit slow between shot ."
+    }
+}

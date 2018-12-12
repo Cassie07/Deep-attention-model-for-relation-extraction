@@ -1,0 +1,102 @@
+{
+    "e24082bf48b6d19d32244d020b13478a": {
+        "location1": [
+            24
+        ], 
+        "location2": [
+            3
+        ], 
+        "(24, 3)": {
+            "WBF": [
+                130
+            ], 
+            "BM1F": [
+                2138
+            ], 
+            "M1": [
+                352
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                2797, 
+                2000, 
+                3203, 
+                3181, 
+                2792, 
+                2842, 
+                3203, 
+                3120, 
+                2492, 
+                804, 
+                562, 
+                1468, 
+                1242, 
+                1951, 
+                2844, 
+                2000, 
+                1545
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "when i played back a symphony orchestra you would swear that you were seated dead center in front of the orchestra - it 's that good !"
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            23
+        ], 
+        "(10, 23)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                2083
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                352
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                2844, 
+                2479, 
+                1541, 
+                2304, 
+                419, 
+                253, 
+                2844, 
+                436, 
+                1644
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }
+}

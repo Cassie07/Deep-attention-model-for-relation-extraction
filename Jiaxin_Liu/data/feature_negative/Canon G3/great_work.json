@@ -1,0 +1,116 @@
+{
+    "96a3c89de3083b68a7e7476e1f55d023": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            3
+        ], 
+        "(4, 3)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                3213
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1994
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the optical zoom work great and the 14x digital zoom is a very nice addition although picture at the highest digital zoom are a little blurry ."
+    }, 
+    "4ee8d0b641c875e17446b74fd975c596": {
+        "(3, 2)": {
+            "AM2L": [
+                1759
+            ], 
+            "BM1F": [
+                1716
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the macro work great for medical photographs and the auto mode is terrific for point and shoot ."
+    }, 
+    "c97426f7e6b7627ae5bb73ee0fe03b0b": {
+        "(5, 13)": {
+            "WBF": [
+                2098
+            ], 
+            "AM2L": [
+                1302
+            ], 
+            "BM1F": [
+                2812
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                3168
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                1951, 
+                2844, 
+                91, 
+                1951
+            ], 
+            "WBL": [
+                1175
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "i was able to take great photo of the 4th of july fire work , and got some amazing shot of the kid playing with sparkler ."
+    }
+}

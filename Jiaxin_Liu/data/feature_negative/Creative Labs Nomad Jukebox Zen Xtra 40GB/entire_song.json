@@ -1,0 +1,126 @@
+{
+    "8d1f6697eefabe40a2bed7c33818a32d": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            12
+        ], 
+        "(4, 12)": {
+            "WBF": [
+                553
+            ], 
+            "AM2L": [
+                216
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                2725
+            ], 
+            "WBO": [
+                633, 
+                1468, 
+                1973, 
+                2615
+            ], 
+            "WBL": [
+                101
+            ], 
+            "AM2F": [
+                88
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "12 ) big storage - my entire cd collection in one small device ( 5717 song , 491 album and counting ) !"
+    }, 
+    "8eb5d2fca4a827e8e326a4df00c9b809": {
+        "(10, 8)": {
+            "AM2L": [
+                1951
+            ], 
+            "WBFL": [
+                1856
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2644
+            ], 
+            "M2": [
+                1036
+            ], 
+            "BM1L": [
+                249
+            ], 
+            "AM2F": [
+                633
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the memory will hold an amazing amount of song , my entire collection of cd 's will all fit on this great little tiny piece of digital fun ."
+    }, 
+    "39e04a3877da6e2dd43afd9b1587c5f3": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            15
+        ], 
+        "(6, 15)": {
+            "WBF": [
+                633
+            ], 
+            "AM2L": [
+                2712
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                1674
+            ], 
+            "WBO": [
+                1951, 
+                1853, 
+                3129, 
+                1542, 
+                2842
+            ], 
+            "WBL": [
+                83
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "huge storage space , i loaded my entire collection of music , which isnt that much , 400 song , and still have 26 gb , out of the 28 provided to you ."
+    }
+}

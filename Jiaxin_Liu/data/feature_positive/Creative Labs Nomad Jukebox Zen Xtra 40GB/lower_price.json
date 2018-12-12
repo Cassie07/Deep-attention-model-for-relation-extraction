@@ -1,0 +1,69 @@
+{
+    "673dd22fb3775b937ed0c3edfc1eeeaa": {
+        "(6, 4)": {
+            "WBFL": [
+                644
+            ], 
+            "BM1F": [
+                1703
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                1705
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "but with a low price , comes lower quality ."
+    }, 
+    "9f6a7f7178e78442ace2e798b1feb157": {
+        "(9, 10)": {
+            "AM2L": [
+                1225
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1705
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                1643
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "my two main requirement were longer battery life and lower price : i found both ."
+    }
+}

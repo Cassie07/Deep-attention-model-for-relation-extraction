@@ -1,0 +1,31 @@
+{
+    "a3c39ca74e64f9139dabb40cc958b72d": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "BM1F": [
+                2219
+            ], 
+            "M1": [
+                2673
+            ], 
+            "M2": [
+                1448
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "this camera was affordable , very easy to learn , and produce spectacular image ."
+    }
+}

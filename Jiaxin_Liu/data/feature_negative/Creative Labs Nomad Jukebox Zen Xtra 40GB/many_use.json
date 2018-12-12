@@ -1,0 +1,193 @@
+{
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            47
+        ], 
+        "location2": [
+            36
+        ], 
+        "(47, 36)": {
+            "WBF": [
+                200
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                3018
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                985
+            ], 
+            "WBO": [
+                1743, 
+                2844, 
+                2484, 
+                502, 
+                1313, 
+                2654, 
+                253
+            ], 
+            "WBL": [
+                1369
+            ], 
+            "AM2F": [
+                1842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "a7a2a63d634d00419baf9b30a158cbe5": {
+        "(13, 6)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                665
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                3018
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                985
+            ], 
+            "WBO": [
+                3168, 
+                1313, 
+                1212
+            ], 
+            "WBL": [
+                1425
+            ], 
+            "AM2F": [
+                1355
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the scroll wheel is easy to use and work great for me , however many have complained that the wheel is cumbersome and difficult to operate ."
+    }, 
+    "baf85a0b553ca7fd741513aae4904839": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            36
+        ], 
+        "(10, 36)": {
+            "WBF": [
+                2011
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                3018
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                2079, 
+                3135, 
+                1355, 
+                2178, 
+                1381, 
+                3135, 
+                1355, 
+                1328, 
+                2844, 
+                2457, 
+                1086, 
+                2842, 
+                2844, 
+                2221, 
+                1541, 
+                818, 
+                846, 
+                253, 
+                3145, 
+                1915, 
+                1404, 
+                3006
+            ], 
+            "WBL": [
+                1912
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i 'm convinced by my own experience and that of many other people who have posted here who have had the same experience that the product is defectively designed , and will not hold up to normal use ."
+    }, 
+    "602351ae5883dd3c1b0573f9071110ed": {
+        "(0, 15)": {
+            "WBF": [
+                1355
+            ], 
+            "AM2L": [
+                992
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                3018
+            ], 
+            "WBO": [
+                665, 
+                134, 
+                2844, 
+                2631, 
+                1474, 
+                501, 
+                1468, 
+                1856, 
+                1990, 
+                1545, 
+                4
+            ], 
+            "WBL": [
+                2886
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "many have complained about the software included but in my opinion it 's easy to use and effective ."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "47e3873452377bfeaeb451bfad9ba553": {
+        "(7, 8)": {
+            "BM1F": [
+                2840
+            ], 
+            "M1": [
+                340
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                415
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "overall this is a slightly better than average phone ."
+    }
+}

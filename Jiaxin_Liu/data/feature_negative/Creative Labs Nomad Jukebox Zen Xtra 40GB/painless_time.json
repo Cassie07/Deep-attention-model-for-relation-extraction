@@ -1,0 +1,103 @@
+{
+    "83c0f79f8710192a88e6b91256723401": {
+        "location1": [
+            22
+        ], 
+        "location2": [
+            8
+        ], 
+        "(22, 8)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                1151
+            ], 
+            "M1": [
+                2878
+            ], 
+            "M2": [
+                2050
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1429, 
+                1328, 
+                2886, 
+                1401, 
+                2844, 
+                2397, 
+                502, 
+                501, 
+                2842, 
+                3094
+            ], 
+            "WBL": [
+                1122
+            ], 
+            "AM2F": [
+                2216
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the unit itself did lock up a few time and i had to hit the reset button but that was a fairly painless process as well ."
+    }, 
+    "ab72638a942345b2a65db3fe67536bb1": {
+        "location1": [
+            24
+        ], 
+        "location2": [
+            3
+        ], 
+        "(24, 3)": {
+            "WBF": [
+                1429
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2878
+            ], 
+            "M2": [
+                2050
+            ], 
+            "BM1L": [
+                741
+            ], 
+            "WBO": [
+                2678, 
+                991, 
+                2844, 
+                2644, 
+                1429, 
+                2776, 
+                1429, 
+                2565, 
+                6, 
+                921, 
+                1545, 
+                269, 
+                1967, 
+                1856, 
+                2073, 
+                2844, 
+                2916
+            ], 
+            "WBL": [
+                2199
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "not counting the time i spent editing the song ( i suppose i should 've done it anyway on my pc ) the transfer was pretty painless ."
+    }
+}

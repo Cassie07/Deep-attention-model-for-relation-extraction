@@ -1,0 +1,37 @@
+{
+    "2e3f4a9da60918bdc961149cf8e14d7f": {
+        "(11, 10)": {
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                858
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                159
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "11 ) minimal pause between song - less than that on other device - good achievement for a hard-drive based player"
+    }
+}

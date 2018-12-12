@@ -1,0 +1,47 @@
+{
+    "b82837c0f2aa0002e428df001cedfcd8": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            11
+        ], 
+        "(2, 11)": {
+            "WBF": [
+                1821
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                875
+            ], 
+            "M2": [
+                1820
+            ], 
+            "BM1L": [
+                2983
+            ], 
+            "WBO": [
+                858, 
+                514, 
+                2844, 
+                1260, 
+                2641
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                200
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "unfortunately , this digital moment-capturing device called the g3 sometimes capture the moment after the one you wanted ."
+    }
+}

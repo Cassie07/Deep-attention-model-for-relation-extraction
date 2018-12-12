@@ -1,0 +1,42 @@
+{
+    "b044707a805daadf2f4c1d1c24fefac8": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            1
+        ], 
+        "(14, 1)": {
+            "WBF": [
+                2842
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1514
+            ], 
+            "M2": [
+                2583
+            ], 
+            "WBO": [
+                643, 
+                3158, 
+                1545, 
+                912, 
+                1859, 
+                5, 
+                1092, 
+                1424, 
+                2886
+            ], 
+            "WBL": [
+                2853
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the instruction that come with it do n't explain how to make thing simple ."
+    }
+}

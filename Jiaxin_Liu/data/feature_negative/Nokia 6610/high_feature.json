@@ -1,0 +1,86 @@
+{
+    "c67d6bcd1ecc6effe34a9f8354eddaa0": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            13
+        ], 
+        "(16, 13)": {
+            "WBF": [
+                438
+            ], 
+            "AM2L": [
+                1527
+            ], 
+            "BM1F": [
+                2861
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1387
+            ], 
+            "BM1L": [
+                1595
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2676
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the phone has a few minor inconvenience , but only because it lack those feature , bluetooth and high spend internet , but there are very few problem with thing that you expected this phone to do ."
+    }, 
+    "9b759b22613ccb3d5a5909c5cd771409": {
+        "(16, 9)": {
+            "WBF": [
+                3168
+            ], 
+            "AM2L": [
+                1441
+            ], 
+            "BM1F": [
+                2831
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                1387
+            ], 
+            "BM1L": [
+                522
+            ], 
+            "WBO": [
+                1648, 
+                130, 
+                578
+            ], 
+            "WBL": [
+                295
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "service is great as far as i can tell , feature work like a charm , ringtones are high quality if you buy them from t-mobile and aim is great ."
+    }
+}

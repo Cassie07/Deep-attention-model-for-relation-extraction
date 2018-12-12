@@ -1,0 +1,37 @@
+{
+    "449b83653dd0d66d7d910483ebd3238b": {
+        "(3, 4)": {
+            "AM2L": [
+                2814
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2457
+            ], 
+            "M2": [
+                2878
+            ], 
+            "BM1L": [
+                316
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "but at the same time , it takes wonderful picture very easily in `` auto `` mode , so that even an average joe like me can use it !"
+    }
+}

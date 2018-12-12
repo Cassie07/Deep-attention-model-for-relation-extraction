@@ -1,0 +1,78 @@
+{
+    "eec2ea24e9d430dfa7c739b7564618f7": {
+        "(10, 14)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1901
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1277
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "but if you want a great deal and a great mp3 player , get the nomad ."
+    }, 
+    "937380945b7a721b7403148d0d455e73": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            1
+        ], 
+        "(9, 1)": {
+            "WBF": [
+                1566
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1901
+            ], 
+            "M2": [
+                1842
+            ], 
+            "WBO": [
+                3210, 
+                3194, 
+                1541, 
+                130
+            ], 
+            "WBL": [
+                1300
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the nomad jukebox zen xtra is a very good mp3 player but the software is it gets hurt ."
+    }
+}

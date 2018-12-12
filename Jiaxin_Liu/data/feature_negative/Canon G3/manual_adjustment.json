@@ -1,0 +1,98 @@
+{
+    "41d67c7360f1eaff9b82be88ea00f3d7": {
+        "(29, 17)": {
+            "WBF": [
+                1054
+            ], 
+            "AM2L": [
+                2355
+            ], 
+            "BM1F": [
+                1782
+            ], 
+            "M1": [
+                185
+            ], 
+            "M2": [
+                1731
+            ], 
+            "BM1L": [
+                1644
+            ], 
+            "WBO": [
+                501, 
+                221, 
+                715, 
+                295, 
+                3115, 
+                2863, 
+                2016, 
+                253
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            9, 
+            17
+        ], 
+        "(29, 9)": {
+            "WBF": [
+                1996
+            ], 
+            "AM2L": [
+                2355
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                185
+            ], 
+            "M2": [
+                1731
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                2570, 
+                2212, 
+                273, 
+                2212, 
+                1644, 
+                1782, 
+                185, 
+                1054, 
+                501, 
+                221, 
+                715, 
+                295, 
+                3115, 
+                2863, 
+                2016, 
+                253
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have yet to try using all of the adjustment option : shutter priority , aperature priority , light metering adjustment , etc . , but all control are well thought out and and the manual is relatively clear ."
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "d0daccfd58ec29fbb2753db534018ca5": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            12
+        ], 
+        "(6, 12)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                2204
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2016, 
+                2850
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "nikon 4300 , i feel , is the best camera out there for the feature and price ."
+    }
+}

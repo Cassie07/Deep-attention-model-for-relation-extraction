@@ -1,0 +1,88 @@
+{
+    "ef25a24c12ae7b697445f8d181fbe847": {
+        "(48, 43)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                499
+            ], 
+            "BM1F": [
+                3196
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                326
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                392
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2090
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            48
+        ], 
+        "location2": [
+            43
+        ], 
+        "sentence": "like it 's predecessor , the quickly revised nx , this player boast a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tag , and excellent sound ( widely known to be better than ipod - not surprising considering the number of year creative has been in the audio peripheral business ) ."
+    }, 
+    "20ba4c4b32823c2ce57fa535aeed926f": {
+        "(15, 27)": {
+            "WBF": [
+                309
+            ], 
+            "BM1F": [
+                501
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1652
+            ], 
+            "WBO": [
+                1967, 
+                2844, 
+                1901, 
+                295, 
+                2461, 
+                304, 
+                2565, 
+                381
+            ], 
+            "WBL": [
+                1241
+            ], 
+            "AM2F": [
+                1594
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            27
+        ], 
+        "sentence": "i have n't had time to really push this player to the limit , but audio aspect on the nomad are satisfactory , as should be expected from creative lab ."
+    }
+}

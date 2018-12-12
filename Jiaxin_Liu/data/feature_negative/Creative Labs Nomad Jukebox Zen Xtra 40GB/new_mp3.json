@@ -1,0 +1,34 @@
+{
+    "9d4a8bd6c0f5e3a37a676f91296665f3": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1882
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all in all though i 'm very happy with my new mp3 player ."
+    }
+}

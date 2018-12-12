@@ -1,0 +1,77 @@
+{
+    "8df2f7ba58c455f15ea3d272c2556f50": {
+        "(19, 17)": {
+            "WBFL": [
+                3094
+            ], 
+            "BM1F": [
+                3056
+            ], 
+            "M1": [
+                3048
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "AM2F": [
+                2896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(2, 17)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                985
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                3048
+            ], 
+            "BM1L": [
+                1865
+            ], 
+            "WBO": [
+                1429, 
+                1225, 
+                2842, 
+                2800, 
+                1156, 
+                1241, 
+                2844, 
+                2139, 
+                2886, 
+                2844, 
+                674
+            ], 
+            "WBL": [
+                3056
+            ], 
+            "AM2F": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2, 
+            19
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "navigation is easy and i found that syncing file from the player to the computer ( and vice versa ) was easy too ."
+    }
+}

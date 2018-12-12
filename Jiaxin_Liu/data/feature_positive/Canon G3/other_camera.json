@@ -1,0 +1,77 @@
+{
+    "c12f2cbdc52ec5949ef5f7247c336b99": {
+        "(17, 18)": {
+            "AM2L": [
+                6
+            ], 
+            "BM1F": [
+                264
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "its silver magnesium finish is stunning , and the sharp line and excellent grip are better than any other camera i 've seen ."
+    }, 
+    "e4e579de7f6a6a60872e54f2bea20df1": {
+        "(8, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                2011
+            ], 
+            "WBO": [
+                624, 
+                2886, 
+                2083
+            ], 
+            "WBL": [
+                264
+            ], 
+            "AM2F": [
+                873
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this camera is closest to perfect than any other digicam that is 4-5 megapixel ."
+    }
+}

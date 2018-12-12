@@ -1,0 +1,101 @@
+{
+    "3dad728919e1b406d7295e3ca95a61fa": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            15
+        ], 
+        "(14, 15)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1242
+            ], 
+            "M2": [
+                746
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the one other thing i observed while i had the nomad is that the front cover , which is taken off to have access to the battery , seemed to come undone very easily ."
+    }, 
+    "b1ea002e94262c6b402e3f320e945036": {
+        "(1, 2)": {
+            "AM2L": [
+                2159
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1242
+            ], 
+            "M2": [
+                746
+            ], 
+            "AM2F": [
+                522
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the front cover can pop off easily but i always have mine in the case so i did n't notice after first day ."
+    }, 
+    "16ac12ea22acb0865fbe839e4b386158": {
+        "(1, 2)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1242
+            ], 
+            "M2": [
+                746
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the front cover ( which you remove to take out the battery ) feel flimsy but when snapped on , the device still feel pretty solid ."
+    }
+}

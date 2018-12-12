@@ -1,0 +1,93 @@
+{
+    "07c7902d501403f2cfb77c7bc163b9a5": {
+        "(1, 18)": {
+            "WBF": [
+                666
+            ], 
+            "AM2L": [
+                912
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                1842
+            ], 
+            "WBO": [
+                3181, 
+                381, 
+                2842, 
+                3203, 
+                1874, 
+                1435, 
+                2810, 
+                2842, 
+                2814, 
+                130, 
+                3130, 
+                2886, 
+                912
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                1156
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "my only complaint would be that you need id3 tag & that takes a while to do if your mp3 file do n't have them ."
+    }, 
+    "eb5f7f84fb72e7589f2fbebf5436ab11": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            4
+        ], 
+        "(9, 4)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                2234
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                62
+            ], 
+            "WBO": [
+                2859
+            ], 
+            "WBL": [
+                3145
+            ], 
+            "AM2F": [
+                3168
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "unlike my 3 other mp3 player , this thing will only work properly if you have id3 tag on all of your track ."
+    }
+}

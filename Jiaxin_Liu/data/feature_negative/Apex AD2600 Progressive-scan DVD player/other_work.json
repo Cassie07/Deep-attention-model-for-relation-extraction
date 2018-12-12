@@ -1,0 +1,149 @@
+{
+    "de26e922f5cfd35c976f25852b35be7d": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            4
+        ], 
+        "(13, 4)": {
+            "WBF": [
+                1848
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2421
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                1829, 
+                2620, 
+                253, 
+                699, 
+                2840
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                1815
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "its fast-forward and rewind work much more smoothly and consistently than those of other model i 've had ."
+    }, 
+    "8fd7717f6f4b86db0002350fe4354721": {
+        "(22, 47)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                3168
+            ], 
+            "BM1L": [
+                4
+            ], 
+            "WBO": [
+                3181, 
+                2136, 
+                501, 
+                2886, 
+                1856, 
+                2783, 
+                3094, 
+                133, 
+                2886, 
+                2136, 
+                587, 
+                1761, 
+                2842, 
+                1429, 
+                1328, 
+                495, 
+                2842, 
+                1429, 
+                738, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                2886
+            ], 
+            "AM2F": [
+                394
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            47
+        ], 
+        "sentence": "when i 1st tried it i found that it had no problem playing the more expensive dvd - r medium disc 's that other player would play but to my surprise was able to play cheep medium that i had burned that i could n't get to work before in anything but the dvd burner itself that i had made the disc with ."
+    }, 
+    "cc11c712dec9b78a5e6186104998785b": {
+        "(5, 2)": {
+            "WBF": [
+                1168
+            ], 
+            "AM2L": [
+                200
+            ], 
+            "BM1F": [
+                2712
+            ], 
+            "M1": [
+                3168
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                1973
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2269
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "one still work fine , the other quit after one day ."
+    }
+}

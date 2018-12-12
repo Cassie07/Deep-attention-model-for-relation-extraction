@@ -1,0 +1,231 @@
+{
+    "8cff8b3bb4b722f290108da2b2fcc548": {
+        "(10, 32)": {
+            "WBF": [
+                1448
+            ], 
+            "AM2L": [
+                386
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2290
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                1429, 
+                239, 
+                1279, 
+                1241, 
+                2859, 
+                1260, 
+                1468, 
+                688, 
+                3158, 
+                1856, 
+                2223, 
+                1188, 
+                2802, 
+                253, 
+                522, 
+                984, 
+                2259, 
+                3006
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1653
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            32
+        ], 
+        "sentence": "i am stunned and amazed at the quality of the raw image i am getting from this g3 ( in conjunction with my professional flash system ) , and can easily put up with the camera limitation , because ive never seen anything better within its resolution limit ."
+    }, 
+    "c9e60af8c804cc7bc30a164554f7375d": {
+        "(4, 32)": {
+            "WBF": [
+                1448
+            ], 
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                2290
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                2631
+            ], 
+            "WBO": [
+                917, 
+                1915, 
+                2193, 
+                3203, 
+                3158, 
+                130, 
+                2290, 
+                1448, 
+                316, 
+                221, 
+                501, 
+                2844, 
+                2290, 
+                1448, 
+                200, 
+                1545, 
+                1351, 
+                392, 
+                2217, 
+                507, 
+                221, 
+                2844, 
+                1449, 
+                2530
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the canon software for raw image does not present you with a raw image at all , but the raw image after it has been processed by all the image-affecting setting in the camera .", 
+        "location2": [
+            32
+        ], 
+        "location1": [
+            4, 
+            12, 
+            18
+        ], 
+        "(12, 32)": {
+            "WBF": [
+                1448
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2290
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                316, 
+                221, 
+                501, 
+                2844, 
+                2290, 
+                1448, 
+                200, 
+                1545, 
+                1351, 
+                392, 
+                2217, 
+                507, 
+                221, 
+                2844, 
+                1449, 
+                2530
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(18, 32)": {
+            "WBF": [
+                1448
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2290
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                200, 
+                1545, 
+                1351, 
+                392, 
+                2217, 
+                507, 
+                221, 
+                2844, 
+                1449, 
+                2530
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }
+    }, 
+    "511a23f3a4fe98af1bf9d231291e4dff": {
+        "(3, 2)": {
+            "AM2L": [
+                2567
+            ], 
+            "BM1F": [
+                188
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                2290
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2147
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the adobe camera raw plug-in show once again that hardware is mile ahead of software ."
+    }
+}

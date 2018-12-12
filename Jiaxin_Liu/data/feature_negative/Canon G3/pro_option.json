@@ -1,0 +1,46 @@
+{
+    "e2aef133b34cdd27cfe0ae786a800c64": {
+        "(17, 25)": {
+            "WBF": [
+                2613
+            ], 
+            "AM2L": [
+                2861
+            ], 
+            "BM1F": [
+                2510
+            ], 
+            "M1": [
+                2213
+            ], 
+            "M2": [
+                1996
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                3158, 
+                130, 
+                1300, 
+                2280
+            ], 
+            "WBL": [
+                1731
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "the g3 has most if not all of the feature that you would want from a semi-pro / pro slr with a good range of manual option for those who know something about photography ."
+    }
+}

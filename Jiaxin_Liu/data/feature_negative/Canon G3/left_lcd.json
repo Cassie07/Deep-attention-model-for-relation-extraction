@@ -1,0 +1,87 @@
+{
+    "147a916c1effce3110d2582e4b8b49a5": {
+        "(11, 8)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                1951
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1615
+            ], 
+            "M2": [
+                1625
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "WBO": [
+                457
+            ], 
+            "WBL": [
+                457
+            ], 
+            "AM2F": [
+                730
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "when you look through the viewfinder ( not the lcd ) the bottom left corner of the picture ( about 15 % ) is blocked by the lens ."
+    }, 
+    "48c9089c4729e58f320f3da81288ee13": {
+        "(18, 26)": {
+            "WBF": [
+                730
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1705
+            ], 
+            "M1": [
+                1625
+            ], 
+            "M2": [
+                1615
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1468, 
+                2844, 
+                1632, 
+                3062
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3062
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "to address two previous somewhat negative review : ( 1 ) yes , the lens barrel does obstruct part of the lower left corner in the lens viewfinder ; however , the lcd viewfinder is rather stunning and i find myself rarely using the lens viewfinder ."
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "304f55c4c30167a6dd8bf365c2f321c6": {
+        "(27, 5)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "BM1F": [
+                2290
+            ], 
+            "M1": [
+                1847
+            ], 
+            "M2": [
+                2229
+            ], 
+            "BM1L": [
+                2136
+            ], 
+            "WBO": [
+                1846, 
+                3057, 
+                1563, 
+                3162, 
+                558, 
+                559, 
+                964, 
+                965, 
+                253, 
+                1951, 
+                745, 
+                2136, 
+                961, 
+                1839, 
+                1241, 
+                2960, 
+                1429, 
+                1701
+            ], 
+            "WBL": [
+                210
+            ], 
+            "AM2F": [
+                2472
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "this dvd player play raw mpeg2 and mpeg1 video , jpeg , wma , cdr / cdrw / dvdr / dvdrw , and of course play dvd movie from uk . i love the aiff , progressive scan feature ."
+    }
+}

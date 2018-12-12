@@ -1,0 +1,79 @@
+{
+    "1a0d68ac376b768e92b8dca25c428ee4": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            6
+        ], 
+        "(12, 6)": {
+            "WBF": [
+                1287
+            ], 
+            "AM2L": [
+                1548
+            ], 
+            "BM1F": [
+                1094
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                3203, 
+                1611
+            ], 
+            "WBL": [
+                381
+            ], 
+            "AM2F": [
+                3200
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "1 ) slr like programming and exposure control gives you latitude to be creative , yet its progam and auto exposure setting provide excellent photo if you do n't want to bother with the setting ."
+    }, 
+    "2cda4bc7420f9d9ce26921a41fbe9f75": {
+        "(5, 6)": {
+            "AM2L": [
+                1450
+            ], 
+            "BM1F": [
+                1829
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                1165
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "advanced photobugs will find more creative control than imaginable ."
+    }
+}

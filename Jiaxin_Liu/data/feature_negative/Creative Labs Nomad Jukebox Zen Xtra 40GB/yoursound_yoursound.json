@@ -1,0 +1,37 @@
+{
+    "148b1ce6d32ce2ca6d79482fee329435": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            13
+        ], 
+        "(13, 13)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                3208
+            ], 
+            "M2": [
+                3208
+            ], 
+            "BM1L": [
+                838
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the sound is awesome , but if u put it too loud , depends on yoursound quality , the sound might crack ."
+    }
+}

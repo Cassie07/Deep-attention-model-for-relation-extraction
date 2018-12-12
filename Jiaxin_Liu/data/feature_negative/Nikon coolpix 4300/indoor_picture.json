@@ -1,0 +1,81 @@
+{
+    "42f0ce4c366e69f992de1c95467b18e7": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            2
+        ], 
+        "(7, 2)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                802
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1488
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                472
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2564
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the daylight picture are brilliant and the indoor shot are very good provided that your subject is no more than about 8 foot away ."
+    }, 
+    "99ff835b6afc80eb98a8e6d0778a550c": {
+        "(5, 1)": {
+            "WBF": [
+                2813
+            ], 
+            "AM2L": [
+                295
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1488
+            ], 
+            "WBO": [
+                1468
+            ], 
+            "WBL": [
+                251
+            ], 
+            "AM2F": [
+                2530
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "1 . picture taken in an indoor setting are a little dull and rarely hazy if you tend to take photographs from a distance ."
+    }
+}

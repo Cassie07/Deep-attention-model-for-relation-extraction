@@ -1,0 +1,78 @@
+{
+    "e781c09e3c443732c8f53703efb0b736": {
+        "(3, 4)": {
+            "AM2L": [
+                690
+            ], 
+            "BM1F": [
+                2244
+            ], 
+            "M1": [
+                1030
+            ], 
+            "M2": [
+                3074
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3124
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "* does not provide enough volume when connected to larger headphone , or external receiver ( car radio ) ."
+    }, 
+    "ea750d90f9785597047a0e1fba8c7a2e": {
+        "(9, 6)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                17
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3074
+            ], 
+            "M2": [
+                1030
+            ], 
+            "BM1L": [
+                1366
+            ], 
+            "WBO": [
+                1699
+            ], 
+            "WBL": [
+                1699
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "with my sennheiser 497 headphone , the volume is loud enough at 12 ( max is 20 ) ."
+    }
+}

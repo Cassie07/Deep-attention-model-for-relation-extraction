@@ -1,0 +1,47 @@
+{
+    "50815ed54fda64a996bb08d62d2a7a46": {
+        "(3, 12)": {
+            "WBF": [
+                130
+            ], 
+            "AM2L": [
+                2301
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                2381
+            ], 
+            "M2": [
+                541
+            ], 
+            "BM1L": [
+                379
+            ], 
+            "WBO": [
+                2301, 
+                2149, 
+                253, 
+                2850, 
+                1541
+            ], 
+            "WBL": [
+                1621
+            ], 
+            "AM2F": [
+                260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "the battery is replaceable ( a real plus ) and there is a leather case ( another real plus ) ."
+    }
+}

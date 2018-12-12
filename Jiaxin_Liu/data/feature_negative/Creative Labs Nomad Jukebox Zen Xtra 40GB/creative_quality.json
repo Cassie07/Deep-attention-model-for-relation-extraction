@@ -1,0 +1,291 @@
+{
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(4, 10)": {
+            "WBF": [
+                1267
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "BM1F": [
+                316
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1238
+            ], 
+            "WBO": [
+                2859, 
+                2853
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "AM2F": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "faecff2a9f98008034e071e9ea118f8f": {
+        "(22, 28)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                2215
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                403
+            ], 
+            "WBO": [
+                2637, 
+                1470
+            ], 
+            "WBL": [
+                1998
+            ], 
+            "AM2F": [
+                715
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "enough people have reported that their headphone jack does n't work after a month of using the device to believe that creative has some inbuilt manufacturing or quality control problem ."
+    }, 
+    "16dccec07487bfb9e777d9b8fc08c377": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            6
+        ], 
+        "(2, 6)": {
+            "WBF": [
+                2221
+            ], 
+            "AM2L": [
+                2966
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                402
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2137
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "being a creative product the playback quality is unbeatable ."
+    }, 
+    "ea590102fe54b3305e3c92c7f680c4d9": {
+        "(0, 6)": {
+            "WBF": [
+                3210
+            ], 
+            "AM2L": [
+                2221
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2260
+            ], 
+            "WBO": [
+                1146, 
+                2762
+            ], 
+            "WBL": [
+                703
+            ], 
+            "AM2F": [
+                2157
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "creative zen feedback suffers from construction quality , poor product support , difficulty of using the scroll wheel and reasonably consistent feedback about problem with the headphone jack ."
+    }, 
+    "a44b72ed937e77df7cb07d76f90f6978": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            1
+        ], 
+        "(9, 1)": {
+            "WBF": [
+                1967
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                765
+            ], 
+            "WBO": [
+                2859, 
+                1541, 
+                245, 
+                304
+            ], 
+            "WBL": [
+                221
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "sound quality on this is amazing , as with all creative product ."
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            18
+        ], 
+        "(7, 18)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                2013
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                386
+            ], 
+            "WBO": [
+                2139, 
+                295, 
+                3052, 
+                1300, 
+                253, 
+                1355, 
+                2844
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "(10, 17)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                2851
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                1566, 
+                1355, 
+                2844
+            ], 
+            "WBL": [
+                2654
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }
+}

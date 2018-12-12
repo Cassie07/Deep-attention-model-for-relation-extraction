@@ -1,0 +1,85 @@
+{
+    "3bc4feba5ac935dba2cf5229f7485723": {
+        "(5, 9)": {
+            "WBF": [
+                1829
+            ], 
+            "AM2L": [
+                381
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2745
+            ], 
+            "M2": [
+                541
+            ], 
+            "BM1L": [
+                1620
+            ], 
+            "WBO": [
+                2239
+            ], 
+            "WBL": [
+                540
+            ], 
+            "AM2F": [
+                3181
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "at the very least , a sturdier more protective carrying case would be nice ."
+    }, 
+    "7c34e517718ef2880221cd7408e54f54": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            19
+        ], 
+        "(7, 19)": {
+            "WBF": [
+                703
+            ], 
+            "BM1F": [
+                1669
+            ], 
+            "M1": [
+                2745
+            ], 
+            "M2": [
+                541
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                1648, 
+                2844, 
+                294, 
+                1566, 
+                1998, 
+                2637, 
+                1583, 
+                1951
+            ], 
+            "WBL": [
+                2398
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the nomad zen could use a little sturdier construction like the archos jukebox or some kind of shock resistant case ."
+    }
+}

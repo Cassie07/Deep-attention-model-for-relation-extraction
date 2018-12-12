@@ -1,0 +1,43 @@
+{
+    "ff02148f541cf5f18c7b9c51fb6d96d1": {
+        "(5, 9)": {
+            "WBF": [
+                1264
+            ], 
+            "AM2L": [
+                909
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1033
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                1595
+            ], 
+            "WBO": [
+                1967
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                2270
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "i find the lack of entertaining game on this phone quite disturbing ."
+    }
+}

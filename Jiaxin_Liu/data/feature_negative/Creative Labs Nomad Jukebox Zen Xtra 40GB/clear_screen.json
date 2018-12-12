@@ -1,0 +1,46 @@
+{
+    "22b951ffa2f0d17cc9b029bd85dcdf41": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            14
+        ], 
+        "(3, 14)": {
+            "WBF": [
+                436
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                613
+            ], 
+            "M2": [
+                2479
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                1644, 
+                2842, 
+                226, 
+                3203, 
+                2886, 
+                2496, 
+                1064
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                984
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "it has a clear blue light that allows you to see everything on the screen easily ."
+    }
+}

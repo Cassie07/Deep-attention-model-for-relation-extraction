@@ -1,0 +1,88 @@
+{
+    "f2411c8e4e34052a33a2a92ad250283e": {
+        "(9, 32)": {
+            "WBF": [
+                1212
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                608
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2844, 
+                608, 
+                2842, 
+                1545, 
+                1541, 
+                1468, 
+                253, 
+                1545, 
+                4, 
+                1915, 
+                2304, 
+                290, 
+                2886, 
+                2285, 
+                1545, 
+                372, 
+                1967, 
+                2139, 
+                1468
+            ], 
+            "WBL": [
+                869
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            12, 
+            32
+        ], 
+        "(9, 12)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                608
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i gave the zen 5 star because it 's excellent for the class that it is in and it 's not really appropriate to rate it based on player in a different class ."
+    }
+}

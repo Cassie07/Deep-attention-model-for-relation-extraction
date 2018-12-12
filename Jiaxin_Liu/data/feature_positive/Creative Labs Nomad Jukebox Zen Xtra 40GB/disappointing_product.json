@@ -1,0 +1,31 @@
+{
+    "b30b5b6479f3c4d4f013169b4b75028b": {
+        "(3, 4)": {
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                888
+            ], 
+            "M2": [
+                2221
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "overall , a very disappointing product ."
+    }
+}

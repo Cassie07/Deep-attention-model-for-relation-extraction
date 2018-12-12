@@ -1,0 +1,106 @@
+{
+    "a3501130193708007cd28c5fd53b8965": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            13
+        ], 
+        "(9, 13)": {
+            "WBF": [
+                1040
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2136
+            ], 
+            "M1": [
+                563
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "on 2 dvds so far it refuse to play certain episode with no problem on the others on the dvd ."
+    }, 
+    "9151bec746be1369933e0711724fabba": {
+        "location1": [
+            36
+        ], 
+        "location2": [
+            9
+        ], 
+        "(36, 9)": {
+            "WBF": [
+                2760
+            ], 
+            "AM2L": [
+                1143
+            ], 
+            "BM1F": [
+                1945
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                563
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                304, 
+                9, 
+                1915, 
+                2330, 
+                130, 
+                961, 
+                39, 
+                2722, 
+                130, 
+                2063, 
+                2151, 
+                1468, 
+                130, 
+                1839, 
+                1060, 
+                2878, 
+                3102, 
+                2138, 
+                1545, 
+                62, 
+                1915, 
+                402, 
+                133
+            ], 
+            "WBL": [
+                146
+            ], 
+            "AM2F": [
+                2668
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the player usually play dvd 's , but has occasional problem such as : 1 ) not recognizing a dvd 2 ) stopping a particular point in a movie every time we played it 3 ) not being able to access certain special feature on a rental dvd ."
+    }
+}

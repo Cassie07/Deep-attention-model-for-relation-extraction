@@ -1,0 +1,53 @@
+{
+    "4ee6d1359bfe9bbb24c18ef20aa068d0": {
+        "(27, 12)": {
+            "WBF": [
+                3168
+            ], 
+            "AM2L": [
+                7
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1615
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                3115, 
+                1030, 
+                1468, 
+                2861, 
+                1509, 
+                1915, 
+                2844, 
+                582, 
+                80, 
+                7, 
+                1841
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                80
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "not perfect ( yes , the viewfinder can get obstructed in instances.but the lcd work well enough in those instance ) , not the cheapest 4.0 mp , but the best 4.0 mp ."
+    }
+}

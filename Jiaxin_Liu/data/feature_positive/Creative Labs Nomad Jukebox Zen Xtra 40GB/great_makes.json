@@ -1,0 +1,79 @@
+{
+    "8121831049060e4e814eb90a284743c5": {
+        "(12, 14)": {
+            "AM2L": [
+                1973
+            ], 
+            "WBFL": [
+                2654
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1724
+            ], 
+            "BM1L": [
+                2204
+            ], 
+            "AM2F": [
+                2859
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }, 
+    "3fd077cfdb53680671d6b273e8b56c20": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            11
+        ], 
+        "(5, 11)": {
+            "WBF": [
+                2204
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                1724
+            ], 
+            "BM1L": [
+                316
+            ], 
+            "WBO": [
+                3158, 
+                2835
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                2435
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be ."
+    }
+}

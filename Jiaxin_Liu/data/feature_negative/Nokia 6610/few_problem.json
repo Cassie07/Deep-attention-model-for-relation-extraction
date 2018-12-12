@@ -1,0 +1,85 @@
+{
+    "c67d6bcd1ecc6effe34a9f8354eddaa0": {
+        "(4, 24)": {
+            "WBF": [
+                1797
+            ], 
+            "AM2L": [
+                2853
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                1475, 
+                501, 
+                1978, 
+                386, 
+                1545, 
+                1595, 
+                2861, 
+                1143, 
+                438, 
+                253, 
+                1387, 
+                2676, 
+                1527, 
+                501, 
+                2850, 
+                295
+            ], 
+            "WBL": [
+                1151
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(23, 24)": {
+            "AM2L": [
+                2853
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4, 
+            23
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "the phone has a few minor inconvenience , but only because it lack those feature , bluetooth and high spend internet , but there are very few problem with thing that you expected this phone to do ."
+    }
+}

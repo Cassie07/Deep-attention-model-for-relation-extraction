@@ -1,0 +1,34 @@
+{
+    "1245c249dd265d331140ab5a14e99d42": {
+        "(1, 2)": {
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2396
+            ], 
+            "AM2F": [
+                134
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "my only reservation about this product concern the tagging process and the way it interacts with the software ."
+    }
+}

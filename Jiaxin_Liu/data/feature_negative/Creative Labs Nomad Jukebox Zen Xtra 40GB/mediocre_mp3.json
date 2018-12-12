@@ -1,0 +1,37 @@
+{
+    "3e406d6f8231c62cced3fc27d645b1b8": {
+        "(5, 6)": {
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1760
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "what really made this a mediocre mp3 player for me was the software ."
+    }
+}

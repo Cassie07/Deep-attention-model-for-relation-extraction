@@ -1,0 +1,103 @@
+{
+    "5eb85ac763d22bf04c5e505636188e0f": {
+        "(0, 9)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                1913
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                3074
+            ], 
+            "WBO": [
+                1541, 
+                3166, 
+                1429, 
+                2304, 
+                1648
+            ], 
+            "WBL": [
+                2617
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(10, 9)": {
+            "BM1F": [
+                2617
+            ], 
+            "M1": [
+                3074
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1913
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            0, 
+            10
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "sound quality is wonderful , i really like the smart volume sound normalization ."
+    }, 
+    "68dfe1e6439e1d2fafdd1dcf2ce1d498": {
+        "(1, 6)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                1829
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                3074
+            ], 
+            "WBO": [
+                1313
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the sound is great , and the volume is more than satisfactory for commute and shutting out external noise ."
+    }
+}

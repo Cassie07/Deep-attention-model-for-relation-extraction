@@ -1,0 +1,38 @@
+{
+    "7ce68523e9bd23cb9fa8f5c8bfadfa9f": {
+        "(26, 32)": {
+            "WBF": [
+                1644
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3001
+            ], 
+            "M2": [
+                1188
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                2260, 
+                1951
+            ], 
+            "WBL": [
+                488
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            26
+        ], 
+        "location2": [
+            32
+        ], 
+        "sentence": "the two limitation i knew i would have to deal with are the very long lag time before it focus-locks ( even in bright light ) , and the unsatisfactory light quality of the built-in flash ."
+    }
+}

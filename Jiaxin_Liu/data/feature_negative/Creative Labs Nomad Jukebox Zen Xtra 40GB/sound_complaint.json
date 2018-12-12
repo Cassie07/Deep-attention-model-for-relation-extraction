@@ -1,0 +1,72 @@
+{
+    "fe535202f32e00ddf80d23a8b9e925a4": {
+        "(5, 3)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2578
+            ], 
+            "M1": [
+                666
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1978
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "my only significant complaint is sound quality ."
+    }, 
+    "bc7eb770198ec23ce9e6954c28d75f24": {
+        "(10, 7)": {
+            "WBF": [
+                1468
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                666
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                836
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "they could be more comfortable , but no complaint in the sound department ."
+    }
+}

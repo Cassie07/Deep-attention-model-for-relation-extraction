@@ -1,0 +1,55 @@
+{
+    "f1ea952ffd3cb666c023f31c40f6900f": {
+        "(21, 4)": {
+            "WBF": [
+                1429
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1060
+            ], 
+            "M1": [
+                1761
+            ], 
+            "M2": [
+                2373
+            ], 
+            "BM1L": [
+                374
+            ], 
+            "WBO": [
+                6, 
+                2838, 
+                2628, 
+                1134, 
+                1055, 
+                251, 
+                1965, 
+                3043, 
+                2842, 
+                1429, 
+                2433, 
+                3196, 
+                205
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                961
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "it play basically every medium i 've tested so far , even an old vcd that i ripped year ago and the rental dvd that could n't be played on my old $ 200 sharp player !"
+    }
+}

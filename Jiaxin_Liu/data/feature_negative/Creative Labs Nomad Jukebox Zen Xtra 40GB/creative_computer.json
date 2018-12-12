@@ -1,0 +1,128 @@
+{
+    "54724dd286a492837cf9f736f866a74a": {
+        "(1, 21)": {
+            "WBF": [
+                2631
+            ], 
+            "BM1F": [
+                2857
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                674
+            ], 
+            "WBO": [
+                226, 
+                3203, 
+                2886, 
+                1576, 
+                2952, 
+                3151, 
+                1982, 
+                2886, 
+                1689, 
+                316, 
+                454, 
+                2844, 
+                707, 
+                1967, 
+                2844, 
+                2139
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "third , creative software allows you to keep two window open to look at both the content on the player and the computer ."
+    }, 
+    "d6255391e01cbaa0b68fdb9cf3e4e183": {
+        "(0, 6)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                522
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                674
+            ], 
+            "WBO": [
+                2844, 
+                2654
+            ], 
+            "WBL": [
+                1212
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "creative are * the * sound people for computer , i can 't understand why eax would introduce static ."
+    }, 
+    "5665cc636f7aeff4e22e1cacfc8c571f": {
+        "(1, 17)": {
+            "WBF": [
+                2631
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                674
+            ], 
+            "WBO": [
+                1541, 
+                348, 
+                871, 
+                2886, 
+                3018, 
+                253, 
+                1570, 
+                2129, 
+                917, 
+                1859, 
+                5, 
+                1673
+            ], 
+            "WBL": [
+                2637
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "the creative software is awkward / difficult to use and just plain does n't load on some computer ."
+    }
+}

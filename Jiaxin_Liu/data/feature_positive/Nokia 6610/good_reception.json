@@ -1,0 +1,170 @@
+{
+    "c9d0d998766ff632aa6c28c85f4926f0": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            5
+        ], 
+        "(10, 5)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                808
+            ], 
+            "M1": [
+                2319
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1122
+            ], 
+            "WBO": [
+                1915
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "this radio receives fairly decent reception but not nearly as good as a normal radio , but as long as the station are coming in clearly the phone 's radio should work perfectly ."
+    }, 
+    "464ae5e381f94d45fed8ae02ad5e7495": {
+        "(17, 25)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                1076
+            ], 
+            "BM1F": [
+                304
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2319
+            ], 
+            "BM1L": [
+                1868
+            ], 
+            "WBO": [
+                2804, 
+                4, 
+                2844, 
+                607
+            ], 
+            "WBL": [
+                2846
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "i 'm staying with sprint , and though i fear that their csr is n't nearly as good as t-mobile 's , the clarity of their reception is exceptional ."
+    }, 
+    "5f632c925abff8ea973237469d07a2aa": {
+        "(5, 10)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2319
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1545
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(24, 10)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                408
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2319
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1278
+            ], 
+            "WBO": [
+                1541, 
+                1468, 
+                2126, 
+                3126, 
+                3203, 
+                1277, 
+                2804, 
+                747, 
+                3129, 
+                1541
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                2496
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5, 
+            24
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the voice quality is very good , and it gets great reception ( that is , in place where you get t-mobile coverage , which is not that good ; see below ) ."
+    }
+}

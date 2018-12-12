@@ -1,0 +1,98 @@
+{
+    "075cbfa6d23b531fc7100bc9ad7dcd00": {
+        "(1, 2)": {
+            "AM2L": [
+                985
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1731
+            ], 
+            "M2": [
+                1814
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the manual mode is easy to use with fast access for the selection of shutter speed and aperture without having to fumble through menu option ."
+    }, 
+    "744bdb63eb27c487cfb368662c9dcc70": {
+        "(23, 25)": {
+            "AM2L": [
+                3181
+            ], 
+            "WBFL": [
+                1203
+            ], 
+            "BM1F": [
+                1970
+            ], 
+            "M1": [
+                1731
+            ], 
+            "M2": [
+                1814
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "you can move the focus range to almost anywhere in the scene with the push of a button , and it has an on-screen manual focus mode that would be really helpful if shooting a scene that is tough to automatically focus ."
+    }, 
+    "1f8107d369d0a9aff676c54f789d4256": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            21
+        ], 
+        "(20, 21)": {
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1731
+            ], 
+            "M2": [
+                1814
+            ], 
+            "BM1L": [
+                2212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the camera is a dream to operate in automode , but also gives tremendous flexibility in aperture priority , shutter priority , and manual mode ."
+    }
+}

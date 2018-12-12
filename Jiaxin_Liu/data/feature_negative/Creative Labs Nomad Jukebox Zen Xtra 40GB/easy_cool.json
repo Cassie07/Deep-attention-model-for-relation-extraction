@@ -1,0 +1,82 @@
+{
+    "26afbb728550c0df1149e771bc94d54b": {
+        "(20, 15)": {
+            "WBF": [
+                2479
+            ], 
+            "AM2L": [
+                2296
+            ], 
+            "BM1F": [
+                1689
+            ], 
+            "M1": [
+                724
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2987
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            20
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "the sound quality is excellent ( and i 'm fussy with that stuff ) , the unit look cool , screen is bright and easy to read , and the replaceable battery mean a major advantage over the ipod ( besides the price , but everyone know that ) ."
+    }, 
+    "fcc6060d8953928ffecfa28e3e7a7871": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            15
+        ], 
+        "(6, 15)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                724
+            ], 
+            "BM1L": [
+                822
+            ], 
+            "WBO": [
+                2296, 
+                253, 
+                2844, 
+                2580, 
+                2987
+            ], 
+            "WBL": [
+                1862
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the screen is large , defined , and easy to read , and the silver unit is naturally cool ."
+    }
+}

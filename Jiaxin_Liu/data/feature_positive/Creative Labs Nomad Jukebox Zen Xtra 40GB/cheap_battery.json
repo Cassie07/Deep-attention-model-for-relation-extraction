@@ -1,0 +1,147 @@
+{
+    "66a0c26d06a2de11f1e77c0df92b5a63": {
+        "(2, 3)": {
+            "AM2L": [
+                1640
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                580
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                2368
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3, 
+            6
+        ], 
+        "(2, 6)": {
+            "WBF": [
+                379
+            ], 
+            "AM2L": [
+                3168
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                580
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                2368
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                1640
+            ], 
+            "AM2F": [
+                3028
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "removable and cheap battery - a li battery usually work properly for 1-3 year ."
+    }, 
+    "4147498480996841498df2bb40d27af6": {
+        "(2, 16)": {
+            "WBF": [
+                3025
+            ], 
+            "AM2L": [
+                736
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                580
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                93
+            ], 
+            "WBO": [
+                379, 
+                94, 
+                1241, 
+                765, 
+                1541, 
+                130, 
+                1313, 
+                190, 
+                2024, 
+                2844
+            ], 
+            "WBL": [
+                4
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            4, 
+            16
+        ], 
+        "(2, 4)": {
+            "AM2L": [
+                1241
+            ], 
+            "WBFL": [
+                3025
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                580
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                93
+            ], 
+            "AM2F": [
+                94
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "5 ) the cheap , user-replaceable battery ( $ 50 from creative ) is a great advantage over the ipod 's battery which cost $ 100 to replace ."
+    }
+}

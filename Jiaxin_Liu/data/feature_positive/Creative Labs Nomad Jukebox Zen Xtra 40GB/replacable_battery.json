@@ -1,0 +1,180 @@
+{
+    "4bd98e3804be5a792f3b30af064b63d8": {
+        "(1, 2)": {
+            "AM2L": [
+                1313
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2379
+            ], 
+            "M2": [
+                379
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(1, 14)": {
+            "WBF": [
+                379
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2379
+            ], 
+            "M2": [
+                379
+            ], 
+            "WBO": [
+                1541, 
+                1313, 
+                2587, 
+                1971, 
+                1545, 
+                1057, 
+                3105, 
+                2016, 
+                304
+            ], 
+            "WBL": [
+                1668
+            ], 
+            "AM2F": [
+                912
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2, 
+            14
+        ], 
+        "sentence": "- the replacable battery is great since once it eventually wear out ( as all lithium battery do ) , you will be able to buy another easily ."
+    }, 
+    "f53180de30a7308dfce4f7c6df47edae": {
+        "(4, 2)": {
+            "AM2L": [
+                2844
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                2379
+            ], 
+            "BM1L": [
+                1179
+            ], 
+            "AM2F": [
+                507
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "first , the battery is replacable by the user , because creative intended it to be - unlike apple with the ipod ."
+    }, 
+    "00678fc65cf74c7bbfb5bf91f2796a34": {
+        "(15, 5)": {
+            "WBF": [
+                1643
+            ], 
+            "AM2L": [
+                1072
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                2379
+            ], 
+            "BM1L": [
+                1072
+            ], 
+            "WBO": [
+                1541, 
+                1072, 
+                2844, 
+                1112, 
+                2842, 
+                2844
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            5, 
+            13
+        ], 
+        "(15, 13)": {
+            "AM2L": [
+                1072
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                379
+            ], 
+            "M2": [
+                2379
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the sound is excellent , the battery life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent ."
+    }
+}

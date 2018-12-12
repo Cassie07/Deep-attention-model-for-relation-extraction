@@ -1,0 +1,31 @@
+{
+    "398cb319769bddd6c91cb1051d7c2e26": {
+        "(11, 12)": {
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                448
+            ], 
+            "BM1L": [
+                2255
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "this makes no sense and sort of defeat the purpose of audio bookmark .. ."
+    }
+}

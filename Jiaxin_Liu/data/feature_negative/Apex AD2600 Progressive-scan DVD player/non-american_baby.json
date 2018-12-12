@@ -1,0 +1,43 @@
+{
+    "d1f50b170c43b383723518bc9faf225b": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            12
+        ], 
+        "(16, 12)": {
+            "WBF": [
+                298
+            ], 
+            "AM2L": [
+                961
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                351
+            ], 
+            "M2": [
+                1903
+            ], 
+            "BM1L": [
+                1576
+            ], 
+            "WBO": [
+                2886
+            ], 
+            "WBL": [
+                3097
+            ], 
+            "AM2F": [
+                2349
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "because of it 's hidden feature ( no macrovision , non-regional ) i keep this baby around to watch non-american region dvd 's ."
+    }
+}

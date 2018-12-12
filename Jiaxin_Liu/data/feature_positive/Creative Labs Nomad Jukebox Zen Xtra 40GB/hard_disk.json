@@ -1,0 +1,115 @@
+{
+    "2264f719eb82749d362e807f6f91259d": {
+        "(35, 28)": {
+            "WBF": [
+                2852
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1548
+            ], 
+            "M1": [
+                896
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                1241
+            ], 
+            "WBO": [
+                1855, 
+                381, 
+                727
+            ], 
+            "WBL": [
+                260
+            ], 
+            "AM2F": [
+                943
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            35
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "4 .the zen * store * data file , but does not allow a folder structure nor does it allow document to be opened or program to be launched from its disk ( they must be copied to another hard drive to be launched ) ."
+    }, 
+    "ca693a4c5df2c07f651e149646f822a6": {
+        "(11, 12)": {
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                177
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                896
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2628
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "transfer through window explorer - window recognizes the jukebox as an additional hard disk , so it allows you to simply drag and drop file from window explorer to a folder for the nomad ."
+    }, 
+    "595586dcd393895e2ca8c8a038c133b3": {
+        "location1": [
+            38
+        ], 
+        "location2": [
+            39
+        ], 
+        "(38, 39)": {
+            "AM2L": [
+                4
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1343
+            ], 
+            "M2": [
+                896
+            ], 
+            "BM1L": [
+                1915
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the zen does n't support folder so it is not really a storage device ; even with third party software that `` creates `` folder , document and program can 't be launched from the zen , so it is not a hard disk , it 's a storage device at best ."
+    }
+}

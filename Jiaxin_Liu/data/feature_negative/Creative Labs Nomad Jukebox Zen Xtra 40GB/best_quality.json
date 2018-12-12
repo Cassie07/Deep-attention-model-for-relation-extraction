@@ -1,0 +1,152 @@
+{
+    "7967db31bc77438a94a846ddeb630669": {
+        "(99, 49)": {
+            "WBF": [
+                658
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                3158, 
+                2844, 
+                3041, 
+                2771, 
+                131, 
+                1219, 
+                2844, 
+                286, 
+                1536, 
+                3015, 
+                253, 
+                1545, 
+                2710, 
+                3203, 
+                3158, 
+                1973, 
+                1951, 
+                2844, 
+                2750, 
+                2057, 
+                2048, 
+                1853, 
+                2527, 
+                2760, 
+                304, 
+                1861, 
+                1513, 
+                1951, 
+                225, 
+                2886, 
+                3018, 
+                2844, 
+                1550, 
+                2726, 
+                3129, 
+                1441, 
+                3203, 
+                1059, 
+                2130, 
+                2886, 
+                2071, 
+                1212, 
+                3204, 
+                1853, 
+                1541, 
+                507
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            99
+        ], 
+        "location2": [
+            49
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }, 
+    "bdc192fe7f1f8ae65e2026ddd253541b": {
+        "(16, 18)": {
+            "AM2L": [
+                264
+            ], 
+            "WBFL": [
+                2654
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "it 's really a shame , because otherwise , creative mp3 player are very good , and have the best sound quality of any player on the market ."
+    }, 
+    "8812abd94f2f4829367b5c99303eebd1": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            17
+        ], 
+        "(15, 17)": {
+            "AM2L": [
+                2851
+            ], 
+            "WBFL": [
+                2654
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all review i 've seen seem to indicate that the creative mp3 jukebox have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) ."
+    }
+}

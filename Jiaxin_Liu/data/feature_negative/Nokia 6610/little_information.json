@@ -1,0 +1,50 @@
+{
+    "60918d91db20f0758f77fc85122e79da": {
+        "(4, 16)": {
+            "WBF": [
+                787
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                1493
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "WBO": [
+                1143, 
+                1856, 
+                1141, 
+                402, 
+                2844, 
+                1264, 
+                253, 
+                2844
+            ], 
+            "WBL": [
+                2092
+            ], 
+            "AM2F": [
+                1729
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "it has lot of little cute feature , my favorite being the game and the pim ( personal information manager -- i.e . organizer ) , and the radio !"
+    }
+}

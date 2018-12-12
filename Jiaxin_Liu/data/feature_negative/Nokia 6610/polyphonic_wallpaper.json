@@ -1,0 +1,37 @@
+{
+    "285382587275bb6699276d5b9ea9c3ab": {
+        "(8, 6)": {
+            "AM2L": [
+                2942
+            ], 
+            "WBFL": [
+                253
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                3084
+            ], 
+            "M2": [
+                2156
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "AM2F": [
+                2793
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "it comes equipped with lot of wallpaper and polyphonic sweet tune ."
+    }
+}

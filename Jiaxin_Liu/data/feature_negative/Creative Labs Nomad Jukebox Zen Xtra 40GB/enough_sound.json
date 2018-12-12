@@ -1,0 +1,99 @@
+{
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "location1": [
+            28
+        ], 
+        "location2": [
+            10
+        ], 
+        "(28, 10)": {
+            "WBF": [
+                985
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1030
+            ], 
+            "BM1L": [
+                1545
+            ], 
+            "WBO": [
+                2886, 
+                3018, 
+                1055, 
+                2862, 
+                1429, 
+                206, 
+                2842, 
+                2844, 
+                2631, 
+                3094, 
+                1859, 
+                5, 
+                2844, 
+                413
+            ], 
+            "WBL": [
+                1377
+            ], 
+            "AM2F": [
+                2644
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }, 
+    "6215fd62148ab8893a49df9183f109ed": {
+        "(9, 2)": {
+            "WBF": [
+                1024
+            ], 
+            "AM2L": [
+                1752
+            ], 
+            "BM1F": [
+                988
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1030
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                1143, 
+                863, 
+                1859
+            ], 
+            "WBL": [
+                912
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the eax sound enhancement feature did n't do enough for me and the custom eq was a limited 5 band eq ."
+    }
+}

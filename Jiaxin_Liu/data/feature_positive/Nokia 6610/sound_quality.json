@@ -1,0 +1,258 @@
+{
+    "e5530a413b6c717bbc2f6d1ede7c1ead": {
+        "(1, 2)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                2654
+            ], 
+            "BM1F": [
+                1072
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                2260
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "- excellent sound quality"
+    }, 
+    "c08ffc6c0204ff4421d6802f9f85c134": {
+        "(3, 4)": {
+            "AM2L": [
+                2899
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                2319
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "the reception and sound quality are top-notch ."
+    }, 
+    "37a84a72000588d4bc0ae8bef4295a66": {
+        "(1, 2)": {
+            "AM2L": [
+                1072
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2260
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the sound quality is excellent , except , maybe a * tad * too quiet at time when there are quieter talker on the other end of the line ."
+    }, 
+    "867e0d28796d18caa886b83e1e446570": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                251
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                3120
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "while i had the phone , the positive feature were : good sound quality and an excellent fm phone and earpiece ."
+    }, 
+    "744f525296a4d9c08aa0fe2e19b27dba": {
+        "(5, 6)": {
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1328
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "nokias have always had good sound quality and this is no exception ."
+    }, 
+    "f5cbb3d03ebbfc0942b32ad9a8187168": {
+        "(5, 6)": {
+            "BM1F": [
+                2769
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the radio feature has superb sound quality ."
+    }, 
+    "66e182597a414b07d8bf1b3a941514eb": {
+        "(11, 12)": {
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "however , the main problem that i think is the with the sound quality ."
+    }, 
+    "6f9adbe48884c146062517217a8d680d": {
+        "(3, 4)": {
+            "AM2L": [
+                1313
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "the phone 's sound quality is great ( turn up the volume if its too quiet , people , this thing will get loud ) i dont have any complaint about this phone and the only thing that i miss from my 8290 is voice dialing ."
+    }
+}

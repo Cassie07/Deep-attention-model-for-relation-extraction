@@ -1,0 +1,116 @@
+{
+    "1a0d68ac376b768e92b8dca25c428ee4": {
+        "(21, 19)": {
+            "AM2L": [
+                1441
+            ], 
+            "WBFL": [
+                2244
+            ], 
+            "BM1F": [
+                1094
+            ], 
+            "M1": [
+                2530
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                329
+            ], 
+            "AM2F": [
+                2098
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            19, 
+            33
+        ], 
+        "(21, 33)": {
+            "WBF": [
+                2098
+            ], 
+            "BM1F": [
+                2244
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2530
+            ], 
+            "BM1L": [
+                2530
+            ], 
+            "WBO": [
+                1441, 
+                3203, 
+                912, 
+                1859, 
+                5, 
+                3085, 
+                2886, 
+                455
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "1 ) slr like programming and exposure control gives you latitude to be creative , yet its progam and auto exposure setting provide excellent photo if you do n't want to bother with the setting ."
+    }, 
+    "3797f31b7e658ca2289e807be4ce0066": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            11
+        ], 
+        "(20, 11)": {
+            "WBF": [
+                2300
+            ], 
+            "AM2L": [
+                2098
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2530
+            ], 
+            "M2": [
+                1072
+            ], 
+            "BM1L": [
+                1279
+            ], 
+            "WBO": [
+                2886, 
+                2557, 
+                1429, 
+                3094, 
+                133
+            ], 
+            "WBL": [
+                2219
+            ], 
+            "AM2F": [
+                2719
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "by cocking the shutter to the halfway position and getting the setting ready to shoot , i was able to produce excellent stopaction photo -- contrary to what other reviewer experienced ."
+    }
+}

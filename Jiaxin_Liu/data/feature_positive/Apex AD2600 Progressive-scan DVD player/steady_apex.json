@@ -1,0 +1,40 @@
+{
+    "75a1c2102d97efb4fbb45ac6e92cc92c": {
+        "(6, 1)": {
+            "WBF": [
+                53
+            ], 
+            "AM2L": [
+                1212
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                275
+            ], 
+            "M2": [
+                2706
+            ], 
+            "WBO": [
+                1351
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2086
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the apex 2600 has been a steady performer for me ."
+    }
+}

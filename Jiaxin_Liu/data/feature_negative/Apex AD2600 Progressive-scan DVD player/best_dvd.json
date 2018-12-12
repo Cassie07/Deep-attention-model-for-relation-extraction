@@ -1,0 +1,205 @@
+{
+    "291b89defbbe4a497ff51c7d8d63f47c": {
+        "(3, 8)": {
+            "WBF": [
+                580
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2260
+            ], 
+            "WBL": [
+                1212
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "apex is the best cheap quality brand for dvd player ."
+    }, 
+    "d8105077a4434e718fee25bbe1966b63": {
+        "(24, 6)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1489
+            ], 
+            "M1": [
+                961
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBO": [
+                2842, 
+                1328, 
+                1829, 
+                2840, 
+                2844, 
+                2694, 
+                2529, 
+                1951, 
+                1143, 
+                253, 
+                2859, 
+                1546, 
+                2499, 
+                2886
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "i looked into buying an inexpensive dvd player that had more than the standard set of feature and this item seemed to be the best in that category ."
+    }, 
+    "192d1feac80f1b657136f3ef38389d3c": {
+        "(3, 4)": {
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "this is the best dvd player i 've purchased ."
+    }, 
+    "862e0d8256d5175b4c962e3c6454f2af": {
+        "(5, 6)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "i think , apex is the best dvd player you can get for the price ."
+    }, 
+    "31aa5c3f5d31378b6c3d2a52028a86f5": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            5
+        ], 
+        "(10, 5)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                2850
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                961
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                920
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2016
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "but , dollar for dollar , this dvd player is probably the best out there ."
+    }
+}

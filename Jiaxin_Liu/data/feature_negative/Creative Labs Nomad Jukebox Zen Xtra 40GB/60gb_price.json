@@ -1,0 +1,48 @@
+{
+    "ad451383a8f52970863fb60b1cd69f44": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            10
+        ], 
+        "(20, 10)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                107
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                130, 
+                63, 
+                1282, 
+                1536, 
+                3203, 
+                522
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1901
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "for some this might be a problem , but for the price of a 30 gig ipod , you can get a 60gb nomad , the ipod simply pale in comparison ."
+    }
+}

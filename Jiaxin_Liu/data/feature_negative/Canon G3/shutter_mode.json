@@ -1,0 +1,135 @@
+{
+    "075cbfa6d23b531fc7100bc9ad7dcd00": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            2
+        ], 
+        "(14, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1731
+            ], 
+            "M1": [
+                1814
+            ], 
+            "M2": [
+                2570
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                985, 
+                2886, 
+                3018, 
+                3158, 
+                1136, 
+                146, 
+                1212, 
+                2844
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                2674
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the manual mode is easy to use with fast access for the selection of shutter speed and aperture without having to fumble through menu option ."
+    }, 
+    "1f8107d369d0a9aff676c54f789d4256": {
+        "(17, 21)": {
+            "WBF": [
+                2212
+            ], 
+            "BM1F": [
+                2212
+            ], 
+            "M1": [
+                2570
+            ], 
+            "M2": [
+                1814
+            ], 
+            "BM1L": [
+                274
+            ], 
+            "WBO": [
+                253
+            ], 
+            "WBL": [
+                1731
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "the camera is a dream to operate in automode , but also gives tremendous flexibility in aperture priority , shutter priority , and manual mode ."
+    }, 
+    "be379679dac602b9b58a047cfe52bfb9": {
+        "(10, 24)": {
+            "WBF": [
+                2212
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2502
+            ], 
+            "M1": [
+                2570
+            ], 
+            "M2": [
+                1814
+            ], 
+            "BM1L": [
+                522
+            ], 
+            "WBO": [
+                1212, 
+                1387, 
+                2674, 
+                2752, 
+                274, 
+                2212, 
+                1212, 
+                1202, 
+                1630, 
+                1998
+            ], 
+            "WBL": [
+                2226
+            ], 
+            "AM2F": [
+                3126
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "with a quick spin of the dial you can select shutter priority ( for high speed subject ) , aperture priority ( for focal length ) or full program mode where the camera selects both for ideal photo quality ."
+    }
+}

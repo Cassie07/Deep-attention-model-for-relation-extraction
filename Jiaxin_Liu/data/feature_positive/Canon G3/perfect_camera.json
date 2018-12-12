@@ -1,0 +1,75 @@
+{
+    "f4d33ef7024c0c93baef74d60978635e": {
+        "(3, 4)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2083
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "this is the perfect camera for a photo hobbiest who wants to have easy point and shoot ability as well ."
+    }, 
+    "e4e579de7f6a6a60872e54f2bea20df1": {
+        "(5, 1)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                2083
+            ], 
+            "WBO": [
+                624
+            ], 
+            "WBL": [
+                2886
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this camera is closest to perfect than any other digicam that is 4-5 megapixel ."
+    }
+}

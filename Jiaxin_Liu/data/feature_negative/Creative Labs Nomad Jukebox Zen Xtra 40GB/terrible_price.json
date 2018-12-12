@@ -1,0 +1,37 @@
+{
+    "3fd077cfdb53680671d6b273e8b56c20": {
+        "(8, 6)": {
+            "AM2L": [
+                2842
+            ], 
+            "WBFL": [
+                3158
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                2835
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be ."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "ac35a2b46c21e2344be10bb8fcaad509": {
+        "(29, 22)": {
+            "WBF": [
+                1212
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1042
+            ], 
+            "M2": [
+                419
+            ], 
+            "BM1L": [
+                183
+            ], 
+            "WBO": [
+                3203, 
+                3129, 
+                522
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1353
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "the included eax support is useful at time , especially when you listen to a variety of genre , as it will adjust the equalizer for you which can be a big hassle ."
+    }
+}

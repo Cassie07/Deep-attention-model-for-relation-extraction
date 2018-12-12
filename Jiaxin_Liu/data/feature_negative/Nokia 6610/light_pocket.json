@@ -1,0 +1,80 @@
+{
+    "86fbc0120dc9e7b25d672355dc9d3046": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            7
+        ], 
+        "(20, 7)": {
+            "WBF": [
+                3203
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                2150
+            ], 
+            "M2": [
+                1644
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                1215, 
+                1545, 
+                1541, 
+                2850, 
+                1545, 
+                1541, 
+                2967, 
+                2615, 
+                253
+            ], 
+            "WBL": [
+                2628
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "when you put this phone in your pocket you forget it is there ; it is unbelievably small and oh , so light ."
+    }, 
+    "10bcb3bda84444e8fa4320cb8f64d4a5": {
+        "(3, 8)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                1103
+            ], 
+            "M1": [
+                1644
+            ], 
+            "M2": [
+                2150
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                902
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "it is extremely light and dissapears in your pocket ."
+    }
+}

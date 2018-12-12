@@ -1,0 +1,698 @@
+{
+    "c17dc1715e1475263f7052f45d238a95": {
+        "(3, 2)": {
+            "AM2L": [
+                1634
+            ], 
+            "BM1F": [
+                2615
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2025
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "overall : small , sound great , and less expensive than apple 's overpriced ipod !"
+    }, 
+    "15c31085c6c71aeacffc1df322ba7655": {
+        "(6, 7)": {
+            "BM1F": [
+                2021
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the player is intuitive and output great sound quality ."
+    }, 
+    "92198989402e17a45ecbf5ef78c65e91": {
+        "(0, 1)": {
+            "AM2L": [
+                1685
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2654
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3052
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(26, 1)": {
+            "WBF": [
+                3052
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                1685, 
+                379, 
+                1643, 
+                1429, 
+                2445, 
+                2136, 
+                1545, 
+                1212, 
+                17, 
+                1422, 
+                3052, 
+                1136, 
+                2325, 
+                2285, 
+                2368, 
+                379, 
+                2725, 
+                2595, 
+                1886, 
+                2479, 
+                1178
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2204
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            0, 
+            26
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hour ) , very fast recharges rate , removable battery , storage size , nice screen , firmware update , and great price ."
+    }, 
+    "00562a00a0ab2c377658f1ccf279b3bb": {
+        "(0, 1)": {
+            "AM2L": [
+                1522
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2654
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1300
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great sound ; good interface ; replaceable , powerful battery ; good software ; wake-up , sleep timer ; multiple play mode"
+    }, 
+    "68dfe1e6439e1d2fafdd1dcf2ce1d498": {
+        "(3, 1)": {
+            "AM2L": [
+                2844
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1313
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the sound is great , and the volume is more than satisfactory for commute and shutting out external noise ."
+    }, 
+    "2f0c579001ddf9a71892e54a7ae11a15": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            3
+        ], 
+        "(4, 3)": {
+            "AM2L": [
+                1300
+            ], 
+            "BM1F": [
+                3194
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                3210
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the zen xtra sound great with good headphone and well recored mp3s ."
+    }, 
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(11, 9)": {
+            "AM2L": [
+                1685
+            ], 
+            "WBFL": [
+                2260
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2853
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "(9, 10)": {
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                1302
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                985
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }, 
+    "97c7ba01b8d251276d4c9b11594e1473": {
+        "(11, 1)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                539
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                1541, 
+                1132, 
+                553, 
+                2260, 
+                253, 
+                1545
+            ], 
+            "WBL": [
+                2304
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the sound quality is fantastic ( cd quality ) and it is really great to carry this around instead of stack of cd 's or tape !"
+    }, 
+    "68a9b8ffda36ad44922fd9094de3d7c5": {
+        "(29, 30)": {
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5, 
+            29
+        ], 
+        "location2": [
+            30
+        ], 
+        "(5, 30)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                2842, 
+                433, 
+                2844, 
+                1431, 
+                343, 
+                3158, 
+                985, 
+                2886, 
+                3018, 
+                253, 
+                2976, 
+                1143, 
+                2631, 
+                2842, 
+                1541, 
+                2583, 
+                2886, 
+                2976, 
+                253, 
+                3018, 
+                253
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "all in all this a great player that blow the i-pod away , with easy to use and understand feature , software that is simple to understand and use , and a great sound ( which is all that matter in a mp3 player ) ."
+    }, 
+    "8121831049060e4e814eb90a284743c5": {
+        "(12, 13)": {
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2204
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1724
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }, 
+    "370f2f08bb8ba98db88f94c031ba3f60": {
+        "(6, 22)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2654
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBO": [
+                233, 
+                1351, 
+                1737, 
+                1996, 
+                1648, 
+                2611, 
+                1998, 
+                2675, 
+                3006, 
+                2844, 
+                1853, 
+                1998
+            ], 
+            "WBL": [
+                1545
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            5, 
+            22
+        ], 
+        "(6, 5)": {
+            "AM2L": [
+                233
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1136
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1545
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the player is fast and sound great , it also has many option like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium ."
+    }, 
+    "0908662baf8f85d175cd9e342db17d3e": {
+        "(3, 1)": {
+            "AM2L": [
+                3158
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1313
+            ], 
+            "AM2F": [
+                1055
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the sound is great even with the supplied earbuds -- but i find earbuds uncomfortable so i use different headphone ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "location1": [
+            42
+        ], 
+        "location2": [
+            43
+        ], 
+        "(42, 43)": {
+            "AM2L": [
+                1551
+            ], 
+            "BM1F": [
+                502
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2484
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "b119b00ce9abadfc9d962e0350c310c1": {
+        "(19, 0)": {
+            "WBF": [
+                2260
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                3094, 
+                1300, 
+                501, 
+                1545, 
+                3094, 
+                1298, 
+                2886, 
+                2812, 
+                2637, 
+                2950, 
+                3158, 
+                2530, 
+                2886, 
+                2940, 
+                2886
+            ], 
+            "WBL": [
+                1545
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "+ / - sound quality was good but it was going to take some tweakings with setting to try to make it great ."
+    }, 
+    "3bf21a4b29d090cbd158c4195701fcd2": {
+        "(1, 2)": {
+            "AM2L": [
+                2577
+            ], 
+            "BM1F": [
+                9
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2654
+            ], 
+            "AM2F": [
+                127
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "1 ) great sound ( > 98db signal-to-noise ratio beat ipod 's `` unspecified `` ratio ) and good power output allow the zen xtra to drive large head-phones as well as external speaker ."
+    }
+}

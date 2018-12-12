@@ -1,0 +1,43 @@
+{
+    "ba92443cb9a6e3b3c3a9255183b1c671": {
+        "(10, 7)": {
+            "WBF": [
+                3120
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1978
+            ], 
+            "M1": [
+                1318
+            ], 
+            "M2": [
+                345
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                2861
+            ], 
+            "WBL": [
+                2861
+            ], 
+            "AM2F": [
+                978
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "also , the sound is wonderful ... my only gripe were those aweful earphone that this came with ."
+    }
+}

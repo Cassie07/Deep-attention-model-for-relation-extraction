@@ -1,0 +1,94 @@
+{
+    "44d22a9ad796160bb6beb7100f6b8152": {
+        "location1": [
+            15
+        ], 
+        "location2": [
+            29
+        ], 
+        "(15, 29)": {
+            "WBF": [
+                3176
+            ], 
+            "BM1F": [
+                2644
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                423
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                2840, 
+                3160, 
+                1545, 
+                1429, 
+                1014, 
+                1856, 
+                2644, 
+                316, 
+                33, 
+                1574
+            ], 
+            "WBL": [
+                3036
+            ], 
+            "AM2F": [
+                2285
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the environmental audio , however , is almost completely useless and has made most of my song sound worse than without it ( i encode my song at 192-256 kbps without variable bit rate . )"
+    }, 
+    "f744e4fb9058b980763743190fc727d9": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            13
+        ], 
+        "(4, 13)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2771
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                423
+            ], 
+            "BM1L": [
+                442
+            ], 
+            "WBO": [
+                2840, 
+                2844, 
+                1536, 
+                1425, 
+                1545
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the zx boast superior sound quality than the ipod , however it compromise a bit of the unit 's size in doing so ."
+    }
+}

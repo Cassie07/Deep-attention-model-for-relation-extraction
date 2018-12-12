@@ -1,0 +1,40 @@
+{
+    "862e0d8256d5175b4c962e3c6454f2af": {
+        "(5, 13)": {
+            "WBF": [
+                961
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2139, 
+                3203, 
+                522, 
+                1277
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "i think , apex is the best dvd player you can get for the price ."
+    }
+}

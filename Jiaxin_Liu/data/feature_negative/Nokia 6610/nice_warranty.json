@@ -1,0 +1,44 @@
+{
+    "907a71d6c58acc8a9c22afee0469cda1": {
+        "(4, 10)": {
+            "WBF": [
+                2097
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                3091
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                501, 
+                2850
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "this is a very nice phone , but there is no warranty on it ."
+    }
+}

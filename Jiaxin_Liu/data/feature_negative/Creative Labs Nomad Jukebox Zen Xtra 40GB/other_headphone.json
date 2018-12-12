@@ -1,0 +1,43 @@
+{
+    "a88ee172e70d1886ca28bcf0b5ba1d06": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            6
+        ], 
+        "(3, 6)": {
+            "WBF": [
+                2417
+            ], 
+            "AM2L": [
+                3022
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1366
+            ], 
+            "BM1L": [
+                1772
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "as mentioned in other review the headphone are useless and need to be replaced right away !"
+    }
+}

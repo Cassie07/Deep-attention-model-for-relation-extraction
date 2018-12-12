@@ -1,0 +1,38 @@
+{
+    "2cda4bc7420f9d9ce26921a41fbe9f75": {
+        "(0, 6)": {
+            "WBF": [
+                2100
+            ], 
+            "AM2L": [
+                1450
+            ], 
+            "M1": [
+                189
+            ], 
+            "M2": [
+                715
+            ], 
+            "WBO": [
+                3145, 
+                1165
+            ], 
+            "WBL": [
+                765
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "advanced photobugs will find more creative control than imaginable ."
+    }
+}

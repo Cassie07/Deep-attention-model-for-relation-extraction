@@ -1,0 +1,41 @@
+{
+    "05b005a587509a9b418bc7b414f03e1b": {
+        "(19, 13)": {
+            "WBF": [
+                1967
+            ], 
+            "BM1F": [
+                1079
+            ], 
+            "M1": [
+                2141
+            ], 
+            "M2": [
+                2368
+            ], 
+            "BM1L": [
+                1818
+            ], 
+            "WBO": [
+                2844, 
+                1199
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                379
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "pro : huge storage capacity for the price , easy to navigate , can modify existing playlist on the fly , has a removable battery"
+    }
+}

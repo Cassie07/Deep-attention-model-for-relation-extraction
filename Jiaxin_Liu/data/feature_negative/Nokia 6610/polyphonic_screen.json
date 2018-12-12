@@ -1,0 +1,42 @@
+{
+    "66c96d417bca7af0fbf9a1d25d7bf577": {
+        "(9, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                635
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                2156
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                130, 
+                2149, 
+                304
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2431
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the color screen is a plus , as are the polyphonic ringtones ."
+    }
+}

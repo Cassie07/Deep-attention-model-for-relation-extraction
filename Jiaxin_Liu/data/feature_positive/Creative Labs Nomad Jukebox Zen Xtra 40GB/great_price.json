@@ -1,0 +1,369 @@
+{
+    "25d13607a3d0abce285789e09dc8ffa6": {
+        "(2, 5)": {
+            "WBF": [
+                2221
+            ], 
+            "BM1F": [
+                1655
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                457
+            ], 
+            "WBO": [
+                2966
+            ], 
+            "WBL": [
+                2966
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "bottom line ... great product , unbeatable price ."
+    }, 
+    "6bcac49498fd30b88131b83404d6bfaf": {
+        "(11, 19)": {
+            "WBF": [
+                1143
+            ], 
+            "BM1F": [
+                2260
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                1685, 
+                379, 
+                1643, 
+                253
+            ], 
+            "WBL": [
+                2966
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            19
+        ], 
+        "sentence": "our special friend at creative gave this thing good sound quality , great feature , long battery life , and an unbeatable price ."
+    }, 
+    "92198989402e17a45ecbf5ef78c65e91": {
+        "(0, 27)": {
+            "WBF": [
+                2654
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2204
+            ], 
+            "WBO": [
+                3052, 
+                1685, 
+                379, 
+                1643, 
+                1429, 
+                2445, 
+                2136, 
+                1545, 
+                1212, 
+                17, 
+                1422, 
+                3052, 
+                1136, 
+                2325, 
+                2285, 
+                2368, 
+                379, 
+                2725, 
+                2595, 
+                1886, 
+                2479, 
+                1178, 
+                3008
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0, 
+            26
+        ], 
+        "location2": [
+            27
+        ], 
+        "(26, 27)": {
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                3008
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "great sound , very long battery life ( i routinely play it for 12 + hour ) , very fast recharges rate , removable battery , storage size , nice screen , firmware update , and great price ."
+    }, 
+    "b9bfe35c56e22b2e41d54ff0d9f5e938": {
+        "location1": [
+            29
+        ], 
+        "location2": [
+            2
+        ], 
+        "(29, 2)": {
+            "WBF": [
+                2842
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBO": [
+                4, 
+                2712, 
+                1634, 
+                2840, 
+                1055, 
+                2844, 
+                1707, 
+                1638, 
+                1536, 
+                1429, 
+                3094, 
+                133, 
+                2886, 
+                1277, 
+                2859, 
+                84, 
+                1825, 
+                253, 
+                2844, 
+                413, 
+                2061, 
+                1541, 
+                1545
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "for a price that 's still less than even the lowest level ipod i was able to get this 40gb monster , and the best part is it work as great as it was advertised to and then some ."
+    }, 
+    "3fd077cfdb53680671d6b273e8b56c20": {
+        "(5, 6)": {
+            "AM2L": [
+                2835
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                316
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be ."
+    }, 
+    "867804e0f600290b55597fc61d92689b": {
+        "(0, 9)": {
+            "WBF": [
+                3035
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2204
+            ], 
+            "WBO": [
+                84, 
+                3075, 
+                11, 
+                1268, 
+                1536
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "- great value 40gb vs 10 gb ipod for the price"
+    }, 
+    "8121831049060e4e814eb90a284743c5": {
+        "(12, 10)": {
+            "AM2L": [
+                1724
+            ], 
+            "WBFL": [
+                253
+            ], 
+            "BM1F": [
+                1300
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                1064
+            ], 
+            "AM2F": [
+                2654
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "ive seen em all , the archos , dell , ipod , everything ... good price and great sound makes this one the best in my opinion ."
+    }, 
+    "9875f6fe729cc22fabf62ec61986b351": {
+        "(0, 1)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                2204
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "great price ."
+    }, 
+    "5e3b041ac6b9ad8129dd2adbb704bd4e": {
+        "(7, 1)": {
+            "WBF": [
+                658
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2204
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                2886, 
+                2844
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the price compared to the ipod is great ."
+    }
+}

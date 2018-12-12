@@ -1,0 +1,37 @@
+{
+    "c797f7ccd54badc9e0db79b7ce27861a": {
+        "(27, 28)": {
+            "AM2L": [
+                3139
+            ], 
+            "BM1F": [
+                2952
+            ], 
+            "M1": [
+                1721
+            ], 
+            "M2": [
+                1113
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            28
+        ], 
+        "sentence": "price , along with the replaceable battery ( which i understand apple charge a small fortune to replace - as well as the hassle of returning it ) were the two main factor on why i picked the nomad ."
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "1b4b8b00a1be6322acc0a3232c0e902d": {
+        "location1": [
+            21
+        ], 
+        "location2": [
+            14, 
+            24
+        ], 
+        "(21, 14)": {
+            "WBF": [
+                715
+            ], 
+            "AM2L": [
+                983
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                2584
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBO": [
+                3129, 
+                1541, 
+                1973
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(21, 24)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2584
+            ], 
+            "M2": [
+                2366
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                983
+            ], 
+            "WBL": [
+                983
+            ], 
+            "AM2F": [
+                715
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the progressive scan option can be turned off easily by a button on the remote control which is one of the simplest and easiest remote control i have ever seen or used ."
+    }
+}

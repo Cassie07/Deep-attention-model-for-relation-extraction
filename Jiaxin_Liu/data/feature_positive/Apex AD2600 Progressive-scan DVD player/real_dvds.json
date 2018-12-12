@@ -1,0 +1,31 @@
+{
+    "3f3779a73e73c8430f134c2c7dca084f": {
+        "(13, 14)": {
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                2301
+            ], 
+            "M2": [
+                966
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "forget about the sleek look if it can 't play some of your real dvds ."
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "a820ec8ce849643a61378f3b7b7ef1ec": {
+        "(11, 6)": {
+            "WBF": [
+                253
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1259
+            ], 
+            "M2": [
+                1829
+            ], 
+            "BM1L": [
+                2840
+            ], 
+            "WBO": [
+                2045
+            ], 
+            "WBL": [
+                1055
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "it 's slightly lighter than the g2 and packed with even more feature ."
+    }
+}

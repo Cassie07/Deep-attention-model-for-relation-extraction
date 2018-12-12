@@ -1,0 +1,34 @@
+{
+    "27f13efb1c6d5d29bb29db0c4901feed": {
+        "(1, 2)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1721
+            ], 
+            "M2": [
+                2215
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the main problem with the nomad jukebox zen xtra 30 gb is the software ."
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "7aba4051c00fd6801f9538e897377aed": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            5
+        ], 
+        "(13, 5)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                871
+            ], 
+            "BM1F": [
+                808
+            ], 
+            "M1": [
+                2595
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                2844, 
+                2182, 
+                1967, 
+                1952
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the keypad is a decent size , but the power on/off key is small and difficult to press ."
+    }, 
+    "fe5fec6558b2e30fcb5d27fdc47570d2": {
+        "(2, 0)": {
+            "AM2L": [
+                718
+            ], 
+            "WBFL": [
+                1103
+            ], 
+            "M1": [
+                2595
+            ], 
+            "M2": [
+                2615
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "size - extremely small and convenient will fit in your pocket and not bother you ."
+    }, 
+    "2ba94a2d6897c0dc29eaf3f1c90562af": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            15
+        ], 
+        "(14, 15)": {
+            "AM2L": [
+                1996
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M2": [
+                2595
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2666
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email ."
+    }, 
+    "13e3ad521538757c809d312f2b720148": {
+        "(9, 6)": {
+            "WBF": [
+                1915
+            ], 
+            "AM2L": [
+                2896
+            ], 
+            "BM1F": [
+                2083
+            ], 
+            "M1": [
+                2595
+            ], 
+            "M2": [
+                2615
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2896
+            ], 
+            "WBL": [
+                2896
+            ], 
+            "AM2F": [
+                1915
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "not only is it the perfect size ( not too small , not too large ) , it also has all the feature a high-tech phone user would want ."
+    }, 
+    "89e17bc3dd3643eef452c0b526b1397b": {
+        "(0, 1)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                2615
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                2595
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "small size ."
+    }
+}

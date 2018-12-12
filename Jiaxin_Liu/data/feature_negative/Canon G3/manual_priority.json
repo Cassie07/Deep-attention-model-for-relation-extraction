@@ -1,0 +1,160 @@
+{
+    "1f8107d369d0a9aff676c54f789d4256": {
+        "(20, 16)": {
+            "WBF": [
+                2570
+            ], 
+            "BM1F": [
+                274
+            ], 
+            "M1": [
+                2212
+            ], 
+            "M2": [
+                1731
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                2212
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                1814
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            20
+        ], 
+        "location2": [
+            16, 
+            18
+        ], 
+        "(20, 18)": {
+            "WBFL": [
+                253
+            ], 
+            "BM1F": [
+                2570
+            ], 
+            "M1": [
+                2212
+            ], 
+            "M2": [
+                1731
+            ], 
+            "BM1L": [
+                2212
+            ], 
+            "AM2F": [
+                1814
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the camera is a dream to operate in automode , but also gives tremendous flexibility in aperture priority , shutter priority , and manual mode ."
+    }, 
+    "41d67c7360f1eaff9b82be88ea00f3d7": {
+        "location1": [
+            29
+        ], 
+        "location2": [
+            12, 
+            14
+        ], 
+        "(29, 14)": {
+            "WBF": [
+                1644
+            ], 
+            "AM2L": [
+                2355
+            ], 
+            "BM1F": [
+                273
+            ], 
+            "M1": [
+                2212
+            ], 
+            "M2": [
+                1731
+            ], 
+            "BM1L": [
+                2212
+            ], 
+            "WBO": [
+                1782, 
+                185, 
+                1054, 
+                501, 
+                221, 
+                715, 
+                295, 
+                3115, 
+                2863, 
+                2016, 
+                253
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(29, 12)": {
+            "WBF": [
+                273
+            ], 
+            "AM2L": [
+                2355
+            ], 
+            "BM1F": [
+                2570
+            ], 
+            "M1": [
+                2212
+            ], 
+            "M2": [
+                1731
+            ], 
+            "BM1L": [
+                1996
+            ], 
+            "WBO": [
+                2212, 
+                1644, 
+                1782, 
+                185, 
+                1054, 
+                501, 
+                221, 
+                715, 
+                295, 
+                3115, 
+                2863, 
+                2016, 
+                253
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have yet to try using all of the adjustment option : shutter priority , aperature priority , light metering adjustment , etc . , but all control are well thought out and and the manual is relatively clear ."
+    }
+}

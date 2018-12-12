@@ -1,0 +1,43 @@
+{
+    "3bc4feba5ac935dba2cf5229f7485723": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            8
+        ], 
+        "(5, 8)": {
+            "WBF": [
+                1829
+            ], 
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2745
+            ], 
+            "M2": [
+                540
+            ], 
+            "BM1L": [
+                1620
+            ], 
+            "WBO": [
+                2239
+            ], 
+            "WBL": [
+                2239
+            ], 
+            "AM2F": [
+                541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "at the very least , a sturdier more protective carrying case would be nice ."
+    }
+}

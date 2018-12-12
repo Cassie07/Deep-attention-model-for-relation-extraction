@@ -1,0 +1,113 @@
+{
+    "feb7dcbbee6a06823c848eca7460da73": {
+        "(5, 1)": {
+            "WBF": [
+                2631
+            ], 
+            "BM1F": [
+                1474
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2157
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                2199
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "- included creative software is pretty poor ."
+    }, 
+    "ea590102fe54b3305e3c92c7f680c4d9": {
+        "(7, 0)": {
+            "WBF": [
+                3210
+            ], 
+            "AM2L": [
+                2775
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2157
+            ], 
+            "WBO": [
+                1146, 
+                2762, 
+                1241
+            ], 
+            "WBL": [
+                2260
+            ], 
+            "AM2F": [
+                2221
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "creative zen feedback suffers from construction quality , poor product support , difficulty of using the scroll wheel and reasonably consistent feedback about problem with the headphone jack ."
+    }, 
+    "9962a0395a42bef512fbadba4dcc1ee1": {
+        "location1": [
+            8
+        ], 
+        "location2": [
+            2
+        ], 
+        "(8, 2)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                2157
+            ], 
+            "BM1L": [
+                1146
+            ], 
+            "WBO": [
+                2221, 
+                2775
+            ], 
+            "WBL": [
+                2989
+            ], 
+            "AM2F": [
+                2859
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "feedback on creative 's product support is universally poor ; this is not limited to the zen , it applies to all the company 's product ."
+    }
+}

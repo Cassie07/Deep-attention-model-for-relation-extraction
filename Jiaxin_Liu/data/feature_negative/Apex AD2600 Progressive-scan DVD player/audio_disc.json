@@ -1,0 +1,31 @@
+{
+    "c82e6d350f624f918e300fffbbcad423": {
+        "(7, 8)": {
+            "BM1F": [
+                553
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                890
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "it will read and play all cd audio disc ."
+    }
+}

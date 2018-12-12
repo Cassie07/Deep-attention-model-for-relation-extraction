@@ -1,0 +1,53 @@
+{
+    "3e862711b9c6b61022e139ccc3d36f8a": {
+        "(17, 2)": {
+            "WBF": [
+                1814
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                329
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                1545, 
+                1252, 
+                374, 
+                304, 
+                130, 
+                2151, 
+                253, 
+                615, 
+                2844, 
+                2474, 
+                1814
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "in the auto mode it function basically as a point and click , the scene mode are very easy to use and produce good result ."
+    }
+}

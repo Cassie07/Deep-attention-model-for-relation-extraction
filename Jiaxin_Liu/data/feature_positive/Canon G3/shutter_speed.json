@@ -1,0 +1,142 @@
+{
+    "dfd88ca0008f555cb2ee50c9bc7364bd": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                1055
+            ], 
+            "BM1F": [
+                1107
+            ], 
+            "M1": [
+                2570
+            ], 
+            "M2": [
+                2674
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i love having the option to manually control the f-stop , shutter speed and even focus ."
+    }, 
+    "075cbfa6d23b531fc7100bc9ad7dcd00": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            15
+        ], 
+        "(14, 15)": {
+            "AM2L": [
+                274
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2570
+            ], 
+            "M2": [
+                2674
+            ], 
+            "BM1L": [
+                2505
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the manual mode is easy to use with fast access for the selection of shutter speed and aperture without having to fumble through menu option ."
+    }, 
+    "8125b34510fad206a46ff327585af3a6": {
+        "(23, 24)": {
+            "BM1F": [
+                2610
+            ], 
+            "M1": [
+                2570
+            ], 
+            "M2": [
+                2674
+            ], 
+            "BM1L": [
+                3026
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "the g3 is loaded with many useful feature , and unlike many smaller digital camera , it is easy to hold steady when using slower shutter speed ."
+    }, 
+    "be379679dac602b9b58a047cfe52bfb9": {
+        "(10, 14)": {
+            "WBF": [
+                2212
+            ], 
+            "AM2L": [
+                274
+            ], 
+            "BM1F": [
+                2502
+            ], 
+            "M1": [
+                2570
+            ], 
+            "M2": [
+                2674
+            ], 
+            "BM1L": [
+                522
+            ], 
+            "WBO": [
+                1212
+            ], 
+            "WBL": [
+                1387
+            ], 
+            "AM2F": [
+                2752
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "with a quick spin of the dial you can select shutter priority ( for high speed subject ) , aperture priority ( for focal length ) or full program mode where the camera selects both for ideal photo quality ."
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "87d3bee71401883dd97af2ad9bf28ae5": {
+        "location1": [
+            29
+        ], 
+        "location2": [
+            12
+        ], 
+        "(29, 12)": {
+            "WBF": [
+                1860
+            ], 
+            "BM1F": [
+                955
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                419
+            ], 
+            "BM1L": [
+                2637
+            ], 
+            "WBO": [
+                2886, 
+                1277, 
+                221, 
+                1856, 
+                1853, 
+                1967, 
+                1856, 
+                3210, 
+                3194, 
+                501, 
+                1545, 
+                3094, 
+                1859
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2215
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i did have to put a little work into renaming some duplicate file name to get all my music on my zen xtra but it was n't a big problem ."
+    }, 
+    "851613aef4dc3542de9dbdae5f08f0c4": {
+        "(7, 23)": {
+            "WBF": [
+                805
+            ], 
+            "AM2L": [
+                1208
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                1156
+            ], 
+            "BM1L": [
+                2304
+            ], 
+            "WBO": [
+                2886, 
+                1752, 
+                1074, 
+                1973, 
+                675, 
+                2842, 
+                917, 
+                257, 
+                1752, 
+                1541, 
+                2844, 
+                3100
+            ], 
+            "WBL": [
+                2726
+            ], 
+            "AM2F": [
+                1896
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "the con are n't really a big deal to me ... except one con that does annoy me is the way it store file ... no folder structure ... and it 's based on the title of the song ... many of my song where seperated into folder ( on the pc ) ... and a few had same title ... so i had to change the title to make sure that i did n't have any that might be the same as another ."
+    }, 
+    "e17e18380718fc3b0a9d1deacbd92ff8": {
+        "(10, 39)": {
+            "WBF": [
+                1191
+            ], 
+            "AM2L": [
+                1544
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                419
+            ], 
+            "M2": [
+                1156
+            ], 
+            "BM1L": [
+                744
+            ], 
+            "WBO": [
+                2842, 
+                2179, 
+                504, 
+                2565, 
+                381, 
+                3093, 
+                1951, 
+                253, 
+                221, 
+                2298, 
+                1874, 
+                2886, 
+                1589, 
+                134, 
+                130, 
+                2857, 
+                2065, 
+                2631, 
+                655, 
+                2842, 
+                2400, 
+                3064, 
+                221, 
+                1951, 
+                2844
+            ], 
+            "WBL": [
+                1758
+            ], 
+            "AM2F": [
+                2916
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            39
+        ], 
+        "sentence": "this player is an overall disappointment with a couple of big flaw that potential buyer should be wary of ; and all reader need to know about a third party software company that resolve virtually all of the creative mediasource file transfer issue ."
+    }
+}

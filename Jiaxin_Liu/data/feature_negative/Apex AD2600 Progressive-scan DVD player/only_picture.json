@@ -1,0 +1,202 @@
+{
+    "542d552b6a80169971106c0493d88457": {
+        "(18, 23)": {
+            "WBF": [
+                1302
+            ], 
+            "BM1F": [
+                1429
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                961
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6, 
+            18
+        ], 
+        "location2": [
+            23
+        ], 
+        "(6, 23)": {
+            "WBF": [
+                2220
+            ], 
+            "BM1F": [
+                1545
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                3006
+            ], 
+            "WBO": [
+                2654, 
+                130, 
+                553, 
+                2138, 
+                1168, 
+                501, 
+                3158, 
+                130, 
+                961, 
+                1429, 
+                1978, 
+                1302, 
+                2844
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "when i hooked it up it only produced sound - a cd played fine , but with a dvd i only got the audio - no picture !"
+    }, 
+    "0d0f8d64973f708c799e4e49d6909dfd": {
+        "location1": [
+            17
+        ], 
+        "location2": [
+            11
+        ], 
+        "(17, 11)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                3133
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBO": [
+                1973, 
+                1820
+            ], 
+            "WBL": [
+                1351
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "it sends discoutinous signal to tv , so the tv has the picture for one moment and has only the white noise for the other moment ."
+    }, 
+    "e4730539ff132950b9f794e6c42e8042": {
+        "(23, 11)": {
+            "WBF": [
+                1119
+            ], 
+            "AM2L": [
+                2859
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                1978
+            ], 
+            "BM1L": [
+                2878
+            ], 
+            "WBO": [
+                668, 
+                2496, 
+                2011, 
+                1876, 
+                2419, 
+                2987, 
+                3094, 
+                1859
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1973
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "it worked from 12-26 to 1-9 at which time the picture failed completely ( see other negative reviews-my unit was n't the only one this happened to . )"
+    }, 
+    "a66b194c44c2a5f041dfcb010cfe3532": {
+        "(2, 8)": {
+            "WBF": [
+                1368
+            ], 
+            "BM1F": [
+                522
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                2844, 
+                2654
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "i can only hear the sound but no picture !"
+    }
+}

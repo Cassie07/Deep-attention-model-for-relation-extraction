@@ -1,0 +1,45 @@
+{
+    "cd704648bf583767f520f7800329f7ce": {
+        "(3, 16)": {
+            "WBF": [
+                275
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2857
+            ], 
+            "M2": [
+                2204
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                2221, 
+                1429, 
+                6, 
+                458, 
+                253, 
+                2852, 
+                708, 
+                2886, 
+                1461
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "this is the third apex product i 've bought and they continue to impress for the price ."
+    }
+}

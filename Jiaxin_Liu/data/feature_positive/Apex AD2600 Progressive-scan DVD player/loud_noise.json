@@ -1,0 +1,37 @@
+{
+    "c6d4707ef2fab9972637895ce8590367": {
+        "(17, 20)": {
+            "WBF": [
+                890
+            ], 
+            "BM1F": [
+                1122
+            ], 
+            "M1": [
+                1699
+            ], 
+            "M2": [
+                1897
+            ], 
+            "BM1L": [
+                1328
+            ], 
+            "WBO": [
+                2680
+            ], 
+            "WBL": [
+                2680
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "seems to read most dvds fine , and read quietly ( i had a pioneer player that had fairly loud disc spin noise ) ."
+    }
+}

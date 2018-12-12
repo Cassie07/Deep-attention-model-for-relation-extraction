@@ -1,0 +1,37 @@
+{
+    "304f55c4c30167a6dd8bf365c2f321c6": {
+        "(27, 26)": {
+            "AM2L": [
+                1143
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                210
+            ], 
+            "M2": [
+                2229
+            ], 
+            "BM1L": [
+                1701
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2472
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "this dvd player play raw mpeg2 and mpeg1 video , jpeg , wma , cdr / cdrw / dvdr / dvdrw , and of course play dvd movie from uk . i love the aiff , progressive scan feature ."
+    }
+}

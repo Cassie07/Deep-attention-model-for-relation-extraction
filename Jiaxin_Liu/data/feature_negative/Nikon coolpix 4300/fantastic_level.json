@@ -1,0 +1,45 @@
+{
+    "113723c117c44d3f1da9fb6a41a2ac71": {
+        "(3, 16)": {
+            "WBF": [
+                3052
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1132
+            ], 
+            "M2": [
+                1638
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBO": [
+                653, 
+                520, 
+                3129, 
+                1718, 
+                3015, 
+                1086, 
+                2104, 
+                1967, 
+                130
+            ], 
+            "WBL": [
+                1882
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "over all a fantastic very compact camera , which made us experience photography on a totally new level !"
+    }
+}

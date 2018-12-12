@@ -1,0 +1,180 @@
+{
+    "be4b7903a9d098dd895e2eb70527204a": {
+        "(5, 6)": {
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2533
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "this has happened with several different dvd 's and occasionally if we keep trying something , it will work when it did not work one time before ."
+    }, 
+    "fe7e064c5f0fe9bf989fab990cc0ea99": {
+        "(27, 5)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                53
+            ], 
+            "M1": [
+                961
+            ], 
+            "M2": [
+                869
+            ], 
+            "BM1L": [
+                275
+            ], 
+            "WBO": [
+                1212, 
+                1858, 
+                316, 
+                598, 
+                386, 
+                1545, 
+                1302, 
+                1300, 
+                2417, 
+                304, 
+                130, 
+                1300, 
+                3035, 
+                1212, 
+                2844, 
+                1822, 
+                1967, 
+                130
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                2591
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            27
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "i bought this apex 2600 dvd player for myself at christmas because it got good review as a good value for the money on a variety of different site ."
+    }, 
+    "d1f5cf6191b3c90d8622b5f87670e411": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            21, 
+            23
+        ], 
+        "(10, 21)": {
+            "WBF": [
+                1156
+            ], 
+            "AM2L": [
+                961
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                229
+            ], 
+            "WBO": [
+                1648, 
+                1842, 
+                3162, 
+                553, 
+                1563, 
+                253, 
+                1592
+            ], 
+            "WBL": [
+                553
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(10, 23)": {
+            "WBF": [
+                1156
+            ], 
+            "AM2L": [
+                4
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                869
+            ], 
+            "M2": [
+                961
+            ], 
+            "BM1L": [
+                229
+            ], 
+            "WBO": [
+                1648, 
+                1842, 
+                3162, 
+                553, 
+                1563, 
+                253, 
+                1592, 
+                2112, 
+                553
+            ], 
+            "WBL": [
+                4
+            ], 
+            "AM2F": [
+                2272
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the cool thing about the ad-2600 it play alot of different file like mp3 , wma cd , jpeg and kodak picture cd , dvd 's , dvd - / + r 's ."
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "3dad728919e1b406d7295e3ca95a61fa": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            25
+        ], 
+        "(14, 25)": {
+            "WBF": [
+                746
+            ], 
+            "AM2L": [
+                2886
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1242
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                3129, 
+                1541, 
+                2813, 
+                1952, 
+                2886, 
+                1355, 
+                146
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2499
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the one other thing i observed while i had the nomad is that the front cover , which is taken off to have access to the battery , seemed to come undone very easily ."
+    }, 
+    "700f48300fa8def127637b87e04b7e68": {
+        "(7, 16)": {
+            "WBF": [
+                2135
+            ], 
+            "AM2L": [
+                381
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1242
+            ], 
+            "M2": [
+                379
+            ], 
+            "BM1L": [
+                2369
+            ], 
+            "WBO": [
+                253, 
+                2850, 
+                3094, 
+                1978, 
+                1973
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                738
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "it was easy enough to remove the front plate , and there was only one way the battery could be inserted ."
+    }, 
+    "16ac12ea22acb0865fbe839e4b386158": {
+        "(1, 10)": {
+            "WBF": [
+                746
+            ], 
+            "AM2L": [
+                1196
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1242
+            ], 
+            "M2": [
+                379
+            ], 
+            "WBO": [
+                3129, 
+                3203, 
+                2369, 
+                2886, 
+                2812
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1147
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the front cover ( which you remove to take out the battery ) feel flimsy but when snapped on , the device still feel pretty solid ."
+    }
+}

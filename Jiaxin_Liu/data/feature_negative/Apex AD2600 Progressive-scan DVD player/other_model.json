@@ -1,0 +1,37 @@
+{
+    "de26e922f5cfd35c976f25852b35be7d": {
+        "(13, 14)": {
+            "AM2L": [
+                6
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                1815
+            ], 
+            "BM1L": [
+                2861
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "its fast-forward and rewind work much more smoothly and consistently than those of other model i 've had ."
+    }
+}

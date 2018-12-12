@@ -1,0 +1,69 @@
+{
+    "1dc3740e06e3a4b6aef93300ba191638": {
+        "(13, 15)": {
+            "WBFL": [
+                1815
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2202
+            ], 
+            "M2": [
+                1899
+            ], 
+            "BM1L": [
+                2038
+            ], 
+            "AM2F": [
+                2097
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "navigating through the menus is super easy , especially if you have owned a previous model nokia phone ."
+    }, 
+    "ef6ad218bc4eef8f153f8382e40b1d89": {
+        "(9, 10)": {
+            "AM2L": [
+                3085
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2202
+            ], 
+            "M2": [
+                1899
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "the infrared is a blessing if you have a previous nokia and want to transfer your old phone book to this phone , saved me hour of re-entering my number ."
+    }
+}

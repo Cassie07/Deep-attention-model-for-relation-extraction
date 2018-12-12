@@ -1,0 +1,40 @@
+{
+    "bbdd399a8aa07bc878d531a293918676": {
+        "(15, 12)": {
+            "WBF": [
+                2045
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                3173
+            ], 
+            "M2": [
+                3166
+            ], 
+            "BM1L": [
+                2024
+            ], 
+            "WBO": [
+                3158
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "it is a great phone , if you are traveling all over the world , packed with wonderful feature ."
+    }
+}

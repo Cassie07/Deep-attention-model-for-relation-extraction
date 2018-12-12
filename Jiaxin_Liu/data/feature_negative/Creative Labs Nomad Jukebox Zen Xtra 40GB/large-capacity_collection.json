@@ -1,0 +1,50 @@
+{
+    "d8737e5e75f38be5112109d102d4da02": {
+        "(11, 23)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1603
+            ], 
+            "M2": [
+                633
+            ], 
+            "BM1L": [
+                3094
+            ], 
+            "WBO": [
+                3129, 
+                226, 
+                1752, 
+                2886, 
+                984, 
+                2136, 
+                264, 
+                216
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                3127
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            23
+        ], 
+        "sentence": "at the end of the day , what i wanted was a large-capacity player which allows me to easily play any album from my collection wherever i go , and the zen xtra 's combination of price , capacity and feature easily meet those criterion ."
+    }
+}

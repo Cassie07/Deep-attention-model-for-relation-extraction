@@ -1,0 +1,47 @@
+{
+    "c12383bb97c5145343b5078c02d465f5": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            13
+        ], 
+        "(1, 13)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                1859
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                715
+            ], 
+            "WBO": [
+                1429, 
+                3181, 
+                664, 
+                134, 
+                2844, 
+                3210, 
+                3194, 
+                1541
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the only thing i would complain about the zen xtra is that the control are n't as easy as the ipod 's , or as `` sexy `` looking ."
+    }
+}

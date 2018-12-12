@@ -1,0 +1,452 @@
+{
+    "2d02822aaf070b5602c867e2c6872e5d": {
+        "(8, 9)": {
+            "AM2L": [
+                2509
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "rather heavy for point and shoot but a great camera for semi pro ."
+    }, 
+    "ae0aed0b3b73dea5b4506576ff783dcc": {
+        "(5, 1)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                2149
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                525
+            ], 
+            "WBL": [
+                4
+            ], 
+            "AM2F": [
+                636
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this camera has canon 's great colorimetry , plus what you see in the lcd is what you get ."
+    }, 
+    "333e87ce30ba03bd6f411b6b04304e07": {
+        "(5, 1)": {
+            "WBF": [
+                233
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                1351
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1147
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "this camera also has a great feel and weight to it ."
+    }, 
+    "0edeb8de7afc625a933b4c41f00abaf8": {
+        "(17, 44)": {
+            "WBF": [
+                842
+            ], 
+            "BM1F": [
+                1529
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1295
+            ], 
+            "WBO": [
+                1468, 
+                2846, 
+                2417, 
+                501, 
+                1429, 
+                239, 
+                3052, 
+                2143, 
+                3158, 
+                2844, 
+                1143, 
+                2844, 
+                2674, 
+                2844, 
+                2112, 
+                2260, 
+                2844, 
+                1194, 
+                2844, 
+                337, 
+                253, 
+                2844, 
+                1253
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1955
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            44
+        ], 
+        "sentence": "i wo n't go into the detail here , as the online site ( stevesdigicams , dpreviews ) go into great depth in their review , but i am very pleased with the feature , the speed , the picture quality , the flexibility , the automation , and the functional convenience this camera offer ."
+    }, 
+    "2234865f706759eb5217c759c1c4ca1e": {
+        "(3, 4)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "this is a great camera for you !"
+    }, 
+    "d0b638f07549767cb3b25c3f2d07ce93": {
+        "(5, 6)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "the powershot g3 is a great camera ."
+    }, 
+    "c011703935a9bcb4fe2a8bf0e1e00a40": {
+        "(6, 4)": {
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "everything else about the camera is great ."
+    }, 
+    "d5ff58c43fef03e404437a12b2520326": {
+        "(9, 11)": {
+            "WBFL": [
+                1669
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "i can 't write enough positive thing about this great little camera !"
+    }, 
+    "c014bc886849ad4649bc5b4f66967a90": {
+        "(2, 3)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                823
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "definetely a great camera ."
+    }, 
+    "ea03c1eca4f4843d18fa28fa8e577b5c": {
+        "(25, 17)": {
+            "WBF": [
+                985
+            ], 
+            "AM2L": [
+                1615
+            ], 
+            "BM1F": [
+                102
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                135
+            ], 
+            "WBO": [
+                2886, 
+                2976, 
+                253, 
+                3018
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2796
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            25, 
+            38
+        ], 
+        "location2": [
+            17
+        ], 
+        "(38, 17)": {
+            "WBF": [
+                985
+            ], 
+            "AM2L": [
+                1915
+            ], 
+            "BM1F": [
+                102
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                135
+            ], 
+            "WBO": [
+                2886, 
+                2976, 
+                253, 
+                3018, 
+                1351, 
+                130, 
+                1313, 
+                2796, 
+                1615, 
+                2479, 
+                130, 
+                1698, 
+                1951, 
+                1143, 
+                253, 
+                173, 
+                1996
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                2631
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "4mp , 4x optical zoom , takes absolutely beautiful photo with detail that challenge all of the above 5mp camera , easy to understand and use ( has a great swivel lcd screen ) , a lot of feature and add-on option , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumb up ! )"
+    }, 
+    "17ea77f8baef8743561f50cf960f3ff5": {
+        "(10, 7)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                2813
+            ], 
+            "WBO": [
+                1500
+            ], 
+            "WBL": [
+                1500
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "in term of the shot taken , this camera is insanely great !"
+    }
+}

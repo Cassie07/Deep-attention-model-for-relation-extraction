@@ -1,0 +1,40 @@
+{
+    "48452b00f56fb6ca13348ad1d92debd5": {
+        "(1, 5)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                348
+            ], 
+            "WBO": [
+                1197
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "the remote is flimsy-feeling and awkward to use ."
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "7514d5166ea3e0be58f2730e04aeb499": {
+        "(7, 8)": {
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1703
+            ], 
+            "M2": [
+                1016
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "i was a little disappointed in the low end ."
+    }
+}

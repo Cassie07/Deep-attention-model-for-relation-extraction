@@ -1,0 +1,42 @@
+{
+    "83e9f5a06e9e14fe2fc55a1563f15ee0": {
+        "(10, 0)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "M1": [
+                132
+            ], 
+            "M2": [
+                326
+            ], 
+            "WBO": [
+                2136, 
+                1832, 
+                894, 
+                1429, 
+                2932, 
+                961
+            ], 
+            "WBL": [
+                962
+            ], 
+            "AM2F": [
+                553
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            0
+        ], 
+        "sentence": "ability to play most discs - i tried dvd , vcd , dvd-r , audio cd and it played all"
+    }
+}

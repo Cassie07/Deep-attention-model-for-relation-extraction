@@ -1,0 +1,47 @@
+{
+    "ada231d490de7ffd5bb32453d86341b0": {
+        "(10, 25)": {
+            "WBF": [
+                1429
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2150
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1753, 
+                1545, 
+                1788, 
+                381, 
+                130, 
+                1669, 
+                419, 
+                501, 
+                1545, 
+                2712, 
+                1181
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            25
+        ], 
+        "sentence": "well i have to say that this product is very good i mean it might be a little big but it still fit in your pocket ."
+    }
+}

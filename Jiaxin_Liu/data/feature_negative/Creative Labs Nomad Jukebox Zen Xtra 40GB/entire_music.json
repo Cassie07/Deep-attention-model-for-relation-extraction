@@ -1,0 +1,43 @@
+{
+    "39e04a3877da6e2dd43afd9b1587c5f3": {
+        "(6, 9)": {
+            "WBF": [
+                633
+            ], 
+            "AM2L": [
+                1542
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1036
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                1674
+            ], 
+            "WBO": [
+                1951
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                3129
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "huge storage space , i loaded my entire collection of music , which isnt that much , 400 song , and still have 26 gb , out of the 28 provided to you ."
+    }
+}

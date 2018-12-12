@@ -1,0 +1,77 @@
+{
+    "f774d50a8c6d2e482b4e764362bf0ccb": {
+        "(9, 16)": {
+            "WBF": [
+                1448
+            ], 
+            "AM2L": [
+                1241
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                1765
+            ], 
+            "BM1L": [
+                696
+            ], 
+            "WBO": [
+                2260, 
+                1951, 
+                264
+            ], 
+            "WBL": [
+                80
+            ], 
+            "AM2F": [
+                874
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "overall , the g3 delivers what must be considered the best image quality of any current > 4 megapixel digicams , from a detail , tonal balance and color response point of view ."
+    }, 
+    "6fe1a6cfcc61bb420320d4d66e4e64c4": {
+        "(1, 3)": {
+            "AM2L": [
+                1994
+            ], 
+            "WBFL": [
+                80
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                1765
+            ], 
+            "AM2F": [
+                92
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "the best 4 megapixel/4x optical zoom camera available and fairly easy to use ."
+    }
+}

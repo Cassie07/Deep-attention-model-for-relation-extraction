@@ -1,0 +1,58 @@
+{
+    "80bbb11678af660f0125fc0dd5f8324c": {
+        "(0, 4)": {
+            "WBF": [
+                615
+            ], 
+            "AM2L": [
+                253
+            ], 
+            "M1": [
+                2583
+            ], 
+            "M2": [
+                502
+            ], 
+            "WBO": [
+                502
+            ], 
+            "WBL": [
+                352
+            ], 
+            "AM2F": [
+                3074
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2, 
+            4
+        ], 
+        "(0, 2)": {
+            "AM2L": [
+                502
+            ], 
+            "WBFL": [
+                615
+            ], 
+            "M1": [
+                2583
+            ], 
+            "M2": [
+                502
+            ], 
+            "AM2F": [
+                352
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "simple click button , back button volume and display are very easy to read , access and use ."
+    }
+}

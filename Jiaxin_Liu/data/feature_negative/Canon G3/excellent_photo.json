@@ -1,0 +1,98 @@
+{
+    "1a0d68ac376b768e92b8dca25c428ee4": {
+        "(21, 22)": {
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                2244
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                2530
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1441
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            21
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "1 ) slr like programming and exposure control gives you latitude to be creative , yet its progam and auto exposure setting provide excellent photo if you do n't want to bother with the setting ."
+    }, 
+    "7ced1ec672304d6828f66711815f1d0e": {
+        "(1, 2)": {
+            "WBNULL": [
+                1
+            ], 
+            "M1": [
+                1072
+            ], 
+            "BM1F": [
+                2814
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                2098
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "takes excellent photo ."
+    }, 
+    "3797f31b7e658ca2289e807be4ce0066": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            22
+        ], 
+        "(20, 22)": {
+            "AM2L": [
+                2886
+            ], 
+            "WBFL": [
+                2719
+            ], 
+            "BM1F": [
+                2219
+            ], 
+            "M1": [
+                1072
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "AM2F": [
+                713
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "by cocking the shutter to the halfway position and getting the setting ready to shoot , i was able to produce excellent stopaction photo -- contrary to what other reviewer experienced ."
+    }
+}

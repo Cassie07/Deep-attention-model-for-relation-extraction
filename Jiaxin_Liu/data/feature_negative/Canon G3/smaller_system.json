@@ -1,0 +1,87 @@
+{
+    "7a6127bd06125c9102ab880f8919a4d0": {
+        "(12, 9)": {
+            "WBF": [
+                1241
+            ], 
+            "AM2L": [
+                520
+            ], 
+            "BM1F": [
+                577
+            ], 
+            "M1": [
+                2802
+            ], 
+            "M2": [
+                2616
+            ], 
+            "BM1L": [
+                379
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                525
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            9, 
+            28
+        ], 
+        "(12, 28)": {
+            "WBF": [
+                525
+            ], 
+            "AM2L": [
+                1012
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2616
+            ], 
+            "M2": [
+                2802
+            ], 
+            "BM1L": [
+                1241
+            ], 
+            "WBO": [
+                520, 
+                2844, 
+                379, 
+                1874, 
+                2886, 
+                381, 
+                575, 
+                3130, 
+                1468, 
+                2844, 
+                520, 
+                501
+            ], 
+            "WBL": [
+                577
+            ], 
+            "AM2F": [
+                233
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the g3 has a different type of battery charging system from the smaller canon camera : the battery need to be charged while in the camera , but the charging system also enables you to use the camera while plugged in without running down the battery ."
+    }
+}

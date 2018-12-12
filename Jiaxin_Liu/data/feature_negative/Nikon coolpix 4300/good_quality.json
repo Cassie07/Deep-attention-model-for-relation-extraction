@@ -1,0 +1,87 @@
+{
+    "0ebcdfef8bb972e3ec21c12e403b87b6": {
+        "(7, 4)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                264
+            ], 
+            "BM1F": [
+                2112
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                237
+            ], 
+            "WBO": [
+                304
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "with nikon , although picture quality are as good as any other 4 mp camera , i 've had the following headache ;"
+    }, 
+    "858a58b51860cbf88e1296d8838558d1": {
+        "(3, 11)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                2812
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                1468, 
+                2834, 
+                1951, 
+                2844
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                501
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "it is a good camera in term of the function and quality , but take your chance with it because nikon absolutely suck when it comes to customer service ."
+    }
+}

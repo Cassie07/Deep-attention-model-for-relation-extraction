@@ -1,0 +1,173 @@
+{
+    "cb424d3ece8282ce9d98ff9e19d23c6c": {
+        "(10, 7)": {
+            "WBF": [
+                1733
+            ], 
+            "AM2L": [
+                1737
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2804
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                1212
+            ], 
+            "WBL": [
+                1212
+            ], 
+            "AM2F": [
+                1595
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the one huge disappointment is that the phone manufactured for t-mobile lack many of the menus and function that a nokia straight from the manufacturer should have ."
+    }, 
+    "4c97fb16f6c98310c527b30aa33a2434": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            5, 
+            30
+        ], 
+        "(13, 5)": {
+            "WBF": [
+                3089
+            ], 
+            "AM2L": [
+                2527
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2804
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                253, 
+                1304, 
+                3145, 
+                1978
+            ], 
+            "WBL": [
+                2867
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(13, 30)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                381
+            ], 
+            "BM1F": [
+                2867
+            ], 
+            "M1": [
+                2804
+            ], 
+            "M2": [
+                2097
+            ], 
+            "BM1L": [
+                3168
+            ], 
+            "WBO": [
+                2527, 
+                386, 
+                2852, 
+                1355, 
+                827, 
+                2844, 
+                1773, 
+                1996, 
+                2842, 
+                3181, 
+                1011, 
+                3203, 
+                2886
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the internet function of the phone - wap and gprs - will only work through t-mobile 's service , because they have deleted the menu option that would enable you to configure the phone to be used on a different network ."
+    }, 
+    "624560fdbd238195725255ae991483d2": {
+        "(6, 3)": {
+            "WBF": [
+                1212
+            ], 
+            "AM2L": [
+                2130
+            ], 
+            "BM1F": [
+                2952
+            ], 
+            "M1": [
+                2097
+            ], 
+            "M2": [
+                2804
+            ], 
+            "BM1L": [
+                1302
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1128
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "we got two phone for the t-mobile family plan ( indeed very easy to switch to the family plan ) and one came with a broken headphone ( can hear but can not be heard ) and one died today after less than two week of use ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "b3f9fc452f442086e1d960c66db4a767": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            5
+        ], 
+        "(6, 5)": {
+            "AM2L": [
+                1859
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                3186
+            ], 
+            "M2": [
+                2804
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "one downside : as of this writing , t-mobile has n't updated their t-zone system to fully support the 6610 ."
+    }
+}

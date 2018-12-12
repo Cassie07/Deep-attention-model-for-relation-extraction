@@ -1,0 +1,37 @@
+{
+    "075cbfa6d23b531fc7100bc9ad7dcd00": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            12
+        ], 
+        "(14, 12)": {
+            "AM2L": [
+                253
+            ], 
+            "WBFL": [
+                1951
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2505
+            ], 
+            "M2": [
+                2570
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "AM2F": [
+                2674
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the manual mode is easy to use with fast access for the selection of shutter speed and aperture without having to fumble through menu option ."
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "205ba48000827a3b49562499e168cd48": {
+        "(0, 1)": {
+            "AM2L": [
+                3187
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2079
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1355
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "many people have written about the software being its one downfall , personally i have n't had a single problem with the software , i 'm running window me ."
+    }, 
+    "baf85a0b553ca7fd741513aae4904839": {
+        "(10, 12)": {
+            "AM2L": [
+                1355
+            ], 
+            "WBFL": [
+                2011
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                2079
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "AM2F": [
+                3135
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "i 'm convinced by my own experience and that of many other people who have posted here who have had the same experience that the product is defectively designed , and will not hold up to normal use ."
+    }
+}

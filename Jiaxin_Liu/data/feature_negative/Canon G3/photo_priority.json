@@ -1,0 +1,96 @@
+{
+    "be379679dac602b9b58a047cfe52bfb9": {
+        "(32, 17)": {
+            "WBF": [
+                1212
+            ], 
+            "BM1F": [
+                274
+            ], 
+            "M1": [
+                2212
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                2752
+            ], 
+            "WBO": [
+                1202, 
+                1630, 
+                1998, 
+                1248, 
+                2226, 
+                1814, 
+                3126, 
+                2844, 
+                520, 
+                2507, 
+                454
+            ], 
+            "WBL": [
+                1437
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            32
+        ], 
+        "location2": [
+            11, 
+            17
+        ], 
+        "(32, 11)": {
+            "WBF": [
+                1212
+            ], 
+            "BM1F": [
+                2570
+            ], 
+            "M1": [
+                2212
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                2502
+            ], 
+            "WBO": [
+                1387, 
+                2674, 
+                2752, 
+                274, 
+                2212, 
+                1212, 
+                1202, 
+                1630, 
+                1998, 
+                1248, 
+                2226, 
+                1814, 
+                3126, 
+                2844, 
+                520, 
+                2507, 
+                454
+            ], 
+            "WBL": [
+                1437
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "with a quick spin of the dial you can select shutter priority ( for high speed subject ) , aperture priority ( for focal length ) or full program mode where the camera selects both for ideal photo quality ."
+    }
+}

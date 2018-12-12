@@ -1,0 +1,131 @@
+{
+    "2fcb297b562e0085ac2b38a1e5132982": {
+        "(3, 1)": {
+            "AM2L": [
+                2428
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                469
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the screen is bright and ring tone are unlimited ."
+    }, 
+    "5f86510c019b5a8471a682edff4d3332": {
+        "location1": [
+            8
+        ], 
+        "location2": [
+            2
+        ], 
+        "(8, 2)": {
+            "WBF": [
+                1724
+            ], 
+            "AM2L": [
+                649
+            ], 
+            "BM1F": [
+                635
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                469
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2859, 
+                1231
+            ], 
+            "WBL": [
+                2548
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the color screen makes this free-after-rebates phone shine bright , and command are very responsive ."
+    }, 
+    "eeeacba322957f4c880a66e6ed2a23f0": {
+        "(3, 1)": {
+            "AM2L": [
+                2886
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2479
+            ], 
+            "M2": [
+                469
+            ], 
+            "AM2F": [
+                985
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the screen is bright , easy to see in the daylight , with nice color ."
+    }, 
+    "d2fa4332430086507ce16ebe69abca1e": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            2
+        ], 
+        "(0, 2)": {
+            "WBFL": [
+                3067
+            ], 
+            "M1": [
+                469
+            ], 
+            "M1_ADJ": [
+                1
+            ], 
+            "M2": [
+                2479
+            ]
+        }, 
+        "sentence": "- bright , visible screen"
+    }
+}

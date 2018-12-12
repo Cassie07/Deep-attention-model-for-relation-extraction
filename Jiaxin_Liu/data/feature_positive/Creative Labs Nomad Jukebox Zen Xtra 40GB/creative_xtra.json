@@ -1,0 +1,75 @@
+{
+    "93b83dad8de467af70db727ec3d5cebc": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            4
+        ], 
+        "(1, 4)": {
+            "WBF": [
+                1594
+            ], 
+            "AM2L": [
+                221
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                3194
+            ], 
+            "WBO": [
+                3210
+            ], 
+            "WBL": [
+                3210
+            ], 
+            "AM2F": [
+                1351
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the creative lab zen xtra has all the feature the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player ."
+    }, 
+    "4fb1cfe789fe3b6adac7a3197959eeff": {
+        "(11, 9)": {
+            "AM2L": [
+                1429
+            ], 
+            "WBFL": [
+                1241
+            ], 
+            "BM1F": [
+                3210
+            ], 
+            "M1": [
+                3194
+            ], 
+            "M2": [
+                765
+            ], 
+            "BM1L": [
+                1901
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            9
+        ], 
+        "sentence": "after some consideration i chose the 40gb nomad zen xtra from creative , and i have not been disappointed ."
+    }
+}

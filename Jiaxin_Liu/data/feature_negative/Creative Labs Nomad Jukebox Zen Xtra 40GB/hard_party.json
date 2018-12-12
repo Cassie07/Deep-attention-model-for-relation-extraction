@@ -1,0 +1,58 @@
+{
+    "595586dcd393895e2ca8c8a038c133b3": {
+        "(38, 18)": {
+            "WBF": [
+                2631
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2857
+            ], 
+            "M1": [
+                2065
+            ], 
+            "M2": [
+                1343
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                2842, 
+                762, 
+                1208, 
+                914, 
+                253, 
+                2226, 
+                522, 
+                5, 
+                381, 
+                1613, 
+                1241, 
+                2844, 
+                3210, 
+                2628, 
+                1545, 
+                1541
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                896
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            38
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "the zen does n't support folder so it is not really a storage device ; even with third party software that `` creates `` folder , document and program can 't be launched from the zen , so it is not a hard disk , it 's a storage device at best ."
+    }
+}

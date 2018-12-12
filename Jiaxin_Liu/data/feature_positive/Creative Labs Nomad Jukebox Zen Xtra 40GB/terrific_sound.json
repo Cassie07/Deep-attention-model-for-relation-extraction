@@ -1,0 +1,37 @@
+{
+    "23437ff0a6808a5975343315b39f966d": {
+        "(9, 10)": {
+            "AM2L": [
+                507
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2837
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2220
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            10
+        ], 
+        "sentence": "plus are the easy to remove battery and the terrific sound produced by the nomad ."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "d81555f22735886788ea73f1132e3c36": {
+        "(3, 12)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                3193
+            ], 
+            "BM1F": [
+                3094
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                155
+            ], 
+            "BM1L": [
+                2631
+            ], 
+            "WBO": [
+                1685, 
+                304, 
+                3203, 
+                1355, 
+                251
+            ], 
+            "WBL": [
+                3023
+            ], 
+            "AM2F": [
+                3151
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "the software was great , as long as you have an adminstrative user account ( window xp ) ."
+    }
+}

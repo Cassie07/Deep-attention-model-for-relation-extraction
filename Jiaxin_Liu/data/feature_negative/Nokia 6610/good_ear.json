@@ -1,0 +1,45 @@
+{
+    "e8e469c6ce127a2b8e862966b0c3685e": {
+        "(8, 15)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                3203
+            ], 
+            "BM1F": [
+                1351
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                972
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "WBO": [
+                3074, 
+                501, 
+                1545
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1648
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "the headset that comes with the phone has good sound volume but it hurt the ear like you can not imagine !"
+    }
+}

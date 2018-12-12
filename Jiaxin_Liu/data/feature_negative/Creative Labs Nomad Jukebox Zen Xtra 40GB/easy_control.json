@@ -1,0 +1,119 @@
+{
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(34, 32)": {
+            "AM2L": [
+                3018
+            ], 
+            "WBFL": [
+                295
+            ], 
+            "BM1F": [
+                2916
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1853
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            34
+        ], 
+        "location2": [
+            32
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "2bf6cfc96b5bc5542cd4ad34261974e3": {
+        "(6, 2)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2011
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                221
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the other control are all very easy to use ."
+    }, 
+    "c12383bb97c5145343b5078c02d465f5": {
+        "(18, 13)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2842
+            ], 
+            "WBO": [
+                1859
+            ], 
+            "WBL": [
+                304
+            ], 
+            "AM2F": [
+                304
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the only thing i would complain about the zen xtra is that the control are n't as easy as the ipod 's , or as `` sexy `` looking ."
+    }
+}

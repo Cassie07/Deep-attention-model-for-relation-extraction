@@ -1,0 +1,56 @@
+{
+    "7967db31bc77438a94a846ddeb630669": {
+        "(36, 18)": {
+            "WBF": [
+                1179
+            ], 
+            "AM2L": [
+                3162
+            ], 
+            "BM1F": [
+                2952
+            ], 
+            "M1": [
+                1638
+            ], 
+            "M2": [
+                2494
+            ], 
+            "BM1L": [
+                1967
+            ], 
+            "WBO": [
+                1545, 
+                1541, 
+                2158, 
+                1515, 
+                1529, 
+                2844, 
+                2025, 
+                2139, 
+                253, 
+                627, 
+                2886, 
+                3018, 
+                1051, 
+                3158
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2844
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            36
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }
+}

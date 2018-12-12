@@ -1,0 +1,72 @@
+{
+    "d8105077a4434e718fee25bbe1966b63": {
+        "(5, 7)": {
+            "AM2L": [
+                1328
+            ], 
+            "WBFL": [
+                961
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1489
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                505
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i looked into buying an inexpensive dvd player that had more than the standard set of feature and this item seemed to be the best in that category ."
+    }, 
+    "2025b4edf2d69fbd4b39760b1f763881": {
+        "(6, 7)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1489
+            ], 
+            "M2": [
+                2139
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "i was impressed by this very inexpensive player.for the first three hour , and then it died ."
+    }
+}

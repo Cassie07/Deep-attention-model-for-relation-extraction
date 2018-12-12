@@ -1,0 +1,46 @@
+{
+    "205ba48000827a3b49562499e168cd48": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            10
+        ], 
+        "(18, 10)": {
+            "WBF": [
+                2093
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                928
+            ], 
+            "M2": [
+                2588
+            ], 
+            "BM1L": [
+                1548
+            ], 
+            "WBO": [
+                1429, 
+                1355, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2215
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "many people have written about the software being its one downfall , personally i have n't had a single problem with the software , i 'm running window me ."
+    }
+}

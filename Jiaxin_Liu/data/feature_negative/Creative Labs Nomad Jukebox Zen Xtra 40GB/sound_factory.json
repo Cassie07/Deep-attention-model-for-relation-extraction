@@ -1,0 +1,50 @@
+{
+    "c4e796d80648ecc51b638ffb194b05b7": {
+        "(1, 16)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                1115
+            ], 
+            "WBO": [
+                1541, 
+                233, 
+                1886, 
+                200, 
+                1429, 
+                1413, 
+                3006, 
+                1856, 
+                2645, 
+                1366, 
+                1513
+            ], 
+            "WBL": [
+                2861
+            ], 
+            "AM2F": [
+                975
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "the sound quality is also nice ... after i hooked up my sony headphone instead of those factory earbuds it comes with ."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "947e4a7f76574c8d9e61e6f0a4bf403d": {
+        "(6, 11)": {
+            "WBF": [
+                130
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                2760
+            ], 
+            "M2": [
+                2044
+            ], 
+            "BM1L": [
+                2097
+            ], 
+            "WBO": [
+                2615
+            ], 
+            "WBL": [
+                281
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "it is a perfect phone in such a small and appealing package ."
+    }
+}

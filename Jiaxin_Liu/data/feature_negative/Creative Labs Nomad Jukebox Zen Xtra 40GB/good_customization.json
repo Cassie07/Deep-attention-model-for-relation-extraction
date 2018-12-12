@@ -1,0 +1,37 @@
+{
+    "68a8302a084952a7e1cf8fe9f3f14b4e": {
+        "(5, 6)": {
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                2637
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                784
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1996
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "you of course have some good customization option with the unit as well ( sound presets , navigating option , playlist , etc ) ."
+    }
+}

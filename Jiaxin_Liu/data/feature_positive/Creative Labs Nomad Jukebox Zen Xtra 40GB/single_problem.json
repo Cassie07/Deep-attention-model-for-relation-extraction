@@ -1,0 +1,37 @@
+{
+    "205ba48000827a3b49562499e168cd48": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            19
+        ], 
+        "(18, 19)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2588
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                1328
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "many people have written about the software being its one downfall , personally i have n't had a single problem with the software , i 'm running window me ."
+    }
+}

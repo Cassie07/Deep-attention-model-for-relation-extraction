@@ -1,0 +1,69 @@
+{
+    "aeaf53d9981fcdae134d914c14c3bf3a": {
+        "(4, 5)": {
+            "AM2L": [
+                765
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                2987
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1417
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "overall it is a great unit & hopefully creative lab or some other vendor will soon come out with some accessory for it ."
+    }, 
+    "294fb4d5c0dbd66ee87636a29c8f6923": {
+        "(3, 1)": {
+            "AM2L": [
+                1856
+            ], 
+            "WBFL": [
+                3168
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2987
+            ], 
+            "M2": [
+                1313
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the unit work great with my cassette adapter for my car & is also easily worked without taking your eye off the road !"
+    }
+}

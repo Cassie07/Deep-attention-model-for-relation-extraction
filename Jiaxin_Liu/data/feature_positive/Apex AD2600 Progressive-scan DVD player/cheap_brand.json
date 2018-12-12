@@ -1,0 +1,37 @@
+{
+    "291b89defbbe4a497ff51c7d8d63f47c": {
+        "location1": [
+            4
+        ], 
+        "location2": [
+            6
+        ], 
+        "(4, 6)": {
+            "AM2L": [
+                961
+            ], 
+            "WBFL": [
+                2260
+            ], 
+            "BM1F": [
+                413
+            ], 
+            "M1": [
+                580
+            ], 
+            "M2": [
+                463
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "apex is the best cheap quality brand for dvd player ."
+    }
+}

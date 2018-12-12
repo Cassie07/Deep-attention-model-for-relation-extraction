@@ -1,0 +1,34 @@
+{
+    "b5938c00042cd746390dea8b55ef54ef": {
+        "(6, 4)": {
+            "WBFL": [
+                1355
+            ], 
+            "BM1F": [
+                275
+            ], 
+            "M1": [
+                1715
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1822
+            ], 
+            "AM2F": [
+                1143
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "for the money apex machine have good feature ."
+    }
+}

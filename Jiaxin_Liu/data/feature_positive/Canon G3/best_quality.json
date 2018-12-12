@@ -1,0 +1,115 @@
+{
+    "66298b329dd1f88dfb52ab210c3cb820": {
+        "(23, 17)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2530
+            ], 
+            "BM1F": [
+                2112
+            ], 
+            "M1": [
+                2260
+            ], 
+            "M2": [
+                413
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBO": [
+                1915, 
+                1055
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2173
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "i 'm easily enlarging picture to 8 1/2 x 11 with no visable loss in picture quality and not even using the best possible setting as yet ( super fine ) ."
+    }, 
+    "86b3450ce22023f2c9edfbb1431b515e": {
+        "(0, 6)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                1252
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2260
+            ], 
+            "WBO": [
+                1059, 
+                1241
+            ], 
+            "WBL": [
+                1448
+            ], 
+            "AM2F": [
+                635
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "best camera ever . from the image quality , color , function , i can say almost everything ."
+    }, 
+    "f774d50a8c6d2e482b4e764362bf0ccb": {
+        "(9, 11)": {
+            "AM2L": [
+                264
+            ], 
+            "WBFL": [
+                1448
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                696
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "overall , the g3 delivers what must be considered the best image quality of any current > 4 megapixel digicams , from a detail , tonal balance and color response point of view ."
+    }
+}

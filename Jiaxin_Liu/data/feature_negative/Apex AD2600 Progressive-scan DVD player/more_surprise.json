@@ -1,0 +1,53 @@
+{
+    "8fd7717f6f4b86db0002350fe4354721": {
+        "(14, 29)": {
+            "WBF": [
+                1085
+            ], 
+            "AM2L": [
+                133
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1829
+            ], 
+            "M2": [
+                2783
+            ], 
+            "BM1L": [
+                2140
+            ], 
+            "WBO": [
+                961, 
+                2272, 
+                1761, 
+                890, 
+                4, 
+                2842, 
+                2011, 
+                2139, 
+                3181, 
+                2136, 
+                501
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                3094
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            29
+        ], 
+        "sentence": "when i 1st tried it i found that it had no problem playing the more expensive dvd - r medium disc 's that other player would play but to my surprise was able to play cheep medium that i had burned that i could n't get to work before in anything but the dvd burner itself that i had made the disc with ."
+    }
+}

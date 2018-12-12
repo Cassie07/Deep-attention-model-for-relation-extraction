@@ -1,0 +1,191 @@
+{
+    "f744e4fb9058b980763743190fc727d9": {
+        "(3, 4)": {
+            "AM2L": [
+                2840
+            ], 
+            "BM1F": [
+                442
+            ], 
+            "M1": [
+                2771
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                3216
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "the zx boast superior sound quality than the ipod , however it compromise a bit of the unit 's size in doing so ."
+    }, 
+    "fa3ed2bde213bd0078bffda62730ce6c": {
+        "(9, 6)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                4
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2771
+            ], 
+            "BM1L": [
+                2139
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "first of all the player 's sound quality is superior to the ipod ."
+    }, 
+    "72aded7ea887df602a8ff0bb7045767d": {
+        "(10, 1)": {
+            "WBF": [
+                2260
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2771
+            ], 
+            "WBO": [
+                3158, 
+                1555, 
+                253, 
+                2159, 
+                1853
+            ], 
+            "WBL": [
+                1043
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the sound quality with jazz and pop music is equally superior ."
+    }, 
+    "5fd8c0085bdee242af47218a4dee27e1": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                253
+            ], 
+            "BM1F": [
+                1277
+            ], 
+            "M1": [
+                2771
+            ], 
+            "M2": [
+                2654
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i am willing to overlook it 's problem to get superior sound quality and low price , although i feel the player has a lot of room for improvement ."
+    }, 
+    "7967db31bc77438a94a846ddeb630669": {
+        "(54, 48)": {
+            "WBF": [
+                2260
+            ], 
+            "AM2L": [
+                1219
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2771
+            ], 
+            "BM1L": [
+                2834
+            ], 
+            "WBO": [
+                658, 
+                3158
+            ], 
+            "WBL": [
+                3041
+            ], 
+            "AM2F": [
+                131
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            54
+        ], 
+        "location2": [
+            48
+        ], 
+        "sentence": "finally the software used to put all the song into it is vastly inferior to itunes on two level , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format suck , flat out suck in term of sound quality compared with the vastly superior aac format the apple ipod us and it stick you with one of the sub par paid music service such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best ."
+    }
+}

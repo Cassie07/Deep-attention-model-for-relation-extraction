@@ -1,0 +1,248 @@
+{
+    "1a75f65daeb3cf2d68dd0dd806a825e8": {
+        "(6, 11)": {
+            "WBF": [
+                1351
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                502
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "basic usage is easy , but the remote has a lot of button that i have n't used ."
+    }, 
+    "1b4b8b00a1be6322acc0a3232c0e902d": {
+        "(24, 11)": {
+            "WBF": [
+                1967
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                502
+            ], 
+            "M2": [
+                2366
+            ], 
+            "BM1L": [
+                507
+            ], 
+            "WBO": [
+                2844, 
+                2366, 
+                715, 
+                3129, 
+                1541, 
+                1973, 
+                1951, 
+                2844, 
+                2584
+            ], 
+            "WBL": [
+                983
+            ], 
+            "AM2F": [
+                715
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(14, 11)": {
+            "WBF": [
+                1967
+            ], 
+            "AM2L": [
+                3129
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                502
+            ], 
+            "M2": [
+                2366
+            ], 
+            "BM1L": [
+                507
+            ], 
+            "WBO": [
+                2844
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                715
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            14, 
+            24
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "the progressive scan option can be turned off easily by a button on the remote control which is one of the simplest and easiest remote control i have ever seen or used ."
+    }, 
+    "f01bd384c7ae77d1a2329c0a9d0cd49f": {
+        "(1, 14)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                502
+            ], 
+            "WBO": [
+                1963, 
+                501, 
+                1429, 
+                239, 
+                1915, 
+                130, 
+                1130, 
+                1951, 
+                2366
+            ], 
+            "WBL": [
+                2883
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1, 
+            11
+        ], 
+        "location2": [
+            14
+        ], 
+        "(11, 14)": {
+            "WBF": [
+                3158
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                502
+            ], 
+            "BM1L": [
+                1130
+            ], 
+            "WBO": [
+                2883
+            ], 
+            "WBL": [
+                2883
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the remote is okay , but i am not a fan of remote with tiny button ."
+    }, 
+    "d79245d81b4060e7f727fdd27f624fad": {
+        "(0, 1)": {
+            "AM2L": [
+                2615
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                502
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                295
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(0, 11)": {
+            "WBF": [
+                502
+            ], 
+            "M1": [
+                2366
+            ], 
+            "M2": [
+                502
+            ], 
+            "WBO": [
+                295, 
+                2615, 
+                253, 
+                622, 
+                2661, 
+                1051, 
+                3158
+            ], 
+            "WBL": [
+                1773
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1, 
+            11
+        ], 
+        "sentence": "remote button are small and closely spaced , especially with the menu button ."
+    }
+}

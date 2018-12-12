@@ -1,0 +1,43 @@
+{
+    "ea750d90f9785597047a0e1fba8c7a2e": {
+        "location1": [
+            9
+        ], 
+        "location2": [
+            12
+        ], 
+        "(9, 12)": {
+            "WBF": [
+                316
+            ], 
+            "AM2L": [
+                40
+            ], 
+            "BM1F": [
+                1699
+            ], 
+            "M1": [
+                1030
+            ], 
+            "M2": [
+                1747
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                17
+            ], 
+            "WBL": [
+                17
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "with my sennheiser 497 headphone , the volume is loud enough at 12 ( max is 20 ) ."
+    }
+}

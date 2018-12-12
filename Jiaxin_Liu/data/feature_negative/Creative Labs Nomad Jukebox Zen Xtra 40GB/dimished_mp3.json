@@ -1,0 +1,40 @@
+{
+    "ca72c2fb4eef254b80c4d2051a89c457": {
+        "location1": [
+            3
+        ], 
+        "location2": [
+            6
+        ], 
+        "(3, 6)": {
+            "WBF": [
+                2260
+            ], 
+            "BM1F": [
+                140
+            ], 
+            "M1": [
+                877
+            ], 
+            "M2": [
+                1842
+            ], 
+            "BM1L": [
+                1042
+            ], 
+            "WBO": [
+                1951
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                1156
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "* eax equalizer accentuates dimished quality of mp3 file ."
+    }
+}

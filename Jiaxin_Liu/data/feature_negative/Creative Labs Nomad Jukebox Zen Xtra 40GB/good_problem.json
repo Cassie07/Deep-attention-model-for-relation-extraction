@@ -1,0 +1,47 @@
+{
+    "98403a16cdeed60e2113243a13b306bf": {
+        "(15, 3)": {
+            "WBF": [
+                3026
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                2215
+            ], 
+            "M2": [
+                1300
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                2844, 
+                2139, 
+                1549, 
+                253, 
+                1429, 
+                1147, 
+                1545, 
+                1541
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "i have no problem using the player itself and i feel it is a very good player ."
+    }
+}

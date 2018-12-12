@@ -1,0 +1,34 @@
+{
+    "b45fbddd121d5a06ac46d216611c9b71": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            8
+        ], 
+        "(6, 8)": {
+            "WBFL": [
+                3023
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                2523
+            ], 
+            "M2": [
+                1522
+            ], 
+            "BM1L": [
+                288
+            ], 
+            "AM2F": [
+                1191
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "3 . mediasource is an application with serious user interface flaw ."
+    }
+}

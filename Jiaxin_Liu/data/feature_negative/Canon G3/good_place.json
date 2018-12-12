@@ -1,0 +1,49 @@
+{
+    "1bea3ea293d255cd27ba76a46ede23ef": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            15
+        ], 
+        "(1, 15)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                2012
+            ], 
+            "BM1F": [
+                260
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                2126
+            ], 
+            "WBO": [
+                1541, 
+                2842, 
+                2859, 
+                520, 
+                2500, 
+                2886, 
+                1531, 
+                1848, 
+                1634, 
+                1897
+            ], 
+            "WBL": [
+                796
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "another good thing is that this camera seems to introduce much less noise in dark place than others i 've seen ."
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "eec2ea24e9d430dfa7c739b7564618f7": {
+        "(5, 6)": {
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                805
+            ], 
+            "BM1L": [
+                3085
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(9, 6)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                805
+            ], 
+            "M2": [
+                1313
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1842
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5, 
+            9
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "but if you want a great deal and a great mp3 player , get the nomad ."
+    }, 
+    "21ebed2a97f528417ad5da338ef26ef7": {
+        "(42, 56)": {
+            "WBF": [
+                2654
+            ], 
+            "AM2L": [
+                1381
+            ], 
+            "BM1F": [
+                502
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                805
+            ], 
+            "BM1L": [
+                2484
+            ], 
+            "WBO": [
+                253, 
+                1551, 
+                1369, 
+                1737, 
+                1842, 
+                2139, 
+                130, 
+                2893, 
+                1951, 
+                869
+            ], 
+            "WBL": [
+                2954
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            42
+        ], 
+        "location2": [
+            56
+        ], 
+        "sentence": "now here the stuff you should know starting with the good thing : the screen is really big and the blue light in the back is perfect , fast as hell in music transfer , control are easy to use after mastering the scroll button , great sound and ive heard many mp3 player , a ton of different equilizer type deal on here ."
+    }, 
+    "9b386fcefb830e15c2600e5d99a60f18": {
+        "(5, 6)": {
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1313
+            ], 
+            "M2": [
+                805
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "anyway , this player is a great deal and i really love it ."
+    }
+}

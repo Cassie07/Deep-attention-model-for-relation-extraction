@@ -1,0 +1,116 @@
+{
+    "fba2cf23926fa2aa67d2e28a09f712df": {
+        "location1": [
+            28
+        ], 
+        "location2": [
+            29
+        ], 
+        "(28, 29)": {
+            "AM2L": [
+                2763
+            ], 
+            "BM1F": [
+                1377
+            ], 
+            "M1": [
+                1030
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough song to suit any mood ."
+    }, 
+    "652850fadd74debed2ce46db645d02fc": {
+        "location1": [
+            16
+        ], 
+        "location2": [
+            12
+        ], 
+        "(16, 12)": {
+            "WBF": [
+                2141
+            ], 
+            "BM1F": [
+                264
+            ], 
+            "M1": [
+                2644
+            ], 
+            "M2": [
+                1030
+            ], 
+            "BM1L": [
+                1165
+            ], 
+            "WBO": [
+                1054
+            ], 
+            "WBL": [
+                1136
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i quickly got to use to the interface and can find any song / playlist etc fast enough ."
+    }, 
+    "6dd8fd06e074f6961f2341d48405bbf4": {
+        "(3, 11)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                3
+            ], 
+            "BM1F": [
+                985
+            ], 
+            "M1": [
+                1030
+            ], 
+            "M2": [
+                2644
+            ], 
+            "BM1L": [
+                4
+            ], 
+            "WBO": [
+                2159, 
+                1545, 
+                1982, 
+                2886
+            ], 
+            "WBL": [
+                3121
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "it 's easy enough to pop it open to see what song you 're listening to ."
+    }
+}

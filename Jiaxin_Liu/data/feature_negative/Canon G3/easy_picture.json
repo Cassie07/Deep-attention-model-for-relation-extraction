@@ -1,0 +1,171 @@
+{
+    "256c84e002437574427a138e66803e5f": {
+        "(4, 22)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                130
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                3018, 
+                1468, 
+                1112, 
+                1967, 
+                130, 
+                2317, 
+                2934, 
+                2859, 
+                2066, 
+                3110, 
+                1429, 
+                3094, 
+                307, 
+                2886
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            22
+        ], 
+        "sentence": "the camera is very easy to use , in fact on a recent trip this past week i was asked to take a picture of a vacationing elderly group ."
+    }, 
+    "5e8d37c7fc800e394540cc47e42d3496": {
+        "(7, 3)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                1313
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1287
+            ], 
+            "WBO": [
+                715
+            ], 
+            "WBL": [
+                295
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            3
+        ], 
+        "sentence": "it gives great picture , the control are easy to use , the battery last forever on one single charge , the software is very user-friendly and it is beautiful in it chrome casing ."
+    }, 
+    "59eae132b2cb15aee8885c0e6c8856d1": {
+        "(11, 12)": {
+            "BM1F": [
+                1212
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2112
+            ], 
+            "BM1L": [
+                880
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "the lcd screen pull out and rotates in any direction for easy picture ."
+    }, 
+    "2ba780a3839b97663494b0fa5de97d11": {
+        "(22, 13)": {
+            "WBF": [
+                1967
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                875
+            ], 
+            "M1": [
+                2112
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                3204
+            ], 
+            "WBO": [
+                2844, 
+                674, 
+                1541, 
+                3052, 
+                1886
+            ], 
+            "WBL": [
+                3052
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "the canon computer software used to download , sort , upload and manage your digital picture on the computer is very nice and very easy to use ."
+    }
+}

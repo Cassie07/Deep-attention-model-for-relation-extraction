@@ -1,0 +1,104 @@
+{
+    "62e789092dd8cdbdc780fb92af24cb33": {
+        "(3, 16)": {
+            "WBF": [
+                2878
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                2932
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                2829
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                2886, 
+                705, 
+                275, 
+                875, 
+                2867, 
+                2846, 
+                1968, 
+                2775, 
+                2591
+            ], 
+            "WBL": [
+                2846
+            ], 
+            "AM2F": [
+                1655
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(3, 28)": {
+            "WBF": [
+                2878
+            ], 
+            "AM2L": [
+                1541
+            ], 
+            "BM1F": [
+                2932
+            ], 
+            "M1": [
+                2533
+            ], 
+            "M2": [
+                2829
+            ], 
+            "BM1L": [
+                1355
+            ], 
+            "WBO": [
+                2886, 
+                705, 
+                275, 
+                875, 
+                2867, 
+                2846, 
+                1968, 
+                2775, 
+                2591, 
+                253, 
+                2846, 
+                2829, 
+                1655, 
+                501, 
+                2852, 
+                3163, 
+                1859, 
+                5, 
+                261, 
+                1856, 
+                1005
+            ], 
+            "WBL": [
+                2846
+            ], 
+            "AM2F": [
+                1655
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            16, 
+            28
+        ], 
+        "sentence": "i have tried several time to contact apex digital through their on-line support site and their telephone line , but they wo n't answer my email and their telephone line is always busy ."
+    }
+}

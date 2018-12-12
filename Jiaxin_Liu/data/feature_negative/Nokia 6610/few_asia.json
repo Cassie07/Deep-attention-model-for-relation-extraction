@@ -1,0 +1,63 @@
+{
+    "fdd4d278af1bf0a366d02bf985906571": {
+        "(23, 33)": {
+            "WBF": [
+                743
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                305
+            ], 
+            "BM1L": [
+                1074
+            ], 
+            "WBO": [
+                2842, 
+                912, 
+                1915, 
+                3018, 
+                1321, 
+                130
+            ], 
+            "WBL": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(31, 33)": {
+            "WBFL": [
+                1468
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1151
+            ], 
+            "M2": [
+                305
+            ], 
+            "BM1L": [
+                1321
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            23, 
+            31
+        ], 
+        "location2": [
+            33
+        ], 
+        "sentence": "one highly beneficial feature of this phone ( at least to me ) is that it can be used anywhere in the world except a few country that do not use gsm , a few in asia ."
+    }
+}

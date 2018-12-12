@@ -1,0 +1,45 @@
+{
+    "83c0f79f8710192a88e6b91256723401": {
+        "(22, 15)": {
+            "WBF": [
+                502
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2397
+            ], 
+            "M2": [
+                2050
+            ], 
+            "BM1L": [
+                1401
+            ], 
+            "WBO": [
+                501, 
+                2842, 
+                3094
+            ], 
+            "WBL": [
+                1122
+            ], 
+            "AM2F": [
+                2216
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            15
+        ], 
+        "sentence": "the unit itself did lock up a few time and i had to hit the reset button but that was a fairly painless process as well ."
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "f4ed4ae3305445dd6ec6f73ce7ad7b7c": {
+        "(2, 24)": {
+            "WBF": [
+                1143
+            ], 
+            "AM2L": [
+                1779
+            ], 
+            "BM1F": [
+                1548
+            ], 
+            "M1": [
+                1737
+            ], 
+            "M2": [
+                132
+            ], 
+            "BM1L": [
+                1987
+            ], 
+            "WBO": [
+                1541, 
+                985, 
+                253, 
+                1960, 
+                1941, 
+                1429, 
+                2, 
+                1896, 
+                256, 
+                1624, 
+                501, 
+                1429, 
+                3094, 
+                133, 
+                2886, 
+                1155, 
+                2016, 
+                1832
+            ], 
+            "WBL": [
+                1548
+            ], 
+            "AM2F": [
+                1570
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            2
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "operating its many feature is easy and often obvious - i 'm no annie lebovitz , but i was able to figure out most of its ability just messing around with it at a camera store ."
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "c08ea81dfd0032ff6d47afa0112ba4c1": {
+        "location1": [
+            2
+        ], 
+        "location2": [
+            10
+        ], 
+        "(2, 10)": {
+            "WBF": [
+                2418
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "BM1F": [
+                848
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                39
+            ], 
+            "WBO": [
+                1288, 
+                1593, 
+                2886, 
+                2844
+            ], 
+            "WBL": [
+                1212
+            ], 
+            "AM2F": [
+                2260
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "2 . despite most reviewer giving kudos to the zen for music quality , i experienced a flaw using eax ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(5, 50)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                2918
+            ], 
+            "BM1F": [
+                507
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                3020
+            ], 
+            "WBO": [
+                2139, 
+                1648, 
+                1854, 
+                253, 
+                3149, 
+                501, 
+                1915, 
+                765, 
+                3160, 
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998, 
+                545, 
+                3204, 
+                1853, 
+                765, 
+                1998, 
+                264, 
+                2011, 
+                655, 
+                221, 
+                1856, 
+                17, 
+                93
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                3120
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            38, 
+            50
+        ], 
+        "(5, 38)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                1998
+            ], 
+            "BM1F": [
+                507
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                1853
+            ], 
+            "BM1L": [
+                3020
+            ], 
+            "WBO": [
+                2139, 
+                1648, 
+                1854, 
+                253, 
+                3149, 
+                501, 
+                1915, 
+                765, 
+                3160, 
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5, 
+                534, 
+                3121, 
+                2631, 
+                3203, 
+                3018, 
+                2886, 
+                2432, 
+                1998
+            ], 
+            "WBL": [
+                3204
+            ], 
+            "AM2F": [
+                765
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

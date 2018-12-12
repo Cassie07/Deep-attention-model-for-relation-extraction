@@ -1,0 +1,90 @@
+{
+    "86b3450ce22023f2c9edfbb1431b515e": {
+        "location1": [
+            0
+        ], 
+        "location2": [
+            7
+        ], 
+        "(0, 7)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                1429
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                635
+            ], 
+            "WBO": [
+                1059, 
+                1241, 
+                2844
+            ], 
+            "WBL": [
+                2260
+            ], 
+            "AM2F": [
+                1252
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "best camera ever . from the image quality , color , function , i can say almost everything ."
+    }, 
+    "f774d50a8c6d2e482b4e764362bf0ccb": {
+        "(9, 24)": {
+            "WBF": [
+                1448
+            ], 
+            "AM2L": [
+                2151
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                413
+            ], 
+            "M2": [
+                635
+            ], 
+            "BM1L": [
+                696
+            ], 
+            "WBO": [
+                2260, 
+                1951, 
+                264, 
+                776, 
+                80, 
+                1765, 
+                874, 
+                1241, 
+                130, 
+                850, 
+                2894
+            ], 
+            "WBL": [
+                253
+            ], 
+            "AM2F": [
+                2405
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            24
+        ], 
+        "sentence": "overall , the g3 delivers what must be considered the best image quality of any current > 4 megapixel digicams , from a detail , tonal balance and color response point of view ."
+    }
+}

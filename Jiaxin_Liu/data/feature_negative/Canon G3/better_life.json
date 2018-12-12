@@ -1,0 +1,51 @@
+{
+    "17ecb94e8bd613415517e78ec1f1c520": {
+        "(15, 2)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                267
+            ], 
+            "BM1F": [
+                379
+            ], 
+            "M1": [
+                1643
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2859, 
+                520, 
+                1541, 
+                2951, 
+                2842, 
+                1951, 
+                2844, 
+                1893, 
+                97
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the battery life of this camera is twice that of the nikon 5000 and is better than anything else i 've seen ."
+    }
+}

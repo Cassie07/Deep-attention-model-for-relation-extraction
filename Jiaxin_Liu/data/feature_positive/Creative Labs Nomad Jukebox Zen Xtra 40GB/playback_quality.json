@@ -1,0 +1,72 @@
+{
+    "16dccec07487bfb9e777d9b8fc08c377": {
+        "(5, 6)": {
+            "AM2L": [
+                2966
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2137
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                2221
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "being a creative product the playback quality is unbeatable ."
+    }, 
+    "f7e215562ee1a9103ae0258748c464f7": {
+        "(15, 16)": {
+            "AM2L": [
+                3035
+            ], 
+            "BM1F": [
+                2631
+            ], 
+            "M1": [
+                2137
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                253
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "i can highly recommend this product because of its ease of use ( hardware and software ) , playback quality and value for the price ."
+    }
+}

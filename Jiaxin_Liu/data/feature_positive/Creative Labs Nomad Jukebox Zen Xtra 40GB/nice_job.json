@@ -1,0 +1,37 @@
+{
+    "7f29f0fe969c8fc60fdc28661dd9739a": {
+        "(16, 17)": {
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                1557
+            ], 
+            "BM1L": [
+                917
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1808
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            17
+        ], 
+        "sentence": "i have over 2000 file in my playlist at the moment and the random does a nice job mixing it up ."
+    }
+}

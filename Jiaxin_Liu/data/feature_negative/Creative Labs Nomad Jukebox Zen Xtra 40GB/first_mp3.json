@@ -1,0 +1,42 @@
+{
+    "f36365781e2d87d761d5f6c5b23a90ab": {
+        "(13, 6)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                765
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1179
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                1328, 
+                2631, 
+                2215
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                2126
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "in fact , each of my creative mp3 player had software problem in the first place ."
+    }
+}

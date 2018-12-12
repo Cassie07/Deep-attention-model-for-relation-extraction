@@ -1,0 +1,255 @@
+{
+    "4a93d8f10f505f7246805579982dd792": {
+        "(11, 12)": {
+            "AM2L": [
+                1222
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1099
+            ], 
+            "M2": [
+                1188
+            ], 
+            "BM1L": [
+                2812
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "fortunately , the g3 has a hot shoe that can take an external flash , and fortunately for me , i already owned a one of the highest quality external flash that money can buy : the metz 60 ct-4 .", 
+        "location2": [
+            12, 
+            27
+        ], 
+        "(26, 27)": {
+            "AM2L": [
+                1822
+            ], 
+            "BM1F": [
+                2260
+            ], 
+            "M1": [
+                1099
+            ], 
+            "M2": [
+                1188
+            ], 
+            "BM1L": [
+                1394
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11, 
+            26
+        ], 
+        "(11, 27)": {
+            "WBF": [
+                1188
+            ], 
+            "AM2L": [
+                1822
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                1099
+            ], 
+            "M2": [
+                1188
+            ], 
+            "BM1L": [
+                2812
+            ], 
+            "WBO": [
+                253, 
+                1222, 
+                1212, 
+                1752, 
+                1429, 
+                231, 
+                2038, 
+                130, 
+                1973, 
+                1951, 
+                2844, 
+                1394
+            ], 
+            "WBL": [
+                1099
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "(26, 12)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1099
+            ], 
+            "M1": [
+                1188
+            ], 
+            "M2": [
+                1099
+            ], 
+            "BM1L": [
+                251
+            ], 
+            "WBO": [
+                1222, 
+                1212, 
+                1752, 
+                1429, 
+                231, 
+                2038, 
+                130, 
+                1973, 
+                1951, 
+                2844
+            ], 
+            "WBL": [
+                2260
+            ], 
+            "AM2F": [
+                1188
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }
+    }, 
+    "4a44a69cb955602ceffa932a795dd6aa": {
+        "(19, 20)": {
+            "AM2L": [
+                1633
+            ], 
+            "BM1F": [
+                3018
+            ], 
+            "M1": [
+                1099
+            ], 
+            "M2": [
+                1188
+            ], 
+            "BM1L": [
+                2886
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "bottom line , well made camera , easy to use , very flexible and powerful feature to include the ability to use external flash and lense / filter choice ."
+    }, 
+    "d189707ad42028eec72db14fec45c699": {
+        "(8, 9)": {
+            "AM2L": [
+                1856
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                1099
+            ], 
+            "M2": [
+                1188
+            ], 
+            "BM1L": [
+                157
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            8
+        ], 
+        "location2": [
+            9, 
+            16
+        ], 
+        "(8, 16)": {
+            "WBF": [
+                1188
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                1099
+            ], 
+            "M2": [
+                1188
+            ], 
+            "BM1L": [
+                157
+            ], 
+            "WBO": [
+                1967, 
+                1856, 
+                1893, 
+                2613
+            ], 
+            "WBL": [
+                1525
+            ], 
+            "AM2F": [
+                1967
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "relative to what i can easily achieve with external flash on my nikon slr , the internal flash on the g3 produce harsh , flat image with ugly hot spot ."
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "60f14cbc1a1f1fba8df34fb32d3b3aa8": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            6
+        ], 
+        "(12, 6)": {
+            "WBF": [
+                2859
+            ], 
+            "AM2L": [
+                2587
+            ], 
+            "BM1F": [
+                1967
+            ], 
+            "M1": [
+                1064
+            ], 
+            "M2": [
+                419
+            ], 
+            "BM1L": [
+                2016
+            ], 
+            "WBO": [
+                3145, 
+                233
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                1823
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "since battery do run out on everything , this will also be a big money-saver since ipod , irivers , rca , dell , all have built-in battery that need to be replaced by a technician ( apple charge 100 bone for the battery replacement ) ."
+    }
+}

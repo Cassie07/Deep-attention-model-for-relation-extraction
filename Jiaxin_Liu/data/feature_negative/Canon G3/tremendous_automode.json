@@ -1,0 +1,43 @@
+{
+    "1f8107d369d0a9aff676c54f789d4256": {
+        "(12, 8)": {
+            "WBF": [
+                501
+            ], 
+            "AM2L": [
+                1468
+            ], 
+            "BM1F": [
+                1468
+            ], 
+            "M1": [
+                338
+            ], 
+            "M2": [
+                2930
+            ], 
+            "BM1L": [
+                1985
+            ], 
+            "WBO": [
+                233
+            ], 
+            "WBL": [
+                1287
+            ], 
+            "AM2F": [
+                1194
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "the camera is a dream to operate in automode , but also gives tremendous flexibility in aperture priority , shutter priority , and manual mode ."
+    }
+}

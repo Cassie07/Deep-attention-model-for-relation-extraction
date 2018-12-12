@@ -1,0 +1,79 @@
+{
+    "814a355a03cfe25a41d31293be549801": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            11
+        ], 
+        "(5, 11)": {
+            "WBF": [
+                2886
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                358
+            ], 
+            "BM1L": [
+                2479
+            ], 
+            "WBO": [
+                2296, 
+                253
+            ], 
+            "WBL": [
+                130
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the high resolution screen is easy to read and has a backlight ."
+    }, 
+    "e4ac12789200e32ecf5a324b1e5e7bb1": {
+        "(5, 2)": {
+            "WBF": [
+                1724
+            ], 
+            "AM2L": [
+                2496
+            ], 
+            "BM1F": [
+                419
+            ], 
+            "M1": [
+                358
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2853
+            ], 
+            "WBL": [
+                2853
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the big backlight makes thing easy to see , and the writing is big enough for people to see ."
+    }
+}

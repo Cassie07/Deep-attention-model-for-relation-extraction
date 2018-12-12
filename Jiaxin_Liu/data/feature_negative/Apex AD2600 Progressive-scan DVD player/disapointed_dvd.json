@@ -1,0 +1,38 @@
+{
+    "882f8c2afb0b7af577d6c9ab03ee0778": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            7
+        ], 
+        "(13, 7)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                1882
+            ], 
+            "M1": [
+                961
+            ], 
+            "M2": [
+                884
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                253, 
+                231
+            ], 
+            "WBL": [
+                239
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have not even used my new dvd player and already i am disapointed !"
+    }
+}

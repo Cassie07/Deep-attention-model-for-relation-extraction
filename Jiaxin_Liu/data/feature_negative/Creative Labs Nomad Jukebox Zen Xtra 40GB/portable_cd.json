@@ -1,0 +1,149 @@
+{
+    "ee31d7df41f71e9ae037cdf06e1512c9": {
+        "location1": [
+            26
+        ], 
+        "location2": [
+            15, 
+            27
+        ], 
+        "(26, 15)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                2139
+            ], 
+            "BM1F": [
+                2658
+            ], 
+            "M1": [
+                553
+            ], 
+            "M2": [
+                2166
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2844, 
+                3210, 
+                3194, 
+                2654, 
+                1570, 
+                304, 
+                1300
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                553
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(26, 27)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                2166
+            ], 
+            "M2": [
+                553
+            ], 
+            "BM1L": [
+                304
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "to my ear , a 160 kbps wma file sound just as good as the source cd , and the zen xtra sound just as good as a portable cd player ."
+    }, 
+    "3e72e9cc6e251da6798a2e9e66feb5b3": {
+        "(13, 8)": {
+            "WBF": [
+                633
+            ], 
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                1036
+            ], 
+            "M1": [
+                553
+            ], 
+            "M2": [
+                2166
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBO": [
+                1541
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                858
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "1 . i achieved my basic objective ; my entire cd collection is on a portable device with lot of room to store more ."
+    }, 
+    "5752d425fd230241f15f09a3ca7c1c62": {
+        "(12, 13)": {
+            "AM2L": [
+                3158
+            ], 
+            "BM1F": [
+                2583
+            ], 
+            "M1": [
+                2166
+            ], 
+            "M2": [
+                553
+            ], 
+            "BM1L": [
+                1856
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "i was unable achieve a sound quality on par with my simple portable cd player with `` bass boost . ``"
+    }
+}

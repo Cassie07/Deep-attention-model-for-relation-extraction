@@ -1,0 +1,37 @@
+{
+    "d6255391e01cbaa0b68fdb9cf3e4e183": {
+        "(3, 4)": {
+            "AM2L": [
+                674
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2654
+            ], 
+            "M2": [
+                2079
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1212
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "creative are * the * sound people for computer , i can 't understand why eax would introduce static ."
+    }
+}

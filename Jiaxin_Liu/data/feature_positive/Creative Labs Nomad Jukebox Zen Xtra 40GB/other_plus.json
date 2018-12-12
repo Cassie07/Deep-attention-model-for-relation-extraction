@@ -1,0 +1,116 @@
+{
+    "496c1896b2e7b5f68f4a805a4611b9f8": {
+        "(1, 2)": {
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2149
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "one other plus is that napster now support this device via their software ."
+    }, 
+    "a92fef16203e6547baf7dd20d024590d": {
+        "(24, 7)": {
+            "WBF": [
+                1545
+            ], 
+            "AM2L": [
+                858
+            ], 
+            "BM1F": [
+                419
+            ], 
+            "M1": [
+                2149
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                130
+            ], 
+            "WBO": [
+                165, 
+                2240, 
+                2844, 
+                2987, 
+                3115, 
+                2639, 
+                130, 
+                1698, 
+                1951, 
+                540, 
+                541, 
+                1118, 
+                2886
+            ], 
+            "WBL": [
+                3158
+            ], 
+            "AM2F": [
+                326
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            24
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the included leather pouch is a big plus : it actually protects the unit well , something a lot of ' carrying case ' fail to do with other audio device ."
+    }, 
+    "046321e6f46dfb8659079eb3d885696d": {
+        "(0, 1)": {
+            "AM2L": [
+                379
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                2149
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                569
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            0
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "other plus : changable battery , load of presets for environment , decent construction , still quite small and light despite being slightly bigger than an ipod ."
+    }
+}

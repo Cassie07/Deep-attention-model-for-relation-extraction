@@ -1,0 +1,40 @@
+{
+    "f1ec074964c5a280f73dfd66022b0269": {
+        "(11, 6)": {
+            "WBF": [
+                1468
+            ], 
+            "BM1F": [
+                2886
+            ], 
+            "M1": [
+                266
+            ], 
+            "M2": [
+                1882
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                1874
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "i really do recommend this to anyone in need of a new player ."
+    }
+}

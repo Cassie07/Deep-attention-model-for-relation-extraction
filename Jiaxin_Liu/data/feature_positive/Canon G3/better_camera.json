@@ -1,0 +1,242 @@
+{
+    "07b3bdbafaec9f6df8f50960a8c49f11": {
+        "(23, 15)": {
+            "WBF": [
+                316
+            ], 
+            "AM2L": [
+                2016
+            ], 
+            "BM1F": [
+                875
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                1180
+            ], 
+            "WBO": [
+                130, 
+                2306, 
+                2204, 
+                2850
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(23, 24)": {
+            "AM2L": [
+                2850
+            ], 
+            "BM1F": [
+                1896
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2016
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            23
+        ], 
+        "location2": [
+            15, 
+            24
+        ], 
+        "sentence": "i recommend unreservedly the powershot g3 to any potential buyer looking for a first-class digital camera at a reasonable price - there is no better camera out there - period !"
+    }, 
+    "8cff8b3bb4b722f290108da2b2fcc548": {
+        "(39, 32)": {
+            "WBF": [
+                1653
+            ], 
+            "AM2L": [
+                1548
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                386, 
+                1551, 
+                1881
+            ], 
+            "WBL": [
+                267
+            ], 
+            "AM2F": [
+                3159
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            39
+        ], 
+        "location2": [
+            32
+        ], 
+        "sentence": "i am stunned and amazed at the quality of the raw image i am getting from this g3 ( in conjunction with my professional flash system ) , and can easily put up with the camera limitation , because ive never seen anything better within its resolution limit ."
+    }, 
+    "bf6a7e1803fcb60ab4e76c2f4119489b": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            12
+        ], 
+        "(6, 12)": {
+            "WBF": [
+                2107
+            ], 
+            "BM1F": [
+                2812
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                3145
+            ], 
+            "WBO": [
+                4, 
+                2840
+            ], 
+            "WBL": [
+                1162
+            ], 
+            "AM2F": [
+                4
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "first and foremost , it will take better pic 's than most film camera 's ."
+    }, 
+    "c12f2cbdc52ec5949ef5f7247c336b99": {
+        "(14, 18)": {
+            "WBF": [
+                2840
+            ], 
+            "AM2L": [
+                6
+            ], 
+            "BM1F": [
+                295
+            ], 
+            "M1": [
+                415
+            ], 
+            "M2": [
+                520
+            ], 
+            "BM1L": [
+                1317
+            ], 
+            "WBO": [
+                264
+            ], 
+            "WBL": [
+                2011
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            14
+        ], 
+        "location2": [
+            18
+        ], 
+        "sentence": "its silver magnesium finish is stunning , and the sharp line and excellent grip are better than any other camera i 've seen ."
+    }, 
+    "17ecb94e8bd613415517e78ec1f1c520": {
+        "(15, 5)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                267
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                520
+            ], 
+            "M2": [
+                415
+            ], 
+            "BM1L": [
+                1951
+            ], 
+            "WBO": [
+                2951, 
+                2842, 
+                1951, 
+                2844, 
+                1893, 
+                97
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                2840
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "the battery life of this camera is twice that of the nikon 5000 and is better than anything else i 've seen ."
+    }
+}

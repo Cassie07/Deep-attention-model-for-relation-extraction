@@ -1,0 +1,37 @@
+{
+    "0d9ef93f4b9430a1a5d9813011b8bc79": {
+        "(4, 5)": {
+            "AM2L": [
+                2760
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1521
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1474
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "there are lot of interesting feature included such as eax , and customization ."
+    }
+}

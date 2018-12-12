@@ -1,0 +1,31 @@
+{
+    "e02a562b016c98f5f4937af42dd41dba": {
+        "(15, 16)": {
+            "BM1F": [
+                2219
+            ], 
+            "M1": [
+                2900
+            ], 
+            "M2": [
+                2098
+            ], 
+            "BM1L": [
+                699
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            15
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "having used it for more than a month , i can say that it consistently produce topnotch photo ."
+    }
+}

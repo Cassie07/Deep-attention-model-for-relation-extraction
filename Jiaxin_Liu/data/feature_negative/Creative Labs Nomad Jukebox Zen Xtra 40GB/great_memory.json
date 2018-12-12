@@ -1,0 +1,54 @@
+{
+    "8eb5d2fca4a827e8e326a4df00c9b809": {
+        "location1": [
+            20
+        ], 
+        "location2": [
+            1
+        ], 
+        "(20, 1)": {
+            "WBF": [
+                3145
+            ], 
+            "AM2L": [
+                2883
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1770
+            ], 
+            "M2": [
+                1313
+            ], 
+            "WBO": [
+                1404, 
+                251, 
+                245, 
+                249, 
+                1951, 
+                2644, 
+                1856, 
+                1036, 
+                633, 
+                1951, 
+                553, 
+                4, 
+                3145, 
+                221, 
+                1181
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1669
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the memory will hold an amazing amount of song , my entire collection of cd 's will all fit on this great little tiny piece of digital fun ."
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "2025b4edf2d69fbd4b39760b1f763881": {
+        "location1": [
+            6
+        ], 
+        "location2": [
+            12
+        ], 
+        "(6, 12)": {
+            "WBF": [
+                2139
+            ], 
+            "AM2L": [
+                2849
+            ], 
+            "BM1F": [
+                3052
+            ], 
+            "M1": [
+                1489
+            ], 
+            "M2": [
+                1422
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                1212, 
+                2844
+            ], 
+            "WBL": [
+                2865
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i was impressed by this very inexpensive player.for the first three hour , and then it died ."
+    }
+}

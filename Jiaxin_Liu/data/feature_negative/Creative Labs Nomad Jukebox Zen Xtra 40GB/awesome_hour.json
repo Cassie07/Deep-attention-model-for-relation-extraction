@@ -1,0 +1,86 @@
+{
+    "25da27d72af155af06e6c5874f503ef7": {
+        "(5, 13)": {
+            "WBF": [
+                2844
+            ], 
+            "AM2L": [
+                2842
+            ], 
+            "BM1F": [
+                1541
+            ], 
+            "M1": [
+                346
+            ], 
+            "M2": [
+                1422
+            ], 
+            "BM1L": [
+                2654
+            ], 
+            "WBO": [
+                378, 
+                1643, 
+                1541, 
+                1978
+            ], 
+            "WBL": [
+                113
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "once again , the sound is awesome , the batterly life is only 6-8 hour , and that is because all my music is 320 kbps which does affect the battery life ."
+    }, 
+    "df802df13330b60399ef8b6c4a7f1791": {
+        "(4, 14)": {
+            "WBF": [
+                2853
+            ], 
+            "BM1F": [
+                251
+            ], 
+            "M1": [
+                346
+            ], 
+            "M2": [
+                1422
+            ], 
+            "BM1L": [
+                1541
+            ], 
+            "WBO": [
+                386, 
+                1545, 
+                2325, 
+                1468, 
+                1978, 
+                1648
+            ], 
+            "WBL": [
+                62
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "battery recharge , is an awesome thing , because it recharges in only like 2-3 hour ."
+    }
+}

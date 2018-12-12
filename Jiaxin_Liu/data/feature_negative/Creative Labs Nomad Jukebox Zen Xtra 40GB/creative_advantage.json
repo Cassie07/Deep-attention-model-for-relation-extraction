@@ -1,0 +1,78 @@
+{
+    "af4ff3b60fd17fb4f6c20eea30e59606": {
+        "(10, 13)": {
+            "WBF": [
+                1955
+            ], 
+            "BM1F": [
+                2855
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                190
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                2637
+            ], 
+            "WBL": [
+                2637
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            10
+        ], 
+        "location2": [
+            13
+        ], 
+        "sentence": "for those of us that like to tinker , i think creative offer some advantage ."
+    }, 
+    "4147498480996841498df2bb40d27af6": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            11
+        ], 
+        "(7, 11)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1241
+            ], 
+            "M1": [
+                765
+            ], 
+            "M2": [
+                190
+            ], 
+            "BM1L": [
+                94
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                1313
+            ], 
+            "AM2F": [
+                2024
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "5 ) the cheap , user-replaceable battery ( $ 50 from creative ) is a great advantage over the ipod 's battery which cost $ 100 to replace ."
+    }
+}

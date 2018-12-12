@@ -1,0 +1,56 @@
+{
+    "4e3e16c7d6dc2759d671c13215fece25": {
+        "location1": [
+            33
+        ], 
+        "location2": [
+            57
+        ], 
+        "(33, 57)": {
+            "WBF": [
+                2576
+            ], 
+            "BM1F": [
+                1087
+            ], 
+            "M1": [
+                2083
+            ], 
+            "M2": [
+                2444
+            ], 
+            "BM1L": [
+                1429
+            ], 
+            "WBO": [
+                253, 
+                2319, 
+                228, 
+                1430, 
+                1134, 
+                2771, 
+                2886, 
+                316, 
+                74, 
+                2803, 
+                4, 
+                3129, 
+                917, 
+                1915, 
+                3168, 
+                228, 
+                2533, 
+                1685, 
+                2735, 
+                1967
+            ], 
+            "WBL": [
+                2457
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i have had the phone for 1 week , the signal quality has been great in the detroit area ( suburb ) and in my recent road trip between detroit and northern kentucky ( cincinnati ) i experienced perfect signal and reception along i-75 , far superior to at & # 38 ; t 's which does not work along several long stretch on that same route ."
+    }
+}

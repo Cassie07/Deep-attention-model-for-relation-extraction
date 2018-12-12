@@ -1,0 +1,217 @@
+{
+    "4a44a69cb955602ceffa932a795dd6aa": {
+        "(5, 12)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                1473
+            ], 
+            "BM1F": [
+                520
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1718
+            ], 
+            "WBO": [
+                3018, 
+                3052, 
+                1195
+            ], 
+            "WBL": [
+                2184
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "bottom line , well made camera , easy to use , very flexible and powerful feature to include the ability to use external flash and lense / filter choice ."
+    }, 
+    "7b864546c446967ac419696b3efe756b": {
+        "location1": [
+            13
+        ], 
+        "location2": [
+            7
+        ], 
+        "(13, 7)": {
+            "WBF": [
+                3200
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                221
+            ], 
+            "WBO": [
+                501, 
+                2844
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "i have not played with all the feature yet , but the camera is easy to use once you get used to it ."
+    }, 
+    "8125b34510fad206a46ff327585af3a6": {
+        "(16, 7)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1404
+            ], 
+            "BM1F": [
+                3021
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1737
+            ], 
+            "WBO": [
+                2992, 
+                1737, 
+                2616, 
+                875, 
+                520
+            ], 
+            "WBL": [
+                1541
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            16
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "the g3 is loaded with many useful feature , and unlike many smaller digital camera , it is easy to hold steady when using slower shutter speed ."
+    }, 
+    "ea03c1eca4f4843d18fa28fa8e577b5c": {
+        "(18, 32)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                173
+            ], 
+            "BM1F": [
+                520
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                102
+            ], 
+            "WBO": [
+                2976, 
+                253, 
+                3018, 
+                1351, 
+                130, 
+                1313, 
+                2796, 
+                1615, 
+                2479, 
+                130
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                253
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            32
+        ], 
+        "sentence": "4mp , 4x optical zoom , takes absolutely beautiful photo with detail that challenge all of the above 5mp camera , easy to understand and use ( has a great swivel lcd screen ) , a lot of feature and add-on option , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumb up ! )"
+    }, 
+    "28625e5528127fc1474b0e6dad55a8cb": {
+        "(9, 7)": {
+            "AM2L": [
+                3018
+            ], 
+            "WBFL": [
+                3052
+            ], 
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                985
+            ], 
+            "BM1L": [
+                1698
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            9
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "it has a beautiful design , lot of feature , very easy to use , very configurable and customizable , and the battery duration is amazing !"
+    }
+}

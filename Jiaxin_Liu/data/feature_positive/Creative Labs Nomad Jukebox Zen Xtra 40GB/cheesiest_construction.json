@@ -1,0 +1,41 @@
+{
+    "702438ed98f2b97a5f63641e00164027": {
+        "(7, 1)": {
+            "WBF": [
+                1951
+            ], 
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                703
+            ], 
+            "M2": [
+                588
+            ], 
+            "WBO": [
+                2844, 
+                2139
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            7
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "the construction of the player is the cheesiest i have ever seen -- the front panel refused to clip in correctly , leaving a noticeable gap between the panel and base of the player ."
+    }
+}

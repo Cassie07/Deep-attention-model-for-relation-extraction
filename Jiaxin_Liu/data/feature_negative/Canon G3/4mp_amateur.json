@@ -1,0 +1,44 @@
+{
+    "ede478b04f16c8d0e4aec9e3f6e127d2": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            13
+        ], 
+        "(1, 13)": {
+            "WBF": [
+                1541
+            ], 
+            "BM1F": [
+                39
+            ], 
+            "M1": [
+                90
+            ], 
+            "M2": [
+                240
+            ], 
+            "WBO": [
+                134, 
+                2426, 
+                1212, 
+                2844, 
+                2821, 
+                1738, 
+                1951, 
+                2859
+            ], 
+            "WBL": [
+                2511
+            ], 
+            "AM2F": [
+                2102
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "2 ) 4mp is about right for the target market of this camera ( semi-serious amateur photographer )"
+    }
+}

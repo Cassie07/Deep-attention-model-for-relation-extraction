@@ -1,0 +1,70 @@
+{
+    "aa040e2aac44669936f89ea50c0ca0fe": {
+        "location1": [
+            1
+        ], 
+        "location2": [
+            42
+        ], 
+        "(1, 42)": {
+            "WBF": [
+                2952
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1978
+            ], 
+            "M2": [
+                1615
+            ], 
+            "WBO": [
+                1797, 
+                1544, 
+                1429, 
+                1355, 
+                3158, 
+                2844, 
+                520, 
+                295, 
+                2844, 
+                1632, 
+                527, 
+                1545, 
+                1541, 
+                1915, 
+                3052, 
+                2626, 
+                253, 
+                522, 
+                643, 
+                1952, 
+                2896, 
+                984, 
+                253, 
+                2844, 
+                1632, 
+                1549, 
+                1545, 
+                2062, 
+                1939, 
+                2844, 
+                3058, 
+                2867, 
+                2844, 
+                3062, 
+                501, 
+                1915, 
+                3058
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the only two minor issue i have with the camera are the lens cap ( it is not very snug and can come off too easily ) and the lens itself ( it partially obstructs the view through the viewfinder but not view through the lcd ) ."
+    }
+}

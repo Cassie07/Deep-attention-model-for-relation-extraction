@@ -1,0 +1,37 @@
+{
+    "cb424d3ece8282ce9d98ff9e19d23c6c": {
+        "(12, 11)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2804
+            ], 
+            "M1": [
+                1595
+            ], 
+            "M2": [
+                1737
+            ], 
+            "BM1L": [
+                1212
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1951
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            12
+        ], 
+        "location2": [
+            11
+        ], 
+        "sentence": "the one huge disappointment is that the phone manufactured for t-mobile lack many of the menus and function that a nokia straight from the manufacturer should have ."
+    }
+}

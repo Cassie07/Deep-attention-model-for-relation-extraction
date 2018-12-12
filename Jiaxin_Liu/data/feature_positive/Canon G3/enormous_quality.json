@@ -1,0 +1,37 @@
+{
+    "cb09687e3f277e84ad47f09f17b2d882": {
+        "location1": [
+            10
+        ], 
+        "location2": [
+            11
+        ], 
+        "(10, 11)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                2259
+            ], 
+            "M1": [
+                1029
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                525
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1529
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "i am absolutely in awe of this camera , canon put enormous quality into the g3 ."
+    }
+}

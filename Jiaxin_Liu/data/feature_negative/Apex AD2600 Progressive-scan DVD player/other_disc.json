@@ -1,0 +1,145 @@
+{
+    "62cf1a8d3b2e903f5a6f46e8d99bb3c2": {
+        "(17, 21)": {
+            "WBF": [
+                961
+            ], 
+            "BM1F": [
+                253
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                890
+            ], 
+            "BM1L": [
+                897
+            ], 
+            "WBO": [
+                1839
+            ], 
+            "WBL": [
+                1896
+            ], 
+            "AM2F": [
+                1775
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            17
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "i have sent my ad2600 back to apex because it wo n't play certain disney and other dvd movie ( no disc message ) ."
+    }, 
+    "8fd7717f6f4b86db0002350fe4354721": {
+        "(22, 19)": {
+            "WBF": [
+                4
+            ], 
+            "AM2L": [
+                3181
+            ], 
+            "BM1F": [
+                1761
+            ], 
+            "M1": [
+                890
+            ], 
+            "M2": [
+                2011
+            ], 
+            "BM1L": [
+                2272
+            ], 
+            "WBO": [
+                2842
+            ], 
+            "WBL": [
+                2842
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "(22, 61)": {
+            "WBF": [
+                2139
+            ], 
+            "BM1F": [
+                2842
+            ], 
+            "M1": [
+                2011
+            ], 
+            "M2": [
+                890
+            ], 
+            "BM1L": [
+                4
+            ], 
+            "WBO": [
+                3181, 
+                2136, 
+                501, 
+                2886, 
+                1856, 
+                2783, 
+                3094, 
+                133, 
+                2886, 
+                2136, 
+                587, 
+                1761, 
+                2842, 
+                1429, 
+                1328, 
+                495, 
+                2842, 
+                1429, 
+                738, 
+                1859, 
+                5, 
+                1277, 
+                2886, 
+                3168, 
+                394, 
+                1468, 
+                267, 
+                501, 
+                2844, 
+                961, 
+                496, 
+                1549, 
+                2842, 
+                1429, 
+                1328
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                3158
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            22
+        ], 
+        "location2": [
+            19, 
+            61
+        ], 
+        "sentence": "when i 1st tried it i found that it had no problem playing the more expensive dvd - r medium disc 's that other player would play but to my surprise was able to play cheep medium that i had burned that i could n't get to work before in anything but the dvd burner itself that i had made the disc with ."
+    }
+}

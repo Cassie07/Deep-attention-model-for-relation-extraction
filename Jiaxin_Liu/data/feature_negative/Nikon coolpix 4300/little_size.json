@@ -1,0 +1,86 @@
+{
+    "e71bfa23d0bac20249b5f7a3754b3ca7": {
+        "(19, 12)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                386
+            ], 
+            "BM1F": [
+                2923
+            ], 
+            "M1": [
+                2595
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                2085
+            ], 
+            "WBO": [
+                1429, 
+                1496, 
+                1312
+            ], 
+            "WBL": [
+                2859
+            ], 
+            "AM2F": [
+                1270
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "after a lengthy and extensive journey for a feature-loaded , high performance , travel size camera , i initially gravitated to this little gem because of the superior picture quality 4 mega pixel ."
+    }, 
+    "ce241be0dc19c920cb8070b418b49068": {
+        "location1": [
+            7
+        ], 
+        "location2": [
+            2
+        ], 
+        "(7, 2)": {
+            "WBF": [
+                1541
+            ], 
+            "AM2L": [
+                501
+            ], 
+            "BM1F": [
+                2615
+            ], 
+            "M1": [
+                2595
+            ], 
+            "M2": [
+                1669
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                2083
+            ], 
+            "WBL": [
+                1856
+            ], 
+            "AM2F": [
+                1331
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the small size is perfect for my little hand , but may perhaps be uncomfortable or awkward for a bigger person ."
+    }
+}

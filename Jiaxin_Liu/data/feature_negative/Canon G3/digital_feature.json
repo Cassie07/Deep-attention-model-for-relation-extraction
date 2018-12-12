@@ -1,0 +1,43 @@
+{
+    "8125b34510fad206a46ff327585af3a6": {
+        "location1": [
+            12
+        ], 
+        "location2": [
+            7
+        ], 
+        "(12, 7)": {
+            "WBF": [
+                253
+            ], 
+            "AM2L": [
+                1545
+            ], 
+            "BM1F": [
+                3021
+            ], 
+            "M1": [
+                1143
+            ], 
+            "M2": [
+                875
+            ], 
+            "BM1L": [
+                1737
+            ], 
+            "WBO": [
+                2992
+            ], 
+            "WBL": [
+                2616
+            ], 
+            "AM2F": [
+                520
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "sentence": "the g3 is loaded with many useful feature , and unlike many smaller digital camera , it is easy to hold steady when using slower shutter speed ."
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "c3343c3835f3c03085268bc260ac595b": {
+        "(18, 6)": {
+            "WBF": [
+                134
+            ], 
+            "BM1F": [
+                1856
+            ], 
+            "M1": [
+                1918
+            ], 
+            "M2": [
+                1924
+            ], 
+            "BM1L": [
+                3006
+            ], 
+            "WBO": [
+                1329, 
+                2844, 
+                2878, 
+                501, 
+                1429, 
+                912, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                505
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            6
+        ], 
+        "sentence": "software definitely suck , hang up my notebook about half the time , but i do n't mind buying notmad ."
+    }
+}

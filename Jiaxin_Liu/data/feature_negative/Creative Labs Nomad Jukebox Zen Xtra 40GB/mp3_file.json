@@ -1,0 +1,139 @@
+{
+    "07c7902d501403f2cfb77c7bc163b9a5": {
+        "location1": [
+            18
+        ], 
+        "location2": [
+            19
+        ], 
+        "(18, 19)": {
+            "AM2L": [
+                1859
+            ], 
+            "BM1F": [
+                3204
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1156
+            ], 
+            "BM1L": [
+                1441
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                912
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "my only complaint would be that you need id3 tag & that takes a while to do if your mp3 file do n't have them ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "(6, 1)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                1648
+            ], 
+            "BM1F": [
+                1713
+            ], 
+            "M1": [
+                1156
+            ], 
+            "M2": [
+                1842
+            ], 
+            "WBO": [
+                3020
+            ], 
+            "WBL": [
+                1832
+            ], 
+            "AM2F": [
+                2139
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            1
+        ], 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }, 
+    "ca72c2fb4eef254b80c4d2051a89c457": {
+        "(6, 7)": {
+            "BM1F": [
+                1951
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1156
+            ], 
+            "BM1L": [
+                2260
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            6
+        ], 
+        "location2": [
+            7
+        ], 
+        "sentence": "* eax equalizer accentuates dimished quality of mp3 file ."
+    }, 
+    "513d68e23304b9a241c2496abf036c5b": {
+        "(13, 14)": {
+            "AM2L": [
+                2004
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1842
+            ], 
+            "M2": [
+                1156
+            ], 
+            "BM1L": [
+                1468
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2886
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            13
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "navigation system - the zen xtra us id3 tag that are embedded in the mp3 file to organize your song ."
+    }
+}

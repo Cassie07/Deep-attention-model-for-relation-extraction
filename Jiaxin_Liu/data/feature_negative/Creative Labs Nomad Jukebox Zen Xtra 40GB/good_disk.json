@@ -1,0 +1,42 @@
+{
+    "20f7e57ebd6596546f8333a55a35a444": {
+        "(1, 8)": {
+            "WBF": [
+                2853
+            ], 
+            "AM2L": [
+                3115
+            ], 
+            "BM1F": [
+                1973
+            ], 
+            "M1": [
+                1300
+            ], 
+            "M2": [
+                896
+            ], 
+            "WBO": [
+                1545, 
+                1541, 
+                82
+            ], 
+            "WBL": [
+                1951
+            ], 
+            "AM2F": [
+                2660
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            8
+        ], 
+        "sentence": "one good thing , it is 40 gb of disk space ( well , it is 38 gb in reality ) ."
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "d43fd9028c14d0fc8fcaa77456271140": {
+        "(3, 4)": {
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                635
+            ], 
+            "BM1L": [
+                1351
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2479
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            4
+        ], 
+        "sentence": "it has a nice color screen ."
+    }, 
+    "eeeacba322957f4c880a66e6ed2a23f0": {
+        "(11, 12)": {
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                1886
+            ], 
+            "M2": [
+                635
+            ], 
+            "BM1L": [
+                802
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "the screen is bright , easy to see in the daylight , with nice color ."
+    }
+}

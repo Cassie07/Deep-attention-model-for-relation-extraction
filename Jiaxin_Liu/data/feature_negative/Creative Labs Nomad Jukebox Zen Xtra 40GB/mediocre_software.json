@@ -1,0 +1,74 @@
+{
+    "97e094a508427d2e9e048c7e86aae737": {
+        "(18, 16)": {
+            "AM2L": [
+                413
+            ], 
+            "WBFL": [
+                1541
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1760
+            ], 
+            "BM1L": [
+                507
+            ], 
+            "AM2F": [
+                316
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "-- > you 'll be changing track information a lot because the cd database information utilized by the software is mediocre at best ."
+    }, 
+    "3e406d6f8231c62cced3fc27d645b1b8": {
+        "(5, 12)": {
+            "WBF": [
+                1842
+            ], 
+            "BM1F": [
+                130
+            ], 
+            "M1": [
+                1760
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                2859
+            ], 
+            "WBO": [
+                2139, 
+                1212, 
+                1752
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            12
+        ], 
+        "sentence": "what really made this a mediocre mp3 player for me was the software ."
+    }
+}

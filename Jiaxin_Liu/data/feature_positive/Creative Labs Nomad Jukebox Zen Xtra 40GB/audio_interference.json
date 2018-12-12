@@ -1,0 +1,37 @@
+{
+    "9fab3fa1513794381fb4939e464dcc56": {
+        "(19, 20)": {
+            "AM2L": [
+                134
+            ], 
+            "BM1F": [
+                549
+            ], 
+            "M1": [
+                326
+            ], 
+            "M2": [
+                1523
+            ], 
+            "BM1L": [
+                522
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                200
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            19
+        ], 
+        "location2": [
+            20
+        ], 
+        "sentence": "first , the sound quality is okay , but ( as at least one other reviewer has mentioned ) the eax can cause audio interference after about 30 minute ."
+    }
+}

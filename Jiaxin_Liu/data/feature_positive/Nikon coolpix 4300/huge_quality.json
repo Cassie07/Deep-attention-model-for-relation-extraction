@@ -1,0 +1,37 @@
+{
+    "0bf10edcdbe26b58e9aa01bf73526b56": {
+        "(3, 5)": {
+            "AM2L": [
+                130
+            ], 
+            "WBFL": [
+                2211
+            ], 
+            "BM1F": [
+                3158
+            ], 
+            "M1": [
+                1426
+            ], 
+            "M2": [
+                2260
+            ], 
+            "BM1L": [
+                520
+            ], 
+            "AM2F": [
+                1468
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            3
+        ], 
+        "location2": [
+            5
+        ], 
+        "sentence": "awesome camera with huge print quality in a tiny package ."
+    }
+}

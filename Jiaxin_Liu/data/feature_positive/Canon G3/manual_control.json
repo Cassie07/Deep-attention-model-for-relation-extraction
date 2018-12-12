@@ -1,0 +1,81 @@
+{
+    "4f4ce92984a186b080eef02938290fa5": {
+        "(25, 26)": {
+            "AM2L": [
+                2844
+            ], 
+            "BM1F": [
+                1248
+            ], 
+            "M1": [
+                1731
+            ], 
+            "M2": [
+                715
+            ], 
+            "BM1L": [
+                232
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                1287
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            25
+        ], 
+        "location2": [
+            26
+        ], 
+        "sentence": "just a little overview , powershot g3 is the flagship of canon 's powershot series and its an slr-like camera , its 4 megapixel and ( alsmost ) full manual control gives the picture a touch of brilliance ."
+    }, 
+    "41d67c7360f1eaff9b82be88ea00f3d7": {
+        "(29, 21)": {
+            "WBF": [
+                295
+            ], 
+            "AM2L": [
+                2355
+            ], 
+            "BM1F": [
+                221
+            ], 
+            "M1": [
+                715
+            ], 
+            "M2": [
+                1731
+            ], 
+            "BM1L": [
+                501
+            ], 
+            "WBO": [
+                3115, 
+                2863, 
+                2016, 
+                253
+            ], 
+            "WBL": [
+                2844
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            29
+        ], 
+        "location2": [
+            21
+        ], 
+        "sentence": "i have yet to try using all of the adjustment option : shutter priority , aperature priority , light metering adjustment , etc . , but all control are well thought out and and the manual is relatively clear ."
+    }
+}

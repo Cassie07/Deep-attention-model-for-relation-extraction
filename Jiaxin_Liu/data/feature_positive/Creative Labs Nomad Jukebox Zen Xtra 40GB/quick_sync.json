@@ -1,0 +1,34 @@
+{
+    "445b54a1e60413834b2b823f3b73a305": {
+        "(1, 2)": {
+            "AM2L": [
+                1859
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2262
+            ], 
+            "M2": [
+                2798
+            ], 
+            "AM2F": [
+                1541
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            1
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the quick sync is n't any good becuase it either need to be configured properly or just is n't very useful ."
+    }
+}

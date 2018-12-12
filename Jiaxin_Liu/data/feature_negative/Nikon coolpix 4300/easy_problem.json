@@ -1,0 +1,50 @@
+{
+    "3649de2567f56d923eed19f3229fac58": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            17
+        ], 
+        "(5, 17)": {
+            "WBF": [
+                2886
+            ], 
+            "AM2L": [
+                576
+            ], 
+            "BM1F": [
+                1072
+            ], 
+            "M1": [
+                985
+            ], 
+            "M2": [
+                2215
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                1505, 
+                2631, 
+                1429, 
+                3018, 
+                1545, 
+                1967, 
+                3193, 
+                253
+            ], 
+            "WBL": [
+                3160
+            ], 
+            "AM2F": [
+                379
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the 4300 comes with excellent easy to install software i use it on xp and win98 without problem , battery charger , usb and video cable ."
+    }
+}

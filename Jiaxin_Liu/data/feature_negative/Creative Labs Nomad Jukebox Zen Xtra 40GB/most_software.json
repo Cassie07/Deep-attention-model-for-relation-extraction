@@ -1,0 +1,104 @@
+{
+    "ccccff139fff46b68ee5e5d3b5f6720d": {
+        "(18, 14)": {
+            "WBF": [
+                2811
+            ], 
+            "AM2L": [
+                522
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                2631
+            ], 
+            "M2": [
+                1832
+            ], 
+            "BM1L": [
+                134
+            ], 
+            "WBO": [
+                2802
+            ], 
+            "WBL": [
+                501
+            ], 
+            "AM2F": [
+                2079
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            18
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "the control are somewhat harder to use , and there are some oddity about the software tagging system , but most people can live with this ."
+    }, 
+    "f17720aeafd313670cd2350bf2e39041": {
+        "location1": [
+            5
+        ], 
+        "location2": [
+            30
+        ], 
+        "(5, 30)": {
+            "WBF": [
+                1842
+            ], 
+            "AM2L": [
+                3018
+            ], 
+            "BM1F": [
+                507
+            ], 
+            "M1": [
+                1832
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                3020
+            ], 
+            "WBO": [
+                2139, 
+                1648, 
+                1854, 
+                253, 
+                3149, 
+                501, 
+                1915, 
+                765, 
+                3160, 
+                1924, 
+                3203, 
+                1874, 
+                2886, 
+                1732, 
+                2338, 
+                3204, 
+                2141, 
+                1545, 
+                917, 
+                1859, 
+                5
+            ], 
+            "WBL": [
+                3121
+            ], 
+            "AM2F": [
+                3203
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "m3u file are used by most mp3 player like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlist ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tag - hooray !"
+    }
+}

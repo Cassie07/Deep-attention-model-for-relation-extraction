@@ -1,0 +1,37 @@
+{
+    "e36d6c54ed710942569ac8dc47ef1c8b": {
+        "location1": [
+            14
+        ], 
+        "location2": [
+            15
+        ], 
+        "(14, 15)": {
+            "AM2L": [
+                644
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1402
+            ], 
+            "M2": [
+                2631
+            ], 
+            "BM1L": [
+                295
+            ], 
+            "WBNULL": [
+                1
+            ], 
+            "AM2F": [
+                2842
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "sentence": "the only two thing that stop me from giving it 5 star are the ho-hum software that comes with the system , and the traveling case it comes with ."
+    }
+}

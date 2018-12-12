@@ -1,0 +1,43 @@
+{
+    "f8fa77a39d46ecc23ee6c2f2659dd3e5": {
+        "(11, 16)": {
+            "WBF": [
+                520
+            ], 
+            "AM2L": [
+                1355
+            ], 
+            "BM1F": [
+                2859
+            ], 
+            "M1": [
+                1669
+            ], 
+            "M2": [
+                1143
+            ], 
+            "BM1L": [
+                1168
+            ], 
+            "WBO": [
+                1351
+            ], 
+            "WBL": [
+                1737
+            ], 
+            "AM2F": [
+                1429
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            11
+        ], 
+        "location2": [
+            16
+        ], 
+        "sentence": "ooh , and i dropped it and it still work fine : this little camera has so many feature i have n't even gotten to all of them yet ."
+    }
+}

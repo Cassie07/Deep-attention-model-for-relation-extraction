@@ -1,0 +1,43 @@
+{
+    "43eb564042d7bba0c26ccffc54663aaf": {
+        "(5, 2)": {
+            "WBF": [
+                304
+            ], 
+            "AM2L": [
+                304
+            ], 
+            "BM1F": [
+                3210
+            ], 
+            "M1": [
+                2521
+            ], 
+            "M2": [
+                355
+            ], 
+            "BM1L": [
+                2844
+            ], 
+            "WBO": [
+                130
+            ], 
+            "WBL": [
+                130
+            ], 
+            "AM2F": [
+                858
+            ], 
+            "M1_ADJ": [
+                0
+            ]
+        }, 
+        "location1": [
+            5
+        ], 
+        "location2": [
+            2
+        ], 
+        "sentence": "the zen serf as a back-up device as well as a player ."
+    }
+}

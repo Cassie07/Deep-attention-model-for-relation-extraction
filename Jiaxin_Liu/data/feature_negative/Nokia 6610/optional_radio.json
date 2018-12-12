@@ -1,0 +1,42 @@
+{
+    "014aa078aecf0b50593f6613db26ebbc": {
+        "(4, 14)": {
+            "WBF": [
+                1367
+            ], 
+            "BM1F": [
+                2844
+            ], 
+            "M1": [
+                1997
+            ], 
+            "M2": [
+                2275
+            ], 
+            "BM1L": [
+                3158
+            ], 
+            "WBO": [
+                3203, 
+                522, 
+                1662, 
+                2886, 
+                1853, 
+                2024
+            ], 
+            "WBL": [
+                1515
+            ], 
+            "M1_ADJ": [
+                1
+            ]
+        }, 
+        "location1": [
+            4
+        ], 
+        "location2": [
+            14
+        ], 
+        "sentence": "even better , with the optional headset you can listen to music over the integrated radio ."
+    }
+}
