@@ -4,7 +4,9 @@ reference: http://www.aclweb.org/anthology/P16-2034
 
 please download GoogleNews-vectors-negative300.bin by yourself when you want to run train.py or train_add_tensorboard.py
 
-new_dataset: a dataset which contains same split with Jiaxin.
+new_dataset: a dataset which contains same split with Jiaxin.（contain pairs）
+
+Jiaxin: original dataset(contain connect between pairs, mentions and mention_ids.)
 
 att_bilstm.py: Model
 
