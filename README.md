@@ -25,3 +25,9 @@ train_add_tensorboard.py: train + tensorboard
 train_test.py: generate training and testinng dataset
 
 train_test_by_product.py: generate training and testinng dataset by different products . 4|1
+
+new_label: correct mentions' label in pos pair
+
+train_test_update: generate training and testinng dataset after correct label
+
+data_update: some function will be used in correct label
